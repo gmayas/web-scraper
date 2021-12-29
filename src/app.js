@@ -1,8 +1,11 @@
 
 const cheerio = require("cheerio");
 const puppeteer = require("puppeteer");
+const path = require('path');
+const fs = require('fs');
+const axios = require('axios');
 //
-const urlHome = "https://now.modelorama.com.mx/";
+const urlHome = "https://www.tiendasjumbo.co";
 //
 const main = async () => {
     try {
@@ -22,48 +25,33 @@ const main = async () => {
             waitUntil: 'load',
             timeout: 0
         });
-        await page.click("#onetrust-accept-btn-handler");
-        await page.click(".modeloramanow-age-verification-1-x-buttonPrimary");
-        html = await page.evaluate(() => {
-            return document.querySelectorAll(".vtex-menu-2-x-menuContainerNav")[0]["outerHTML"];
-        });
+        //await page.click(".button-categories");
+        //html = await page.evaluate(() => document.querySelector("div.navigation__toggle").outerHTML);
+        //const urlAxios = "https://www.tiendasjumbo.co/buscapagina?fq=isAvailablePerSalesChannel_1:1&sl=49a31962-b0e8-431b-a189-2473c95aeeeb&PS=18&cc=18&sm=0&PageNumber=1&fq=C%3a%2f2000476%2f2000477%2f2000478%2f&O=OrderByTopSaleDESC";
+        //console.log('html:', html);
+        //const urlAxios = "https://www.tiendasjumbo.co/supermercado/despensa";
+        const urlAxios = "https://www.tiendasjumbo.co/tecnologia/informatica/tablets";
+        const response = await axios.get(urlAxios);
+        //console.log('response:', response.data)
+        html = response.data;
+        const fileName = 'jumboAxiosDataTablets.html';
+        const filePath = path.join(__dirname, `/filesHtml/${fileName}`);
+        fs.writeFileSync(filePath, html, 'utf-8');
+
         $ = cheerio.load(html);
+      
+        const buscapagina =  $('div.vitrine script').html();
+        console.log('buscapagina:', buscapagina);
+        const inicio = buscapagina.indexOf('fq=');
+        const fin = buscapagina.indexOf('&PS');
+        const fq = buscapagina.slice(inicio, fin);
+        console.log('fq:', fq);
+
+
         let data = [], links = [];
-        $('ul.vtex-menu-2-x-menuContainer li div a').each((index, content) => {
-            let href = $(content).attr('href');
-            let id = $(content).attr('id');
-            data.push({ id, href });
-        });
-        for (let i = 0; i < data.length; i++) {
-            console.log('Procesando:', data[i].id);
-            await page.hover(`#${data[i].id}`);
-            html = await page.evaluate(() => {
-                return document.querySelectorAll(".vtex-menu-2-x-menuContainerNav")[0]["outerHTML"];
-            });
-            $ = cheerio.load(html);
-            $('ul.vtex-menu-2-x-menuContainer li div div section ul li div a').each((index, content) => {
-                let link = $(content).attr('href').split("/");
-                link = link.filter(word => word !== '');
-                if (link.length > 1) {
-                    links.push({ "departments": link[0], "category": link[1] });
-                }
-            });
-            if (data[i].id === 'menu-item-category-otros') {
-                html = await page.evaluate(() => {
-                    return document.querySelectorAll(".vtex-menu-2-x-submenu")[0]["outerHTML"];
-                });
-                $ = cheerio.load(html);
-                $('nav.vtex-menu-2-x-menuContainerNav ul li div a').each((index, content) => {
-                    let link = $(content).attr('href')
-                    let category = link.replace(/[/]/g, '');
-                    links.push({ "departments": 'otros', category })
-                });
-            };
-            if (data[i].id === 'menu-item-custom-promociones') {
-                links.push({ "departments": "promociones", "category": "" })
-            };
-        };
-        console.log('links:', links);
+
+
+        //console.log('links:', links);
         await browser.close();
     } catch (e) {
         console.log('error:', e)
@@ -72,3 +60,12 @@ const main = async () => {
 //
 main();
 //
+
+
+
+/*
+const fileName = 'jumbo.html';
+        const filePath = path.join(__dirname, `/filesHtml/${fileName}`);
+        console.log('filePath:', filePath)
+        await fs.writeFileSync(filePath, html, 'utf-8');
+*/
