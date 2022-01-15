@@ -1,0 +1,3570 @@
+[
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "anchetas",
+        "hrefCategory": "/supermercado/anchetas",
+        "subCategory": "",
+        "hrefSubCategory": ""
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "despensa",
+        "hrefCategory": "/supermercado/despensa",
+        "subCategory": "arroz-y-granos",
+        "hrefSubCategory": "/supermercado/despensa/arroz-y-granos"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "despensa",
+        "hrefCategory": "/supermercado/despensa",
+        "subCategory": "aceite",
+        "hrefSubCategory": "/supermercado/despensa/aceite"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "despensa",
+        "hrefCategory": "/supermercado/despensa",
+        "subCategory": "cafe",
+        "hrefSubCategory": "/supermercado/despensa/cafe"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "despensa",
+        "hrefCategory": "/supermercado/despensa",
+        "subCategory": "bebida-achocolatada-en-polvo",
+        "hrefSubCategory": "/supermercado/despensa/bebida-achocolatada-en-polvo"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "despensa",
+        "hrefCategory": "/supermercado/despensa",
+        "subCategory": "cereales",
+        "hrefSubCategory": "/supermercado/despensa/cereales"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "despensa",
+        "hrefCategory": "/supermercado/despensa",
+        "subCategory": "harinas-y-mezclas",
+        "hrefSubCategory": "/supermercado/despensa/harinas-y-mezclas-para-preparar"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "despensa",
+        "hrefCategory": "/supermercado/despensa",
+        "subCategory": "pastas",
+        "hrefSubCategory": "/supermercado/despensa/pastas"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "despensa",
+        "hrefCategory": "/supermercado/despensa",
+        "subCategory": "enlatados-y-conservas",
+        "hrefSubCategory": "/supermercado/despensa/enlatados-y-conservas"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "despensa",
+        "hrefCategory": "/supermercado/despensa",
+        "subCategory": "encurtidos-y-otros",
+        "hrefSubCategory": "/supermercado/charcuteria/encurtidos-y-otros"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "despensa",
+        "hrefCategory": "/supermercado/despensa",
+        "subCategory": "azucar-endulzantes-y-panelas",
+        "hrefSubCategory": "/supermercado/despensa/azucar-endulzantes-y-panelas"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "despensa",
+        "hrefCategory": "/supermercado/despensa",
+        "subCategory": "chocolate-de-mesa",
+        "hrefSubCategory": "/supermercado/despensa/chocolate-de-mesa"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "despensa",
+        "hrefCategory": "/supermercado/despensa",
+        "subCategory": "avenas-y-salvado",
+        "hrefSubCategory": "/supermercado/despensa/avenas-y-salvado"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "despensa",
+        "hrefCategory": "/supermercado/despensa",
+        "subCategory": "condimentos-caldos-y-sal",
+        "hrefSubCategory": "/supermercado/despensa/condimentos-caldos-y-sal"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "despensa",
+        "hrefCategory": "/supermercado/despensa",
+        "subCategory": "bases-cremas-y-sopas",
+        "hrefSubCategory": "/supermercado/despensa/bases-cremas-y-sopas"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "despensa",
+        "hrefCategory": "/supermercado/despensa",
+        "subCategory": "salsas-y-vinagres",
+        "hrefSubCategory": "/supermercado/despensa/salsas-y-vinagres"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "despensa",
+        "hrefCategory": "/supermercado/despensa",
+        "subCategory": "te-infusiones-e-instantaneos",
+        "hrefSubCategory": "/supermercado/despensa/te-infusiones-e-instantaneos/infusiones"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "lacteos-huevos-y-refrigerados",
+        "hrefCategory": "/supermercado/lacteos-huevos-y-refrigerados",
+        "subCategory": "leche",
+        "hrefSubCategory": "/supermercado/lacteos-huevos-y-refrigerados/leche"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "lacteos-huevos-y-refrigerados",
+        "hrefCategory": "/supermercado/lacteos-huevos-y-refrigerados",
+        "subCategory": "huevos",
+        "hrefSubCategory": "/supermercado/lacteos-huevos-y-refrigerados/huevos"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "lacteos-huevos-y-refrigerados",
+        "hrefCategory": "/supermercado/lacteos-huevos-y-refrigerados",
+        "subCategory": "queso",
+        "hrefSubCategory": "/supermercado/lacteos-huevos-y-refrigerados/queso"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "lacteos-huevos-y-refrigerados",
+        "hrefCategory": "/supermercado/lacteos-huevos-y-refrigerados",
+        "subCategory": "quesos-especializados",
+        "hrefSubCategory": "/supermercado/charcuteria/quesos-especializados"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "lacteos-huevos-y-refrigerados",
+        "hrefCategory": "/supermercado/lacteos-huevos-y-refrigerados",
+        "subCategory": "arepas",
+        "hrefSubCategory": "/supermercado/lacteos-huevos-y-refrigerados/arepas"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "lacteos-huevos-y-refrigerados",
+        "hrefCategory": "/supermercado/lacteos-huevos-y-refrigerados",
+        "subCategory": "mantequilla",
+        "hrefSubCategory": "/supermercado/lacteos-huevos-y-refrigerados/mantequilla"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "lacteos-huevos-y-refrigerados",
+        "hrefCategory": "/supermercado/lacteos-huevos-y-refrigerados",
+        "subCategory": "margarina",
+        "hrefSubCategory": "/supermercado/lacteos-huevos-y-refrigerados/margarina"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "lacteos-huevos-y-refrigerados",
+        "hrefCategory": "/supermercado/lacteos-huevos-y-refrigerados",
+        "subCategory": "yogurt",
+        "hrefSubCategory": "/supermercado/lacteos-huevos-y-refrigerados/yogurt"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "lacteos-huevos-y-refrigerados",
+        "hrefCategory": "/supermercado/lacteos-huevos-y-refrigerados",
+        "subCategory": "kumis",
+        "hrefSubCategory": "/supermercado/lacteos-huevos-y-refrigerados/kumis"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "lacteos-huevos-y-refrigerados",
+        "hrefCategory": "/supermercado/lacteos-huevos-y-refrigerados",
+        "subCategory": "avena",
+        "hrefSubCategory": "/supermercado/lacteos-huevos-y-refrigerados/avena"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "lacteos-huevos-y-refrigerados",
+        "hrefCategory": "/supermercado/lacteos-huevos-y-refrigerados",
+        "subCategory": "waffles-y-crepes",
+        "hrefSubCategory": "/supermercado/lacteos-huevos-y-refrigerados/waffles-y-crepes"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "lacteos-huevos-y-refrigerados",
+        "hrefCategory": "/supermercado/lacteos-huevos-y-refrigerados",
+        "subCategory": "tamales",
+        "hrefSubCategory": "/supermercado/lacteos-huevos-y-refrigerados/tamales"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "lacteos-huevos-y-refrigerados",
+        "hrefCategory": "/supermercado/lacteos-huevos-y-refrigerados",
+        "subCategory": "leches-vegetales",
+        "hrefSubCategory": "/supermercado/lacteos-huevos-y-refrigerados/leches-vegetales"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "lacteos-huevos-y-refrigerados",
+        "hrefCategory": "/supermercado/lacteos-huevos-y-refrigerados",
+        "subCategory": "crema-leche-y-condensada",
+        "hrefSubCategory": "/supermercado/dulces-y-postres/crema-leche-y-leche-condensada"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "lacteos-huevos-y-refrigerados",
+        "hrefCategory": "/supermercado/lacteos-huevos-y-refrigerados",
+        "subCategory": "postres-refrigerados",
+        "hrefSubCategory": "/supermercado/lacteos-huevos-y-refrigerados/postres-refrigerados"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "lacteos-huevos-y-refrigerados",
+        "hrefCategory": "/supermercado/lacteos-huevos-y-refrigerados",
+        "subCategory": "carnes-frias-y-embutidos",
+        "hrefSubCategory": "/supermercado/lacteos-huevos-y-refrigerados/carnes-frias-y-embutidos"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "frutas-y-verduras",
+        "hrefCategory": "/supermercado/frutas-y-verduras",
+        "subCategory": "frutas",
+        "hrefSubCategory": "/supermercado/frutas-y-verduras/frutas"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "frutas-y-verduras",
+        "hrefCategory": "/supermercado/frutas-y-verduras",
+        "subCategory": "hortalizas",
+        "hrefSubCategory": "/supermercado/frutas-y-verduras/hortalizas"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "frutas-y-verduras",
+        "hrefCategory": "/supermercado/frutas-y-verduras",
+        "subCategory": "pulpa-de-fruta",
+        "hrefSubCategory": "/supermercado/frutas-y-verduras/pulpa-de-fruta"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "frutas-y-verduras",
+        "hrefCategory": "/supermercado/frutas-y-verduras",
+        "subCategory": "hierbas",
+        "hrefSubCategory": "/supermercado/frutas-y-verduras/hierbas"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "pescados-y-mariscos",
+        "hrefCategory": "/supermercado/pescados-y-mariscos",
+        "subCategory": "pescado-fresco",
+        "hrefSubCategory": "/supermercado/pescados-y-mariscos/pescado-fresco"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "pescados-y-mariscos",
+        "hrefCategory": "/supermercado/pescados-y-mariscos",
+        "subCategory": "mariscos",
+        "hrefSubCategory": "/supermercado/pescados-y-mariscos/mariscos"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "pescados-y-mariscos",
+        "hrefCategory": "/supermercado/pescados-y-mariscos",
+        "subCategory": "elaborados-pescaderia",
+        "hrefSubCategory": "/supermercado/pescados-y-mariscos/elaborados"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "pescados-y-mariscos",
+        "hrefCategory": "/supermercado/pescados-y-mariscos",
+        "subCategory": "pescado-congelado",
+        "hrefSubCategory": "/supermercado/pescados-y-mariscos/pescado-congelado"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "carne-y-pollo",
+        "hrefCategory": "/supermercado/carne-y-pollo",
+        "subCategory": "carne-res",
+        "hrefSubCategory": "/supermercado/carne-y-pollo/carne-res"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "carne-y-pollo",
+        "hrefCategory": "/supermercado/carne-y-pollo",
+        "subCategory": "pollos",
+        "hrefSubCategory": "/supermercado/carne-y-pollo/pollos"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "carne-y-pollo",
+        "hrefCategory": "/supermercado/carne-y-pollo",
+        "subCategory": "carne-cerdo",
+        "hrefSubCategory": "/supermercado/carne-y-pollo/carne-cerdo"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "carne-y-pollo",
+        "hrefCategory": "/supermercado/carne-y-pollo",
+        "subCategory": "carne-cordero",
+        "hrefSubCategory": "/supermercado/carne-y-pollo/carne-cordero"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "carne-y-pollo",
+        "hrefCategory": "/supermercado/carne-y-pollo",
+        "subCategory": "ternera",
+        "hrefSubCategory": "/supermercado/carne-y-pollo/ternera"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "carne-y-pollo",
+        "hrefCategory": "/supermercado/carne-y-pollo",
+        "subCategory": "pavo",
+        "hrefSubCategory": "/supermercado/carne-y-pollo/pavo"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "carne-y-pollo",
+        "hrefCategory": "/supermercado/carne-y-pollo",
+        "subCategory": "elaborados-parrilla",
+        "hrefSubCategory": "/supermercado/carne-y-pollo/elaborados-para-parrilla"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "carne-y-pollo",
+        "hrefCategory": "/supermercado/carne-y-pollo",
+        "subCategory": "carnes-frias-y-embutidos",
+        "hrefSubCategory": "/supermercado/lacteos-huevos-y-refrigerados/carnes-frias-y-embutidos"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "carne-y-pollo",
+        "hrefCategory": "/supermercado/carne-y-pollo",
+        "subCategory": "maduradas-y-ahumadas",
+        "hrefSubCategory": "/supermercado/charcuteria/carnes-frias-maduradas-y-ahumadas"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "productos-congelados",
+        "hrefCategory": "/supermercado/productos-congelados",
+        "subCategory": "apanados",
+        "hrefSubCategory": "/supermercado/productos-congelados/apanados"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "productos-congelados",
+        "hrefCategory": "/supermercado/productos-congelados",
+        "subCategory": "empanadas",
+        "hrefSubCategory": "/supermercado/productos-congelados/empanadas"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "productos-congelados",
+        "hrefCategory": "/supermercado/productos-congelados",
+        "subCategory": "papas-yucas-y-patacones",
+        "hrefSubCategory": "/supermercado/productos-congelados/papas-yucas-y-patacones"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "productos-congelados",
+        "hrefCategory": "/supermercado/productos-congelados",
+        "subCategory": "helados",
+        "hrefSubCategory": "/supermercado/productos-congelados/helados"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "productos-congelados",
+        "hrefCategory": "/supermercado/productos-congelados",
+        "subCategory": "pizza-y-pastas-congeladas",
+        "hrefSubCategory": "/supermercado/productos-congelados/pizza-y-pastas-congeladas/pizza"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "productos-congelados",
+        "hrefCategory": "/supermercado/productos-congelados",
+        "subCategory": "masas-y-snacks",
+        "hrefSubCategory": "/supermercado/productos-congelados/masas-y-snacks"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "productos-congelados",
+        "hrefCategory": "/supermercado/productos-congelados",
+        "subCategory": "verduras-congeladas",
+        "hrefSubCategory": "/supermercado/productos-congelados/verduras-congeladas"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "panaderia-y-pasteleria",
+        "hrefCategory": "/supermercado/panaderia-y-pasteleria",
+        "subCategory": "panaderia-artesanal",
+        "hrefSubCategory": "/supermercado/panaderia-y-pasteleria/panaderia-artesanal"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "panaderia-y-pasteleria",
+        "hrefCategory": "/supermercado/panaderia-y-pasteleria",
+        "subCategory": "panaderia-empacada",
+        "hrefSubCategory": "/supermercado/panaderia-y-pasteleria/panaderia-empacada"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "panaderia-y-pasteleria",
+        "hrefCategory": "/supermercado/panaderia-y-pasteleria",
+        "subCategory": "pasteleria",
+        "hrefSubCategory": "/supermercado/panaderia-y-pasteleria/pasteleria"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "panaderia-y-pasteleria",
+        "hrefCategory": "/supermercado/panaderia-y-pasteleria",
+        "subCategory": "antojos",
+        "hrefSubCategory": "/supermercado/panaderia-y-pasteleria/antojos"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "dulces-y-postres",
+        "hrefCategory": "/supermercado/dulces-y-postres",
+        "subCategory": "crema-de-leche-y-condensada",
+        "hrefSubCategory": "/supermercado/dulces-y-postres/crema-leche-y-leche-condensada"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "dulces-y-postres",
+        "hrefCategory": "/supermercado/dulces-y-postres",
+        "subCategory": "arequipe",
+        "hrefSubCategory": "/supermercado/dulces-y-postres/arequipe"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "dulces-y-postres",
+        "hrefCategory": "/supermercado/dulces-y-postres",
+        "subCategory": "gelatinas-flanes-y-pudines",
+        "hrefSubCategory": "/supermercado/dulces-y-postres/gelatinas-flanes-y-pudines"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "dulces-y-postres",
+        "hrefCategory": "/supermercado/dulces-y-postres",
+        "subCategory": "resposteria",
+        "hrefSubCategory": "/supermercado/dulces-y-postres/reposteria"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "dulces-y-postres",
+        "hrefCategory": "/supermercado/dulces-y-postres",
+        "subCategory": "chocolateria",
+        "hrefSubCategory": "/supermercado/dulces-y-postres/chocolateria"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "dulces-y-postres",
+        "hrefCategory": "/supermercado/dulces-y-postres",
+        "subCategory": "confiteria",
+        "hrefSubCategory": "/supermercado/dulces-y-postres/confiteria"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "pasabocas",
+        "hrefCategory": "/supermercado/pasabocas",
+        "subCategory": "dulces-y-postres",
+        "hrefSubCategory": "/supermercado/dulces-y-postres"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "pasabocas",
+        "hrefCategory": "/supermercado/pasabocas",
+        "subCategory": "papas-fritas-y-paquetes",
+        "hrefSubCategory": "/supermercado/pasabocas/papas-fritas-y-paquetes"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "pasabocas",
+        "hrefCategory": "/supermercado/pasabocas",
+        "subCategory": "frutos-secos",
+        "hrefSubCategory": "/supermercado/pasabocas/frutos-secos"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "pasabocas",
+        "hrefCategory": "/supermercado/pasabocas",
+        "subCategory": "galletas-dulces",
+        "hrefSubCategory": "/supermercado/pasabocas/galletas-dulces"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "pasabocas",
+        "hrefCategory": "/supermercado/pasabocas",
+        "subCategory": "galletas-saladas",
+        "hrefSubCategory": "/supermercado/pasabocas/galletas-saladas"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "pasabocas",
+        "hrefCategory": "/supermercado/pasabocas",
+        "subCategory": "galletas-dieteticas-y-saludables",
+        "hrefSubCategory": "/supermercado/pasabocas/galletas-dieteticas-y-saludables"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "pasabocas",
+        "hrefCategory": "/supermercado/pasabocas",
+        "subCategory": "mermelada-y-cremas-de-untar",
+        "hrefSubCategory": "/supermercado/pasabocas/mermelada-y-cremas-de-untar"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "charcuteria",
+        "hrefCategory": "/supermercado/charcuteria",
+        "subCategory": "tablas-de-queso",
+        "hrefSubCategory": "/supermercado/charcuteria/tablas-de-quesos"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "charcuteria",
+        "hrefCategory": "/supermercado/charcuteria",
+        "subCategory": "carnes-frias-maduradas-y-ahumadas",
+        "hrefSubCategory": "/supermercado/carnes-frias-maduradas-y-ahumadas"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "charcuteria",
+        "hrefCategory": "/supermercado/charcuteria",
+        "subCategory": "quesos-especializados",
+        "hrefSubCategory": "/supermercado/pasabocas/quesos-especializados"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "charcuteria",
+        "hrefCategory": "/supermercado/charcuteria",
+        "subCategory": "encurtidos-y-otros",
+        "hrefSubCategory": "/supermercado/pasabocas/encurtidos-y-otros"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "vinos-y-licores",
+        "hrefCategory": "/especiales/vinos-y-licores",
+        "subCategory": "vino",
+        "hrefSubCategory": "/supermercado/vinos-y-licores/vino"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "vinos-y-licores",
+        "hrefCategory": "/especiales/vinos-y-licores",
+        "subCategory": "whisky",
+        "hrefSubCategory": "/supermercado/vinos-y-licores/whisky"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "vinos-y-licores",
+        "hrefCategory": "/especiales/vinos-y-licores",
+        "subCategory": "cervezas",
+        "hrefSubCategory": "/supermercado/vinos-y-licores/cervezas"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "vinos-y-licores",
+        "hrefCategory": "/especiales/vinos-y-licores",
+        "subCategory": "tequilas-y-piscos",
+        "hrefSubCategory": "/supermercado/vinos-y-licores/tequilas-y-piscos"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "vinos-y-licores",
+        "hrefCategory": "/especiales/vinos-y-licores",
+        "subCategory": "aguardiente",
+        "hrefSubCategory": "/supermercado/vinos-y-licores/aguardiente"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "vinos-y-licores",
+        "hrefCategory": "/especiales/vinos-y-licores",
+        "subCategory": "ron",
+        "hrefSubCategory": "/supermercado/vinos-y-licores/ron"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "vinos-y-licores",
+        "hrefCategory": "/especiales/vinos-y-licores",
+        "subCategory": "ginebra",
+        "hrefSubCategory": "/supermercado/vinos-y-licores/ginebra"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "vinos-y-licores",
+        "hrefCategory": "/especiales/vinos-y-licores",
+        "subCategory": "champanas-y-espumoso",
+        "hrefSubCategory": "/supermercado/vinos-y-licores/champanas-y-espumoso"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "bebidas",
+        "hrefCategory": "/supermercado/bebidas",
+        "subCategory": "agua",
+        "hrefSubCategory": "/supermercado/bebidas/agua"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "bebidas",
+        "hrefCategory": "/supermercado/bebidas",
+        "subCategory": "jugos-refrescos-y-maltas",
+        "hrefSubCategory": "/supermercado/bebidas/jugos-refrescos-y-maltas"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "bebidas",
+        "hrefCategory": "/supermercado/bebidas",
+        "subCategory": "gaseosas",
+        "hrefSubCategory": "/supermercado/bebidas/gaseosas"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "bebidas",
+        "hrefCategory": "/supermercado/bebidas",
+        "subCategory": "te-liquido",
+        "hrefSubCategory": "/supermercado/bebidas/te-liquido"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "bebidas",
+        "hrefCategory": "/supermercado/bebidas",
+        "subCategory": "hidratantes",
+        "hrefSubCategory": "/supermercado/bebidas/hidratantes"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "bebidas",
+        "hrefCategory": "/supermercado/bebidas",
+        "subCategory": "energizantes",
+        "hrefSubCategory": "/supermercado/bebidas/energizantes"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "aseo-de-hogar",
+        "hrefCategory": "/supermercado/aseo-de-hogar",
+        "subCategory": "limpieza-de-superficies",
+        "hrefSubCategory": "/supermercado/aseo-de-hogar/limpieza-de-superficies"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "aseo-de-hogar",
+        "hrefCategory": "/supermercado/aseo-de-hogar",
+        "subCategory": "limpieza-para-bano",
+        "hrefSubCategory": "/supermercado/aseo-de-hogar/limpieza-w-c-"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "aseo-de-hogar",
+        "hrefCategory": "/supermercado/aseo-de-hogar",
+        "subCategory": "multiusos",
+        "hrefSubCategory": "/supermercado/aseo-de-hogar/multiusos"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "aseo-de-hogar",
+        "hrefCategory": "/supermercado/aseo-de-hogar",
+        "subCategory": "ambientadores",
+        "hrefSubCategory": "/supermercado/aseo-de-hogar/ambientadores"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "aseo-de-hogar",
+        "hrefCategory": "/supermercado/aseo-de-hogar",
+        "subCategory": "desinfectantes",
+        "hrefSubCategory": "/supermercado/aseo-de-hogar/desinfectantes"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "aseo-de-hogar",
+        "hrefCategory": "/supermercado/aseo-de-hogar",
+        "subCategory": "blanqueadores",
+        "hrefSubCategory": "/supermercado/aseo-de-hogar/blanqueadores"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "aseo-de-hogar",
+        "hrefCategory": "/supermercado/aseo-de-hogar",
+        "subCategory": "insecticidas",
+        "hrefSubCategory": "/supermercado/aseo-de-hogar/insecticidas"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "aseo-de-hogar",
+        "hrefCategory": "/supermercado/aseo-de-hogar",
+        "subCategory": "alfombras",
+        "hrefSubCategory": "/supermercado/aseo-de-hogar/alfombras"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "aseo-de-hogar",
+        "hrefCategory": "/supermercado/aseo-de-hogar",
+        "subCategory": "cera",
+        "hrefSubCategory": "/supermercado/aseo-de-hogar/cera"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "cuidado-personal",
+        "hrefCategory": "/supermercado/cuidado-personal",
+        "subCategory": "shampoo",
+        "hrefSubCategory": "/supermercado/cuidado-personal/shampoo"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "cuidado-personal",
+        "hrefCategory": "/supermercado/cuidado-personal",
+        "subCategory": "acondicionadores-y-tratamientos",
+        "hrefSubCategory": "/supermercado/cuidado-personal/acondicionadores-y-tratamientos"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "cuidado-personal",
+        "hrefCategory": "/supermercado/cuidado-personal",
+        "subCategory": "papel-higienico",
+        "hrefSubCategory": "/supermercado/cuidado-personal/papel-higienico"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "cuidado-personal",
+        "hrefCategory": "/supermercado/cuidado-personal",
+        "subCategory": "panuelos",
+        "hrefSubCategory": "/supermercado/cuidado-personal/panuelos"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "cuidado-personal",
+        "hrefCategory": "/supermercado/cuidado-personal",
+        "subCategory": "cuidado-oral",
+        "hrefSubCategory": "/supermercado/cuidado-personal/cuidado-oral"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "cuidado-personal",
+        "hrefCategory": "/supermercado/cuidado-personal",
+        "subCategory": "desodorantes",
+        "hrefSubCategory": "/supermercado/cuidado-personal/desodorantes"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "cuidado-personal",
+        "hrefCategory": "/supermercado/cuidado-personal",
+        "subCategory": "proteccion-femenina",
+        "hrefSubCategory": "/supermercado/cuidado-personal/proteccion-femenina"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "cuidado-personal",
+        "hrefCategory": "/supermercado/cuidado-personal",
+        "subCategory": "proteccion-adulta",
+        "hrefSubCategory": "/supermercado/cuidado-personal/proteccion-adulta"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "cuidado-personal",
+        "hrefCategory": "/supermercado/cuidado-personal",
+        "subCategory": "cuidado-de-pies",
+        "hrefSubCategory": "/supermercado/cuidado-personal/cuidado-de-pies"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "cuidado-personal",
+        "hrefCategory": "/supermercado/cuidado-personal",
+        "subCategory": "afeitado",
+        "hrefSubCategory": "/supermercado/cuidado-personal/afeitado"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "cuidado-personal",
+        "hrefCategory": "/supermercado/cuidado-personal",
+        "subCategory": "gel-y-fijadores",
+        "hrefSubCategory": "/supermercado/cuidado-personal/gel-y-fijadores"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "cuidado-personal",
+        "hrefCategory": "/supermercado/cuidado-personal",
+        "subCategory": "jabones-de-tocador",
+        "hrefSubCategory": "/supermercado/cuidado-personal/jabones-de-tocador"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "cuidado-personal",
+        "hrefCategory": "/supermercado/cuidado-personal",
+        "subCategory": "repelentes",
+        "hrefSubCategory": "/supermercado/belleza/repelentes"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "belleza",
+        "hrefCategory": "/supermercado/belleza",
+        "subCategory": "maquillaje",
+        "hrefSubCategory": "/supermercado/belleza/maquillaje"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "belleza",
+        "hrefCategory": "/supermercado/belleza",
+        "subCategory": "cuidado-facial",
+        "hrefSubCategory": "/supermercado/belleza/cuidado-facial"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "belleza",
+        "hrefCategory": "/supermercado/belleza",
+        "subCategory": "cremas-corporales",
+        "hrefSubCategory": "/supermercado/belleza/cremas-corporales"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "belleza",
+        "hrefCategory": "/supermercado/belleza",
+        "subCategory": "coloracion",
+        "hrefSubCategory": "/supermercado/belleza/coloracion"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "belleza",
+        "hrefCategory": "/supermercado/belleza",
+        "subCategory": "accesorios-de-belleza",
+        "hrefSubCategory": "/supermercado/belleza/accesorios-de-belleza"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "belleza",
+        "hrefCategory": "/supermercado/belleza",
+        "subCategory": "proteccion-solar",
+        "hrefSubCategory": "/supermercado/belleza/proteccion-solar"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "belleza",
+        "hrefCategory": "/supermercado/belleza",
+        "subCategory": "depilacion",
+        "hrefSubCategory": "/supermercado/belleza/depilacion"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "belleza",
+        "hrefCategory": "/supermercado/belleza",
+        "subCategory": "fragancias",
+        "hrefSubCategory": "/supermercado/belleza/fragancias"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "cuidado-de-ropa-y-calzado",
+        "hrefCategory": "/supermercado/cuidado-de-ropa-y-calzado",
+        "subCategory": "detergentes",
+        "hrefSubCategory": "/supermercado/cuidado-de-ropa-y-calzado/detergentes"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "cuidado-de-ropa-y-calzado",
+        "hrefCategory": "/supermercado/cuidado-de-ropa-y-calzado",
+        "subCategory": "suavizantes",
+        "hrefSubCategory": "/supermercado/cuidado-de-ropa-y-calzado/suavizantes"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "cuidado-de-ropa-y-calzado",
+        "hrefCategory": "/supermercado/cuidado-de-ropa-y-calzado",
+        "subCategory": "jabones-de-barra",
+        "hrefSubCategory": "/supermercado/cuidado-de-ropa-y-calzado/jabones-de-barra"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "cuidado-de-ropa-y-calzado",
+        "hrefCategory": "/supermercado/cuidado-de-ropa-y-calzado",
+        "subCategory": "desmanchadores",
+        "hrefSubCategory": "/supermercado/cuidado-de-ropa-y-calzado/desmanchadores"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "cuidado-de-ropa-y-calzado",
+        "hrefCategory": "/supermercado/cuidado-de-ropa-y-calzado",
+        "subCategory": "prelavado-y-preplanchado",
+        "hrefSubCategory": "/supermercado/cuidado-de-ropa-y-calzado/prelavado-y-preplanchado"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "cuidado-de-ropa-y-calzado",
+        "hrefCategory": "/supermercado/cuidado-de-ropa-y-calzado",
+        "subCategory": "betun",
+        "hrefSubCategory": "/supermercado/cuidado-de-ropa-y-calzado/betun"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "limpieza-de-cocina",
+        "hrefCategory": "/supermercado/limpieza-de-cocina",
+        "subCategory": "lavalozas",
+        "hrefSubCategory": "/supermercado/limpieza-de-cocina/lavalozas"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "limpieza-de-cocina",
+        "hrefCategory": "/supermercado/limpieza-de-cocina",
+        "subCategory": "esponjas-y-fibras",
+        "hrefSubCategory": "/supermercado/limpieza-de-cocina/esponjas-y-fibras"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "limpieza-de-cocina",
+        "hrefCategory": "/supermercado/limpieza-de-cocina",
+        "subCategory": "servilletas-y-papel-aluminio",
+        "hrefSubCategory": "/supermercado/limpieza-de-cocina/servilletas-y-papel-aluminio"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "limpieza-de-cocina",
+        "hrefCategory": "/supermercado/limpieza-de-cocina",
+        "subCategory": "guantes",
+        "hrefSubCategory": "/supermercado/limpieza-de-cocina/guantes"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "limpieza-de-cocina",
+        "hrefCategory": "/supermercado/limpieza-de-cocina",
+        "subCategory": "bolsas-de-basura",
+        "hrefSubCategory": "/supermercado/limpieza-de-cocina/bolsas-de-basura"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "limpieza-de-cocina",
+        "hrefCategory": "/supermercado/limpieza-de-cocina",
+        "subCategory": "baldes-escobas-y-accesorios",
+        "hrefSubCategory": "/supermercado/limpieza-de-cocina/baldes-escobas-y-accesorios"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "platos-preparados",
+        "hrefCategory": "/supermercado/platos-preparados",
+        "subCategory": "tablas-de-queso",
+        "hrefSubCategory": "/supermercado/charcuteria/tablas-de-quesos"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "platos-preparados",
+        "hrefCategory": "/supermercado/platos-preparados",
+        "subCategory": "fruta-y-ensaladas",
+        "hrefSubCategory": "/supermercado/platos-preparados/fruta-y-ensaladas"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "platos-preparados",
+        "hrefCategory": "/supermercado/platos-preparados",
+        "subCategory": "sandwich",
+        "hrefSubCategory": "/supermercado/platos-preparados/sandwich"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "platos-preparados",
+        "hrefCategory": "/supermercado/platos-preparados",
+        "subCategory": "comida-rapida",
+        "hrefSubCategory": "/supermercado/platos-preparados/comida-rapida"
+    },
+    {
+        "department": "supermercado",
+        "hrefDepartment": "/supermercado",
+        "category": "platos-preparados",
+        "hrefCategory": "/supermercado/platos-preparados",
+        "subCategory": "varios",
+        "hrefSubCategory": "/supermercado/platos-preparados/varios"
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "television",
+        "hrefCategory": "/televisores-y-audio/television",
+        "subCategory": "televisores",
+        "hrefSubCategory": "/televisores-y-audio/television/televisores"
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "tamano-de-pantalla-televisores-de-32plg-a-49plg",
+        "hrefCategory": "/televisores-y-audio/television/televisores?&filters=fq=specificationFilter_1827:32,fq=specificationFilter_1827:40,fq=specificationFilter_1827:43,fq=specificationFilter_1827:42,fq=specificationFilter_1827:49",
+        "subCategory": "",
+        "hrefSubCategory": ""
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "tamano-de-pantalla-televisores-de-32plg-a-49plg-televisores-de-50plg-a-58plg",
+        "hrefCategory": "/televisores-y-audio/television/televisores?&filters=fq=specificationFilter_1827:50,fq=specificationFilter_1827:55,fq=specificationFilter_1827:58",
+        "subCategory": "",
+        "hrefSubCategory": ""
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "tamano-de-pantalla-televisores-de-32plg-a-49plg-televisores-de-50plg-a-58plg-televisores-de-60plg-a-65plg",
+        "hrefCategory": "/televisores-y-audio/television/televisores?&filters=fq=specificationFilter_1827:60,fq=specificationFilter_1827:65",
+        "subCategory": "",
+        "hrefSubCategory": ""
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "tamano-de-pantalla-televisores-de-32plg-a-49plg-televisores-de-50plg-a-58plg-televisores-de-60plg-a-65plg-televisores-de-70plg-o-mas",
+        "hrefCategory": "/televisores-y-audio/television/televisores?&filters=fq=specificationFilter_1827:70,fq=specificationFilter_1827:75,fq=specificationFilter_1827:77,fq=specificationFilter_1827:86",
+        "subCategory": "",
+        "hrefSubCategory": ""
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "tecnologia-televisores-led",
+        "hrefCategory": "/televisores-y-audio/television/televisores?&filters=fq=specificationFilter_1824:LED",
+        "subCategory": "",
+        "hrefSubCategory": ""
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "tecnologia-televisores-led-televisores-nanocell",
+        "hrefCategory": "/televisores-y-audio/television/televisores?&filters=fq=specificationFilter_1824:NANO",
+        "subCategory": "",
+        "hrefSubCategory": ""
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "tecnologia-televisores-led-televisores-nanocell-televisores-qled",
+        "hrefCategory": "/televisores-y-audio/television/televisores?&filters=fq=specificationFilter_1824:QLED",
+        "subCategory": "",
+        "hrefSubCategory": ""
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "tecnologia-televisores-led-televisores-nanocell-televisores-qled-televisores-oled",
+        "hrefCategory": "/televisores-y-audio/television/televisores?&filters=fq=specificationFilter_1824:OLED",
+        "subCategory": "",
+        "hrefSubCategory": ""
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "resolucion-televisores-hd",
+        "hrefCategory": "/televisores-y-audio/television/televisores?&filters=fq=specificationFilter_1825:HD",
+        "subCategory": "",
+        "hrefSubCategory": ""
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "resolucion-televisores-hd-televisores-fhd",
+        "hrefCategory": "/televisores-y-audio/television/televisores?&filters=fq=specificationFilter_1825:FHD",
+        "subCategory": "",
+        "hrefSubCategory": ""
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "resolucion-televisores-hd-televisores-fhd-televisores-4k---uhd",
+        "hrefCategory": "/televisores-y-audio/television/televisores?&filters=fq=specificationFilter_1825:UHD",
+        "subCategory": "",
+        "hrefSubCategory": ""
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "resolucion-televisores-hd-televisores-fhd-televisores-4k---uhd-televisores-8k",
+        "hrefCategory": "/televisores-y-audio/television/televisores?&filters=fq=specificationFilter_1825:8K",
+        "subCategory": "",
+        "hrefSubCategory": ""
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "audio",
+        "hrefCategory": "/televisores-y-audio/audio",
+        "subCategory": "audifonos",
+        "hrefSubCategory": "/televisores-y-audio/audio/audifonos"
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "audio",
+        "hrefCategory": "/televisores-y-audio/audio",
+        "subCategory": "barras-de-sonido",
+        "hrefSubCategory": "/televisores-y-audio/audio/barras-de-sonido"
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "audio",
+        "hrefCategory": "/televisores-y-audio/audio",
+        "subCategory": "parlantes-portables",
+        "hrefSubCategory": "/televisores-y-audio/audio/parlantes-portables"
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "audio",
+        "hrefCategory": "/televisores-y-audio/audio",
+        "subCategory": "torres-de-sonido",
+        "hrefSubCategory": "/televisores-y-audio/audio/torres-de-sonido"
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "accesorios-tv",
+        "hrefCategory": "/televisores-y-audio/accesorios-tv",
+        "subCategory": "decodificadores",
+        "hrefSubCategory": "/televisores-y-audio/accesorios-tv/decodificadores"
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "accesorios-tv",
+        "hrefCategory": "/televisores-y-audio/accesorios-tv",
+        "subCategory": "soportes-de-tv",
+        "hrefSubCategory": "/televisores-y-audio/accesorios-tv/soportes-de-tv"
+    },
+    {
+        "department": "televisores-y-audio",
+        "hrefDepartment": "/televisores-y-audio",
+        "category": "accesorios-tv",
+        "hrefCategory": "/televisores-y-audio/accesorios-tv",
+        "subCategory": "cables",
+        "hrefSubCategory": "/tecnologia/accesorios-de-computo/cables"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "informatica",
+        "hrefCategory": "/tecnologia/informatica",
+        "subCategory": "computadores-portatiles",
+        "hrefSubCategory": "/tecnologia/informatica/computadores-portatiles"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "informatica",
+        "hrefCategory": "/tecnologia/informatica",
+        "subCategory": "computadores-de-escritorio-y-all-in-one",
+        "hrefSubCategory": "/tecnologia/informatica/computadores-de-escritorio-y-all-in-one"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "informatica",
+        "hrefCategory": "/tecnologia/informatica",
+        "subCategory": "tablets",
+        "hrefSubCategory": "/tecnologia/informatica/tablets"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "informatica",
+        "hrefCategory": "/tecnologia/informatica",
+        "subCategory": "impresoras-y-multifuncionales",
+        "hrefSubCategory": "/tecnologia/informatica/impresoras-y-multifuncionales"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "informatica",
+        "hrefCategory": "/tecnologia/informatica",
+        "subCategory": "tintas-y-cartuchos",
+        "hrefSubCategory": "/tecnologia/informatica/tintas-y-cartuchos"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "informatica",
+        "hrefCategory": "/tecnologia/informatica",
+        "subCategory": "proyectores",
+        "hrefSubCategory": "/tecnologia/informatica/proyectores"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "informatica",
+        "hrefCategory": "/tecnologia/informatica",
+        "subCategory": "monitores",
+        "hrefSubCategory": "/tecnologia/informatica/monitores"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "informatica",
+        "hrefCategory": "/tecnologia/informatica",
+        "subCategory": "software",
+        "hrefSubCategory": "/tecnologia/informatica/software"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "camaras-y-drones",
+        "hrefCategory": "/tecnologia/camaras-y-drones",
+        "subCategory": "camaras",
+        "hrefSubCategory": "/tecnologia/camaras-y-drones/camara"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "camaras-y-drones",
+        "hrefCategory": "/tecnologia/camaras-y-drones",
+        "subCategory": "drones",
+        "hrefSubCategory": "/tecnologia/camaras-y-drones/drones"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "accesorios-de-computo",
+        "hrefCategory": "/tecnologia/accesorios-de-computo",
+        "subCategory": "mouse",
+        "hrefSubCategory": "/tecnologia/accesorios-de-computo/mouse"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "accesorios-de-computo",
+        "hrefCategory": "/tecnologia/accesorios-de-computo",
+        "subCategory": "teclados",
+        "hrefSubCategory": "/tecnologia/accesorios-de-computo/teclados"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "accesorios-de-computo",
+        "hrefCategory": "/tecnologia/accesorios-de-computo",
+        "subCategory": "bases-refrigerantes",
+        "hrefSubCategory": "/tecnologia/accesorios-de-computo/bases-refrigerantes"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "accesorios-de-computo",
+        "hrefCategory": "/tecnologia/accesorios-de-computo",
+        "subCategory": "reguladores-y-ups",
+        "hrefSubCategory": "/tecnologia/accesorios-de-computo/reguladores-y-ups"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "accesorios-de-computo",
+        "hrefCategory": "/tecnologia/accesorios-de-computo",
+        "subCategory": "speaker-pc-/-diademas",
+        "hrefSubCategory": "/tecnologia/accesorios-de-computo/speakers-pc-y-diademas"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "accesorios-de-computo",
+        "hrefCategory": "/tecnologia/accesorios-de-computo",
+        "subCategory": "camaras-web",
+        "hrefSubCategory": "/tecnologia/accesorios-de-computo/camaras-web"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "accesorios-de-computo",
+        "hrefCategory": "/tecnologia/accesorios-de-computo",
+        "subCategory": "morrales-y-fundas-pc",
+        "hrefSubCategory": "/tecnologia/accesorios-de-computo/morrales-y-fundas-pc"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "accesorios-de-computo",
+        "hrefCategory": "/tecnologia/accesorios-de-computo",
+        "subCategory": "almacenamiento",
+        "hrefSubCategory": "/tecnologia/accesorios-de-computo/almacenamiento"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "accesorios-de-computo",
+        "hrefCategory": "/tecnologia/accesorios-de-computo",
+        "subCategory": "cables",
+        "hrefSubCategory": "/tecnologia/accesorios-de-computo/cables"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "accesorios-de-computo",
+        "hrefCategory": "/tecnologia/accesorios-de-computo",
+        "subCategory": "casa-inteligente",
+        "hrefSubCategory": "/tecnologia/accesorios-de-computo/casa-inteligente"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "accesorios-de-computo",
+        "hrefCategory": "/tecnologia/accesorios-de-computo",
+        "subCategory": "otros-accesorios",
+        "hrefSubCategory": "/tecnologia/accesorios-de-computo/otros-accesorios"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "consolas-y-videojuegos",
+        "hrefCategory": "/tecnologia/consolas-y-videojuegos",
+        "subCategory": "consolas",
+        "hrefSubCategory": "/tecnologia/consolas-y-videojuegos/consolas"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "consolas-y-videojuegos",
+        "hrefCategory": "/tecnologia/consolas-y-videojuegos",
+        "subCategory": "videojuegos",
+        "hrefSubCategory": "/tecnologia/consolas-y-videojuegos/videojuegos"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "consolas-y-videojuegos",
+        "hrefCategory": "/tecnologia/consolas-y-videojuegos",
+        "subCategory": "accesorios-videojuegos",
+        "hrefSubCategory": "/tecnologia/consolas-y-videojuegos/accesorios"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "gaming",
+        "hrefCategory": "/tecnologia/SI?PS=18&map=c,specificationFilter_1817",
+        "subCategory": "computadores-gamer",
+        "hrefSubCategory": "/tecnologia/informatica/computadores-portatiles?&filters=fq=specificationFilter_1817:SI"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "gaming",
+        "hrefCategory": "/tecnologia/SI?PS=18&map=c,specificationFilter_1817",
+        "subCategory": "mouse-gamer",
+        "hrefSubCategory": "/tecnologia/accesorios-de-computo/mouse?&filters=fq=specificationFilter_1817:SI"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "gaming",
+        "hrefCategory": "/tecnologia/SI?PS=18&map=c,specificationFilter_1817",
+        "subCategory": "teclados-gamer",
+        "hrefSubCategory": "/tecnologia/accesorios-de-computo/teclados?&filters=fq=specificationFilter_1817:SI"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "gaming",
+        "hrefCategory": "/tecnologia/SI?PS=18&map=c,specificationFilter_1817",
+        "subCategory": "monitores-gamer",
+        "hrefSubCategory": "/tecnologia/informatica/monitores?&filters=fq=specificationFilter_1817:SI"
+    },
+    {
+        "department": "tecnologia",
+        "hrefDepartment": "/tecnologia",
+        "category": "gaming",
+        "hrefCategory": "/tecnologia/SI?PS=18&map=c,specificationFilter_1817",
+        "subCategory": "diademas-gamer",
+        "hrefSubCategory": "/tecnologia/accesorios-de-computo/speakers-pc-y-diademas?&filters=fq=specificationFilter_1817:SI"
+    },
+    {
+        "department": "celulares-y-telefonia",
+        "hrefDepartment": "/tecnologia/celulares-y-telefonia",
+        "category": "celulares",
+        "hrefCategory": "/tecnologia/celulares-y-telefonia/celulares",
+        "subCategory": "samsung",
+        "hrefSubCategory": "/tecnologia/celulares-y-telefonia/celulares/samsung"
+    },
+    {
+        "department": "celulares-y-telefonia",
+        "hrefDepartment": "/tecnologia/celulares-y-telefonia",
+        "category": "celulares",
+        "hrefCategory": "/tecnologia/celulares-y-telefonia/celulares",
+        "subCategory": "xiaomi",
+        "hrefSubCategory": "/tecnologia/celulares-y-telefonia/celulares/xiaomi"
+    },
+    {
+        "department": "celulares-y-telefonia",
+        "hrefDepartment": "/tecnologia/celulares-y-telefonia",
+        "category": "celulares",
+        "hrefCategory": "/tecnologia/celulares-y-telefonia/celulares",
+        "subCategory": "motorola",
+        "hrefSubCategory": "/tecnologia/celulares-y-telefonia/celulares/motorola"
+    },
+    {
+        "department": "celulares-y-telefonia",
+        "hrefDepartment": "/tecnologia/celulares-y-telefonia",
+        "category": "celulares",
+        "hrefCategory": "/tecnologia/celulares-y-telefonia/celulares",
+        "subCategory": "tecnomobile",
+        "hrefSubCategory": "/tecnologia/celulares-y-telefonia/celulares/tecnomobile"
+    },
+    {
+        "department": "celulares-y-telefonia",
+        "hrefDepartment": "/tecnologia/celulares-y-telefonia",
+        "category": "celulares",
+        "hrefCategory": "/tecnologia/celulares-y-telefonia/celulares",
+        "subCategory": "vivo",
+        "hrefSubCategory": "/tecnologia/celulares-y-telefonia/celulares/vivo"
+    },
+    {
+        "department": "celulares-y-telefonia",
+        "hrefDepartment": "/tecnologia/celulares-y-telefonia",
+        "category": "celulares",
+        "hrefCategory": "/tecnologia/celulares-y-telefonia/celulares",
+        "subCategory": "otras-marcas",
+        "hrefSubCategory": "/tecnologia/celulares-y-telefonia/celulares?filters=fq=B:11465,fq=B:11481"
+    },
+    {
+        "department": "celulares-y-telefonia",
+        "hrefDepartment": "/tecnologia/celulares-y-telefonia",
+        "category": "smartwatch-y-smartbands",
+        "hrefCategory": "/tecnologia/celulares-y-telefonia/smartwatch-y-smartbands",
+        "subCategory": "",
+        "hrefSubCategory": ""
+    },
+    {
+        "department": "celulares-y-telefonia",
+        "hrefDepartment": "/tecnologia/celulares-y-telefonia",
+        "category": "accesorios-celulares",
+        "hrefCategory": "/tecnologia/accesorios-celulares",
+        "subCategory": "audifonos",
+        "hrefSubCategory": "/tecnologia/accesorios-celulares/audifonos"
+    },
+    {
+        "department": "celulares-y-telefonia",
+        "hrefDepartment": "/tecnologia/celulares-y-telefonia",
+        "category": "accesorios-celulares",
+        "hrefCategory": "/tecnologia/accesorios-celulares",
+        "subCategory": "cargadores-y-cables",
+        "hrefSubCategory": "/tecnologia/accesorios-celulares/cargadores-y-cables"
+    },
+    {
+        "department": "celulares-y-telefonia",
+        "hrefDepartment": "/tecnologia/celulares-y-telefonia",
+        "category": "accesorios-celulares",
+        "hrefCategory": "/tecnologia/accesorios-celulares",
+        "subCategory": "otros-accesorios",
+        "hrefSubCategory": "/tecnologia/accesorios-celulares/otros-accesorios"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "refrigeracion",
+        "hrefCategory": "/electrodomesticos/refrigeracion",
+        "subCategory": "nevecones",
+        "hrefSubCategory": "/electrodomesticos/refrigeracion/nevecones"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "refrigeracion",
+        "hrefCategory": "/electrodomesticos/refrigeracion",
+        "subCategory": "neveras",
+        "hrefSubCategory": "/electrodomesticos/refrigeracion/neveras"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "refrigeracion",
+        "hrefCategory": "/electrodomesticos/refrigeracion",
+        "subCategory": "minibares",
+        "hrefSubCategory": "/electrodomesticos/refrigeracion/minibares"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "refrigeracion",
+        "hrefCategory": "/electrodomesticos/refrigeracion",
+        "subCategory": "congeladores",
+        "hrefSubCategory": "/electrodomesticos/refrigeracion/congeladores"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "climatizacion",
+        "hrefCategory": "/electrodomesticos/climatizacion",
+        "subCategory": "aires-acondicionados",
+        "hrefSubCategory": "/electrodomesticos/climatizacion/aires-acondicionados"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "climatizacion",
+        "hrefCategory": "/electrodomesticos/climatizacion",
+        "subCategory": "ventiladores",
+        "hrefSubCategory": "/electrodomesticos/climatizacion/ventiladores"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "climatizacion",
+        "hrefCategory": "/electrodomesticos/climatizacion",
+        "subCategory": "calentadores-y-enfriadores-de-ambiente",
+        "hrefSubCategory": "/electrodomesticos/cocina/calentadores/calentadores"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "lavadoras-y-secadoras",
+        "hrefCategory": "/electrodomesticos/lavadoras-y-secadoras",
+        "subCategory": "lavadoras",
+        "hrefSubCategory": "/electrodomesticos/lavadoras-y-secadoras/lavadoras"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "lavadoras-y-secadoras",
+        "hrefCategory": "/electrodomesticos/lavadoras-y-secadoras",
+        "subCategory": "lavadoras-secadoras",
+        "hrefSubCategory": "/electrodomesticos/lavadoras-y-secadoras/lavadoras---secadoras"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "lavadoras-y-secadoras",
+        "hrefCategory": "/electrodomesticos/lavadoras-y-secadoras",
+        "subCategory": "secadoras",
+        "hrefSubCategory": "/electrodomesticos/lavadoras-y-secadoras/secadoras"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "cuidado-personal",
+        "hrefCategory": "/electrodomesticos/cuidado-personal/?O=OrderByTopSaleDESC",
+        "subCategory": "planchas-de-cabello",
+        "hrefSubCategory": "/electrodomesticos/cuidado-personal/planchas-de-cabello"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "cuidado-personal",
+        "hrefCategory": "/electrodomesticos/cuidado-personal/?O=OrderByTopSaleDESC",
+        "subCategory": "maquinas-de-afeitar",
+        "hrefSubCategory": "/electrodomesticos/cuidado-personal/maquinas-de-afeitar"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "cuidado-personal",
+        "hrefCategory": "/electrodomesticos/cuidado-personal/?O=OrderByTopSaleDESC",
+        "subCategory": "secadores-de-cabello",
+        "hrefSubCategory": "/electrodomesticos/cuidado-personal/secadores-de-cabello"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "cuidado-personal",
+        "hrefCategory": "/electrodomesticos/cuidado-personal/?O=OrderByTopSaleDESC",
+        "subCategory": "depiladoras-electricas",
+        "hrefSubCategory": "/electrodomesticos/cuidado-personal/depiladoras-electricas"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "cocina",
+        "hrefCategory": "/electrodomesticos/cocina",
+        "subCategory": "estufas-y-cubiertas",
+        "hrefSubCategory": "/electrodomesticos/cocina/estufas"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "cocina",
+        "hrefCategory": "/electrodomesticos/cocina",
+        "subCategory": "hornos-empotrables",
+        "hrefSubCategory": "/electrodomesticos/cocina/hornos"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "cocina",
+        "hrefCategory": "/electrodomesticos/cocina",
+        "subCategory": "campanas-extractoras",
+        "hrefSubCategory": "/electrodomesticos/cocina/campanas-extractoras"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "cocina",
+        "hrefCategory": "/electrodomesticos/cocina",
+        "subCategory": "lavavajillas",
+        "hrefSubCategory": "/electrodomesticos/cocina/lavavajillas"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "cocina",
+        "hrefCategory": "/electrodomesticos/cocina",
+        "subCategory": "calentadores",
+        "hrefSubCategory": "/electrodomesticos/cocina/calentadores"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "cocina",
+        "hrefCategory": "/electrodomesticos/cocina",
+        "subCategory": "dispensadores-de-agua",
+        "hrefSubCategory": "/electrodomesticos/cocina/dispensadores-de-agua"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "pequenos-electrodomesticos",
+        "hrefCategory": "/electrodomesticos/pequenos-electrodomesticos",
+        "subCategory": "sanducheras-y-tostadores",
+        "hrefSubCategory": "/electrodomesticos/pequenos-electrodomesticos/sanducheras-y-tostadores"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "pequenos-electrodomesticos",
+        "hrefCategory": "/electrodomesticos/pequenos-electrodomesticos",
+        "subCategory": "licuadoras",
+        "hrefSubCategory": "/electrodomesticos/pequenos-electrodomesticos/licuadoras"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "pequenos-electrodomesticos",
+        "hrefCategory": "/electrodomesticos/pequenos-electrodomesticos",
+        "subCategory": "grill-y-parrillas",
+        "hrefSubCategory": "/electrodomesticos/pequenos-electrodomesticos/grill-y-parrillas"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "pequenos-electrodomesticos",
+        "hrefCategory": "/electrodomesticos/pequenos-electrodomesticos",
+        "subCategory": "ollas-arroceras",
+        "hrefSubCategory": "/electrodomesticos/pequenos-electrodomesticos/ollas-arroceras"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "pequenos-electrodomesticos",
+        "hrefCategory": "/electrodomesticos/pequenos-electrodomesticos",
+        "subCategory": "cafeteras",
+        "hrefSubCategory": "/electrodomesticos/pequenos-electrodomesticos/cafeteras"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "pequenos-electrodomesticos",
+        "hrefCategory": "/electrodomesticos/pequenos-electrodomesticos",
+        "subCategory": "extractores-y-exprimidores",
+        "hrefSubCategory": "/electrodomesticos/pequenos-electrodomesticos/extractores-y-exprimidores"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "pequenos-electrodomesticos",
+        "hrefCategory": "/electrodomesticos/pequenos-electrodomesticos",
+        "subCategory": "batidoras",
+        "hrefSubCategory": "/electrodomesticos/pequenos-electrodomesticos/batidoras"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "pequenos-electrodomesticos",
+        "hrefCategory": "/electrodomesticos/pequenos-electrodomesticos",
+        "subCategory": "aspiradoras",
+        "hrefSubCategory": "/electrodomesticos/pequenos-electrodomesticos/aspiradoras"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "pequenos-electrodomesticos",
+        "hrefCategory": "/electrodomesticos/pequenos-electrodomesticos",
+        "subCategory": "planchas",
+        "hrefSubCategory": "/electrodomesticos/pequenos-electrodomesticos/planchas"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "pequenos-electrodomesticos",
+        "hrefCategory": "/electrodomesticos/pequenos-electrodomesticos",
+        "subCategory": "variedades",
+        "hrefSubCategory": "/electrodomesticos/pequenos-electrodomesticos/variedades"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "pequenos-electrodomesticos",
+        "hrefCategory": "/electrodomesticos/pequenos-electrodomesticos",
+        "subCategory": "hornos-microondas",
+        "hrefSubCategory": "/electrodomesticos/pequenos-electrodomesticos/hornos-microondas/microondas"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "pequenos-electrodomesticos",
+        "hrefCategory": "/electrodomesticos/pequenos-electrodomesticos",
+        "subCategory": "freidoras-de-aire",
+        "hrefSubCategory": "/electrodomesticos/pequenos-electrodomesticos/freidoras-de-aire"
+    },
+    {
+        "department": "electrodomesticos",
+        "hrefDepartment": "/electrodomesticos",
+        "category": "pequenos-electrodomesticos",
+        "hrefCategory": "/electrodomesticos/pequenos-electrodomesticos",
+        "subCategory": "procesadores-de-alimentos",
+        "hrefSubCategory": "/electrodomesticos/pequenos-electrodomesticos/procesadores-de-alimentos"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "alimentacion",
+        "hrefCategory": "/supermercado/cuidado-del-bebe/alimentacion",
+        "subCategory": "leches-,-compotas-y-papillas",
+        "hrefSubCategory": "/supermercado/cuidado-del-bebe/alimentacion"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "alimentacion",
+        "hrefCategory": "/supermercado/cuidado-del-bebe/alimentacion",
+        "subCategory": "teteros-y-chupos",
+        "hrefSubCategory": "/mundo-bebes/accesorios-alimentacion/teteros-y-chupos"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "alimentacion",
+        "hrefCategory": "/supermercado/cuidado-del-bebe/alimentacion",
+        "subCategory": "vasos",
+        "hrefSubCategory": "/mundo-bebes/accesorios--alimentacion/vasos"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "alimentacion",
+        "hrefCategory": "/supermercado/cuidado-del-bebe/alimentacion",
+        "subCategory": "preparacion-de-alimentos",
+        "hrefSubCategory": "/mundo-bebes/accesorios--alimentacion/preparacion-de-alimentos"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "alimentacion",
+        "hrefCategory": "/supermercado/cuidado-del-bebe/alimentacion",
+        "subCategory": "extractores-y-lactancia",
+        "hrefSubCategory": "/mundo-bebes/accesorios--alimentacion/extractores-y-lactancia"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "alimentacion",
+        "hrefCategory": "/supermercado/cuidado-del-bebe/alimentacion",
+        "subCategory": "sillas-comedores",
+        "hrefSubCategory": "/mundo-bebes/accesorios--alimentacion/sillas-comedores"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "aseo-e-higiene-infantil",
+        "hrefCategory": "/supermercado/cuidado-del-bebe/higiene-infantil",
+        "subCategory": "panales",
+        "hrefSubCategory": "/supermercado/cuidado-del-bebe/panales"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "aseo-e-higiene-infantil",
+        "hrefCategory": "/supermercado/cuidado-del-bebe/higiene-infantil",
+        "subCategory": "panos-humedos",
+        "hrefSubCategory": "/supermercado/cuidado-del-bebe/panos-humedos"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "aseo-e-higiene-infantil",
+        "hrefCategory": "/supermercado/cuidado-del-bebe/higiene-infantil",
+        "subCategory": "higiene-infantil",
+        "hrefSubCategory": "/supermercado/cuidado-del-bebe/higiene-infantil"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "aseo-e-higiene-infantil",
+        "hrefCategory": "/supermercado/cuidado-del-bebe/higiene-infantil",
+        "subCategory": "baneras-y-bacinillas",
+        "hrefSubCategory": "/mundo-bebes/aseo-e-higiene-infantil/baneras-y-bacinillas?PS=18"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "cuarto-del-bebe",
+        "hrefCategory": "/mundo-bebes/cuarto-del-bebe",
+        "subCategory": "corrales",
+        "hrefSubCategory": "/busca/?ft=corral"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "cuarto-del-bebe",
+        "hrefCategory": "/mundo-bebes/cuarto-del-bebe",
+        "subCategory": "cama-cunas-y-cambiadores",
+        "hrefSubCategory": "/mundo-bebes/cuarto-del-bebe/cama-cunas-y-cambiadores"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "cuarto-del-bebe",
+        "hrefCategory": "/mundo-bebes/cuarto-del-bebe",
+        "subCategory": "lenceria-y-decoracion",
+        "hrefSubCategory": "/mundo-bebes/cuarto-del-bebe/lenceria-y-decoracion"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "paseo-y-viajes",
+        "hrefCategory": "/mundo-bebes/paseo-y-viajes",
+        "subCategory": "coches-y-paseadores",
+        "hrefSubCategory": "/mundo-bebes/paseo-y-viajes/coches-y-paseadores"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "paseo-y-viajes",
+        "hrefCategory": "/mundo-bebes/paseo-y-viajes",
+        "subCategory": "sillas-para-auto",
+        "hrefSubCategory": "/mundo-bebes/paseo-y-viajes/sillas-para-auto"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "paseo-y-viajes",
+        "hrefCategory": "/mundo-bebes/paseo-y-viajes",
+        "subCategory": "panaleras",
+        "hrefSubCategory": "/mundo-bebes/paseo-y-viajes/panaleras"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "paseo-y-viajes",
+        "hrefCategory": "/mundo-bebes/paseo-y-viajes",
+        "subCategory": "portabebes-y-cargadores",
+        "hrefSubCategory": "/mundo-bebes/paseo-y-viajes/portabebes-y-cargadores"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "paseo-y-viajes",
+        "hrefCategory": "/mundo-bebes/paseo-y-viajes",
+        "subCategory": "accesorios-para-coches",
+        "hrefSubCategory": "/mundo-bebes/paseo-y-viajes/accesorios-para-coches"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "desarrollo-y-estimulacion",
+        "hrefCategory": "/mundo-bebes/desarrollo-y-estimulacion",
+        "subCategory": "juguetes-para-bebes",
+        "hrefSubCategory": "/mundo-bebes/desarrollo-y-estimulacion/juguetes-para-bebes"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "desarrollo-y-estimulacion",
+        "hrefCategory": "/mundo-bebes/desarrollo-y-estimulacion",
+        "subCategory": "caminadores",
+        "hrefSubCategory": "/mundo-bebes/desarrollo-y-estimulacion/caminadores"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "desarrollo-y-estimulacion",
+        "hrefCategory": "/mundo-bebes/desarrollo-y-estimulacion",
+        "subCategory": "gimnasios-y-tapetes",
+        "hrefSubCategory": "/mundo-bebes/desarrollo-y-estimulacion/gimnasios-y-tapetes"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "desarrollo-y-estimulacion",
+        "hrefCategory": "/mundo-bebes/desarrollo-y-estimulacion",
+        "subCategory": "seguridad-en-casa",
+        "hrefSubCategory": "/mundo-bebes/desarrollo-y-estimulacion/seguridad-en-casa?PS=18"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "ropa-bebes",
+        "hrefCategory": "/mundo-bebes/ropa-bebes",
+        "subCategory": "conjuntos",
+        "hrefSubCategory": "/mundo-bebes/ropa-bebes/conjuntos?PS=18"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "ropa-bebes",
+        "hrefCategory": "/mundo-bebes/ropa-bebes",
+        "subCategory": "bodys-y-mamelucos",
+        "hrefSubCategory": "/mundo-bebes/ropa-bebes/bodys-y-mamelucos?PS=18"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "ropa-bebes",
+        "hrefCategory": "/mundo-bebes/ropa-bebes",
+        "subCategory": "chaquetas-y-busos",
+        "hrefSubCategory": "/mundo-bebes/ropa-bebes/chaquetas-y-busos?PS=18"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "ropa-bebes",
+        "hrefCategory": "/mundo-bebes/ropa-bebes",
+        "subCategory": "camisas-y-camisetas",
+        "hrefSubCategory": "/mundo-bebes/ropa-bebes/camisas-y-camisetas?PS=18"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "ropa-bebes",
+        "hrefCategory": "/mundo-bebes/ropa-bebes",
+        "subCategory": "pijamas",
+        "hrefSubCategory": "/mundo-bebes/ropa-bebes/pijamas?PS=18"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "ropa-bebes",
+        "hrefCategory": "/mundo-bebes/ropa-bebes",
+        "subCategory": "pantalones-y-shorts",
+        "hrefSubCategory": "/mundo-bebes/ropa-bebes/pantalones-y-shorts?PS=18"
+    },
+    {
+        "department": "mundo-bebes",
+        "hrefDepartment": "/mundo-bebes",
+        "category": "ropa-bebes",
+        "hrefCategory": "/mundo-bebes/ropa-bebes",
+        "subCategory": "accesorios",
+        "hrefSubCategory": "/mundo-bebes/ropa-bebes/accesorios?PS=18"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "muebles-de-sala-y-estar",
+        "hrefCategory": "/hogar-y-decoracion/muebles-de-sala-y-estar",
+        "subCategory": "sofas,-sofacamas-y-puffs",
+        "hrefSubCategory": "/hogar-y-decoracion/muebles-de-sala-y-estar/sofas-sofacamas-y-puffs"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "muebles-de-sala-y-estar",
+        "hrefCategory": "/hogar-y-decoracion/muebles-de-sala-y-estar",
+        "subCategory": "muebles-de-tv",
+        "hrefSubCategory": "/hogar-y-decoracion/muebles-de-sala-y-estar/muebles-de-tv"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "muebles-de-sala-y-estar",
+        "hrefCategory": "/hogar-y-decoracion/muebles-de-sala-y-estar",
+        "subCategory": "mesas-de-sala",
+        "hrefSubCategory": "/hogar-y-decoracion/muebles-de-sala-y-estar/mesas-de-sala"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "muebles-de-sala-y-estar",
+        "hrefCategory": "/hogar-y-decoracion/muebles-de-sala-y-estar",
+        "subCategory": "muebles-de-bar",
+        "hrefSubCategory": "/hogar-y-decoracion/muebles-de-sala-y-estar/muebles-de-bar"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "muebles-de-sala-y-estar",
+        "hrefCategory": "/hogar-y-decoracion/muebles-de-sala-y-estar",
+        "subCategory": "repisas-y-soportes",
+        "hrefSubCategory": "/hogar-y-decoracion/muebles-de-sala-y-estar/repisas-y-soportes"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "muebles--para-habitacion",
+        "hrefCategory": "/hogar-y-decoracion/muebles-para-habitacion",
+        "subCategory": "armarios-y-closets",
+        "hrefSubCategory": "/hogar-y-decoracion/muebles-para-habitacion/armarios-y-closets"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "muebles--para-habitacion",
+        "hrefCategory": "/hogar-y-decoracion/muebles-para-habitacion",
+        "subCategory": "mesas-de-noche-y-cabeceros",
+        "hrefSubCategory": "/hogar-y-decoracion/muebles-para-habitacion/mesas-de-noche-y-cabeceros"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "muebles--para-habitacion",
+        "hrefCategory": "/hogar-y-decoracion/muebles-para-habitacion",
+        "subCategory": "camas-y-basecamas",
+        "hrefSubCategory": "/hogar-y-decoracion/muebles-para-habitacion/camas-y-base-camas"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "muebles--para-habitacion",
+        "hrefCategory": "/hogar-y-decoracion/muebles-para-habitacion",
+        "subCategory": "comodas,-cajoneras-y-zapateros",
+        "hrefSubCategory": "/hogar-y-decoracion/muebles-para-habitacion/comodas-cajoneras-y-zapateros"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "mesa-y-cocina",
+        "hrefCategory": "/hogar-y-decoracion/mesa-y-cocina",
+        "subCategory": "organizacion-de-cocina",
+        "hrefSubCategory": "/hogar-y-decoracion/mesa-y-cocina/organizacion-de-cocina"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "mesa-y-cocina",
+        "hrefCategory": "/hogar-y-decoracion/mesa-y-cocina",
+        "subCategory": "vajillas",
+        "hrefSubCategory": "/hogar-y-decoracion/mesa-y-cocina/vajillas"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "mesa-y-cocina",
+        "hrefCategory": "/hogar-y-decoracion/mesa-y-cocina",
+        "subCategory": "cristaleria",
+        "hrefSubCategory": "/hogar-y-decoracion/mesa-y-cocina/cristaleria"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "mesa-y-cocina",
+        "hrefCategory": "/hogar-y-decoracion/mesa-y-cocina",
+        "subCategory": "sartenes-y-ollas",
+        "hrefSubCategory": "/hogar-y-decoracion/mesa-y-cocina/sartenes-y-ollas"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "mesa-y-cocina",
+        "hrefCategory": "/hogar-y-decoracion/mesa-y-cocina",
+        "subCategory": "utensilios-de-cocina",
+        "hrefSubCategory": "/hogar-y-decoracion/mesa-y-cocina/utensilios-de-cocina"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "mesa-y-cocina",
+        "hrefCategory": "/hogar-y-decoracion/mesa-y-cocina",
+        "subCategory": "desechables",
+        "hrefSubCategory": "/hogar-y-decoracion/mesa-y-cocina/desechables"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "mesa-y-cocina",
+        "hrefCategory": "/hogar-y-decoracion/mesa-y-cocina",
+        "subCategory": "cubiertos-y-cuchillos",
+        "hrefSubCategory": "/hogar-y-decoracion/mesa-y-cocina/cubiertos-y-cuchillos"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "mesa-y-cocina",
+        "hrefCategory": "/hogar-y-decoracion/mesa-y-cocina",
+        "subCategory": "textil-cocina",
+        "hrefSubCategory": "/hogar-y-decoracion/mesa-y-cocina/textil-cocina"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "mesa-y-cocina",
+        "hrefCategory": "/hogar-y-decoracion/mesa-y-cocina",
+        "subCategory": "resposteria",
+        "hrefSubCategory": "/hogar-y-decoracion/mesa-y-cocina/resposteria"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "mesa-y-cocina",
+        "hrefCategory": "/hogar-y-decoracion/mesa-y-cocina",
+        "subCategory": "refractarias-y-bowls",
+        "hrefSubCategory": "/hogar-y-decoracion/mesa-y-cocina/refractarias-y-bowls"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "mesa-y-cocina",
+        "hrefCategory": "/hogar-y-decoracion/mesa-y-cocina",
+        "subCategory": "tablas-y-bandejas",
+        "hrefSubCategory": "/hogar-y-decoracion/mesa-y-cocina/tablas-y-bandejas"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "muebles-de-oficina-y-estudio",
+        "hrefCategory": "/hogar-y-decoracion/muebles-de-oficina-y-estudio",
+        "subCategory": "bibliotecas",
+        "hrefSubCategory": "/hogar-y-decoracion/muebles-de-oficina-y-estudio/bibliotecas"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "muebles-de-oficina-y-estudio",
+        "hrefCategory": "/hogar-y-decoracion/muebles-de-oficina-y-estudio",
+        "subCategory": "escritorios-y-archivadores",
+        "hrefSubCategory": "/hogar-y-decoracion/muebles-de-oficina-y-estudio/escritorios-y-archivadores"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "muebles-de-oficina-y-estudio",
+        "hrefCategory": "/hogar-y-decoracion/muebles-de-oficina-y-estudio",
+        "subCategory": "sillas",
+        "hrefSubCategory": "/hogar-y-decoracion/muebles-de-oficina-y-estudio/sillas"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "muebles-de-oficina-y-estudio",
+        "hrefCategory": "/hogar-y-decoracion/muebles-de-oficina-y-estudio",
+        "subCategory": "repisas-y-organizadores",
+        "hrefSubCategory": "/hogar-y-decoracion/muebles-de-oficina-y-estudio/organizadores"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "muebles-de-cocina-y-comedor",
+        "hrefCategory": "/busca/?ft=muebles%20cocina",
+        "subCategory": "gabinetes",
+        "hrefSubCategory": "/hogar-y-decoracion/muebles-de-cocina-y-comedor/gabinetes"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "muebles-de-cocina-y-comedor",
+        "hrefCategory": "/busca/?ft=muebles%20cocina",
+        "subCategory": "comedores",
+        "hrefSubCategory": "/hogar-y-decoracion/muebles-de-cocina-y-comedor/comedor"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "muebles-de-cocina-y-comedor",
+        "hrefCategory": "/busca/?ft=muebles%20cocina",
+        "subCategory": "butacos-y-taburetes",
+        "hrefSubCategory": "/hogar-y-decoracion/muebles-de-cocina-y-comedor/butacos-y-taburetes"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "muebles-de-cocina-y-comedor",
+        "hrefCategory": "/busca/?ft=muebles%20cocina",
+        "subCategory": "mesas-y-sillas-plegables",
+        "hrefSubCategory": "/hogar-y-decoracion/muebles-de-cocina-y-comedor/mesas-y-sillas-plegables"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "colchones",
+        "hrefCategory": "/hogar-y-decoracion/colchones",
+        "subCategory": "espumas",
+        "hrefSubCategory": "/hogar-y-decoracion/colchones/espumas"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "colchones",
+        "hrefCategory": "/hogar-y-decoracion/colchones",
+        "subCategory": "resortados",
+        "hrefSubCategory": "/hogar-y-decoracion/colchones/resortados"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "ropa-de-cama",
+        "hrefCategory": "/hogar-y-decoracion/ropa-de-cama",
+        "subCategory": "almohadas-y-cojines",
+        "hrefSubCategory": "/hogar-y-decoracion/ropa-de-cama/almohadas-y-cojines"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "ropa-de-cama",
+        "hrefCategory": "/hogar-y-decoracion/ropa-de-cama",
+        "subCategory": "cobijas-y-mantas",
+        "hrefSubCategory": "/hogar-y-decoracion/ropa-de-cama/cobijas-y-mantas"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "ropa-de-cama",
+        "hrefCategory": "/hogar-y-decoracion/ropa-de-cama",
+        "subCategory": "duvets",
+        "hrefSubCategory": "/hogar-y-decoracion/ropa-de-cama/duvets"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "ropa-de-cama",
+        "hrefCategory": "/hogar-y-decoracion/ropa-de-cama",
+        "subCategory": "edredones-y-sabanas",
+        "hrefSubCategory": "/hogar-y-decoracion/ropa-de-cama/edredones-y-sabanas"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "ropa-de-cama",
+        "hrefCategory": "/hogar-y-decoracion/ropa-de-cama",
+        "subCategory": "juegos-de-cama",
+        "hrefSubCategory": "/hogar-y-decoracion/ropa-de-cama/juegos-de-cama"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "ropa-de-cama",
+        "hrefCategory": "/hogar-y-decoracion/ropa-de-cama",
+        "subCategory": "toallas",
+        "hrefSubCategory": "/hogar-y-decoracion/ropa-de-cama/toallas"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "terraza-y-exterior",
+        "hrefCategory": "/hogar-y-decoracion/terraza-y-exterior",
+        "subCategory": "mesas-y-sillas-de-terraza",
+        "hrefSubCategory": "/hogar-y-decoracion/terraza-y-exterior/mesas-y-sillas-de-terraza"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "terraza-y-exterior",
+        "hrefCategory": "/hogar-y-decoracion/terraza-y-exterior",
+        "subCategory": "asadores-y-accesorios",
+        "hrefSubCategory": "/hogar-y-decoracion/terraza-y-exterior/asadores-y-accesorios"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "decoracion-y-organizacion",
+        "hrefCategory": "/hogar-y-decoracion/decoracion-y-organizacion",
+        "subCategory": "tapetes-y-alfombras",
+        "hrefSubCategory": "/hogar-y-decoracion/decoracion-y-organizacion/tapetes-y-alfombras?PS=18"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "decoracion-y-organizacion",
+        "hrefCategory": "/hogar-y-decoracion/decoracion-y-organizacion",
+        "subCategory": "cajas-organizadoras",
+        "hrefSubCategory": "/hogar-y-decoracion/decoracion-y-organizacion/arte-de-pared?PS=18"
+    },
+    {
+        "department": "hogar-y-decoracion",
+        "hrefDepartment": "/hogar-y-decoracion",
+        "category": "decoracion-y-organizacion",
+        "hrefCategory": "/hogar-y-decoracion/decoracion-y-organizacion",
+        "subCategory": "arte-de-pared",
+        "hrefSubCategory": "/hogar-y-decoracion/decoracion-y-organizacion/accesorios-para-bano?PS=18"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "hombre",
+        "hrefCategory": "/ropa-y-accesorios/hombre",
+        "subCategory": "camisas-y-camisetas",
+        "hrefSubCategory": "/ropa-y-accesorios/hombre/camisas-y-camisetas"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "hombre",
+        "hrefCategory": "/ropa-y-accesorios/hombre",
+        "subCategory": "ropa-interior",
+        "hrefSubCategory": "/ropa-y-accesorios/hombre/ropa-interior"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "hombre",
+        "hrefCategory": "/ropa-y-accesorios/hombre",
+        "subCategory": "chaquetas-y-sacos",
+        "hrefSubCategory": "/ropa-y-accesorios/hombre/chaquetas-y-sacos"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "hombre",
+        "hrefCategory": "/ropa-y-accesorios/hombre",
+        "subCategory": "zapatos",
+        "hrefSubCategory": "/ropa-y-accesorios/hombre/zapatos"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "hombre",
+        "hrefCategory": "/ropa-y-accesorios/hombre",
+        "subCategory": "gafas-y-accesorios",
+        "hrefSubCategory": "/ropa-y-accesorios/hombre/gafas-y-accesorios"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "hombre",
+        "hrefCategory": "/ropa-y-accesorios/hombre",
+        "subCategory": "pantalones-y-jeans",
+        "hrefSubCategory": "/ropa-y-accesorios/hombre/pantalones-y-jeans"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "hombre",
+        "hrefCategory": "/ropa-y-accesorios/hombre",
+        "subCategory": "trajes-de-bano",
+        "hrefSubCategory": "/ropa-y-accesorios/hombre/trajes-de-bano"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "hombre",
+        "hrefCategory": "/ropa-y-accesorios/hombre",
+        "subCategory": "ropa-deportiva",
+        "hrefSubCategory": "/ropa-y-accesorios/hombre/ropa-deportiva"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "mujer",
+        "hrefCategory": "/ropa-y-accesorios/mujer",
+        "subCategory": "abrigos-y-chaquetas",
+        "hrefSubCategory": "/ropa-y-accesorios/mujer/abrigos-y-chaquetas"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "mujer",
+        "hrefCategory": "/ropa-y-accesorios/mujer",
+        "subCategory": "blusas-y-camisas",
+        "hrefSubCategory": "/ropa-y-accesorios/mujer/blusas-y-camisas"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "mujer",
+        "hrefCategory": "/ropa-y-accesorios/mujer",
+        "subCategory": "camisetas",
+        "hrefSubCategory": "/ropa-y-accesorios/mujer/camisetas"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "mujer",
+        "hrefCategory": "/ropa-y-accesorios/mujer",
+        "subCategory": "vestidos-y-faldas",
+        "hrefSubCategory": "/ropa-y-accesorios/mujer/vestidos-y-faldas"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "mujer",
+        "hrefCategory": "/ropa-y-accesorios/mujer",
+        "subCategory": "ropa-interior",
+        "hrefSubCategory": "/ropa-y-accesorios/mujer/ropa-interior"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "mujer",
+        "hrefCategory": "/ropa-y-accesorios/mujer",
+        "subCategory": "ropa-deportiva",
+        "hrefSubCategory": "/ropa-y-accesorios/mujer/ropa-deportiva"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "mujer",
+        "hrefCategory": "/ropa-y-accesorios/mujer",
+        "subCategory": "zapatos",
+        "hrefSubCategory": "/ropa-y-accesorios/mujer/zapatos"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "mujer",
+        "hrefCategory": "/ropa-y-accesorios/mujer",
+        "subCategory": "vestidos-de-bano",
+        "hrefSubCategory": "/ropa-y-accesorios/mujer/vestidos-de-bano"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "mujer",
+        "hrefCategory": "/ropa-y-accesorios/mujer",
+        "subCategory": "bolsos-y-accesorios",
+        "hrefSubCategory": "/ropa-y-accesorios/mujer/bolsos-y-accesorios"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "ninos",
+        "hrefCategory": "/ropa-y-accesorios/ninos",
+        "subCategory": "pijamas-y-batas-de-bano",
+        "hrefSubCategory": "/ropa-y-accesorios/ninos/pijamas-y-batas-de-bano"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "ninos",
+        "hrefCategory": "/ropa-y-accesorios/ninos",
+        "subCategory": "ropa-interior",
+        "hrefSubCategory": "/ropa-y-accesorios/ninos/ropa-interior"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "ninos",
+        "hrefCategory": "/ropa-y-accesorios/ninos",
+        "subCategory": "vestidos-de-bano",
+        "hrefSubCategory": "/ropa-y-accesorios/ninos/vestidos-de-bano?PS=18"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "ninos",
+        "hrefCategory": "/ropa-y-accesorios/ninos",
+        "subCategory": "camisas-y-camisetas",
+        "hrefSubCategory": "/ropa-y-accesorios/ninos/camisas-y-camisetas"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "ninos",
+        "hrefCategory": "/ropa-y-accesorios/ninos",
+        "subCategory": "buzos-y-chaquetas",
+        "hrefSubCategory": "/ropa-y-accesorios/ninos/buzos-y-chaquetas"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "ninos",
+        "hrefCategory": "/ropa-y-accesorios/ninos",
+        "subCategory": "bermudas-y-pantalonetas",
+        "hrefSubCategory": "/ropa-y-accesorios/ninos/bermudas-y-pantalonetas"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "ninos",
+        "hrefCategory": "/ropa-y-accesorios/ninos",
+        "subCategory": "gorras-y-accesorios",
+        "hrefSubCategory": "/ropa-y-accesorios/ninos/gorras-y-accesorios"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "ninos",
+        "hrefCategory": "/ropa-y-accesorios/ninos",
+        "subCategory": "pantalones-y-jeans",
+        "hrefSubCategory": "/ropa-y-accesorios/ninos/pantalones-y-jeans"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "ninos",
+        "hrefCategory": "/ropa-y-accesorios/ninos",
+        "subCategory": "sudaderas",
+        "hrefSubCategory": "/ropa-y-accesorios/ninos/sudaderas"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "ninos",
+        "hrefCategory": "/ropa-y-accesorios/ninos",
+        "subCategory": "zapatos",
+        "hrefSubCategory": "/ropa-y-accesorios/ninos/zapatos"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "ninas",
+        "hrefCategory": "/ropa-y-accesorios/ninas",
+        "subCategory": "camisas-y-camisetas",
+        "hrefSubCategory": "/ropa-y-accesorios/ninas/camisas-y-camisetas"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "ninas",
+        "hrefCategory": "/ropa-y-accesorios/ninas",
+        "subCategory": "pantalones-y-jeans",
+        "hrefSubCategory": "/ropa-y-accesorios/ninas/pantalones-y-jeans"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "ninas",
+        "hrefCategory": "/ropa-y-accesorios/ninas",
+        "subCategory": "faldas-y-shorts",
+        "hrefSubCategory": "/ropa-y-accesorios/ninas/faldas-y-shorts"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "ninas",
+        "hrefCategory": "/ropa-y-accesorios/ninas",
+        "subCategory": "buzos-y-chaquetas",
+        "hrefSubCategory": "/ropa-y-accesorios/ninas/buzos-y-chaquetas"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "ninas",
+        "hrefCategory": "/ropa-y-accesorios/ninas",
+        "subCategory": "pijamas-y-batas-de-bano",
+        "hrefSubCategory": "/ropa-y-accesorios/ninas/pijamas-y-batas-de-bano"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "ninas",
+        "hrefCategory": "/ropa-y-accesorios/ninas",
+        "subCategory": "ropa-interior",
+        "hrefSubCategory": "/ropa-y-accesorios/ninas/ropa-interior"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "ninas",
+        "hrefCategory": "/ropa-y-accesorios/ninas",
+        "subCategory": "vestidos-de-bano",
+        "hrefSubCategory": "/ropa-y-accesorios/ninas/vestidos-de-bano"
+    },
+    {
+        "department": "ropa-y-accesorios",
+        "hrefDepartment": "/ropa-y-accesorios",
+        "category": "ninas",
+        "hrefCategory": "/ropa-y-accesorios/ninas",
+        "subCategory": "accesorios",
+        "hrefSubCategory": "/ropa-y-accesorios/ninas/accesorios"
+    },
+    {
+        "department": "salud-y-bienestar",
+        "hrefDepartment": "/salud-y-bienestar",
+        "category": "drogueria",
+        "hrefCategory": "/salud-y-bienestar/drogueria",
+        "subCategory": "dolor-e-inflamacion",
+        "hrefSubCategory": "/salud-y-bienestar/drogueria/dolor-e-inflamacion"
+    },
+    {
+        "department": "salud-y-bienestar",
+        "hrefDepartment": "/salud-y-bienestar",
+        "category": "drogueria",
+        "hrefCategory": "/salud-y-bienestar/drogueria",
+        "subCategory": "gripa-y-tos",
+        "hrefSubCategory": "/salud-y-bienestar/drogueria/gripa-y-tos"
+    },
+    {
+        "department": "salud-y-bienestar",
+        "hrefDepartment": "/salud-y-bienestar",
+        "category": "drogueria",
+        "hrefCategory": "/salud-y-bienestar/drogueria",
+        "subCategory": "estomago",
+        "hrefSubCategory": "/salud-y-bienestar/drogueria/estomago"
+    },
+    {
+        "department": "salud-y-bienestar",
+        "hrefDepartment": "/salud-y-bienestar",
+        "category": "drogueria",
+        "hrefCategory": "/salud-y-bienestar/drogueria",
+        "subCategory": "curacion",
+        "hrefSubCategory": "/salud-y-bienestar/drogueria/curacion"
+    },
+    {
+        "department": "salud-y-bienestar",
+        "hrefDepartment": "/salud-y-bienestar",
+        "category": "drogueria",
+        "hrefCategory": "/salud-y-bienestar/drogueria",
+        "subCategory": "suplementos-y-multivitaminicos",
+        "hrefSubCategory": "/salud-y-bienestar/drogueria/suplementos-y-multivitaminicos"
+    },
+    {
+        "department": "salud-y-bienestar",
+        "hrefDepartment": "/salud-y-bienestar",
+        "category": "drogueria",
+        "hrefCategory": "/salud-y-bienestar/drogueria",
+        "subCategory": "bienestar-sexual",
+        "hrefSubCategory": "/salud-y-bienestar/drogueria/bienestar-sexual"
+    },
+    {
+        "department": "salud-y-bienestar",
+        "hrefDepartment": "/salud-y-bienestar",
+        "category": "drogueria",
+        "hrefCategory": "/salud-y-bienestar/drogueria",
+        "subCategory": "naturistas",
+        "hrefSubCategory": "/salud-y-bienestar/drogueria/naturistas"
+    },
+    {
+        "department": "salud-y-bienestar",
+        "hrefDepartment": "/salud-y-bienestar",
+        "category": "ortopedia-y-fisioterapia",
+        "hrefCategory": "/salud-y-bienestar/ortopedia-y-fisioterapia",
+        "subCategory": "fisioterapia",
+        "hrefSubCategory": "/salud-y-bienestar/ortopedia-y-fisioterapia/fisioterapia"
+    },
+    {
+        "department": "salud-y-bienestar",
+        "hrefDepartment": "/salud-y-bienestar",
+        "category": "ortopedia-y-fisioterapia",
+        "hrefCategory": "/salud-y-bienestar/ortopedia-y-fisioterapia",
+        "subCategory": "cabeza-y-cuello",
+        "hrefSubCategory": "/salud-y-bienestar/ortopedia-y-fisioterapia/cabeza-y-cuello"
+    },
+    {
+        "department": "salud-y-bienestar",
+        "hrefDepartment": "/salud-y-bienestar",
+        "category": "ortopedia-y-fisioterapia",
+        "hrefCategory": "/salud-y-bienestar/ortopedia-y-fisioterapia",
+        "subCategory": "tronco",
+        "hrefSubCategory": "/salud-y-bienestar/ortopedia-y-fisioterapia/tronco"
+    },
+    {
+        "department": "salud-y-bienestar",
+        "hrefDepartment": "/salud-y-bienestar",
+        "category": "ortopedia-y-fisioterapia",
+        "hrefCategory": "/salud-y-bienestar/ortopedia-y-fisioterapia",
+        "subCategory": "extremidades-superiores",
+        "hrefSubCategory": "/salud-y-bienestar/ortopedia-y-fisioterapia/extremidades-superiores"
+    },
+    {
+        "department": "salud-y-bienestar",
+        "hrefDepartment": "/salud-y-bienestar",
+        "category": "ortopedia-y-fisioterapia",
+        "hrefCategory": "/salud-y-bienestar/ortopedia-y-fisioterapia",
+        "subCategory": "extremidades-inferiores",
+        "hrefSubCategory": "/salud-y-bienestar/ortopedia-y-fisioterapia/extremidades-inferiores"
+    },
+    {
+        "department": "salud-y-bienestar",
+        "hrefDepartment": "/salud-y-bienestar",
+        "category": "equipos-de-cuidado-en-casa",
+        "hrefCategory": "/salud-y-bienestar/equipos-de-cuidado-en-casa",
+        "subCategory": "terapia-respiratoria",
+        "hrefSubCategory": "/salud-y-bienestar/equipos-de-cuidado-en-casa/terapia-respiratoria"
+    },
+    {
+        "department": "salud-y-bienestar",
+        "hrefDepartment": "/salud-y-bienestar",
+        "category": "equipos-de-cuidado-en-casa",
+        "hrefCategory": "/salud-y-bienestar/equipos-de-cuidado-en-casa",
+        "subCategory": "diagnostico-y-revision",
+        "hrefSubCategory": "/salud-y-bienestar/equipos-de-cuidado-en-casa/diagnostico-y-revision"
+    },
+    {
+        "department": "salud-y-bienestar",
+        "hrefDepartment": "/salud-y-bienestar",
+        "category": "equipos-de-cuidado-en-casa",
+        "hrefCategory": "/salud-y-bienestar/equipos-de-cuidado-en-casa",
+        "subCategory": "equipos-movilidad",
+        "hrefSubCategory": "/salud-y-bienestar/equipos-de-cuidado-en-casa/equipos-movilidad"
+    },
+    {
+        "department": "salud-y-bienestar",
+        "hrefDepartment": "/salud-y-bienestar",
+        "category": "equipos-de-cuidado-en-casa",
+        "hrefCategory": "/salud-y-bienestar/equipos-de-cuidado-en-casa",
+        "subCategory": "equipos-hogar-pacientes",
+        "hrefSubCategory": "/salud-y-bienestar/equipos-de-cuidado-en-casa/equipos-hogar-pacientes"
+    },
+    {
+        "department": "salud-y-bienestar",
+        "hrefDepartment": "/salud-y-bienestar",
+        "category": "equipos-de-cuidado-en-casa",
+        "hrefCategory": "/salud-y-bienestar/equipos-de-cuidado-en-casa",
+        "subCategory": "accesorios-para-equipos",
+        "hrefSubCategory": "/salud-y-bienestar/equipos-de-cuidado-en-casa/accesorios-para-equipos"
+    },
+    {
+        "department": "deportes-y-tiempo-libre",
+        "hrefDepartment": "/deportes-y-tiempo-libre",
+        "category": "fitness",
+        "hrefCategory": "/deportes-y-tiempo-libre/fitness",
+        "subCategory": "trotadoras-y-caminadoras",
+        "hrefSubCategory": "/deportes-y-tiempo-libre/fitness/trotadoras-y-caminadoras"
+    },
+    {
+        "department": "deportes-y-tiempo-libre",
+        "hrefDepartment": "/deportes-y-tiempo-libre",
+        "category": "fitness",
+        "hrefCategory": "/deportes-y-tiempo-libre/fitness",
+        "subCategory": "bicicletas-estaticas-y-spinning",
+        "hrefSubCategory": "/deportes-y-tiempo-libre/fitness/bicicletas-estaticas-y-spinning"
+    },
+    {
+        "department": "deportes-y-tiempo-libre",
+        "hrefDepartment": "/deportes-y-tiempo-libre",
+        "category": "fitness",
+        "hrefCategory": "/deportes-y-tiempo-libre/fitness",
+        "subCategory": "multifuncionales-y-fuerza",
+        "hrefSubCategory": "/deportes-y-tiempo-libre/fitness/multifuncionales-y-fuerza"
+    },
+    {
+        "department": "deportes-y-tiempo-libre",
+        "hrefDepartment": "/deportes-y-tiempo-libre",
+        "category": "fitness",
+        "hrefCategory": "/deportes-y-tiempo-libre/fitness",
+        "subCategory": "bancos-de-ejercicio",
+        "hrefSubCategory": "/deportes-y-tiempo-libre/fitness/bancos-de-ejercicio"
+    },
+    {
+        "department": "deportes-y-tiempo-libre",
+        "hrefDepartment": "/deportes-y-tiempo-libre",
+        "category": "fitness",
+        "hrefCategory": "/deportes-y-tiempo-libre/fitness",
+        "subCategory": "accesorios-fitness",
+        "hrefSubCategory": "/deportes-y-tiempo-libre/fitness/accesorios-fitness"
+    },
+    {
+        "department": "deportes-y-tiempo-libre",
+        "hrefDepartment": "/deportes-y-tiempo-libre",
+        "category": "fitness",
+        "hrefCategory": "/deportes-y-tiempo-libre/fitness",
+        "subCategory": "elipticas",
+        "hrefSubCategory": "/deportes-y-tiempo-libre/fitness/elipticas"
+    },
+    {
+        "department": "deportes-y-tiempo-libre",
+        "hrefDepartment": "/deportes-y-tiempo-libre",
+        "category": "bicicletas",
+        "hrefCategory": "/deportes-y-tiempo-libre/bicicletas",
+        "subCategory": "bicicletas-infantiles",
+        "hrefSubCategory": "/deportes-y-tiempo-libre/bicicletas/bicicletas-infantiles"
+    },
+    {
+        "department": "deportes-y-tiempo-libre",
+        "hrefDepartment": "/deportes-y-tiempo-libre",
+        "category": "bicicletas",
+        "hrefCategory": "/deportes-y-tiempo-libre/bicicletas",
+        "subCategory": "accesorios-para-bicicletas",
+        "hrefSubCategory": "/deportes-y-tiempo-libre/bicicletas/accesorios-para-bicicletas"
+    },
+    {
+        "department": "deportes-y-tiempo-libre",
+        "hrefDepartment": "/deportes-y-tiempo-libre",
+        "category": "camping",
+        "hrefCategory": "/deportes-y-tiempo-libre/camping",
+        "subCategory": "carpas",
+        "hrefSubCategory": "/deportes-y-tiempo-libre/camping/carpas"
+    },
+    {
+        "department": "deportes-y-tiempo-libre",
+        "hrefDepartment": "/deportes-y-tiempo-libre",
+        "category": "camping",
+        "hrefCategory": "/deportes-y-tiempo-libre/camping",
+        "subCategory": "sleeping-y-colchones-inflables",
+        "hrefSubCategory": "/deportes-y-tiempo-libre/camping/sleeping-y-colchones-inflables"
+    },
+    {
+        "department": "deportes-y-tiempo-libre",
+        "hrefDepartment": "/deportes-y-tiempo-libre",
+        "category": "camping",
+        "hrefCategory": "/deportes-y-tiempo-libre/camping",
+        "subCategory": "accesorios-de-camping",
+        "hrefSubCategory": "/deportes-y-tiempo-libre/camping/accesorios-camping"
+    },
+    {
+        "department": "deportes-y-tiempo-libre",
+        "hrefDepartment": "/deportes-y-tiempo-libre",
+        "category": "otros-deportes",
+        "hrefCategory": "/deportes-y-tiempo-libre/otros-deportes",
+        "subCategory": "nauticos",
+        "hrefSubCategory": "/deportes-y-tiempo-libre/otros-deportes/nauticos"
+    },
+    {
+        "department": "deportes-y-tiempo-libre",
+        "hrefDepartment": "/deportes-y-tiempo-libre",
+        "category": "otros-deportes",
+        "hrefCategory": "/deportes-y-tiempo-libre/otros-deportes",
+        "subCategory": "balones",
+        "hrefSubCategory": "/deportes-y-tiempo-libre/otros-deportes/balones"
+    },
+    {
+        "department": "deportes-y-tiempo-libre",
+        "hrefDepartment": "/deportes-y-tiempo-libre",
+        "category": "otros-deportes",
+        "hrefCategory": "/deportes-y-tiempo-libre/otros-deportes",
+        "subCategory": "tenis-y-ping-pong",
+        "hrefSubCategory": "/deportes-y-tiempo-libre/otros-deportes/tenis-y-ping-pong"
+    },
+    {
+        "department": "deportes-y-tiempo-libre",
+        "hrefDepartment": "/deportes-y-tiempo-libre",
+        "category": "otros-deportes",
+        "hrefCategory": "/deportes-y-tiempo-libre/otros-deportes",
+        "subCategory": "patines-y-patinetas",
+        "hrefSubCategory": "/deportes-y-tiempo-libre/otros-deportes/patines-y-patinetas"
+    },
+    {
+        "department": "deportes-y-tiempo-libre",
+        "hrefDepartment": "/deportes-y-tiempo-libre",
+        "category": "otros-deportes",
+        "hrefCategory": "/deportes-y-tiempo-libre/otros-deportes",
+        "subCategory": "otros-deportes",
+        "hrefSubCategory": "/deportes-y-tiempo-libre/otros-deportes/otros-deportes"
+    },
+    {
+        "department": "jugueteria",
+        "hrefDepartment": "/jugueteria",
+        "category": "carros-y-munecos",
+        "hrefCategory": "/jugueteria/carros-y-munecos",
+        "subCategory": "carros-de-juguete",
+        "hrefSubCategory": "/jugueteria/carros-y-munecos/carros-de-juguete"
+    },
+    {
+        "department": "jugueteria",
+        "hrefDepartment": "/jugueteria",
+        "category": "carros-y-munecos",
+        "hrefCategory": "/jugueteria/carros-y-munecos",
+        "subCategory": "pistas-de-carro",
+        "hrefSubCategory": "/jugueteria/carros-y-munecos/pistas-de-carros"
+    },
+    {
+        "department": "jugueteria",
+        "hrefDepartment": "/jugueteria",
+        "category": "carros-y-munecos",
+        "hrefCategory": "/jugueteria/carros-y-munecos",
+        "subCategory": "juguetes-a-control-remoto",
+        "hrefSubCategory": "/jugueteria/carros-y-munecos/juguetes-a-control-remoto"
+    },
+    {
+        "department": "jugueteria",
+        "hrefDepartment": "/jugueteria",
+        "category": "carros-y-munecos",
+        "hrefCategory": "/jugueteria/carros-y-munecos",
+        "subCategory": "figuras-y-personajes",
+        "hrefSubCategory": "/jugueteria/carros-y-munecos/figuras-y-personajes"
+    },
+    {
+        "department": "jugueteria",
+        "hrefDepartment": "/jugueteria",
+        "category": "carros-y-munecos",
+        "hrefCategory": "/jugueteria/carros-y-munecos",
+        "subCategory": "munecas-y-accesorios",
+        "hrefSubCategory": "/jugueteria/carros-y-munecos/munecas-y-accesorios"
+    },
+    {
+        "department": "jugueteria",
+        "hrefDepartment": "/jugueteria",
+        "category": "carros-y-munecos",
+        "hrefCategory": "/jugueteria/carros-y-munecos",
+        "subCategory": "juegos-de-imitacion",
+        "hrefSubCategory": "/jugueteria/carros-y-munecos/juegos-de-imitacion"
+    },
+    {
+        "department": "jugueteria",
+        "hrefDepartment": "/jugueteria",
+        "category": "carros-y-munecos",
+        "hrefCategory": "/jugueteria/carros-y-munecos",
+        "subCategory": "peluches",
+        "hrefSubCategory": "/jugueteria/carros-y-munecos/peluches"
+    },
+    {
+        "department": "jugueteria",
+        "hrefDepartment": "/jugueteria",
+        "category": "ludicos",
+        "hrefCategory": "/jugueteria/ludicos",
+        "subCategory": "bloques-y-armables",
+        "hrefSubCategory": "/jugueteria/ludicos/bloques-y-armables"
+    },
+    {
+        "department": "jugueteria",
+        "hrefDepartment": "/jugueteria",
+        "category": "ludicos",
+        "hrefCategory": "/jugueteria/ludicos",
+        "subCategory": "didacticos",
+        "hrefSubCategory": "/jugueteria/ludicos/didacticos"
+    },
+    {
+        "department": "jugueteria",
+        "hrefDepartment": "/jugueteria",
+        "category": "ludicos",
+        "hrefCategory": "/jugueteria/ludicos",
+        "subCategory": "manualidades",
+        "hrefSubCategory": "/jugueteria/ludicos/manualidades"
+    },
+    {
+        "department": "jugueteria",
+        "hrefDepartment": "/jugueteria",
+        "category": "ludicos",
+        "hrefCategory": "/jugueteria/ludicos",
+        "subCategory": "juegos-de-mesa",
+        "hrefSubCategory": "/jugueteria/ludicos/juegos-de-mesa"
+    },
+    {
+        "department": "jugueteria",
+        "hrefDepartment": "/jugueteria",
+        "category": "ludicos",
+        "hrefCategory": "/jugueteria/ludicos",
+        "subCategory": "educativos",
+        "hrefSubCategory": "/jugueteria/ludicos/educativos"
+    },
+    {
+        "department": "jugueteria",
+        "hrefDepartment": "/jugueteria",
+        "category": "ludicos",
+        "hrefCategory": "/jugueteria/ludicos",
+        "subCategory": "musicales",
+        "hrefSubCategory": "/jugueteria/ludicos/musicales"
+    },
+    {
+        "department": "jugueteria",
+        "hrefDepartment": "/jugueteria",
+        "category": "de-exteriores",
+        "hrefCategory": "/jugueteria/de-exteriores",
+        "subCategory": "carros-a-bateria-y-montables",
+        "hrefSubCategory": "/jugueteria/de-exteriores/carros-a-bateria-y-montables"
+    },
+    {
+        "department": "jugueteria",
+        "hrefDepartment": "/jugueteria",
+        "category": "de-exteriores",
+        "hrefCategory": "/jugueteria/de-exteriores",
+        "subCategory": "lanzadores-y-pistolas",
+        "hrefSubCategory": "/jugueteria/de-exteriores/lanzadores-y-pistolas"
+    },
+    {
+        "department": "jugueteria",
+        "hrefDepartment": "/jugueteria",
+        "category": "de-exteriores",
+        "hrefCategory": "/jugueteria/de-exteriores",
+        "subCategory": "casas-y-juegos-para-el-jardin",
+        "hrefSubCategory": "/jugueteria/de-exteriores/casas-y-juegos-para-el-jardin"
+    },
+    {
+        "department": "jugueteria",
+        "hrefDepartment": "/jugueteria",
+        "category": "de-exteriores",
+        "hrefCategory": "/jugueteria/de-exteriores",
+        "subCategory": "patines,-patinetas-y-scooters",
+        "hrefSubCategory": "/jugueteria/de-exteriores/patines-patinetas-y-scooters"
+    },
+    {
+        "department": "automovil",
+        "hrefDepartment": "/automovil",
+        "category": "motor-y-mantenimiento",
+        "hrefCategory": "/automovil/motor-y-mantenimiento",
+        "subCategory": "aceites-y-lubricantes",
+        "hrefSubCategory": "/automovil/motor-y-mantenimiento/aceites-y-lubricantes"
+    },
+    {
+        "department": "automovil",
+        "hrefDepartment": "/automovil",
+        "category": "motor-y-mantenimiento",
+        "hrefCategory": "/automovil/motor-y-mantenimiento",
+        "subCategory": "aditivos",
+        "hrefSubCategory": "/automovil/motor-y-mantenimiento/aditivos"
+    },
+    {
+        "department": "automovil",
+        "hrefDepartment": "/automovil",
+        "category": "motor-y-mantenimiento",
+        "hrefCategory": "/automovil/motor-y-mantenimiento",
+        "subCategory": "anticongelantes-y-refrigerantes",
+        "hrefSubCategory": "/automovil/motor-y-mantenimiento/anticongelantes-y-refrigerantes"
+    },
+    {
+        "department": "automovil",
+        "hrefDepartment": "/automovil",
+        "category": "limpieza",
+        "hrefCategory": "/automovil/limpieza",
+        "subCategory": "hidrolavadoras",
+        "hrefSubCategory": "/automovil/limpieza/hidrolavadoras"
+    },
+    {
+        "department": "automovil",
+        "hrefDepartment": "/automovil",
+        "category": "limpieza",
+        "hrefCategory": "/automovil/limpieza",
+        "subCategory": "limpieza-interior",
+        "hrefSubCategory": "/automovil/limpieza/limpieza-interior"
+    },
+    {
+        "department": "automovil",
+        "hrefDepartment": "/automovil",
+        "category": "limpieza",
+        "hrefCategory": "/automovil/limpieza",
+        "subCategory": "limpieza-exterior",
+        "hrefSubCategory": "/automovil/limpieza/limpieza-exterior"
+    },
+    {
+        "department": "automovil",
+        "hrefDepartment": "/automovil",
+        "category": "baterias",
+        "hrefCategory": "/automovil/baterias",
+        "subCategory": "baterias",
+        "hrefSubCategory": "/automovil/baterias/baterias"
+    },
+    {
+        "department": "automovil",
+        "hrefDepartment": "/automovil",
+        "category": "baterias",
+        "hrefCategory": "/automovil/baterias",
+        "subCategory": "cables-y-accesorios",
+        "hrefSubCategory": "/automovil/baterias/cables-y-accesorios"
+    },
+    {
+        "department": "automovil",
+        "hrefDepartment": "/automovil",
+        "category": "llantas",
+        "hrefCategory": "/automovil/llantas",
+        "subCategory": "",
+        "hrefSubCategory": ""
+    },
+    {
+        "department": "automovil",
+        "hrefDepartment": "/automovil",
+        "category": "seguridad-autos",
+        "hrefCategory": "/automovil/seguridad-autos",
+        "subCategory": "extintores-y-accesorios-de-seguridad",
+        "hrefSubCategory": "/automovil/seguridad-autos/extintores-y-accesorios-de-seguridad"
+    },
+    {
+        "department": "automovil",
+        "hrefDepartment": "/automovil",
+        "category": "seguridad-autos",
+        "hrefCategory": "/automovil/seguridad-autos",
+        "subCategory": "maletines-y-kits-de-carretera",
+        "hrefSubCategory": "/automovil/seguridad-autos/maletines-y-kits-de-carretera"
+    },
+    {
+        "department": "automovil",
+        "hrefDepartment": "/automovil",
+        "category": "accesorios-para-auto",
+        "hrefCategory": "/automovil/accesorios-para-auto",
+        "subCategory": "cubreautos",
+        "hrefSubCategory": "/automovil/accesorios-para-auto/cubreautos"
+    },
+    {
+        "department": "automovil",
+        "hrefDepartment": "/automovil",
+        "category": "accesorios-para-auto",
+        "hrefCategory": "/automovil/accesorios-para-auto",
+        "subCategory": "cubreasientos,-cubrevolantes-y-tapetes",
+        "hrefSubCategory": "/automovil/accesorios-para-auto/cubreasientos-cubrevolantes-y-tapetes"
+    },
+    {
+        "department": "automovil",
+        "hrefDepartment": "/automovil",
+        "category": "accesorios-para-auto",
+        "hrefCategory": "/automovil/accesorios-para-auto",
+        "subCategory": "plumillas",
+        "hrefSubCategory": "/automovil/accesorios-para-auto/plumillas"
+    },
+    {
+        "department": "automovil",
+        "hrefDepartment": "/automovil",
+        "category": "accesorios-para-auto",
+        "hrefCategory": "/automovil/accesorios-para-auto",
+        "subCategory": "audio-y-video",
+        "hrefSubCategory": "/automovil/accesorios-para-auto/audio-y-video"
+    },
+    {
+        "department": "automovil",
+        "hrefDepartment": "/automovil",
+        "category": "accesorios-para-auto",
+        "hrefCategory": "/automovil/accesorios-para-auto",
+        "subCategory": "soportes-y-cargadores",
+        "hrefSubCategory": "/automovil/accesorios-para-auto/soportes-y-cargadores"
+    },
+    {
+        "department": "herramientas-y-ferreteria",
+        "hrefDepartment": "/herramientas-y-ferreteria",
+        "category": "herramientas-electricas",
+        "hrefCategory": "/herramientas-y-ferreteria/herramientas-electricas",
+        "subCategory": "taladros-y-accesorios",
+        "hrefSubCategory": "/herramientas-y-ferreteria/herramientas-electricas/taladros-y-accesorios"
+    },
+    {
+        "department": "herramientas-y-ferreteria",
+        "hrefDepartment": "/herramientas-y-ferreteria",
+        "category": "herramientas-electricas",
+        "hrefCategory": "/herramientas-y-ferreteria/herramientas-electricas",
+        "subCategory": "pulidoras-y-accesorios",
+        "hrefSubCategory": "/herramientas-y-ferreteria/herramientas-electricas/pulidoras-y-accesorios"
+    },
+    {
+        "department": "herramientas-y-ferreteria",
+        "hrefDepartment": "/herramientas-y-ferreteria",
+        "category": "herramientas-electricas",
+        "hrefCategory": "/herramientas-y-ferreteria/herramientas-electricas",
+        "subCategory": "para-maderas",
+        "hrefSubCategory": "/herramientas-y-ferreteria/herramientas-electricas/para-maderas"
+    },
+    {
+        "department": "herramientas-y-ferreteria",
+        "hrefDepartment": "/herramientas-y-ferreteria",
+        "category": "herramientas-electricas",
+        "hrefCategory": "/herramientas-y-ferreteria/herramientas-electricas",
+        "subCategory": "atornilladores",
+        "hrefSubCategory": "/herramientas-y-ferreteria/herramientas-electricas/atornilladores"
+    },
+    {
+        "department": "herramientas-y-ferreteria",
+        "hrefDepartment": "/herramientas-y-ferreteria",
+        "category": "herramientas-electricas",
+        "hrefCategory": "/herramientas-y-ferreteria/herramientas-electricas",
+        "subCategory": "pistolas-de-calor",
+        "hrefSubCategory": "/herramientas-y-ferreteria/herramientas-electricas/pistolas-de-calor"
+    },
+    {
+        "department": "herramientas-y-ferreteria",
+        "hrefDepartment": "/herramientas-y-ferreteria",
+        "category": "herramientas-manuales",
+        "hrefCategory": "/herramientas-y-ferreteria/herramientas-manuales",
+        "subCategory": "alicates,-caimanes-y-llaves",
+        "hrefSubCategory": "/herramientas-y-ferreteria/herramientas-manuales/alicates-caimanes-y-llaves"
+    },
+    {
+        "department": "herramientas-y-ferreteria",
+        "hrefDepartment": "/herramientas-y-ferreteria",
+        "category": "herramientas-manuales",
+        "hrefCategory": "/herramientas-y-ferreteria/herramientas-manuales",
+        "subCategory": "dados,-copas-y-llaves",
+        "hrefSubCategory": "/herramientas-y-ferreteria/herramientas-manuales/dados-copas-y-llaves"
+    },
+    {
+        "department": "herramientas-y-ferreteria",
+        "hrefDepartment": "/herramientas-y-ferreteria",
+        "category": "herramientas-manuales",
+        "hrefCategory": "/herramientas-y-ferreteria/herramientas-manuales",
+        "subCategory": "destornilladores",
+        "hrefSubCategory": "/herramientas-y-ferreteria/herramientas-manuales/destornilladores"
+    },
+    {
+        "department": "herramientas-y-ferreteria",
+        "hrefDepartment": "/herramientas-y-ferreteria",
+        "category": "herramientas-manuales",
+        "hrefCategory": "/herramientas-y-ferreteria/herramientas-manuales",
+        "subCategory": "serruchos,-seguetas,-formones-y-escofinas",
+        "hrefSubCategory": "/herramientas-y-ferreteria/herramientas-manuales/serruchos-seguetas-formones-y-escofinas"
+    },
+    {
+        "department": "herramientas-y-ferreteria",
+        "hrefDepartment": "/herramientas-y-ferreteria",
+        "category": "organizadores",
+        "hrefCategory": "/herramientas-y-ferreteria/organizadores",
+        "subCategory": "cajas-y-maletas-de-herramientas",
+        "hrefSubCategory": "/herramientas-y-ferreteria/organizadores/cajas-y-maletas-de-herramientas"
+    },
+    {
+        "department": "herramientas-y-ferreteria",
+        "hrefDepartment": "/herramientas-y-ferreteria",
+        "category": "organizadores",
+        "hrefCategory": "/herramientas-y-ferreteria/organizadores",
+        "subCategory": "escaleras",
+        "hrefSubCategory": "/herramientas-y-ferreteria/organizadores/escaleras"
+    },
+    {
+        "department": "herramientas-y-ferreteria",
+        "hrefDepartment": "/herramientas-y-ferreteria",
+        "category": "iluminacion-y-electricos",
+        "hrefCategory": "/herramientas-y-ferreteria/iluminacion-y-electricos",
+        "subCategory": "linternas-y-lamparas",
+        "hrefSubCategory": "/herramientas-y-ferreteria/iluminacion-y-electricos/linternas-y-lamparas"
+    },
+    {
+        "department": "herramientas-y-ferreteria",
+        "hrefDepartment": "/herramientas-y-ferreteria",
+        "category": "iluminacion-y-electricos",
+        "hrefCategory": "/herramientas-y-ferreteria/iluminacion-y-electricos",
+        "subCategory": "pilas",
+        "hrefSubCategory": "/herramientas-y-ferreteria/iluminacion-y-electricos/pilas"
+    },
+    {
+        "department": "herramientas-y-ferreteria",
+        "hrefDepartment": "/herramientas-y-ferreteria",
+        "category": "iluminacion-y-electricos",
+        "hrefCategory": "/herramientas-y-ferreteria/iluminacion-y-electricos",
+        "subCategory": "bombillos",
+        "hrefSubCategory": "/herramientas-y-ferreteria/iluminacion-y-electricos/bombillos"
+    },
+    {
+        "department": "herramientas-y-ferreteria",
+        "hrefDepartment": "/herramientas-y-ferreteria",
+        "category": "iluminacion-y-electricos",
+        "hrefCategory": "/herramientas-y-ferreteria/iluminacion-y-electricos",
+        "subCategory": "multitomas-y-reguladores",
+        "hrefSubCategory": "/herramientas-y-ferreteria/iluminacion-y-electricos/multitomas-y-reguladores"
+    },
+    {
+        "department": "herramientas-y-ferreteria",
+        "hrefDepartment": "/herramientas-y-ferreteria",
+        "category": "cerrajeria",
+        "hrefCategory": "/herramientas-y-ferreteria/cerrajeria",
+        "subCategory": "candados",
+        "hrefSubCategory": "/herramientas-y-ferreteria/cerrajeria/candados"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "libros",
+        "hrefCategory": "/libros-y-papeleria/libros",
+        "subCategory": "interes-general",
+        "hrefSubCategory": "/libros-y-papeleria/libros/interes-general"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "libros",
+        "hrefCategory": "/libros-y-papeleria/libros",
+        "subCategory": "fantasia-y-ciencia-ficcion",
+        "hrefSubCategory": "/libros-y-papeleria/libros/fantasia-y-ciencia-ficcion"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "libros",
+        "hrefCategory": "/libros-y-papeleria/libros",
+        "subCategory": "textos-escolares",
+        "hrefSubCategory": "/libros-y-papeleria/libros/textos-escolares"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "libros",
+        "hrefCategory": "/libros-y-papeleria/libros",
+        "subCategory": "profesionales-y-especializados",
+        "hrefSubCategory": "/libros-y-papeleria/libros/profesionales-y-especializados"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "libros",
+        "hrefCategory": "/libros-y-papeleria/libros",
+        "subCategory": "infantil",
+        "hrefSubCategory": "/libros-y-papeleria/libros/infantil"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "libros",
+        "hrefCategory": "/libros-y-papeleria/libros",
+        "subCategory": "thriller-y-terror",
+        "hrefSubCategory": "/libros-y-papeleria/libros/thriller-y-terror"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "libros",
+        "hrefCategory": "/libros-y-papeleria/libros",
+        "subCategory": "actualidad",
+        "hrefSubCategory": "/libros-y-papeleria/libros/actualidad"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "libros",
+        "hrefCategory": "/libros-y-papeleria/libros",
+        "subCategory": "otros-libros",
+        "hrefSubCategory": "/libros-y-papeleria/libros/otros-libros"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "libros",
+        "hrefCategory": "/libros-y-papeleria/libros",
+        "subCategory": "revistas-y-periodicos",
+        "hrefSubCategory": "/libros-y-papeleria/libros/revistas-y-periodicos"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "utiles-escolares",
+        "hrefCategory": "/libros-y-papeleria/utiles-escolares",
+        "subCategory": "cuadernos-y-agendas",
+        "hrefSubCategory": "/libros-y-papeleria/utiles-escolares/cuadernos-y-agendas"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "utiles-escolares",
+        "hrefCategory": "/libros-y-papeleria/utiles-escolares",
+        "subCategory": "accesorios-de-oficina-y-estudio",
+        "hrefSubCategory": "/libros-y-papeleria/utiles-escolares/accesorios-de-oficina-y-estudio"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "utiles-escolares",
+        "hrefCategory": "/libros-y-papeleria/utiles-escolares",
+        "subCategory": "tijeras",
+        "hrefSubCategory": "/libros-y-papeleria/utiles-escolares/tijeras"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "utiles-escolares",
+        "hrefCategory": "/libros-y-papeleria/utiles-escolares",
+        "subCategory": "borradores-,correctores-y-tajalapices",
+        "hrefSubCategory": "/libros-y-papeleria/utiles-escolares/borradores-correctores-y-tajalapices"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "utiles-escolares",
+        "hrefCategory": "/libros-y-papeleria/utiles-escolares",
+        "subCategory": "compases",
+        "hrefSubCategory": "/libros-y-papeleria/utiles-escolares/compases"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "utiles-escolares",
+        "hrefCategory": "/libros-y-papeleria/utiles-escolares",
+        "subCategory": "cintas-adhesivas-y-pegantes",
+        "hrefSubCategory": "/libros-y-papeleria/utiles-escolares/cintas-adhesivas-y-pegantes"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "utiles-escolares",
+        "hrefCategory": "/libros-y-papeleria/utiles-escolares",
+        "subCategory": "reglas-y-escuadras",
+        "hrefSubCategory": "/libros-y-papeleria/utiles-escolares/reglas-y-escuadras"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "utiles-escolares",
+        "hrefCategory": "/libros-y-papeleria/utiles-escolares",
+        "subCategory": "pinturas-escolares-y-plastilinas",
+        "hrefSubCategory": "/libros-y-papeleria/utiles-escolares/pinturas-escolares-y-plastilinas"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "utiles-escolares",
+        "hrefCategory": "/libros-y-papeleria/utiles-escolares",
+        "subCategory": "loncheras-y-cartucheras",
+        "hrefSubCategory": "/libros-y-papeleria/utiles-escolares/loncheras-y-cartucheras"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "escritura",
+        "hrefCategory": "/libros-y-papeleria/escritura",
+        "subCategory": "boligrafos",
+        "hrefSubCategory": "/libros-y-papeleria/escritura/boligrafos"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "escritura",
+        "hrefCategory": "/libros-y-papeleria/escritura",
+        "subCategory": "colores",
+        "hrefSubCategory": "/libros-y-papeleria/escritura/colores"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "escritura",
+        "hrefCategory": "/libros-y-papeleria/escritura",
+        "subCategory": "lapices,-portaminas",
+        "hrefSubCategory": "/libros-y-papeleria/escritura/lapices-portaminas"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "escritura",
+        "hrefCategory": "/libros-y-papeleria/escritura",
+        "subCategory": "marcadores,-resaltadores-y-plumones",
+        "hrefSubCategory": "/libros-y-papeleria/escritura/marcadores-resaltadores-y-plumones"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "archivo-y-clasificacion",
+        "hrefCategory": "/libros-y-papeleria/archivo-y-clasificacion",
+        "subCategory": "carpetas",
+        "hrefSubCategory": "/libros-y-papeleria/archivo-y-clasificacion/carpetas"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "archivo-y-clasificacion",
+        "hrefCategory": "/libros-y-papeleria/archivo-y-clasificacion",
+        "subCategory": "folderes",
+        "hrefSubCategory": "/libros-y-papeleria/archivo-y-clasificacion/folderes"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "maletines-y-morrales",
+        "hrefCategory": "/libros-y-papeleria/maletines-y-morrales",
+        "subCategory": "morrales-sin-ruedas",
+        "hrefSubCategory": "/libros-y-papeleria/maletines-y-morrales/morrales-sin-ruedas"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "maletines-y-morrales",
+        "hrefCategory": "/libros-y-papeleria/maletines-y-morrales",
+        "subCategory": "morrales-con-ruedas",
+        "hrefSubCategory": "/libros-y-papeleria/maletines-y-morrales/morrales-con-ruedas"
+    },
+    {
+        "department": "libros-y-papeleria",
+        "hrefDepartment": "/libros-y-papeleria",
+        "category": "papeles,-adhesivos-y-blocks",
+        "hrefCategory": "/libros-y-papeleria/papeles-adhesivos-y-blocks",
+        "subCategory": "",
+        "hrefSubCategory": ""
+    },
+    {
+        "department": "especiales",
+        "hrefDepartment": "/especiales",
+        "category": "navidad",
+        "hrefCategory": "/especiales/navidad",
+        "subCategory": "",
+        "hrefSubCategory": ""
+    }
+]
