@@ -33,20 +33,25 @@ const main = async () => {
         //const filePath = path.join(__dirname, `/filesHtml/${fileName}`);
         //fs.writeFileSync(filePath, html, 'utf-8');
         //const urlAxios = "https://www.tiendasjumbo.co/supermercado/despensa";
-        const urlAxios = "https://www.tiendasmetro.co/buscapagina?sl=f4c983d7-a76d-4ae9-8dc6-775a5fc50853&PS=18&cc=18&sm=0&PageNumber=1&&fq=C%3a%2f277%2f288%2f289%2f&O=OrderByBestDiscountDESC";
+        const urlAxios = "https://www.tiendasmetro.co/deportes/otros-deportes";
         const response = await axios.get(urlAxios);
-        console.log('response:', response.data)
+        //console.log('response:', response.data)
         html = response.data;
-        const fileName = 'TiendasMetroCatPag.html';
-        const filePath = path.join(__dirname, `/filesHtml/${fileName}`);
-        fs.writeFileSync(filePath, html, 'utf-8');
-        /*$ = cheerio.load(html);
+        //const fileName = 'subCarOtrosDerportesNauticos.html';
+        //const filePath = path.join(__dirname, `/tiendasMetroHTML/${fileName}`);
+        //fs.writeFileSync(filePath, html, 'utf-8');
+        $ = cheerio.load(html);
+        let inicio, fin;        
         const buscapagina =  $('div.vitrine script').html();
         console.log('buscapagina:', buscapagina);
-        const inicio = buscapagina.indexOf('fq=');
-        const fin = buscapagina.indexOf('&PS');
+        inicio = buscapagina.indexOf('fq=');
+        fin = buscapagina.indexOf('&PS');
         const fq = buscapagina.slice(inicio, fin);
-        console.log('fq:', fq);*/
+        console.log('fq:', fq);
+        inicio = buscapagina.indexOf('sl=');
+        fin = buscapagina.indexOf('&cc');
+        const sl = buscapagina.slice(inicio, fin);
+        console.log('sl:', sl);
          
         /*const urlAxios = "https://www.tiendasjumbo.co/buscapagina?fq=isAvailablePerSalesChannel_1:1&sl=49a31962-b0e8-431b-a189-2473c95aeeeb&PS=18&cc=18&sm=0&PageNumber=1&fq=C%3a%2f2000666%2f&O=OrderByTopSaleDESC";
         const response = await axios.get(urlAxios);
