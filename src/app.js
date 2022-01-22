@@ -44,12 +44,12 @@ const main = async () => {
                 $(`div.menuDepartments div.department div.menuCategories div.${department} div.column div.category a`).each((indexSubCategory, contentSubCategory) => { 
                     subCategory = removeAccents($(contentSubCategory).text().trim().replace(/\s/g, "-").replace(/["]/g, 'plg').replace(/[,.;:]/g, '').toLowerCase());
                     hrefSubCategory = $(contentSubCategory).attr('href');
-                    if (subCategory !== category) { links.push({ department, hrefDepartment, category, hrefCategory, subCategory, hrefSubCategory }) };
+                    links.push({ department, hrefDepartment, category, hrefCategory, subCategory, hrefSubCategory });
                 });
             });
         });
         const fileName = 'listCatTiendasMetro.json';
-        const filePath = path.join(__dirname, `/tiendasMetroHTML/filesJson${fileName}`);
+        const filePath = path.join(__dirname, `/tiendasMetroHTML/filesJson/${fileName}`);
         fs.writeFileSync(filePath, JSON.stringify(links), 'utf-8');
         //const urlAxios = "https://www.tiendasjumbo.co/supermercado/despensa";
         //const urlAxios = "https://www.tiendasmetro.co";
