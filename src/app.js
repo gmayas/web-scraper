@@ -5,7 +5,7 @@ const path = require('path');
 const fs = require('fs');
 const axios = require('axios');
 //
-const urlHome = "https://www.tiendasmetro.co/";
+const urlHome = "https://www.costco.com.mx/";
 //
 const main = async () => {
     try {
@@ -26,39 +26,68 @@ const main = async () => {
             waitUntil: 'load',
             timeout: 0
         });
-        // await page.click(".button-categories");
-        //html = await page.evaluate(() => document.querySelector("header div.container__header div.header-third-row div.desktop-menu div#desktop-menu-container div.menu-content-desktop div.menuDepartments").outerHTML);
-        //const urlAxios = "https://www.tiendasjumbo.co/buscapagina?fq=isAvailablePerSalesChannel_1:1&sl=49a31962-b0e8-431b-a189-2473c95aeeeb&PS=18&cc=18&sm=0&PageNumber=1&fq=C%3a%2f2000476%2f2000477%2f2000478%2f&O=OrderByTopSaleDESC";
-        //console.log('html:', html);
         // Process Scraper
-        html = await page.evaluate(() => document.querySelector("header div.container__header div.header-third-row div.desktop-menu div#desktop-menu-container div.menu-content-desktop div.menuDepartments").outerHTML);
+        html = await page.evaluate(() => document.querySelector("main header.main-header div div nav.sm-navigation div div.navigation-wrapper ul#theMenu").outerHTML);
         $ = cheerio.load(html);
-        let department, hrefDepartment, category, hrefCategory, subCategory, hrefSubCategory; 
+        let department, hrefDepartment, category, hrefCategory, subCategory, hrefSubCategory;
+        let ul;
         // Get department 
-        $('div.menuDepartments div.department a.redirect').each((indexDepartment, contentDepartment) => {
-            department = removeAccents($(contentDepartment).text().trim().replace(/\s/g, "-").replace(/["]/g, 'plg').replace(/[,.;:]/g, '').toLowerCase());
-            hrefDepartment = $(contentDepartment).attr('href');
-            $(`div.menuDepartments div.department div.menuCategories div.${department} div.column div.category a.title`).each((indexCategory, contentCategory) => { 
-                category = removeAccents($(contentCategory).text().trim().replace(/\s/g, "-").replace(/["]/g, 'plg').replace(/[,.;:]/g, '').toLowerCase());
-                hrefCategory = $(contentCategory).attr('href');
-                $(`div.menuDepartments div.department div.menuCategories div.${department} div.column div.category a`).each((indexSubCategory, contentSubCategory) => { 
-                    subCategory = removeAccents($(contentSubCategory).text().trim().replace(/\s/g, "-").replace(/["]/g, 'plg').replace(/[,.;:]/g, '').toLowerCase());
-                    hrefSubCategory = $(contentSubCategory).attr('href');
-                    links.push({ department, hrefDepartment, category, hrefCategory, subCategory, hrefSubCategory });
+        $('li.topmenu ').each((indexDepartment, contentDepartment) => {
+            const htmlDepartment = $(contentDepartment).html();
+            const $Department = cheerio.load(htmlDepartment);
+            hrefDepartment = $Department('a.show-sub-menu').attr('href');
+            if (hrefDepartment) {
+                const idCostcosCat = $Department('a.show-sub-menu').attr('aria-controls');
+                department = getFirstItem(hrefDepartment);
+                $Department(`ul#${idCostcosCat} li`).each((indexCategory, contentCategory) => {
+                    const htmlCategory = $Department(contentCategory).html();
+                    const $Category = cheerio.load(htmlCategory);
+                    hrefCategory = $Category('a.show-sub-menu').attr('href');
+                    if (hrefCategory) {
+                        const idCostcosSubCat = $Category('a.cat-trigger').attr('data-category');
+                        category = getSecondItem(hrefCategory);
+                        //ul = $Department(`ul#${idCostcosCat} li ul`).html();
+                        //console.log('ul: ', ul);
+                        //links.push({ department, hrefDepartment, category, hrefCategory, idCostcosSubCat, htmlCategory, subCategory, hrefSubCategory });    
+                        $Category(`ul li`).each((indexSubCategory, contentSubCategory) => {
+                            const htmlSubCategory = $Category(contentSubCategory).html();
+                            const $SubCategory = cheerio.load(htmlSubCategory);
+                            const menuitem = $SubCategory('a').attr('role');
+                            if (!menuitem){
+                                hrefSubCategory = $SubCategory('a').attr('href');
+                                if (hrefSubCategory) {
+                                    subCategory = getThirdItem(hrefSubCategory);
+                                    links.push({ department, hrefDepartment, category, hrefCategory, subCategory, hrefSubCategory });    
+                               };
+                            }
+                        });
+                    };
                 });
-            });
+            };
+            const title = $Department('a').attr('title');
+            if (title === "Vida Saludable") {
+                hrefDepartment = $Department('a').attr('href')
+                department = removeAccents(title.trim().replace(/\s/g, "-").replace(/["]/g, 'plg').replace(/[,.;:]/g, '').toLowerCase())
+                links.push({ department, hrefDepartment, "category": "", "hrefCategory": "", "subCategory": "", "hrefSubCategory": "" });
+            };
         });
-        const fileName = 'listCatTiendasMetro.json';
-        const filePath = path.join(__dirname, `/tiendasMetroHTML/filesJson/${fileName}`);
+        const fileName = 'listDepCostcoMexico.json';
+        const filePath = path.join(__dirname, `/coscoHTML/filesJson/${fileName}`);
         fs.writeFileSync(filePath, JSON.stringify(links), 'utf-8');
-        //const urlAxios = "https://www.tiendasjumbo.co/supermercado/despensa";
-        //const urlAxios = "https://www.tiendasmetro.co";
-        //const response = await axios.get(urlAxios);
-        //console.log('response:', response.data)
-        //html = response.data;
-        //const fileName = 'mainTiendasMetro.html';
-        //const filePath = path.join(__dirname, `/tiendasJumboHTML/${fileName}`);
+        //const fileName = 'listDepCostcoMexico.html';
+        //const filePath = path.join(__dirname, `/coscoHTML/${fileName}`);
         //fs.writeFileSync(filePath, html, 'utf-8');
+        //const filePath = path.join(__dirname, `/coscoHTML/filesJson/${fileName}`);
+        //fs.writeFileSync(filePath, JSON.stringify(links), 'utf-8');
+        /*
+        //const urlAxios = "https://www.tiendasjumbo.co/supermercado/despensa";
+        const urlAxios = "https://www.costco.com.mx/Electronicos/Pantallas-y-Proyectores/c/cos_1.1";
+        const response = await axios.get(urlAxios);
+        //console.log('response:', response.data)ñ
+        html = response.data;
+        const fileName = 'catPantallasCosco.html';
+        const filePath = path.join(__dirname, `/coscoHTML/${fileName}`);
+        fs.writeFileSync(filePath, html, 'utf-8');
         /*$ = cheerio.load(html);
         let inicio, fin;        
         const buscapagina =  $('div.vitrine script').html();
@@ -71,7 +100,7 @@ const main = async () => {
         fin = buscapagina.indexOf('&cc');
         const sl = buscapagina.slice(inicio, fin);
         console.log('sl:', sl);*/
-         
+
         /*const urlAxios = "https://www.tiendasjumbo.co/buscapagina?fq=isAvailablePerSalesChannel_1:1&sl=49a31962-b0e8-431b-a189-2473c95aeeeb&PS=18&cc=18&sm=0&PageNumber=1&fq=C%3a%2f2000666%2f&O=OrderByTopSaleDESC";
         const response = await axios.get(urlAxios);
         html = response.data;
@@ -114,6 +143,38 @@ const getLastItem = (hRef) => {
     return arr.pop(); //Obtenemos el ultimo elemento
 
 }
+
+// Get first item
+const getFirstItem = (hRef) => {
+    let arr = hRef;
+    arr = arr.replace(/^[/]/, ""); //Quitarmos diagonales principio y final
+    arr = arr.split('/'); // Convertimos en array
+    let data = arr[0];
+    //.trim().replace(/\s/g, "-").replace(/["]/g, 'plg').replace(/[,.;:]/g, '').toLowerCase());
+    return removeAccents(data.trim().toLowerCase());; //Obtenemos el primer elemento
+};
+
+// Get second item
+const getSecondItem = (hRef) => {
+    let arr = hRef;
+    arr = arr.replace(/^[/]/, ""); //Quitarmos diagonales principio y final
+    arr = arr.split('/'); // Convertimos en array
+    let data = arr[1];
+    //.trim().replace(/\s/g, "-").replace(/["]/g, 'plg').replace(/[,.;:]/g, '').toLowerCase());
+    return removeAccents(data.trim().toLowerCase());; //Obtenemos el primer elemento
+};
+
+// Get third item
+const getThirdItem = (hRef) => {
+    let arr = hRef;
+    console.log('hRef:', hRef);
+    arr = arr.replace(/^[/]/, ""); //Quitarmos diagonales principio y final
+    arr = arr.split('/'); // Convertimos en array
+    console.log('arr:', arr);
+    let data = arr[2];
+    //.trim().replace(/\s/g, "-").replace(/["]/g, 'plg').replace(/[,.;:]/g, '').toLowerCase());
+    return removeAccents(data.trim().toLowerCase());; //Obtenemos el primer elemento
+};
 
 // Remove Accents y Tildes 
 const removeAccents = (str) => { return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "") };
