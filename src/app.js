@@ -13,8 +13,8 @@ const main = async () => {
         let data = [];
         const urlAxios = "https://www.sams.com.mx/sams/home/?format=json&centralPts=0000006578,0000006286,0000004911,0000006563,0000008122,0000006310&expressDeliveryStoreIds=0000006578&storeId=0000006578";
         const response = await axios.get(urlAxios);
-        data = response.data.headerArea;
-        data = data.filter((f) => f.name == "Taxonomy");
+        data = response.data.headerArea.filter((f) => f.name == "Taxonomy");;
+        //data = data.filter((f) => f.name == "Taxonomy");
         let newContents = data.map((value, index) => { const res = { index, newContents: value.contents }; return res; });
         let departments = [];
         newContents.map((value, index) => {
