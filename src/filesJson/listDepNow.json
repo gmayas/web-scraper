@@ -1,0 +1,66 @@
+[
+    {
+        "department": "cervezas",
+        "category": "nacionales"
+    },
+    {
+        "department": "cervezas",
+        "category": "importadas"
+    },
+    {
+        "department": "cervezas",
+        "category": "artesanales"
+    },
+    {
+        "department": "vinos-y-licores",
+        "category": "mezcal"
+    },
+    {
+        "department": "vinos-y-licores",
+        "category": "ron"
+    },
+    {
+        "department": "vinos-y-licores",
+        "category": "tequila"
+    },
+    {
+        "department": "vinos-y-licores",
+        "category": "whisky"
+    },
+    {
+        "department": "vinos-y-licores",
+        "category": "vodka"
+    },
+    {
+        "department": "vinos-y-licores",
+        "category": "gin"
+    },
+    {
+        "department": "vinos-y-licores",
+        "category": "vinos"
+    },
+    {
+        "department": "refrescos-y-bebidas",
+        "category": "refrescos"
+    },
+    {
+        "department": "refrescos-y-bebidas",
+        "category": "tonicas"
+    },
+    {
+        "department": "refrescos-y-bebidas",
+        "category": "otras"
+    },
+    {
+        "department": "otros",
+        "category": "botanas-y-dulces"
+    },
+    {
+        "department": "otros",
+        "category": "complementos"
+    },
+    {
+        "department": "promociones",
+        "category": ""
+    }
+]

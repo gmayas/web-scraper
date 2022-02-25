@@ -1,0 +1,31 @@
+{
+    "id": "cat300186",
+    "type": "fineLine",
+    "image": "/images/categorias/d-electrodomesticos/f-destacados-electrodomesticos/lp-l-destacados-electrodomesticos.jpg",
+    "name": "Electrodomesticos Destacados",
+    "url": "/electrodomesticos/destacados-electrodomesticos/electrodomesticos-destacados",
+    "department": {
+        "categoryRepositoryId": "cat300185",
+        "parentId": "cat265659",
+        "type": "family",
+        "displayName": "Destacados Electrodomésticos",
+        "smallImageUrl": "https://res.cloudinary.com/walmart-labs/image/upload/v1582563397/mg/images/categorias/d-electrodomesticos/f-destacados-electrodomesticos.jpg",
+        "thumbnailImageUrl": null,
+        "images": [
+            "https://res.cloudinary.com/walmart-labs/image/upload/v1582563397/mg/images/categorias/d-electrodomesticos/f-destacados-electrodomesticos.jpg"
+        ],
+        "level": 2
+    },
+    "departmentParent": {
+        "categoryRepositoryId": "cat265659",
+        "parentId": "cat265658",
+        "type": "department",
+        "displayName": "Electrodomésticos",
+        "smallImageUrl": "https://i5.walmartimages.com/dfw/fc2bdac6-bd61/k2-_0bf7d32d-a1ca-4723-9da8-59bc30f1fc9b.v1.jpg",
+        "thumbnailImageUrl": null,
+        "images": [
+            "https://i5.walmartimages.com/dfw/fc2bdac6-bd61/k2-_0bf7d32d-a1ca-4723-9da8-59bc30f1fc9b.v1.jpg"
+        ],
+        "level": 1
+    }
+}

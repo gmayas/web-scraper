@@ -1,0 +1,3738 @@
+[
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "pantallas-y-proyectores",
+        "hrefCategory": "/Electronicos/Pantallas-y-Proyectores/c/cos_1.1",
+        "subCategory": "32-a-48-pulgadas",
+        "hrefSubCategory": "/Electronicos/Pantallas-y-Proyectores/32-a-48-pulgadas/c/cos_1.1.2"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "pantallas-y-proyectores",
+        "hrefCategory": "/Electronicos/Pantallas-y-Proyectores/c/cos_1.1",
+        "subCategory": "49-a-60-pulgadas",
+        "hrefSubCategory": "/Electronicos/Pantallas-y-Proyectores/49-a-60-pulgadas/c/cos_1.1.3"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "pantallas-y-proyectores",
+        "hrefCategory": "/Electronicos/Pantallas-y-Proyectores/c/cos_1.1",
+        "subCategory": "65-pulgadas-y-mas",
+        "hrefSubCategory": "/Electronicos/Pantallas-y-Proyectores/65-pulgadas-y-Mas/c/cos_1.1.4"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "pantallas-y-proyectores",
+        "hrefCategory": "/Electronicos/Pantallas-y-Proyectores/c/cos_1.1",
+        "subCategory": "proyectores-de-video",
+        "hrefSubCategory": "/Electronicos/Pantallas-y-Proyectores/Proyectores-de-Video/c/cos_1.1.5"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "pantallas-y-proyectores",
+        "hrefCategory": "/Electronicos/Pantallas-y-Proyectores/c/cos_1.1",
+        "subCategory": "soporte-para-pantallas",
+        "hrefSubCategory": "/Electronicos/Pantallas-y-Proyectores/Soporte-para-Pantallas/c/cos_1.1.6"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "videojuegos",
+        "hrefCategory": "/Electronicos/Videojuegos/c/cos_1.2",
+        "subCategory": "nintendo-switch",
+        "hrefSubCategory": "/Electronicos/Videojuegos/Nintendo-Switch/c/cos_1.2.1"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "videojuegos",
+        "hrefCategory": "/Electronicos/Videojuegos/c/cos_1.2",
+        "subCategory": "playstation",
+        "hrefSubCategory": "/Electronicos/Videojuegos/PlayStation/c/cos_1.2.2"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "videojuegos",
+        "hrefCategory": "/Electronicos/Videojuegos/c/cos_1.2",
+        "subCategory": "xbox",
+        "hrefSubCategory": "/Electronicos/Videojuegos/Xbox/c/cos_1.2.3"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "videojuegos",
+        "hrefCategory": "/Electronicos/Videojuegos/c/cos_1.2",
+        "subCategory": "accesorios-para-videojuegos",
+        "hrefSubCategory": "/Electronicos/Videojuegos/Accesorios-para-Videojuegos/c/cos_1.2.5"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "celulares-y-accesorios",
+        "hrefCategory": "/Electronicos/Celulares-y-Accesorios/c/cos_1.3",
+        "subCategory": "celulares",
+        "hrefSubCategory": "/Electronicos/Celulares-y-Accesorios/Celulares/c/cos_1.3.1"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "celulares-y-accesorios",
+        "hrefCategory": "/Electronicos/Celulares-y-Accesorios/c/cos_1.3",
+        "subCategory": "accesorios-para-celulares",
+        "hrefSubCategory": "/Electronicos/Celulares-y-Accesorios/Accesorios-para-Celulares/c/cos_1.3.2"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "audio",
+        "hrefCategory": "/Electronicos/Audio/c/cos_1.4",
+        "subCategory": "bocinas",
+        "hrefSubCategory": "/Electronicos/Audio/Bocinas/c/cos_1.4.1"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "audio",
+        "hrefCategory": "/Electronicos/Audio/c/cos_1.4",
+        "subCategory": "amplificadores",
+        "hrefSubCategory": "/Electronicos/Audio/Amplificadores/c/cos_1.4.2"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "audio",
+        "hrefCategory": "/Electronicos/Audio/c/cos_1.4",
+        "subCategory": "audifonos",
+        "hrefSubCategory": "/Electronicos/Audio/Audifonos/c/cos_1.4.3"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "audio",
+        "hrefCategory": "/Electronicos/Audio/c/cos_1.4",
+        "subCategory": "barras-de-sonido",
+        "hrefSubCategory": "/Electronicos/Audio/Barras-de-Sonido/c/cos_1.4.4"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "audio",
+        "hrefCategory": "/Electronicos/Audio/c/cos_1.4",
+        "subCategory": "microfonos",
+        "hrefSubCategory": "/Electronicos/Audio/Microfonos/c/cos_1.4.5"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "audio",
+        "hrefCategory": "/Electronicos/Audio/c/cos_1.4",
+        "subCategory": "tocadiscos",
+        "hrefSubCategory": "/Electronicos/Audio/Tocadiscos/c/cos_1.4.6"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "audio",
+        "hrefCategory": "/Electronicos/Audio/c/cos_1.4",
+        "subCategory": "sistemas-de-audio",
+        "hrefSubCategory": "/Electronicos/Audio/Sistemas-de-Audio/c/cos_1.4.7"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "apple",
+        "hrefCategory": "/Electronicos/Apple/c/cos_1.5",
+        "subCategory": "iphone",
+        "hrefSubCategory": "/Electronicos/Apple/iPhone/c/cos_1.5.1"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "apple",
+        "hrefCategory": "/Electronicos/Apple/c/cos_1.5",
+        "subCategory": "ipad",
+        "hrefSubCategory": "/Electronicos/Apple/iPad/c/cos_1.5.2"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "apple",
+        "hrefCategory": "/Electronicos/Apple/c/cos_1.5",
+        "subCategory": "apple-watch",
+        "hrefSubCategory": "/Electronicos/Apple/Apple-Watch/c/cos_1.5.3"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "apple",
+        "hrefCategory": "/Electronicos/Apple/c/cos_1.5",
+        "subCategory": "mac",
+        "hrefSubCategory": "/Electronicos/Apple/Mac/c/cos_1.5.6"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "apple",
+        "hrefCategory": "/Electronicos/Apple/c/cos_1.5",
+        "subCategory": "accesorios-y-audio-apple",
+        "hrefSubCategory": "/Electronicos/Apple/Accesorios-y-Audio-Apple/c/cos_1.5.5"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "apple",
+        "hrefCategory": "/Electronicos/Apple/c/cos_1.5",
+        "subCategory": "apple-tv",
+        "hrefSubCategory": "/Electronicos/Apple/Apple-TV/c/cos_1.5.4"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "instrumentos-musicales",
+        "hrefCategory": "/Electronicos/Instrumentos-Musicales/c/cos_1.6",
+        "subCategory": "pianos-y-teclados",
+        "hrefSubCategory": "/Electronicos/Instrumentos-Musicales/Pianos-y-Teclados/c/cos_1.6.1"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "instrumentos-musicales",
+        "hrefCategory": "/Electronicos/Instrumentos-Musicales/c/cos_1.6",
+        "subCategory": "instrumentos-de-cuerda",
+        "hrefSubCategory": "/Electronicos/Instrumentos-Musicales/Instrumentos-de-Cuerda/c/cos_1.6.2"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "instrumentos-musicales",
+        "hrefCategory": "/Electronicos/Instrumentos-Musicales/c/cos_1.6",
+        "subCategory": "instrumentos-de-percusion",
+        "hrefSubCategory": "/Electronicos/Instrumentos-Musicales/Instrumentos-de-Percusion/c/cos_1.6.3"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "instrumentos-musicales",
+        "hrefCategory": "/Electronicos/Instrumentos-Musicales/c/cos_1.6",
+        "subCategory": "instrumentos-de-aire",
+        "hrefSubCategory": "/Electronicos/Instrumentos-Musicales/Instrumentos-de-Aire/c/cos_1.6.4"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "instrumentos-musicales",
+        "hrefCategory": "/Electronicos/Instrumentos-Musicales/c/cos_1.6",
+        "subCategory": "mezcladores-de-audio",
+        "hrefSubCategory": "/Electronicos/Instrumentos-Musicales/Mezcladores-de-Audio/c/cos_1.6.5"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "fotografia",
+        "hrefCategory": "/Electronicos/Fotografia/c/cos_1.7",
+        "subCategory": "camaras-digitales",
+        "hrefSubCategory": "/Electronicos/Fotografia/Camaras-Digitales/c/cos_1.7.1"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "fotografia",
+        "hrefCategory": "/Electronicos/Fotografia/c/cos_1.7",
+        "subCategory": "drones",
+        "hrefSubCategory": "/Electronicos/Fotografia/Drones/c/cos_1.7.2"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "fotografia",
+        "hrefCategory": "/Electronicos/Fotografia/c/cos_1.7",
+        "subCategory": "lentes-y-objetivos",
+        "hrefSubCategory": "/Electronicos/Fotografia/Lentes-y-Objetivos/c/cos_1.7.3"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "fotografia",
+        "hrefCategory": "/Electronicos/Fotografia/c/cos_1.7",
+        "subCategory": "camaras-instantaneas",
+        "hrefSubCategory": "/Electronicos/Fotografia/Camaras-Instantaneas/c/cos_1.7.4"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "fotografia",
+        "hrefCategory": "/Electronicos/Fotografia/c/cos_1.7",
+        "subCategory": "accesorios-de-fotografia",
+        "hrefSubCategory": "/Electronicos/Fotografia/Accesorios-de-Fotografia/c/cos_1.7.5"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "radios-de-dos-vias-y-telefonos",
+        "hrefCategory": "/Electronicos/Radios-de-Dos-Vias-y-Telefonos/c/cos_1.8",
+        "subCategory": "radios-de-dos-vias",
+        "hrefSubCategory": "/Electronicos/Radios-de-Dos-Vias-y-Telefonos/Radios-de-Dos-Vias/c/cos_1.8.1"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "radios-de-dos-vias-y-telefonos",
+        "hrefCategory": "/Electronicos/Radios-de-Dos-Vias-y-Telefonos/c/cos_1.8",
+        "subCategory": "telefonos",
+        "hrefSubCategory": "/Electronicos/Radios-de-Dos-Vias-y-Telefonos/Telefonos/c/cos_1.8.2"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "garantias-extendidas",
+        "hrefCategory": "/Electronicos/Garantias-Extendidas/c/cos_1.9",
+        "subCategory": "garantia-extendida-computo",
+        "hrefSubCategory": "/Electronicos/Garantias-Extendidas/Garantia-Extendida-Computo/c/cos_1.9.1"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "garantias-extendidas",
+        "hrefCategory": "/Electronicos/Garantias-Extendidas/c/cos_1.9",
+        "subCategory": "garantia-extendida-linea-blanca",
+        "hrefSubCategory": "/Electronicos/Garantias-Extendidas/Garantia-Extendida-Linea-Blanca/c/cos_1.9.2"
+    },
+    {
+        "department": "electronicos",
+        "hrefDepartment": "/Electronicos/c/cos_1",
+        "category": "garantias-extendidas",
+        "hrefCategory": "/Electronicos/Garantias-Extendidas/c/cos_1.9",
+        "subCategory": "garantia-extendida-electronicos",
+        "hrefSubCategory": "/Electronicos/Garantias-Extendidas/Garantia-Extendida-Electronicos/c/cos_1.9.3"
+    },
+    {
+        "department": "computadoras-y-tablets",
+        "hrefDepartment": "/Computadoras-y-Tablets/c/cos_2",
+        "category": "computadoras-y-laptops",
+        "hrefCategory": "/Computadoras-y-Tablets/Computadoras-y-Laptops/c/cos_2.1",
+        "subCategory": "desktop",
+        "hrefSubCategory": "/Computadoras-y-Tablets/Computadoras-y-Laptops/Desktop/c/cos_2.1.1"
+    },
+    {
+        "department": "computadoras-y-tablets",
+        "hrefDepartment": "/Computadoras-y-Tablets/c/cos_2",
+        "category": "computadoras-y-laptops",
+        "hrefCategory": "/Computadoras-y-Tablets/Computadoras-y-Laptops/c/cos_2.1",
+        "subCategory": "laptops",
+        "hrefSubCategory": "/Computadoras-y-Tablets/Computadoras-y-Laptops/Laptops/c/cos_2.1.2"
+    },
+    {
+        "department": "computadoras-y-tablets",
+        "hrefDepartment": "/Computadoras-y-Tablets/c/cos_2",
+        "category": "computadoras-y-laptops",
+        "hrefCategory": "/Computadoras-y-Tablets/Computadoras-y-Laptops/c/cos_2.1",
+        "subCategory": "gamers",
+        "hrefSubCategory": "/Computadoras-y-Tablets/Computadoras-y-Laptops/Gamers/c/cos_2.1.3"
+    },
+    {
+        "department": "computadoras-y-tablets",
+        "hrefDepartment": "/Computadoras-y-Tablets/c/cos_2",
+        "category": "tablets",
+        "hrefCategory": "/Computadoras-y-Tablets/Tablets/c/cos_2.2",
+        "subCategory": "tablets",
+        "hrefSubCategory": "/Computadoras-y-Tablets/Tablets/Tablets/c/cos_2.2.1"
+    },
+    {
+        "department": "computadoras-y-tablets",
+        "hrefDepartment": "/Computadoras-y-Tablets/c/cos_2",
+        "category": "monitores",
+        "hrefCategory": "/Computadoras-y-Tablets/Monitores/c/cos_2.3",
+        "subCategory": "monitores-para-hogar-y-oficina",
+        "hrefSubCategory": "/Computadoras-y-Tablets/Monitores/Monitores-para-Hogar-y-Oficina/c/cos_2.3.1"
+    },
+    {
+        "department": "computadoras-y-tablets",
+        "hrefDepartment": "/Computadoras-y-Tablets/c/cos_2",
+        "category": "monitores",
+        "hrefCategory": "/Computadoras-y-Tablets/Monitores/c/cos_2.3",
+        "subCategory": "monitores-para-gamers",
+        "hrefSubCategory": "/Computadoras-y-Tablets/Monitores/Monitores-para-Gamers/c/cos_2.3.2"
+    },
+    {
+        "department": "computadoras-y-tablets",
+        "hrefDepartment": "/Computadoras-y-Tablets/c/cos_2",
+        "category": "almacenamiento",
+        "hrefCategory": "/Computadoras-y-Tablets/Almacenamiento/c/cos_2.4",
+        "subCategory": "discos-duros",
+        "hrefSubCategory": "/Computadoras-y-Tablets/Almacenamiento/Discos-Duros/c/cos_2.4.1"
+    },
+    {
+        "department": "computadoras-y-tablets",
+        "hrefDepartment": "/Computadoras-y-Tablets/c/cos_2",
+        "category": "almacenamiento",
+        "hrefCategory": "/Computadoras-y-Tablets/Almacenamiento/c/cos_2.4",
+        "subCategory": "tarjetas-de-memoria-y-usb",
+        "hrefSubCategory": "/Computadoras-y-Tablets/Almacenamiento/Tarjetas-de-Memoria-y-USB/c/cos_2.4.2"
+    },
+    {
+        "department": "computadoras-y-tablets",
+        "hrefDepartment": "/Computadoras-y-Tablets/c/cos_2",
+        "category": "software-y-antivirus",
+        "hrefCategory": "/Computadoras-y-Tablets/Software-y-Antivirus/c/cos_2.5",
+        "subCategory": "productividad",
+        "hrefSubCategory": "/Computadoras-y-Tablets/Software-y-Antivirus/Productividad/c/cos_2.5.1"
+    },
+    {
+        "department": "computadoras-y-tablets",
+        "hrefDepartment": "/Computadoras-y-Tablets/c/cos_2",
+        "category": "software-y-antivirus",
+        "hrefCategory": "/Computadoras-y-Tablets/Software-y-Antivirus/c/cos_2.5",
+        "subCategory": "seguridad",
+        "hrefSubCategory": "/Computadoras-y-Tablets/Software-y-Antivirus/Seguridad/c/cos_2.5.2"
+    },
+    {
+        "department": "computadoras-y-tablets",
+        "hrefDepartment": "/Computadoras-y-Tablets/c/cos_2",
+        "category": "accesorios-de-computo-y-perifericos",
+        "hrefCategory": "/Computadoras-y-Tablets/Accesorios-de-Computo-y-Perifericos/c/cos_2.6",
+        "subCategory": "accesorios-de-computo",
+        "hrefSubCategory": "/Computadoras-y-Tablets/Accesorios-de-Computo-y-Perifericos/Accesorios-de-Computo/c/cos_2.6.1"
+    },
+    {
+        "department": "computadoras-y-tablets",
+        "hrefDepartment": "/Computadoras-y-Tablets/c/cos_2",
+        "category": "accesorios-de-computo-y-perifericos",
+        "hrefCategory": "/Computadoras-y-Tablets/Accesorios-de-Computo-y-Perifericos/c/cos_2.6",
+        "subCategory": "conectividad",
+        "hrefSubCategory": "/Computadoras-y-Tablets/Accesorios-de-Computo-y-Perifericos/Conectividad/c/cos_2.6.2"
+    },
+    {
+        "department": "sistemas-de-seguridad",
+        "hrefDepartment": "/Sistemas-de-Seguridad/c/cos_3",
+        "category": "camaras-de-seguridad-y-gps",
+        "hrefCategory": "/Sistemas-de-Seguridad/Camaras-de-Seguridad-y-GPS/c/cos_3.1",
+        "subCategory": "camaras-de-seguridad-inalambricas",
+        "hrefSubCategory": "/Sistemas-de-Seguridad/Camaras-de-Seguridad-y-GPS/Camaras-de-Seguridad-Inalambricas/c/cos_3.1.1"
+    },
+    {
+        "department": "sistemas-de-seguridad",
+        "hrefDepartment": "/Sistemas-de-Seguridad/c/cos_3",
+        "category": "camaras-de-seguridad-y-gps",
+        "hrefCategory": "/Sistemas-de-Seguridad/Camaras-de-Seguridad-y-GPS/c/cos_3.1",
+        "subCategory": "camaras-de-seguridad-alambricas",
+        "hrefSubCategory": "/Sistemas-de-Seguridad/Camaras-de-Seguridad-y-GPS/Camaras-de-Seguridad-Alambricas/c/cos_3.1.2"
+    },
+    {
+        "department": "sistemas-de-seguridad",
+        "hrefDepartment": "/Sistemas-de-Seguridad/c/cos_3",
+        "category": "camaras-de-seguridad-y-gps",
+        "hrefCategory": "/Sistemas-de-Seguridad/Camaras-de-Seguridad-y-GPS/c/cos_3.1",
+        "subCategory": "gps-y-alarmas",
+        "hrefSubCategory": "/Sistemas-de-Seguridad/Camaras-de-Seguridad-y-GPS/GPS-y-Alarmas/c/cos_3.1.3"
+    },
+    {
+        "department": "sistemas-de-seguridad",
+        "hrefDepartment": "/Sistemas-de-Seguridad/c/cos_3",
+        "category": "iluminacion",
+        "hrefCategory": "/Sistemas-de-Seguridad/Iluminacion/c/cos_3.2",
+        "subCategory": "luminarias",
+        "hrefSubCategory": "/Sistemas-de-Seguridad/Iluminacion/Luminarias/c/cos_3.2.2"
+    },
+    {
+        "department": "sistemas-de-seguridad",
+        "hrefDepartment": "/Sistemas-de-Seguridad/c/cos_3",
+        "category": "iluminacion",
+        "hrefCategory": "/Sistemas-de-Seguridad/Iluminacion/c/cos_3.2",
+        "subCategory": "reflectores",
+        "hrefSubCategory": "/Sistemas-de-Seguridad/Iluminacion/Reflectores/c/cos_3.2.3"
+    },
+    {
+        "department": "sistemas-de-seguridad",
+        "hrefDepartment": "/Sistemas-de-Seguridad/c/cos_3",
+        "category": "iluminacion",
+        "hrefCategory": "/Sistemas-de-Seguridad/Iluminacion/c/cos_3.2",
+        "subCategory": "lamparas",
+        "hrefSubCategory": "/Sistemas-de-Seguridad/Iluminacion/Lamparas/c/cos_3.2.4"
+    },
+    {
+        "department": "sistemas-de-seguridad",
+        "hrefDepartment": "/Sistemas-de-Seguridad/c/cos_3",
+        "category": "cajas-fuerte",
+        "hrefCategory": "/Sistemas-de-Seguridad/Cajas-Fuerte/c/cos_3.3",
+        "subCategory": "digitales",
+        "hrefSubCategory": "/Sistemas-de-Seguridad/Cajas-Fuerte/Digitales/c/cos_3.3.1"
+    },
+    {
+        "department": "sistemas-de-seguridad",
+        "hrefDepartment": "/Sistemas-de-Seguridad/c/cos_3",
+        "category": "cajas-fuerte",
+        "hrefCategory": "/Sistemas-de-Seguridad/Cajas-Fuerte/c/cos_3.3",
+        "subCategory": "mecanicas",
+        "hrefSubCategory": "/Sistemas-de-Seguridad/Cajas-Fuerte/Mecanicas/c/cos_3.3.2"
+    },
+    {
+        "department": "sistemas-de-seguridad",
+        "hrefDepartment": "/Sistemas-de-Seguridad/c/cos_3",
+        "category": "puertas-de-seguridad-y-cerraduras",
+        "hrefCategory": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/c/cos_3.4",
+        "subCategory": "puerta-individual",
+        "hrefSubCategory": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/Puerta-Individual/c/cos_3.4.1"
+    },
+    {
+        "department": "sistemas-de-seguridad",
+        "hrefDepartment": "/Sistemas-de-Seguridad/c/cos_3",
+        "category": "puertas-de-seguridad-y-cerraduras",
+        "hrefCategory": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/c/cos_3.4",
+        "subCategory": "puerta-doble",
+        "hrefSubCategory": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/Puerta-Doble/c/cos_3.4.2"
+    },
+    {
+        "department": "sistemas-de-seguridad",
+        "hrefDepartment": "/Sistemas-de-Seguridad/c/cos_3",
+        "category": "puertas-de-seguridad-y-cerraduras",
+        "hrefCategory": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/c/cos_3.4",
+        "subCategory": "cerraduras",
+        "hrefSubCategory": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/Cerraduras/c/cos_3.4.3"
+    },
+    {
+        "department": "sistemas-de-seguridad",
+        "hrefDepartment": "/Sistemas-de-Seguridad/c/cos_3",
+        "category": "puertas-de-seguridad-y-cerraduras",
+        "hrefCategory": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/c/cos_3.4",
+        "subCategory": "candados",
+        "hrefSubCategory": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/Candados/c/cos_3.4.4"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "blancos-del-hogar",
+        "hrefCategory": "/Hogar-y-Bano/Blancos-del-Hogar/c/cos_4.1",
+        "subCategory": "sabanas-y-fundas",
+        "hrefSubCategory": "/Hogar-y-Bano/Blancos-del-Hogar/Sabanas-y-Fundas/c/cos_4.1.1"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "blancos-del-hogar",
+        "hrefCategory": "/Hogar-y-Bano/Blancos-del-Hogar/c/cos_4.1",
+        "subCategory": "edredones-y-duvets",
+        "hrefSubCategory": "/Hogar-y-Bano/Blancos-del-Hogar/Edredones-y-Duvets/c/cos_4.1.2"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "blancos-del-hogar",
+        "hrefCategory": "/Hogar-y-Bano/Blancos-del-Hogar/c/cos_4.1",
+        "subCategory": "almohadas-y-cojines",
+        "hrefSubCategory": "/Hogar-y-Bano/Blancos-del-Hogar/Almohadas-y-Cojines/c/cos_4.1.3"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "blancos-del-hogar",
+        "hrefCategory": "/Hogar-y-Bano/Blancos-del-Hogar/c/cos_4.1",
+        "subCategory": "cobijas-y-frazadas",
+        "hrefSubCategory": "/Hogar-y-Bano/Blancos-del-Hogar/Cobijas-y-Frazadas/c/cos_4.1.4"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "blancos-del-hogar",
+        "hrefCategory": "/Hogar-y-Bano/Blancos-del-Hogar/c/cos_4.1",
+        "subCategory": "protector-y-cubre-colchon",
+        "hrefSubCategory": "/Hogar-y-Bano/Blancos-del-Hogar/Protector-y-Cubre-Colchon/c/cos_4.1.5"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "blancos-del-hogar",
+        "hrefCategory": "/Hogar-y-Bano/Blancos-del-Hogar/c/cos_4.1",
+        "subCategory": "toallas",
+        "hrefSubCategory": "/Hogar-y-Bano/Blancos-del-Hogar/Toallas/c/cos_4.1.6"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "instalaciones-del-hogar",
+        "hrefCategory": "/Hogar-y-Bano/Instalaciones-del-Hogar/c/cos_4.2",
+        "subCategory": "calentadores-de-agua",
+        "hrefSubCategory": "/Hogar-y-Bano/Instalaciones-del-Hogar/Calentadores-de-Agua/c/cos_4.2.1"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "instalaciones-del-hogar",
+        "hrefCategory": "/Hogar-y-Bano/Instalaciones-del-Hogar/c/cos_4.2",
+        "subCategory": "generadores-electricos",
+        "hrefSubCategory": "/Hogar-y-Bano/Instalaciones-del-Hogar/Generadores-Electricos/c/cos_4.2.3"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "instalaciones-del-hogar",
+        "hrefCategory": "/Hogar-y-Bano/Instalaciones-del-Hogar/c/cos_4.2",
+        "subCategory": "paneles-solares",
+        "hrefSubCategory": "/Hogar-y-Bano/Instalaciones-del-Hogar/Paneles-Solares/c/cos_4.2.4"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "instalaciones-del-hogar",
+        "hrefCategory": "/Hogar-y-Bano/Instalaciones-del-Hogar/c/cos_4.2",
+        "subCategory": "persianas",
+        "hrefSubCategory": "/Hogar-y-Bano/Instalaciones-del-Hogar/Persianas/c/cos_4.2.5"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "instalaciones-del-hogar",
+        "hrefCategory": "/Hogar-y-Bano/Instalaciones-del-Hogar/c/cos_4.2",
+        "subCategory": "pisos-y-mosaicos",
+        "hrefSubCategory": "/Hogar-y-Bano/Instalaciones-del-Hogar/Pisos-y-Mosaicos/c/cos_4.2.6"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "bano",
+        "hrefCategory": "/Hogar-y-Bano/Bano/c/cos_4.3",
+        "subCategory": "accesorios-para-bano",
+        "hrefSubCategory": "/Hogar-y-Bano/Bano/Accesorios-para-Bano/c/cos_4.3.1"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "bano",
+        "hrefCategory": "/Hogar-y-Bano/Bano/c/cos_4.3",
+        "subCategory": "inodoros",
+        "hrefSubCategory": "/Hogar-y-Bano/Bano/Inodoros/c/cos_4.3.2"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "bano",
+        "hrefCategory": "/Hogar-y-Bano/Bano/c/cos_4.3",
+        "subCategory": "lavabos",
+        "hrefSubCategory": "/Hogar-y-Bano/Bano/Lavabos/c/cos_4.3.3"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "bano",
+        "hrefCategory": "/Hogar-y-Bano/Bano/c/cos_4.3",
+        "subCategory": "llaves-para-bano",
+        "hrefSubCategory": "/Hogar-y-Bano/Bano/Llaves-para-Bano/c/cos_4.3.4"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "bano",
+        "hrefCategory": "/Hogar-y-Bano/Bano/c/cos_4.3",
+        "subCategory": "regaderas",
+        "hrefSubCategory": "/Hogar-y-Bano/Bano/Regaderas/c/cos_4.3.5"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "bano",
+        "hrefCategory": "/Hogar-y-Bano/Bano/c/cos_4.3",
+        "subCategory": "tinas",
+        "hrefSubCategory": "/Hogar-y-Bano/Bano/Tinas/c/cos_4.3.6"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "iluminacion-y-decoracion-del-hogar",
+        "hrefCategory": "/Hogar-y-Bano/Iluminacion-y-Decoracion-del-Hogar/c/cos_4.4",
+        "subCategory": "cortinas",
+        "hrefSubCategory": "/Hogar-y-Bano/Iluminacion-y-Decoracion-del-Hogar/Cortinas/c/cos_4.4.1"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "iluminacion-y-decoracion-del-hogar",
+        "hrefCategory": "/Hogar-y-Bano/Iluminacion-y-Decoracion-del-Hogar/c/cos_4.4",
+        "subCategory": "cuadros",
+        "hrefSubCategory": "/Hogar-y-Bano/Iluminacion-y-Decoracion-del-Hogar/Cuadros/c/cos_4.4.2"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "iluminacion-y-decoracion-del-hogar",
+        "hrefCategory": "/Hogar-y-Bano/Iluminacion-y-Decoracion-del-Hogar/c/cos_4.4",
+        "subCategory": "aromatizantes-difusores-y-velas",
+        "hrefSubCategory": "/Hogar-y-Bano/Iluminacion-y-Decoracion-del-Hogar/Aromatizantes-Difusores-y-Velas/c/cos_4.4.3"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "iluminacion-y-decoracion-del-hogar",
+        "hrefCategory": "/Hogar-y-Bano/Iluminacion-y-Decoracion-del-Hogar/c/cos_4.4",
+        "subCategory": "tapetes",
+        "hrefSubCategory": "/Hogar-y-Bano/Iluminacion-y-Decoracion-del-Hogar/Tapetes/c/cos_4.4.4"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "iluminacion-y-decoracion-del-hogar",
+        "hrefCategory": "/Hogar-y-Bano/Iluminacion-y-Decoracion-del-Hogar/c/cos_4.4",
+        "subCategory": "espejos",
+        "hrefSubCategory": "/Hogar-y-Bano/Iluminacion-y-Decoracion-del-Hogar/Espejos/c/cos_4.4.6"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "iluminacion-y-decoracion-del-hogar",
+        "hrefCategory": "/Hogar-y-Bano/Iluminacion-y-Decoracion-del-Hogar/c/cos_4.4",
+        "subCategory": "articulos-de-decoracion",
+        "hrefSubCategory": "/Hogar-y-Bano/Iluminacion-y-Decoracion-del-Hogar/Articulos-de-Decoracion/c/cos_4.4.7"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "iluminacion-y-decoracion-del-hogar",
+        "hrefCategory": "/Hogar-y-Bano/Iluminacion-y-Decoracion-del-Hogar/c/cos_4.4",
+        "subCategory": "luminarias",
+        "hrefSubCategory": "/Sistemas-de-Seguridad/Iluminacion/Luminarias/c/cos_3.2.2"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "iluminacion-y-decoracion-del-hogar",
+        "hrefCategory": "/Hogar-y-Bano/Iluminacion-y-Decoracion-del-Hogar/c/cos_4.4",
+        "subCategory": "lamparas",
+        "hrefSubCategory": "/Sistemas-de-Seguridad/Iluminacion/Lamparas/c/cos_3.2.4"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "spa",
+        "hrefCategory": "/Hogar-y-Bano/SPA/c/cos_4.5",
+        "subCategory": "spa-de-hidromasaje",
+        "hrefSubCategory": "/Hogar-y-Bano/SPA/SPA-de-Hidromasaje/c/cos_4.5.1"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "spa",
+        "hrefCategory": "/Hogar-y-Bano/SPA/c/cos_4.5",
+        "subCategory": "saunas",
+        "hrefSubCategory": "/Hogar-y-Bano/SPA/Saunas/c/cos_4.5.2"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "spa",
+        "hrefCategory": "/Hogar-y-Bano/SPA/c/cos_4.5",
+        "subCategory": "aparatos-de-masaje",
+        "hrefSubCategory": "/Hogar-y-Bano/SPA/Aparatos-de-Masaje/c/cos_4.5.3"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "almacenaje-y-organizacion",
+        "hrefCategory": "/Hogar-y-Bano/Almacenaje-y-Organizacion/c/cos_4.6",
+        "subCategory": "articulos-de-lavanderia-y-prendas",
+        "hrefSubCategory": "/Hogar-y-Bano/Almacenaje-y-Organizacion/Articulos-de-Lavanderia-y-Prendas/c/cos_4.6.1"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "almacenaje-y-organizacion",
+        "hrefCategory": "/Hogar-y-Bano/Almacenaje-y-Organizacion/c/cos_4.6",
+        "subCategory": "estanteria-multiusos",
+        "hrefSubCategory": "/Hogar-y-Bano/Almacenaje-y-Organizacion/Estanteria-Multiusos/c/cos_4.6.2"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "almacenaje-y-organizacion",
+        "hrefCategory": "/Hogar-y-Bano/Almacenaje-y-Organizacion/c/cos_4.6",
+        "subCategory": "organizadores-de-zapatos",
+        "hrefSubCategory": "/Hogar-y-Bano/Almacenaje-y-Organizacion/Organizadores-de-Zapatos/c/cos_4.6.3"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "productos-de-limpieza",
+        "hrefCategory": "/Hogar-y-Bano/Productos-de-Limpieza/c/cos_4.7",
+        "subCategory": "limpieza",
+        "hrefSubCategory": "/Hogar-y-Bano/Productos-de-Limpieza/Limpieza/c/cos_4.7.1"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "productos-de-limpieza",
+        "hrefCategory": "/Hogar-y-Bano/Productos-de-Limpieza/c/cos_4.7",
+        "subCategory": "detergentes",
+        "hrefSubCategory": "/Hogar-y-Bano/Productos-de-Limpieza/Detergentes/c/cos_4.7.2"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "productos-de-limpieza",
+        "hrefCategory": "/Hogar-y-Bano/Productos-de-Limpieza/c/cos_4.7",
+        "subCategory": "dispensadores",
+        "hrefSubCategory": "/Hogar-y-Bano/Productos-de-Limpieza/Dispensadores/c/cos_4.7.3"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "productos-de-limpieza",
+        "hrefCategory": "/Hogar-y-Bano/Productos-de-Limpieza/c/cos_4.7",
+        "subCategory": "aromatizantes-difusores-y-velas",
+        "hrefSubCategory": "/Hogar-y-Bano/Iluminacion-y-Decoracion-del-Hogar/Aromatizantes-Difusores-y-Velas/c/cos_4.4.3"
+    },
+    {
+        "department": "hogar-y-bano",
+        "hrefDepartment": "/Hogar-y-Bano/c/cos_4",
+        "category": "productos-de-limpieza",
+        "hrefCategory": "/Hogar-y-Bano/Productos-de-Limpieza/c/cos_4.7",
+        "subCategory": "desechables",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/Desechables/Servilletas/c/cos_7.10.1"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "recamara",
+        "hrefCategory": "/Muebles/Recamara/c/cos_5.1",
+        "subCategory": "colchones",
+        "hrefSubCategory": "/Muebles/Recamara/Colchones/c/cos_5.1.1"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "recamara",
+        "hrefCategory": "/Muebles/Recamara/c/cos_5.1",
+        "subCategory": "bases-de-cama",
+        "hrefSubCategory": "/Muebles/Recamara/Bases-de-Cama/c/cos_5.1.2"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "recamara",
+        "hrefCategory": "/Muebles/Recamara/c/cos_5.1",
+        "subCategory": "camas",
+        "hrefSubCategory": "/Muebles/Recamara/Camas/c/cos_5.1.3"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "recamara",
+        "hrefCategory": "/Muebles/Recamara/c/cos_5.1",
+        "subCategory": "cabeceras",
+        "hrefSubCategory": "/Muebles/Recamara/Cabeceras/c/cos_5.1.4"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "recamara",
+        "hrefCategory": "/Muebles/Recamara/c/cos_5.1",
+        "subCategory": "literas",
+        "hrefSubCategory": "/Muebles/Recamara/Literas/c/cos_5.1.5"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "recamara",
+        "hrefCategory": "/Muebles/Recamara/c/cos_5.1",
+        "subCategory": "cunas",
+        "hrefSubCategory": "/Muebles/Recamara/Cunas/c/cos_5.1.6"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "recamara",
+        "hrefCategory": "/Muebles/Recamara/c/cos_5.1",
+        "subCategory": "buros",
+        "hrefSubCategory": "/Muebles/Recamara/Buros/c/cos_5.1.7"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "recamara",
+        "hrefCategory": "/Muebles/Recamara/c/cos_5.1",
+        "subCategory": "comodas",
+        "hrefSubCategory": "/Muebles/Recamara/Comodas/c/cos_5.1.8"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "recamara",
+        "hrefCategory": "/Muebles/Recamara/c/cos_5.1",
+        "subCategory": "cajoneras",
+        "hrefSubCategory": "/Muebles/Recamara/Cajoneras/c/cos_5.1.9"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "recamara",
+        "hrefCategory": "/Muebles/Recamara/c/cos_5.1",
+        "subCategory": "consolas-para-tv",
+        "hrefSubCategory": "/Muebles/Recamara/Consolas-para-TV/c/cos_5.1.10"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "almacenaje-y-organizacion",
+        "hrefCategory": "/Muebles/Almacenaje-y-Organizacion/c/cos_5.3",
+        "subCategory": "libreros-y-estanteria",
+        "hrefSubCategory": "/Muebles/Almacenaje-y-Organizacion/Libreros-y-Estanteria/c/cos_5.3.2"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "almacenaje-y-organizacion",
+        "hrefCategory": "/Muebles/Almacenaje-y-Organizacion/c/cos_5.3",
+        "subCategory": "cajas-de-almacenamiento",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Almacenaje-y-Organizacion-de-Jardin/Cajas-de-Almacenamiento/c/cos_8.5.2"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "sofas-y-sillones",
+        "hrefCategory": "/Muebles/Sofas-y-Sillones/c/cos_5.2",
+        "subCategory": "sofa-cama",
+        "hrefSubCategory": "/Muebles/Sofas-y-Sillones/Sofa-Cama/c/cos_5.2.1"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "sofas-y-sillones",
+        "hrefCategory": "/Muebles/Sofas-y-Sillones/c/cos_5.2",
+        "subCategory": "sofas",
+        "hrefSubCategory": "/Muebles/Sofas-y-Sillones/Sofas/c/cos_5.2.2"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "sofas-y-sillones",
+        "hrefCategory": "/Muebles/Sofas-y-Sillones/c/cos_5.2",
+        "subCategory": "sillones",
+        "hrefSubCategory": "/Muebles/Sofas-y-Sillones/Sillones/c/cos_5.2.3"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "sofas-y-sillones",
+        "hrefCategory": "/Muebles/Sofas-y-Sillones/c/cos_5.2",
+        "subCategory": "seccionales-y-modulares",
+        "hrefSubCategory": "/Muebles/Sofas-y-Sillones/Seccionales-y-Modulares/c/cos_5.2.4"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "sofas-y-sillones",
+        "hrefCategory": "/Muebles/Sofas-y-Sillones/c/cos_5.2",
+        "subCategory": "reclinables",
+        "hrefSubCategory": "/Muebles/Sofas-y-Sillones/Reclinables/c/cos_5.2.5"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "sofas-y-sillones",
+        "hrefCategory": "/Muebles/Sofas-y-Sillones/c/cos_5.2",
+        "subCategory": "taburetes",
+        "hrefSubCategory": "/Muebles/Sofas-y-Sillones/Taburetes/c/cos_5.2.6"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "mesas-y-escritorios",
+        "hrefCategory": "/Muebles/Mesas-y-Escritorios/c/cos_5.4",
+        "subCategory": "mesas-laterales",
+        "hrefSubCategory": "/Muebles/Mesas-y-Escritorios/Mesas-Laterales/c/cos_5.4.1"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "mesas-y-escritorios",
+        "hrefCategory": "/Muebles/Mesas-y-Escritorios/c/cos_5.4",
+        "subCategory": "mesas-de-centro",
+        "hrefSubCategory": "/Muebles/Mesas-y-Escritorios/Mesas-de-Centro/c/cos_5.4.2"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "mesas-y-escritorios",
+        "hrefCategory": "/Muebles/Mesas-y-Escritorios/c/cos_5.4",
+        "subCategory": "mesas-de-comedor",
+        "hrefSubCategory": "/Muebles/Mesas-y-Escritorios/Mesas-de-Comedor/c/cos_5.4.3"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "mesas-y-escritorios",
+        "hrefCategory": "/Muebles/Mesas-y-Escritorios/c/cos_5.4",
+        "subCategory": "mesas-para-exterior",
+        "hrefSubCategory": "/Muebles/Mesas-y-Escritorios/Mesas-para-Exterior/c/cos_5.4.4"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "mesas-y-escritorios",
+        "hrefCategory": "/Muebles/Mesas-y-Escritorios/c/cos_5.4",
+        "subCategory": "escritorios-y-mesas-de-oficina",
+        "hrefSubCategory": "/Muebles/Mesas-y-Escritorios/Escritorios-y-Mesas-de-Oficina/c/cos_5.4.5"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "sillas",
+        "hrefCategory": "/Muebles/Sillas/c/cos_5.5",
+        "subCategory": "sillas-de-comedor",
+        "hrefSubCategory": "/Muebles/Sillas/Sillas-de-Comedor/c/cos_5.5.1"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "sillas",
+        "hrefCategory": "/Muebles/Sillas/c/cos_5.5",
+        "subCategory": "sillas-de-oficina-y-estudio",
+        "hrefSubCategory": "/Muebles/Sillas/Sillas-de-Oficina-y-Estudio/c/cos_5.5.2"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "sillas",
+        "hrefCategory": "/Muebles/Sillas/c/cos_5.5",
+        "subCategory": "sillas-y-bancas-para-exterior",
+        "hrefSubCategory": "/Muebles/Sillas/Sillas-y-Bancas-para-Exterior/c/cos_5.5.3"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "sillas",
+        "hrefCategory": "/Muebles/Sillas/c/cos_5.5",
+        "subCategory": "sillas-y-bancos-tipo-bar",
+        "hrefSubCategory": "/Muebles/Sillas/Sillas-y-Bancos-tipo-Bar/c/cos_5.5.4"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "muebles-para-jardin",
+        "hrefCategory": "/Muebles/Muebles-para-Jardin/c/cos_5.6",
+        "subCategory": "salas-para-exterior",
+        "hrefSubCategory": "/Muebles/Muebles-para-Jardin/Salas-para-Exterior/c/cos_5.6.1"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "muebles-para-jardin",
+        "hrefCategory": "/Muebles/Muebles-para-Jardin/c/cos_5.6",
+        "subCategory": "colecciones",
+        "hrefSubCategory": "/Muebles/Muebles-para-Jardin/Colecciones/c/cos_5.6.2"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "muebles-para-jardin",
+        "hrefCategory": "/Muebles/Muebles-para-Jardin/c/cos_5.6",
+        "subCategory": "comedores-para-exterior",
+        "hrefSubCategory": "/Muebles/Muebles-para-Jardin/Comedores-para-Exterior/c/cos_5.6.3"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "muebles-para-jardin",
+        "hrefCategory": "/Muebles/Muebles-para-Jardin/c/cos_5.6",
+        "subCategory": "sets-bistro",
+        "hrefSubCategory": "/Muebles/Muebles-para-Jardin/Sets-Bistro/c/cos_5.6.4"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "muebles-para-jardin",
+        "hrefCategory": "/Muebles/Muebles-para-Jardin/c/cos_5.6",
+        "subCategory": "camastros",
+        "hrefSubCategory": "/Muebles/Muebles-para-Jardin/Camastros/c/cos_5.6.5"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "muebles-para-jardin",
+        "hrefCategory": "/Muebles/Muebles-para-Jardin/c/cos_5.6",
+        "subCategory": "cojines-para-exterior",
+        "hrefSubCategory": "/Muebles/Muebles-para-Jardin/Cojines-para-Exterior/c/cos_5.6.7"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "muebles-para-jardin",
+        "hrefCategory": "/Muebles/Muebles-para-Jardin/c/cos_5.6",
+        "subCategory": "fogateros-y-calentadores-de-exterior",
+        "hrefSubCategory": "/Muebles/Muebles-para-Jardin/Fogateros-y-Calentadores-de-Exterior/c/cos_5.6.8"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "muebles-para-jardin",
+        "hrefCategory": "/Muebles/Muebles-para-Jardin/c/cos_5.6",
+        "subCategory": "juegos-de-jardin",
+        "hrefSubCategory": "/Deportes/Ejercicio-al-Aire-Libre/Juegos-de-Jardin/c/cos_9.7.1"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "bar",
+        "hrefCategory": "/Muebles/Bar/c/cos_5.7",
+        "subCategory": "cavas-y-enfriadores",
+        "hrefSubCategory": "/Muebles/Bar/Cavas-y-Enfriadores/c/cos_5.7.1"
+    },
+    {
+        "department": "muebles",
+        "hrefDepartment": "/Muebles/c/cos_5",
+        "category": "bar",
+        "hrefCategory": "/Muebles/Bar/c/cos_5.7",
+        "subCategory": "gabinetes",
+        "hrefSubCategory": "/Muebles/Bar/Gabinetes/c/cos_5.7.2"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "linea-blanca",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Linea-Blanca/c/cos_6.1",
+        "subCategory": "refrigeradores-y-congeladores",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Linea-Blanca/Refrigeradores-y-Congeladores/c/cos_6.1.1"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "linea-blanca",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Linea-Blanca/c/cos_6.1",
+        "subCategory": "frigobares",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Linea-Blanca/Frigobares/c/cos_6.1.2"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "linea-blanca",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Linea-Blanca/c/cos_6.1",
+        "subCategory": "lavadoras-y-secadoras",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Linea-Blanca/Lavadoras-y-Secadoras/c/cos_6.1.3"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "linea-blanca",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Linea-Blanca/c/cos_6.1",
+        "subCategory": "lavavajillas",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Linea-Blanca/Lavavajillas/c/cos_6.1.4"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "linea-blanca",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Linea-Blanca/c/cos_6.1",
+        "subCategory": "hornos-y-parrillas",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Linea-Blanca/Hornos-y-Parrillas/c/cos_6.1.5"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "linea-blanca",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Linea-Blanca/c/cos_6.1",
+        "subCategory": "estufas-y-campanas-de-cocina",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Linea-Blanca/Estufas-y-Campanas-de-Cocina/c/cos_6.1.6"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "linea-blanca",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Linea-Blanca/c/cos_6.1",
+        "subCategory": "cocina-integral",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Linea-Blanca/Cocina-Integral/c/cos_6.1.7"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "cocina-y-utensilios",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/c/cos_6.4",
+        "subCategory": "baterias-y-sartenes",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/Baterias-y-Sartenes/c/cos_6.4.1"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "cocina-y-utensilios",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/c/cos_6.4",
+        "subCategory": "ollas-y-cacerolas",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/Ollas-y-Cacerolas/c/cos_6.4.2"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "cocina-y-utensilios",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/c/cos_6.4",
+        "subCategory": "vajillas-y-utensilios",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/Vajillas-y-Utensilios/c/cos_6.4.3"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "cocina-y-utensilios",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/c/cos_6.4",
+        "subCategory": "cristaleria",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/Cristaleria/c/cos_6.4.4"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "cocina-y-utensilios",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/c/cos_6.4",
+        "subCategory": "purificadores-y-dispensadores-de-agua",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/Purificadores-y-Dispensadores-de-Agua/c/cos_6.4.5"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "cocina-y-utensilios",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/c/cos_6.4",
+        "subCategory": "contenedores",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Cocina-y-Utensilios/Contenedores/c/cos_6.4.7"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "electrodomesticos-de-cocina",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-de-Cocina/c/cos_6.3",
+        "subCategory": "cafeteras-y-teteras",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-de-Cocina/Cafeteras-y-Teteras/c/cos_6.3.1"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "electrodomesticos-de-cocina",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-de-Cocina/c/cos_6.3",
+        "subCategory": "molinillos-de-cafe",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-de-Cocina/Molinillos-de-Cafe/c/cos_6.3.2"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "electrodomesticos-de-cocina",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-de-Cocina/c/cos_6.3",
+        "subCategory": "licuadoras-y-extractores-de-jugo",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-de-Cocina/Licuadoras-y-Extractores-de-Jugo/c/cos_6.3.3"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "electrodomesticos-de-cocina",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-de-Cocina/c/cos_6.3",
+        "subCategory": "batidoras-y-procesadores",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-de-Cocina/Batidoras-y-Procesadores/c/cos_6.3.4"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "electrodomesticos-de-cocina",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-de-Cocina/c/cos_6.3",
+        "subCategory": "microondas",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-de-Cocina/Microondas/c/cos_6.3.5"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "electrodomesticos-de-cocina",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-de-Cocina/c/cos_6.3",
+        "subCategory": "hornos-y-tostadores",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-de-Cocina/Hornos-y-Tostadores/c/cos_6.3.6"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "electrodomesticos-de-cocina",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-de-Cocina/c/cos_6.3",
+        "subCategory": "especializados-de-cocina",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-de-Cocina/Especializados-de-Cocina/c/cos_6.3.7"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "electrodomesticos-del-hogar",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-del-Hogar/c/cos_6.2",
+        "subCategory": "accesorios-de-limpieza",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-del-Hogar/Accesorios-de-Limpieza/c/cos_6.2.1"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "electrodomesticos-del-hogar",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-del-Hogar/c/cos_6.2",
+        "subCategory": "aire-acondicionado",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-del-Hogar/Aire-Acondicionado/c/cos_6.2.2"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "electrodomesticos-del-hogar",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-del-Hogar/c/cos_6.2",
+        "subCategory": "ventiladores",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-del-Hogar/Ventiladores/c/cos_6.2.3"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "electrodomesticos-del-hogar",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-del-Hogar/c/cos_6.2",
+        "subCategory": "calentadores",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-del-Hogar/Calentadores/c/cos_6.2.4"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "electrodomesticos-del-hogar",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-del-Hogar/c/cos_6.2",
+        "subCategory": "aspiradoras",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-del-Hogar/Aspiradoras/c/cos_6.2.5"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "electrodomesticos-del-hogar",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-del-Hogar/c/cos_6.2",
+        "subCategory": "maquinas-de-coser-y-bordado",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-del-Hogar/Maquinas-de-Coser-y-Bordado/c/cos_6.2.6"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "electrodomesticos-del-hogar",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-del-Hogar/c/cos_6.2",
+        "subCategory": "planchas-y-centrales-de-vapor",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-del-Hogar/Planchas-y-Centrales-de-Vapor/c/cos_6.2.7"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "electrodomesticos-del-hogar",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-del-Hogar/c/cos_6.2",
+        "subCategory": "purificadores-de-aire-y-humidificadores",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Electrodomesticos-del-Hogar/Purificadores-de-Aire-y-Humidificadores/c/cos_6.2.8"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "griferia",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Griferia/c/cos_6.5",
+        "subCategory": "grifos",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Griferia/Grifos/c/cos_6.5.1"
+    },
+    {
+        "department": "linea-blanca-y-cocina",
+        "hrefDepartment": "/Linea-Blanca-y-Cocina/c/cos_6",
+        "category": "griferia",
+        "hrefCategory": "/Linea-Blanca-y-Cocina/Griferia/c/cos_6.5",
+        "subCategory": "tarjas-y-fregaderos",
+        "hrefSubCategory": "/Linea-Blanca-y-Cocina/Griferia/Tarjas-y-Fregaderos/c/cos_6.5.2"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "kirkland-signature",
+        "hrefSubCategory": "/Alimentos/Grocery/Kirkland-Signature/c/cos_20.1.1"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "higienicos-y-desechables",
+        "hrefSubCategory": "/Alimentos/Grocery/Higienicos-y-Desechables/c/cos_20.1.2"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "leches-y-bebidas",
+        "hrefSubCategory": "/Alimentos/Grocery/Leches-y-Bebidas/c/cos_20.1.3"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "cafe-te-y-endulzantes",
+        "hrefSubCategory": "/Alimentos/Grocery/Cafe-Te-y-Endulzantes/c/cos_20.1.4"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "nueces-y-botanas",
+        "hrefSubCategory": "/Alimentos/Grocery/Nueces-y-Botanas/c/cos_20.1.5"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "snacks-y-barras",
+        "hrefSubCategory": "/Alimentos/Grocery/Snacks-y-Barras/c/cos_20.1.6"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "galletas-y-cereales",
+        "hrefSubCategory": "/Alimentos/Grocery/Galletas-y-Cereales/c/cos_20.1.7"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "dulces-y-chocolates",
+        "hrefSubCategory": "/Alimentos/Grocery/Dulces-y-Chocolates/c/cos_20.1.8"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "mermeladas-mieles-y-untables",
+        "hrefSubCategory": "/Alimentos/Grocery/Mermeladas-Mieles-y-Untables/c/cos_20.1.9"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "superfoods",
+        "hrefSubCategory": "/Alimentos/Grocery/Superfoods/c/cos_20.1.10"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "semillas-harinas-y-pastas",
+        "hrefSubCategory": "/Alimentos/Grocery/Semillas-Harinas-y-Pastas/c/cos_20.1.11"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "aceites-y-vinagres",
+        "hrefSubCategory": "/Alimentos/Grocery/Aceites-y-Vinagres/c/cos_20.1.12"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "latas-y-conservas",
+        "hrefSubCategory": "/Alimentos/Grocery/Latas-y-Conservas/c/cos_20.1.13"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "especias-condimentos-y-sazonadores",
+        "hrefSubCategory": "/Alimentos/Grocery/Especias-Condimentos-y-Sazonadores/c/cos_20.1.14"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "belleza-y-cuidado-personal",
+        "hrefSubCategory": "/Alimentos/Grocery/Belleza-y-Cuidado-Personal/c/cos_20.1.15"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "farmacia",
+        "hrefSubCategory": "/Alimentos/Grocery/Farmacia/c/cos_20.1.16"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "papeleria",
+        "hrefSubCategory": "/Alimentos/Grocery/Papeleria/c/cos_20.1.17"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "mascotas",
+        "hrefSubCategory": "/Alimentos/Grocery/Mascotas/c/cos_20.1.18"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "limpieza",
+        "hrefSubCategory": "/Alimentos/Grocery/Limpieza/c/cos_20.1.19"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "grocery",
+        "hrefCategory": "/Alimentos/Grocery/c/cos_20.1",
+        "subCategory": "detergentes",
+        "hrefSubCategory": "/Alimentos/Grocery/Detergentes/c/cos_20.1.20"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "bebidas",
+        "hrefCategory": "/Alimentos/Bebidas/c/cos_20.2",
+        "subCategory": "agua",
+        "hrefSubCategory": "/Alimentos/Bebidas/Agua/c/cos_20.2.1"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "bebidas",
+        "hrefCategory": "/Alimentos/Bebidas/c/cos_20.2",
+        "subCategory": "leche",
+        "hrefSubCategory": "/Alimentos/Bebidas/Leche/c/cos_20.2.2"
+    },
+    {
+        "department": "alimentos",
+        "hrefDepartment": "/Alimentos/c/cos_20",
+        "category": "bebidas",
+        "hrefCategory": "/Alimentos/Bebidas/c/cos_20.2",
+        "subCategory": "bebidas-sin-alcohol",
+        "hrefSubCategory": "/Alimentos/Bebidas/Bebidas-sin-Alcohol/c/cos_20.2.3"
+    },
+    {
+        "department": "vinos-licores-y-gourmet",
+        "hrefDepartment": "/Vinos-Licores-y-Gourmet/c/cos_7",
+        "category": "vinos",
+        "hrefCategory": "/Vinos-Licores-y-Gourmet/Vinos/c/cos_7.1",
+        "subCategory": "vino-blanco",
+        "hrefSubCategory": "/Vinos-Licores-y-Gourmet/Vinos/Vino-Blanco/c/cos_7.1.1"
+    },
+    {
+        "department": "vinos-licores-y-gourmet",
+        "hrefDepartment": "/Vinos-Licores-y-Gourmet/c/cos_7",
+        "category": "vinos",
+        "hrefCategory": "/Vinos-Licores-y-Gourmet/Vinos/c/cos_7.1",
+        "subCategory": "vino-espumoso",
+        "hrefSubCategory": "/Vinos-Licores-y-Gourmet/Vinos/Vino-Espumoso/c/cos_7.1.2"
+    },
+    {
+        "department": "vinos-licores-y-gourmet",
+        "hrefDepartment": "/Vinos-Licores-y-Gourmet/c/cos_7",
+        "category": "vinos",
+        "hrefCategory": "/Vinos-Licores-y-Gourmet/Vinos/c/cos_7.1",
+        "subCategory": "vino-rosado",
+        "hrefSubCategory": "/Vinos-Licores-y-Gourmet/Vinos/Vino-Rosado/c/cos_7.1.3"
+    },
+    {
+        "department": "vinos-licores-y-gourmet",
+        "hrefDepartment": "/Vinos-Licores-y-Gourmet/c/cos_7",
+        "category": "vinos",
+        "hrefCategory": "/Vinos-Licores-y-Gourmet/Vinos/c/cos_7.1",
+        "subCategory": "vino-tinto",
+        "hrefSubCategory": "/Vinos-Licores-y-Gourmet/Vinos/Vino-Tinto/c/cos_7.1.4"
+    },
+    {
+        "department": "vinos-licores-y-gourmet",
+        "hrefDepartment": "/Vinos-Licores-y-Gourmet/c/cos_7",
+        "category": "vinos",
+        "hrefCategory": "/Vinos-Licores-y-Gourmet/Vinos/c/cos_7.1",
+        "subCategory": "vinos-90-puntos",
+        "hrefSubCategory": "/Vinos-Licores-y-Gourmet/Vinos/Vinos-90-puntos/c/cos_7.1.5"
+    },
+    {
+        "department": "vinos-licores-y-gourmet",
+        "hrefDepartment": "/Vinos-Licores-y-Gourmet/c/cos_7",
+        "category": "vinos",
+        "hrefCategory": "/Vinos-Licores-y-Gourmet/Vinos/c/cos_7.1",
+        "subCategory": "vinos-fortificados",
+        "hrefSubCategory": "/Vinos-Licores-y-Gourmet/Vinos/Vinos-Fortificados/c/cos_7.1.6"
+    },
+    {
+        "department": "vinos-licores-y-gourmet",
+        "hrefDepartment": "/Vinos-Licores-y-Gourmet/c/cos_7",
+        "category": "vinos",
+        "hrefCategory": "/Vinos-Licores-y-Gourmet/Vinos/c/cos_7.1",
+        "subCategory": "champagne",
+        "hrefSubCategory": "/Vinos-Licores-y-Gourmet/Vinos/Champagne/c/cos_7.1.7"
+    },
+    {
+        "department": "vinos-licores-y-gourmet",
+        "hrefDepartment": "/Vinos-Licores-y-Gourmet/c/cos_7",
+        "category": "licores",
+        "hrefCategory": "/Vinos-Licores-y-Gourmet/Licores/c/cos_7.2",
+        "subCategory": "brandy-y-cognac",
+        "hrefSubCategory": "/Vinos-Licores-y-Gourmet/Licores/Brandy-y-Cognac/c/cos_7.2.1"
+    },
+    {
+        "department": "vinos-licores-y-gourmet",
+        "hrefDepartment": "/Vinos-Licores-y-Gourmet/c/cos_7",
+        "category": "licores",
+        "hrefCategory": "/Vinos-Licores-y-Gourmet/Licores/c/cos_7.2",
+        "subCategory": "aperitivos-y-digestivos",
+        "hrefSubCategory": "/Vinos-Licores-y-Gourmet/Licores/Aperitivos-y-Digestivos/c/cos_7.2.2"
+    },
+    {
+        "department": "vinos-licores-y-gourmet",
+        "hrefDepartment": "/Vinos-Licores-y-Gourmet/c/cos_7",
+        "category": "licores",
+        "hrefCategory": "/Vinos-Licores-y-Gourmet/Licores/c/cos_7.2",
+        "subCategory": "ginebra",
+        "hrefSubCategory": "/Vinos-Licores-y-Gourmet/Licores/Ginebra/c/cos_7.2.3"
+    },
+    {
+        "department": "vinos-licores-y-gourmet",
+        "hrefDepartment": "/Vinos-Licores-y-Gourmet/c/cos_7",
+        "category": "licores",
+        "hrefCategory": "/Vinos-Licores-y-Gourmet/Licores/c/cos_7.2",
+        "subCategory": "mezcal",
+        "hrefSubCategory": "/Vinos-Licores-y-Gourmet/Licores/Mezcal/c/cos_7.2.4"
+    },
+    {
+        "department": "vinos-licores-y-gourmet",
+        "hrefDepartment": "/Vinos-Licores-y-Gourmet/c/cos_7",
+        "category": "licores",
+        "hrefCategory": "/Vinos-Licores-y-Gourmet/Licores/c/cos_7.2",
+        "subCategory": "ron",
+        "hrefSubCategory": "/Vinos-Licores-y-Gourmet/Licores/Ron/c/cos_7.2.5"
+    },
+    {
+        "department": "vinos-licores-y-gourmet",
+        "hrefDepartment": "/Vinos-Licores-y-Gourmet/c/cos_7",
+        "category": "licores",
+        "hrefCategory": "/Vinos-Licores-y-Gourmet/Licores/c/cos_7.2",
+        "subCategory": "tequila",
+        "hrefSubCategory": "/Vinos-Licores-y-Gourmet/Licores/Tequila/c/cos_7.2.6"
+    },
+    {
+        "department": "vinos-licores-y-gourmet",
+        "hrefDepartment": "/Vinos-Licores-y-Gourmet/c/cos_7",
+        "category": "licores",
+        "hrefCategory": "/Vinos-Licores-y-Gourmet/Licores/c/cos_7.2",
+        "subCategory": "vodka",
+        "hrefSubCategory": "/Vinos-Licores-y-Gourmet/Licores/Vodka/c/cos_7.2.7"
+    },
+    {
+        "department": "vinos-licores-y-gourmet",
+        "hrefDepartment": "/Vinos-Licores-y-Gourmet/c/cos_7",
+        "category": "licores",
+        "hrefCategory": "/Vinos-Licores-y-Gourmet/Licores/c/cos_7.2",
+        "subCategory": "whisky",
+        "hrefSubCategory": "/Vinos-Licores-y-Gourmet/Licores/Whisky/c/cos_7.2.8"
+    },
+    {
+        "department": "vinos-licores-y-gourmet",
+        "hrefDepartment": "/Vinos-Licores-y-Gourmet/c/cos_7",
+        "category": "gourmet",
+        "hrefCategory": "/Vinos-Licores-y-Gourmet/Gourmet/c/cos_7.4",
+        "subCategory": "caviar",
+        "hrefSubCategory": "/Vinos-Licores-y-Gourmet/Gourmet/Caviar/c/cos_7.4.2"
+    },
+    {
+        "department": "vinos-licores-y-gourmet",
+        "hrefDepartment": "/Vinos-Licores-y-Gourmet/c/cos_7",
+        "category": "gourmet",
+        "hrefCategory": "/Vinos-Licores-y-Gourmet/Gourmet/c/cos_7.4",
+        "subCategory": "cocinando-en-casa",
+        "hrefSubCategory": "/Vinos-Licores-y-Gourmet/Gourmet/Cocinando-en-Casa/c/cos_7.4.4"
+    },
+    {
+        "department": "vinos-licores-y-gourmet",
+        "hrefDepartment": "/Vinos-Licores-y-Gourmet/c/cos_7",
+        "category": "gourmet",
+        "hrefCategory": "/Vinos-Licores-y-Gourmet/Gourmet/c/cos_7.4",
+        "subCategory": "charcuteria",
+        "hrefSubCategory": "/Vinos-Licores-y-Gourmet/Gourmet/Charcuteria/c/cos_7.4.1"
+    },
+    {
+        "department": "vinos-licores-y-gourmet",
+        "hrefDepartment": "/Vinos-Licores-y-Gourmet/c/cos_7",
+        "category": "gourmet",
+        "hrefCategory": "/Vinos-Licores-y-Gourmet/Gourmet/c/cos_7.4",
+        "subCategory": "conservas-condimentos-y-salsas",
+        "hrefSubCategory": "/Vinos-Licores-y-Gourmet/Gourmet/Conservas-Condimentos-y-Salsas/c/cos_7.4.3"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "asadores-y-hieleras",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Asadores-y-Hieleras/c/cos_8.2",
+        "subCategory": "asadores",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Asadores-y-Hieleras/Asadores/c/cos_8.2.1"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "asadores-y-hieleras",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Asadores-y-Hieleras/c/cos_8.2",
+        "subCategory": "carbon-para-asadores",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Asadores-y-Hieleras/Carbon-para-Asadores/c/cos_8.2.2"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "asadores-y-hieleras",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Asadores-y-Hieleras/c/cos_8.2",
+        "subCategory": "hieleras",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Asadores-y-Hieleras/Hieleras/c/cos_8.2.3"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "asadores-y-hieleras",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Asadores-y-Hieleras/c/cos_8.2",
+        "subCategory": "accesorios-para-asador",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Asadores-y-Hieleras/Accesorios-para-Asador/c/cos_8.2.4"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "muebles-para-jardin",
+        "hrefCategory": "/Muebles/Muebles-para-Jardin/c/cos_5.6",
+        "subCategory": "salas-para-exterior",
+        "hrefSubCategory": "/Muebles/Muebles-para-Jardin/Salas-para-Exterior/c/cos_5.6.1"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "muebles-para-jardin",
+        "hrefCategory": "/Muebles/Muebles-para-Jardin/c/cos_5.6",
+        "subCategory": "colecciones",
+        "hrefSubCategory": "/Muebles/Muebles-para-Jardin/Colecciones/c/cos_5.6.2"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "muebles-para-jardin",
+        "hrefCategory": "/Muebles/Muebles-para-Jardin/c/cos_5.6",
+        "subCategory": "comedores-para-exterior",
+        "hrefSubCategory": "/Muebles/Muebles-para-Jardin/Comedores-para-Exterior/c/cos_5.6.3"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "muebles-para-jardin",
+        "hrefCategory": "/Muebles/Muebles-para-Jardin/c/cos_5.6",
+        "subCategory": "sets-bistro",
+        "hrefSubCategory": "/Muebles/Muebles-para-Jardin/Sets-Bistro/c/cos_5.6.4"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "muebles-para-jardin",
+        "hrefCategory": "/Muebles/Muebles-para-Jardin/c/cos_5.6",
+        "subCategory": "camastros",
+        "hrefSubCategory": "/Muebles/Muebles-para-Jardin/Camastros/c/cos_5.6.5"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "muebles-para-jardin",
+        "hrefCategory": "/Muebles/Muebles-para-Jardin/c/cos_5.6",
+        "subCategory": "cojines-para-exterior",
+        "hrefSubCategory": "/Muebles/Muebles-para-Jardin/Cojines-para-Exterior/c/cos_5.6.7"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "muebles-para-jardin",
+        "hrefCategory": "/Muebles/Muebles-para-Jardin/c/cos_5.6",
+        "subCategory": "fogateros-y-calentadores-de-exterior",
+        "hrefSubCategory": "/Muebles/Muebles-para-Jardin/Fogateros-y-Calentadores-de-Exterior/c/cos_5.6.8"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "muebles-para-jardin",
+        "hrefCategory": "/Muebles/Muebles-para-Jardin/c/cos_5.6",
+        "subCategory": "juegos-de-jardin",
+        "hrefSubCategory": "/Deportes/Ejercicio-al-Aire-Libre/Juegos-de-Jardin/c/cos_9.7.1"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "fundas-para-jardin",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Fundas-para-Jardin/c/cos_8.1",
+        "subCategory": "fundas-para-accesorios-de-jardin",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Fundas-para-Jardin/Fundas-para-Accesorios-de-Jardin/c/cos_8.1.1"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "fundas-para-jardin",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Fundas-para-Jardin/c/cos_8.1",
+        "subCategory": "fundas-para-asadores",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Fundas-para-Jardin/Fundas-para-Asadores/c/cos_8.1.2"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "fundas-para-jardin",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Fundas-para-Jardin/c/cos_8.1",
+        "subCategory": "fundas-para-sillas",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Fundas-para-Jardin/Fundas-para-Sillas/c/cos_8.1.3"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "fundas-para-jardin",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Fundas-para-Jardin/c/cos_8.1",
+        "subCategory": "fundas-para-comedores",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Fundas-para-Jardin/Fundas-para-Comedores/c/cos_8.1.4"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "fundas-para-jardin",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Fundas-para-Jardin/c/cos_8.1",
+        "subCategory": "fundas-para-muebles",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Fundas-para-Jardin/Fundas-para-Muebles/c/cos_8.1.5"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "fundas-para-jardin",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Fundas-para-Jardin/c/cos_8.1",
+        "subCategory": "fundas-para-sets",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Fundas-para-Jardin/Fundas-para-Sets/c/cos_8.1.6"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "herramientas-para-jardin",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Herramientas-para-Jardin/c/cos_8.3",
+        "subCategory": "podadoras",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Herramientas-para-Jardin/Podadoras/c/cos_8.3.1"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "herramientas-para-jardin",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Herramientas-para-Jardin/c/cos_8.3",
+        "subCategory": "motosierras",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Herramientas-para-Jardin/Motosierras/c/cos_8.3.2"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "herramientas-para-jardin",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Herramientas-para-Jardin/c/cos_8.3",
+        "subCategory": "desbrozadoras",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Herramientas-para-Jardin/Desbrozadoras/c/cos_8.3.3"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "herramientas-para-jardin",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Herramientas-para-Jardin/c/cos_8.3",
+        "subCategory": "sopladoras-de-hojas",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Herramientas-para-Jardin/Sopladoras-de-Hojas/c/cos_8.3.4"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "flores-y-plantas",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Flores-y-Plantas/c/cos_8.4",
+        "subCategory": "ramos-de-rosas",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Flores-y-Plantas/Ramos-de-Rosas/c/cos_8.4.1"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "flores-y-plantas",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Flores-y-Plantas/c/cos_8.4",
+        "subCategory": "ramos-mixtos",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Flores-y-Plantas/Ramos-Mixtos/c/cos_8.4.2"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "flores-y-plantas",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Flores-y-Plantas/c/cos_8.4",
+        "subCategory": "ramos-de-ocasion",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Flores-y-Plantas/Ramos-de-Ocasion/c/cos_8.4.3"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "flores-y-plantas",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Flores-y-Plantas/c/cos_8.4",
+        "subCategory": "orquideas",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Flores-y-Plantas/Orquideas/c/cos_8.4.4"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "flores-y-plantas",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Flores-y-Plantas/c/cos_8.4",
+        "subCategory": "huertos",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Flores-y-Plantas/Huertos/c/cos_8.4.5"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "almacenaje-y-organizacion-de-jardin",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Almacenaje-y-Organizacion-de-Jardin/c/cos_8.5",
+        "subCategory": "cobertizos",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Almacenaje-y-Organizacion-de-Jardin/Cobertizos/c/cos_8.5.1"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "almacenaje-y-organizacion-de-jardin",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Almacenaje-y-Organizacion-de-Jardin/c/cos_8.5",
+        "subCategory": "cajas-de-almacenamiento",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Almacenaje-y-Organizacion-de-Jardin/Cajas-de-Almacenamiento/c/cos_8.5.2"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "gazebos-carpas-y-sombrillas",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Gazebos-Carpas-y-Sombrillas/c/cos_8.6",
+        "subCategory": "gazebos",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Gazebos-Carpas-y-Sombrillas/Gazebos/c/cos_8.6.1"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "gazebos-carpas-y-sombrillas",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Gazebos-Carpas-y-Sombrillas/c/cos_8.6",
+        "subCategory": "carpas-y-toldos",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Gazebos-Carpas-y-Sombrillas/Carpas-y-Toldos/c/cos_8.6.2"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "gazebos-carpas-y-sombrillas",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Gazebos-Carpas-y-Sombrillas/c/cos_8.6",
+        "subCategory": "sombrillas-para-exterior",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Gazebos-Carpas-y-Sombrillas/Sombrillas-para-Exterior/c/cos_8.6.3"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "mascotas",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Mascotas/c/cos_8.7",
+        "subCategory": "perros",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Mascotas/Perros/c/cos_8.7.1"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "mascotas",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Mascotas/c/cos_8.7",
+        "subCategory": "gatos",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Mascotas/Gatos/c/cos_8.7.2"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "mascotas",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Mascotas/c/cos_8.7",
+        "subCategory": "aves",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Mascotas/Aves/c/cos_8.7.3"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "mascotas",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Mascotas/c/cos_8.7",
+        "subCategory": "peces-y-reptiles",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Mascotas/Peces-y-Reptiles/c/cos_8.7.4"
+    },
+    {
+        "department": "jardin-flores-y-mascotas",
+        "hrefDepartment": "/Jardin-Flores-y-Mascotas/c/cos_8",
+        "category": "mascotas",
+        "hrefCategory": "/Jardin-Flores-y-Mascotas/Mascotas/c/cos_8.7",
+        "subCategory": "roedores",
+        "hrefSubCategory": "/Jardin-Flores-y-Mascotas/Mascotas/Roedores/c/cos_8.7.5"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "aparatos-de-ejercicio",
+        "hrefCategory": "/Deportes/Aparatos-de-Ejercicio/c/cos_9.1",
+        "subCategory": "caminadoras",
+        "hrefSubCategory": "/Deportes/Aparatos-de-Ejercicio/Caminadoras/c/cos_9.1.1"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "aparatos-de-ejercicio",
+        "hrefCategory": "/Deportes/Aparatos-de-Ejercicio/c/cos_9.1",
+        "subCategory": "elipticas",
+        "hrefSubCategory": "/Deportes/Aparatos-de-Ejercicio/Elipticas/c/cos_9.1.2"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "aparatos-de-ejercicio",
+        "hrefCategory": "/Deportes/Aparatos-de-Ejercicio/c/cos_9.1",
+        "subCategory": "bicicletas-para-ejercicio",
+        "hrefSubCategory": "/Deportes/Aparatos-de-Ejercicio/Bicicletas-para-Ejercicio/c/cos_9.1.3"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "aparatos-de-ejercicio",
+        "hrefCategory": "/Deportes/Aparatos-de-Ejercicio/c/cos_9.1",
+        "subCategory": "remadoras",
+        "hrefSubCategory": "/Deportes/Aparatos-de-Ejercicio/Remadoras/c/cos_9.1.4"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "aparatos-de-ejercicio",
+        "hrefCategory": "/Deportes/Aparatos-de-Ejercicio/c/cos_9.1",
+        "subCategory": "estaciones-de-gimnasio",
+        "hrefSubCategory": "/Deportes/Aparatos-de-Ejercicio/Estaciones-de-Gimnasio/c/cos_9.1.5"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "aparatos-de-ejercicio",
+        "hrefCategory": "/Deportes/Aparatos-de-Ejercicio/c/cos_9.1",
+        "subCategory": "pilates",
+        "hrefSubCategory": "/Deportes/Aparatos-de-Ejercicio/Pilates/c/cos_9.1.6"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "aparatos-de-ejercicio",
+        "hrefCategory": "/Deportes/Aparatos-de-Ejercicio/c/cos_9.1",
+        "subCategory": "box",
+        "hrefSubCategory": "/Deportes/Aparatos-de-Ejercicio/Box/c/cos_9.1.7"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "aparatos-de-ejercicio",
+        "hrefCategory": "/Deportes/Aparatos-de-Ejercicio/c/cos_9.1",
+        "subCategory": "accesorios",
+        "hrefSubCategory": "/Deportes/Aparatos-de-Ejercicio/Accesorios/c/cos_9.1.8"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "ciclismo",
+        "hrefCategory": "/Deportes/Ciclismo/c/cos_9.2",
+        "subCategory": "bicicletas-de-montana",
+        "hrefSubCategory": "/Deportes/Ciclismo/Bicicletas-de-Montana/c/cos_9.2.1"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "ciclismo",
+        "hrefCategory": "/Deportes/Ciclismo/c/cos_9.2",
+        "subCategory": "bicicletas-urbanas",
+        "hrefSubCategory": "/Deportes/Ciclismo/Bicicletas-Urbanas/c/cos_9.2.2"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "ciclismo",
+        "hrefCategory": "/Deportes/Ciclismo/c/cos_9.2",
+        "subCategory": "bicicletas-y-scooters-electricos",
+        "hrefSubCategory": "/Deportes/Ciclismo/Bicicletas-y-Scooters-Electricos/c/cos_9.2.3"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "ciclismo",
+        "hrefCategory": "/Deportes/Ciclismo/c/cos_9.2",
+        "subCategory": "accesorios",
+        "hrefSubCategory": "/Deportes/Ciclismo/Accesorios/c/cos_9.2.4"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "motociclismo",
+        "hrefCategory": "/Deportes/Motociclismo/c/cos_9.3",
+        "subCategory": "todo-terreno",
+        "hrefSubCategory": "/Deportes/Motociclismo/Todo-Terreno/c/cos_9.3.1"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "motociclismo",
+        "hrefCategory": "/Deportes/Motociclismo/c/cos_9.3",
+        "subCategory": "motocicletas",
+        "hrefSubCategory": "/Deportes/Motociclismo/Motocicletas/c/cos_9.3.2"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "motociclismo",
+        "hrefCategory": "/Deportes/Motociclismo/c/cos_9.3",
+        "subCategory": "cuatrimotos",
+        "hrefSubCategory": "/Deportes/Motociclismo/Cuatrimotos/c/cos_9.3.3"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "motociclismo",
+        "hrefCategory": "/Deportes/Motociclismo/c/cos_9.3",
+        "subCategory": "scooters",
+        "hrefSubCategory": "/Deportes/Motociclismo/Scooters/c/cos_9.3.4"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "campismo",
+        "hrefCategory": "/Deportes/Campismo/c/cos_9.4",
+        "subCategory": "casas-de-campana",
+        "hrefSubCategory": "/Deportes/Campismo/Casas-de-Campana/c/cos_9.4.1"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "campismo",
+        "hrefCategory": "/Deportes/Campismo/c/cos_9.4",
+        "subCategory": "colchones-y-sleeping-bags",
+        "hrefSubCategory": "/Deportes/Campismo/Colchones-y-Sleeping-Bags/c/cos_9.4.2"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "campismo",
+        "hrefCategory": "/Deportes/Campismo/c/cos_9.4",
+        "subCategory": "accesorios",
+        "hrefSubCategory": "/Deportes/Campismo/Accesorios/c/cos_9.4.3"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "acuaticos",
+        "hrefCategory": "/Deportes/Acuaticos/c/cos_9.5",
+        "subCategory": "pesca",
+        "hrefSubCategory": "/Deportes/Acuaticos/Pesca/c/cos_9.5.1"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "acuaticos",
+        "hrefCategory": "/Deportes/Acuaticos/c/cos_9.5",
+        "subCategory": "surf-y-remo",
+        "hrefSubCategory": "/Deportes/Acuaticos/Surf-y-Remo/c/cos_9.5.2"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "acuaticos",
+        "hrefCategory": "/Deportes/Acuaticos/c/cos_9.5",
+        "subCategory": "kayaks",
+        "hrefSubCategory": "/Deportes/Acuaticos/Kayaks/c/cos_9.5.3"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "acuaticos",
+        "hrefCategory": "/Deportes/Acuaticos/c/cos_9.5",
+        "subCategory": "albercas",
+        "hrefSubCategory": "/Deportes/Acuaticos/Albercas/c/cos_9.5.4"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "acuaticos",
+        "hrefCategory": "/Deportes/Acuaticos/c/cos_9.5",
+        "subCategory": "inflables",
+        "hrefSubCategory": "/Deportes/Acuaticos/Inflables/c/cos_9.5.5"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "acuaticos",
+        "hrefCategory": "/Deportes/Acuaticos/c/cos_9.5",
+        "subCategory": "accesorios",
+        "hrefSubCategory": "/Deportes/Acuaticos/Accesorios/c/cos_9.5.6"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "sala-de-juegos",
+        "hrefCategory": "/Deportes/Sala-de-Juegos/c/cos_9.6",
+        "subCategory": "mesa-de-billar",
+        "hrefSubCategory": "/Deportes/Sala-de-Juegos/Mesa-de-Billar/c/cos_9.6.1"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "sala-de-juegos",
+        "hrefCategory": "/Deportes/Sala-de-Juegos/c/cos_9.6",
+        "subCategory": "mesas-de-juegos",
+        "hrefSubCategory": "/Deportes/Sala-de-Juegos/Mesas-de-Juegos/c/cos_9.6.4"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "sala-de-juegos",
+        "hrefCategory": "/Deportes/Sala-de-Juegos/c/cos_9.6",
+        "subCategory": "juegos-de-dardos",
+        "hrefSubCategory": "/Deportes/Sala-de-Juegos/Juegos-de-Dardos/c/cos_9.6.5"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "ejercicio-al-aire-libre",
+        "hrefCategory": "/Deportes/Ejercicio-al-Aire-Libre/c/cos_9.7",
+        "subCategory": "juegos-de-jardin",
+        "hrefSubCategory": "/Deportes/Ejercicio-al-Aire-Libre/Juegos-de-Jardin/c/cos_9.7.1"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "ejercicio-al-aire-libre",
+        "hrefCategory": "/Deportes/Ejercicio-al-Aire-Libre/c/cos_9.7",
+        "subCategory": "basketball",
+        "hrefSubCategory": "/Deportes/Ejercicio-al-Aire-Libre/Basketball/c/cos_9.7.2"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "ejercicio-al-aire-libre",
+        "hrefCategory": "/Deportes/Ejercicio-al-Aire-Libre/c/cos_9.7",
+        "subCategory": "golf",
+        "hrefSubCategory": "/Deportes/Ejercicio-al-Aire-Libre/Golf/c/cos_9.7.3"
+    },
+    {
+        "department": "deportes",
+        "hrefDepartment": "/Deportes/c/cos_9",
+        "category": "ejercicio-al-aire-libre",
+        "hrefCategory": "/Deportes/Ejercicio-al-Aire-Libre/c/cos_9.7",
+        "subCategory": "football",
+        "hrefSubCategory": "/Deportes/Ejercicio-al-Aire-Libre/Football/c/cos_9.7.5"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-dama",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/c/cos_10.1",
+        "subCategory": "camisas",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/Camisas/c/cos_10.1.1"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-dama",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/c/cos_10.1",
+        "subCategory": "blusas",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/Blusas/c/cos_10.1.2"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-dama",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/c/cos_10.1",
+        "subCategory": "pantalones-y-shorts",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/Pantalones-y-Shorts/c/cos_10.1.3"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-dama",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/c/cos_10.1",
+        "subCategory": "vestidos-y-faldas",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/Vestidos-y-Faldas/c/cos_10.1.4"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-dama",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/c/cos_10.1",
+        "subCategory": "ropa-deportiva",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/Ropa-Deportiva/c/cos_10.1.5"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-dama",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/c/cos_10.1",
+        "subCategory": "ropa-interior",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/Ropa-Interior/c/cos_10.1.6"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-dama",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/c/cos_10.1",
+        "subCategory": "sueteres-y-chamarras",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/Sueteres-y-Chamarras/c/cos_10.1.7"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-dama",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/c/cos_10.1",
+        "subCategory": "pijamas",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/Pijamas/c/cos_10.1.8"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-dama",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/c/cos_10.1",
+        "subCategory": "calzado",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/Calzado/c/cos_10.1.9"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-dama",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/c/cos_10.1",
+        "subCategory": "trajes-de-bano",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Dama/Trajes-de-Bano/c/cos_10.1.10"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-caballero",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/c/cos_10.2",
+        "subCategory": "camisas",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/Camisas/c/cos_10.2.1"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-caballero",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/c/cos_10.2",
+        "subCategory": "trajes",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/Trajes/c/cos_10.2.2"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-caballero",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/c/cos_10.2",
+        "subCategory": "playeras-y-polo",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/Playeras-y-Polo/c/cos_10.2.3"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-caballero",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/c/cos_10.2",
+        "subCategory": "pantalones-y-shorts",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/Pantalones-y-Shorts/c/cos_10.2.4"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-caballero",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/c/cos_10.2",
+        "subCategory": "sueteres-y-chamarras",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/Sueteres-y-Chamarras/c/cos_10.2.5"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-caballero",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/c/cos_10.2",
+        "subCategory": "ropa-deportiva",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/Ropa-Deportiva/c/cos_10.2.6"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-caballero",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/c/cos_10.2",
+        "subCategory": "ropa-interior",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/Ropa-interior/c/cos_10.2.7"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-caballero",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/c/cos_10.2",
+        "subCategory": "pijamas",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/Pijamas/c/cos_10.2.8"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-caballero",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/c/cos_10.2",
+        "subCategory": "calzado",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/Calzado/c/cos_10.2.9"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-caballero",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/c/cos_10.2",
+        "subCategory": "trajes-de-bano",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Caballero/Trajes-de-Bano/c/cos_10.2.10"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-ninos",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/c/cos_10.3",
+        "subCategory": "vestidos-y-faldas",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/Vestidos-y-Faldas/c/cos_10.3.1"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-ninos",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/c/cos_10.3",
+        "subCategory": "sueteres-y-chamarras",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/Sueteres-y-Chamarras/c/cos_10.3.2"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-ninos",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/c/cos_10.3",
+        "subCategory": "playeras-y-camisas",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/Playeras-y-Camisas/c/cos_10.3.3"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-ninos",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/c/cos_10.3",
+        "subCategory": "calzado",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/Calzado/c/cos_10.3.4"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-ninos",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/c/cos_10.3",
+        "subCategory": "ropa-deportiva",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/Ropa-Deportiva/c/cos_10.3.5"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-ninos",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/c/cos_10.3",
+        "subCategory": "pantalones-y-shorts",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/Pantalones-y-Shorts/c/cos_10.3.6"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-ninos",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/c/cos_10.3",
+        "subCategory": "conjuntos",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/Conjuntos/c/cos_10.3.7"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-ninos",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/c/cos_10.3",
+        "subCategory": "pijamas",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/Pijamas/c/cos_10.3.8"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-ninos",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/c/cos_10.3",
+        "subCategory": "ropa-interior",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/Ropa-Interior/c/cos_10.3.9"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-ninos",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/c/cos_10.3",
+        "subCategory": "trajes-de-bano",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/Trajes-de-Bano/c/cos_10.3.10"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "ropa-para-ninos",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/c/cos_10.3",
+        "subCategory": "para-bebes",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Ropa-para-Ninos/Para-Bebes/c/cos_10.3.11"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "maletas-y-accesorios",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Maletas-y-Accesorios/c/cos_10.4",
+        "subCategory": "maletas",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Maletas-y-Accesorios/Maletas/c/cos_10.4.1"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "maletas-y-accesorios",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Maletas-y-Accesorios/c/cos_10.4",
+        "subCategory": "bolsas",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Maletas-y-Accesorios/Bolsas/c/cos_10.4.2"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "maletas-y-accesorios",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Maletas-y-Accesorios/c/cos_10.4",
+        "subCategory": "sombreros",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Maletas-y-Accesorios/Sombreros/c/cos_10.4.3"
+    },
+    {
+        "department": "ropa-calzado-y-equipaje",
+        "hrefDepartment": "/Ropa-Calzado-y-Equipaje/c/cos_10",
+        "category": "maletas-y-accesorios",
+        "hrefCategory": "/Ropa-Calzado-y-Equipaje/Maletas-y-Accesorios/c/cos_10.4",
+        "subCategory": "sombrillas",
+        "hrefSubCategory": "/Ropa-Calzado-y-Equipaje/Maletas-y-Accesorios/Sombrillas/c/cos_10.4.4"
+    },
+    {
+        "department": "todo-para-el-bebe",
+        "hrefDepartment": "/Todo-para-el-Bebe/c/cos_11",
+        "category": "alimentacion",
+        "hrefCategory": "/Todo-para-el-Bebe/Alimentacion/c/cos_11.1",
+        "subCategory": "formula-infantil",
+        "hrefSubCategory": "/Todo-para-el-Bebe/Alimentacion/Formula-Infantil/c/cos_11.1.1"
+    },
+    {
+        "department": "todo-para-el-bebe",
+        "hrefDepartment": "/Todo-para-el-Bebe/c/cos_11",
+        "category": "alimentacion",
+        "hrefCategory": "/Todo-para-el-Bebe/Alimentacion/c/cos_11.1",
+        "subCategory": "biberones-y-accesorios",
+        "hrefSubCategory": "/Todo-para-el-Bebe/Alimentacion/Biberones-y-Accesorios/c/cos_11.1.2"
+    },
+    {
+        "department": "todo-para-el-bebe",
+        "hrefDepartment": "/Todo-para-el-Bebe/c/cos_11",
+        "category": "cuidado-del-bebe",
+        "hrefCategory": "/Todo-para-el-Bebe/Cuidado-del-Bebe/c/cos_11.2",
+        "subCategory": "panales-y-toallitas",
+        "hrefSubCategory": "/Todo-para-el-Bebe/Cuidado-del-Bebe/Panales-y-Toallitas/c/cos_11.2.1"
+    },
+    {
+        "department": "todo-para-el-bebe",
+        "hrefDepartment": "/Todo-para-el-Bebe/c/cos_11",
+        "category": "cuidado-del-bebe",
+        "hrefCategory": "/Todo-para-el-Bebe/Cuidado-del-Bebe/c/cos_11.2",
+        "subCategory": "cuidado-y-limpieza-personal",
+        "hrefSubCategory": "/Todo-para-el-Bebe/Cuidado-del-Bebe/Cuidado-y-Limpieza-Personal/c/cos_11.2.2"
+    },
+    {
+        "department": "todo-para-el-bebe",
+        "hrefDepartment": "/Todo-para-el-Bebe/c/cos_11",
+        "category": "cuidado-del-bebe",
+        "hrefCategory": "/Todo-para-el-Bebe/Cuidado-del-Bebe/c/cos_11.2",
+        "subCategory": "panaleras-y-accesorios",
+        "hrefSubCategory": "/Todo-para-el-Bebe/Cuidado-del-Bebe/Panaleras-y-Accesorios/c/cos_11.2.3"
+    },
+    {
+        "department": "todo-para-el-bebe",
+        "hrefDepartment": "/Todo-para-el-Bebe/c/cos_11",
+        "category": "seguridad-del-bebe",
+        "hrefCategory": "/Todo-para-el-Bebe/Seguridad-del-Bebe/c/cos_11.3",
+        "subCategory": "monitores",
+        "hrefSubCategory": "/Todo-para-el-Bebe/Seguridad-del-Bebe/Monitores/c/cos_11.3.1"
+    },
+    {
+        "department": "todo-para-el-bebe",
+        "hrefDepartment": "/Todo-para-el-Bebe/c/cos_11",
+        "category": "seguridad-del-bebe",
+        "hrefCategory": "/Todo-para-el-Bebe/Seguridad-del-Bebe/c/cos_11.3",
+        "subCategory": "cunas",
+        "hrefSubCategory": "/Muebles/Recamara/Cunas/c/cos_5.1.6"
+    },
+    {
+        "department": "todo-para-el-bebe",
+        "hrefDepartment": "/Todo-para-el-Bebe/c/cos_11",
+        "category": "carriolas-y-soportes",
+        "hrefCategory": "/Todo-para-el-Bebe/Carriolas-y-Soportes/c/cos_11.4",
+        "subCategory": "carriolas",
+        "hrefSubCategory": "/Todo-para-el-Bebe/Carriolas-y-Soportes/Carriolas/c/cos_11.4.1"
+    },
+    {
+        "department": "todo-para-el-bebe",
+        "hrefDepartment": "/Todo-para-el-Bebe/c/cos_11",
+        "category": "carriolas-y-soportes",
+        "hrefCategory": "/Todo-para-el-Bebe/Carriolas-y-Soportes/c/cos_11.4",
+        "subCategory": "sillas-y-asientos-para-bebe",
+        "hrefSubCategory": "/Todo-para-el-Bebe/Carriolas-y-Soportes/Sillas-y-Asientos-para-Bebe/c/cos_11.4.2"
+    },
+    {
+        "department": "todo-para-el-bebe",
+        "hrefDepartment": "/Todo-para-el-Bebe/c/cos_11",
+        "category": "juguetes",
+        "hrefCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/c/cos_12.4",
+        "subCategory": "juguetes-para-bebe",
+        "hrefSubCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/Juguetes-para-Bebe/c/cos_12.4.1"
+    },
+    {
+        "department": "todo-para-el-bebe",
+        "hrefDepartment": "/Todo-para-el-Bebe/c/cos_11",
+        "category": "juguetes",
+        "hrefCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/c/cos_12.4",
+        "subCategory": "juegos-de-mesa-y-destreza",
+        "hrefSubCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/Juegos-de-Mesa-y-Destreza/c/cos_12.4.2"
+    },
+    {
+        "department": "todo-para-el-bebe",
+        "hrefDepartment": "/Todo-para-el-Bebe/c/cos_11",
+        "category": "juguetes",
+        "hrefCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/c/cos_12.4",
+        "subCategory": "munecas-y-figuras-de-accion",
+        "hrefSubCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/Munecas-y-Figuras-de-Accion/c/cos_12.4.3"
+    },
+    {
+        "department": "todo-para-el-bebe",
+        "hrefDepartment": "/Todo-para-el-Bebe/c/cos_11",
+        "category": "juguetes",
+        "hrefCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/c/cos_12.4",
+        "subCategory": "cocinas-y-casas-de-munecas",
+        "hrefSubCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/Cocinas-y-Casas-de-Munecas/c/cos_12.4.4"
+    },
+    {
+        "department": "todo-para-el-bebe",
+        "hrefDepartment": "/Todo-para-el-Bebe/c/cos_11",
+        "category": "juguetes",
+        "hrefCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/c/cos_12.4",
+        "subCategory": "juegos-al-aire-libre",
+        "hrefSubCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/Juegos-al-Aire-Libre/c/cos_12.4.5"
+    },
+    {
+        "department": "todo-para-el-bebe",
+        "hrefDepartment": "/Todo-para-el-Bebe/c/cos_11",
+        "category": "juguetes",
+        "hrefCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/c/cos_12.4",
+        "subCategory": "munecos-de-peluche",
+        "hrefSubCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/Munecos-de-Peluche/c/cos_12.4.6"
+    },
+    {
+        "department": "todo-para-el-bebe",
+        "hrefDepartment": "/Todo-para-el-Bebe/c/cos_11",
+        "category": "juguetes",
+        "hrefCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/c/cos_12.4",
+        "subCategory": "triciclos-montables-y-scooters",
+        "hrefSubCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/Triciclos-Montables-y-Scooters/c/cos_12.4.8"
+    },
+    {
+        "department": "todo-para-el-bebe",
+        "hrefDepartment": "/Todo-para-el-Bebe/c/cos_11",
+        "category": "juguetes",
+        "hrefCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/c/cos_12.4",
+        "subCategory": "juguetes-variados",
+        "hrefSubCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/Juguetes-Variados/c/cos_12.4.7"
+    },
+    {
+        "department": "juguetes-regalos-y-certificados",
+        "hrefDepartment": "/Juguetes-Regalos-y-Certificados/c/cos_12",
+        "category": "boletos-de-cine-y-gimnasio",
+        "hrefCategory": "/Juguetes-Regalos-y-Certificados/Boletos-de-Cine-y-Gimnasio/c/cos_12.1",
+        "subCategory": "boletos-de-cine",
+        "hrefSubCategory": "/Juguetes-Regalos-y-Certificados/Boletos-de-Cine-y-Gimnasio/Boletos-de-Cine/c/cos_12.1.1"
+    },
+    {
+        "department": "juguetes-regalos-y-certificados",
+        "hrefDepartment": "/Juguetes-Regalos-y-Certificados/c/cos_12",
+        "category": "viajes-y-certificados-de-regalo",
+        "hrefCategory": "/Juguetes-Regalos-y-Certificados/Viajes-y-Certificados-de-Regalo/c/cos_12.2",
+        "subCategory": "parques-de-diversiones",
+        "hrefSubCategory": "/Juguetes-Regalos-y-Certificados/Viajes-y-Certificados-de-Regalo/Parques-de-Diversiones/c/cos_12.2.2"
+    },
+    {
+        "department": "juguetes-regalos-y-certificados",
+        "hrefDepartment": "/Juguetes-Regalos-y-Certificados/c/cos_12",
+        "category": "regalos",
+        "hrefCategory": "/Juguetes-Regalos-y-Certificados/Regalos/c/cos_12.3",
+        "subCategory": "despensas-y-canastas-de-regalo",
+        "hrefSubCategory": "/Juguetes-Regalos-y-Certificados/Regalos/Despensas-y-Canastas-de-Regalo/c/cos_12.3.1"
+    },
+    {
+        "department": "juguetes-regalos-y-certificados",
+        "hrefDepartment": "/Juguetes-Regalos-y-Certificados/c/cos_12",
+        "category": "juguetes",
+        "hrefCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/c/cos_12.4",
+        "subCategory": "juguetes-para-bebe",
+        "hrefSubCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/Juguetes-para-Bebe/c/cos_12.4.1"
+    },
+    {
+        "department": "juguetes-regalos-y-certificados",
+        "hrefDepartment": "/Juguetes-Regalos-y-Certificados/c/cos_12",
+        "category": "juguetes",
+        "hrefCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/c/cos_12.4",
+        "subCategory": "juegos-de-mesa-y-destreza",
+        "hrefSubCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/Juegos-de-Mesa-y-Destreza/c/cos_12.4.2"
+    },
+    {
+        "department": "juguetes-regalos-y-certificados",
+        "hrefDepartment": "/Juguetes-Regalos-y-Certificados/c/cos_12",
+        "category": "juguetes",
+        "hrefCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/c/cos_12.4",
+        "subCategory": "munecas-y-figuras-de-accion",
+        "hrefSubCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/Munecas-y-Figuras-de-Accion/c/cos_12.4.3"
+    },
+    {
+        "department": "juguetes-regalos-y-certificados",
+        "hrefDepartment": "/Juguetes-Regalos-y-Certificados/c/cos_12",
+        "category": "juguetes",
+        "hrefCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/c/cos_12.4",
+        "subCategory": "cocinas-y-casas-de-munecas",
+        "hrefSubCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/Cocinas-y-Casas-de-Munecas/c/cos_12.4.4"
+    },
+    {
+        "department": "juguetes-regalos-y-certificados",
+        "hrefDepartment": "/Juguetes-Regalos-y-Certificados/c/cos_12",
+        "category": "juguetes",
+        "hrefCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/c/cos_12.4",
+        "subCategory": "juegos-al-aire-libre",
+        "hrefSubCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/Juegos-al-Aire-Libre/c/cos_12.4.5"
+    },
+    {
+        "department": "juguetes-regalos-y-certificados",
+        "hrefDepartment": "/Juguetes-Regalos-y-Certificados/c/cos_12",
+        "category": "juguetes",
+        "hrefCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/c/cos_12.4",
+        "subCategory": "munecos-de-peluche",
+        "hrefSubCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/Munecos-de-Peluche/c/cos_12.4.6"
+    },
+    {
+        "department": "juguetes-regalos-y-certificados",
+        "hrefDepartment": "/Juguetes-Regalos-y-Certificados/c/cos_12",
+        "category": "juguetes",
+        "hrefCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/c/cos_12.4",
+        "subCategory": "triciclos-montables-y-scooters",
+        "hrefSubCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/Triciclos-Montables-y-Scooters/c/cos_12.4.8"
+    },
+    {
+        "department": "juguetes-regalos-y-certificados",
+        "hrefDepartment": "/Juguetes-Regalos-y-Certificados/c/cos_12",
+        "category": "juguetes",
+        "hrefCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/c/cos_12.4",
+        "subCategory": "juguetes-variados",
+        "hrefSubCategory": "/Juguetes-Regalos-y-Certificados/Juguetes/Juguetes-Variados/c/cos_12.4.7"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "fragancias",
+        "hrefCategory": "/Salud-y-Belleza/Fragancias/c/cos_13.1",
+        "subCategory": "fragancias-para-dama",
+        "hrefSubCategory": "/Salud-y-Belleza/Fragancias/Fragancias-para-Dama/c/cos_13.1.1"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "fragancias",
+        "hrefCategory": "/Salud-y-Belleza/Fragancias/c/cos_13.1",
+        "subCategory": "fragancias-para-caballero",
+        "hrefSubCategory": "/Salud-y-Belleza/Fragancias/Fragancias-para-Caballero/c/cos_13.1.2"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "rasurado-y-depilacion",
+        "hrefCategory": "/Salud-y-Belleza/Rasurado-y-Depilacion/c/cos_13.2",
+        "subCategory": "rasuradoras",
+        "hrefSubCategory": "/Salud-y-Belleza/Rasurado-y-Depilacion/Rasuradoras/c/cos_13.2.1"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "rasurado-y-depilacion",
+        "hrefCategory": "/Salud-y-Belleza/Rasurado-y-Depilacion/c/cos_13.2",
+        "subCategory": "depiladoras",
+        "hrefSubCategory": "/Salud-y-Belleza/Rasurado-y-Depilacion/Depiladoras/c/cos_13.2.2"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "belleza-y-cuidado-personal",
+        "hrefCategory": "/Salud-y-Belleza/Belleza-y-Cuidado-Personal/c/cos_13.3",
+        "subCategory": "cuidado-facial",
+        "hrefSubCategory": "/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Facial/c/cos_13.3.1"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "belleza-y-cuidado-personal",
+        "hrefCategory": "/Salud-y-Belleza/Belleza-y-Cuidado-Personal/c/cos_13.3",
+        "subCategory": "cuidado-del-cabello",
+        "hrefSubCategory": "/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-del-Cabello/c/cos_13.3.2"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "belleza-y-cuidado-personal",
+        "hrefCategory": "/Salud-y-Belleza/Belleza-y-Cuidado-Personal/c/cos_13.3",
+        "subCategory": "cuidado-corporal",
+        "hrefSubCategory": "/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Corporal/c/cos_13.3.3"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "belleza-y-cuidado-personal",
+        "hrefCategory": "/Salud-y-Belleza/Belleza-y-Cuidado-Personal/c/cos_13.3",
+        "subCategory": "cosmeticos",
+        "hrefSubCategory": "/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cosmeticos/c/cos_13.3.4"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "belleza-y-cuidado-personal",
+        "hrefCategory": "/Salud-y-Belleza/Belleza-y-Cuidado-Personal/c/cos_13.3",
+        "subCategory": "cuidado-bucal",
+        "hrefSubCategory": "/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Cuidado-Bucal/c/cos_13.3.5"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "belleza-y-cuidado-personal",
+        "hrefCategory": "/Salud-y-Belleza/Belleza-y-Cuidado-Personal/c/cos_13.3",
+        "subCategory": "incontinencia-y-cuidado-intimo",
+        "hrefSubCategory": "/Salud-y-Belleza/Belleza-y-Cuidado-Personal/Incontinencia-y-Cuidado-Intimo/c/cos_13.3.6"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "belleza-y-cuidado-personal",
+        "hrefCategory": "/Salud-y-Belleza/Belleza-y-Cuidado-Personal/c/cos_13.3",
+        "subCategory": "k-beauty",
+        "hrefSubCategory": "/Salud-y-Belleza/Belleza-y-Cuidado-Personal/K-Beauty/c/cos_13.3.7"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "salud-y-cuidado-en-casa",
+        "hrefCategory": "/Salud-y-Belleza/Salud-y-Cuidado-en-Casa/c/cos_13.4",
+        "subCategory": "basculas",
+        "hrefSubCategory": "/Salud-y-Belleza/Salud-y-Cuidado-en-Casa/Basculas/c/cos_13.4.1"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "salud-y-cuidado-en-casa",
+        "hrefCategory": "/Salud-y-Belleza/Salud-y-Cuidado-en-Casa/c/cos_13.4",
+        "subCategory": "monitores-de-salud",
+        "hrefSubCategory": "/Salud-y-Belleza/Salud-y-Cuidado-en-Casa/Monitores-de-Salud/c/cos_13.4.2"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "salud-y-cuidado-en-casa",
+        "hrefCategory": "/Salud-y-Belleza/Salud-y-Cuidado-en-Casa/c/cos_13.4",
+        "subCategory": "cuidado-para-diabeticos",
+        "hrefSubCategory": "/Salud-y-Belleza/Salud-y-Cuidado-en-Casa/Cuidado-para-Diabeticos/c/cos_13.4.3"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "vitaminas-proteinas-y-suplementos",
+        "hrefCategory": "/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/c/cos_13.5",
+        "subCategory": "vitaminas",
+        "hrefSubCategory": "/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Vitaminas/c/cos_13.5.1"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "vitaminas-proteinas-y-suplementos",
+        "hrefCategory": "/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/c/cos_13.5",
+        "subCategory": "proteinas",
+        "hrefSubCategory": "/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Proteinas/c/cos_13.5.2"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "vitaminas-proteinas-y-suplementos",
+        "hrefCategory": "/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/c/cos_13.5",
+        "subCategory": "suplementos-alimenticios",
+        "hrefSubCategory": "/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Suplementos-Alimenticios/c/cos_13.5.3"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "vitaminas-proteinas-y-suplementos",
+        "hrefCategory": "/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/c/cos_13.5",
+        "subCategory": "colageno-y-glucosamina",
+        "hrefSubCategory": "/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Colageno-y-Glucosamina/c/cos_13.5.4"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "vitaminas-proteinas-y-suplementos",
+        "hrefCategory": "/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/c/cos_13.5",
+        "subCategory": "probioticos",
+        "hrefSubCategory": "/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Probioticos/c/cos_13.5.5"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "vitaminas-proteinas-y-suplementos",
+        "hrefCategory": "/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/c/cos_13.5",
+        "subCategory": "organicos-y-herbales",
+        "hrefSubCategory": "/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Organicos-y-Herbales/c/cos_13.5.7"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "vitaminas-proteinas-y-suplementos",
+        "hrefCategory": "/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/c/cos_13.5",
+        "subCategory": "aceite-de-pescado-y-omega-3",
+        "hrefSubCategory": "/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Aceite-de-Pescado-y-Omega-3/c/cos_13.5.6"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "vitaminas-proteinas-y-suplementos",
+        "hrefCategory": "/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/c/cos_13.5",
+        "subCategory": "keto",
+        "hrefSubCategory": "/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/KETO/c/cos_13.5.9"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "vitaminas-proteinas-y-suplementos",
+        "hrefCategory": "/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/c/cos_13.5",
+        "subCategory": "control-de-peso",
+        "hrefSubCategory": "/Salud-y-Belleza/Vitaminas-Proteinas-y-Suplementos/Control-de-Peso/c/cos_13.5.8"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "ortopedia-y-rehabilitacion",
+        "hrefCategory": "/Salud-y-Belleza/Ortopedia-y-Rehabilitacion/c/cos_13.6",
+        "subCategory": "andaderas-y-muletas",
+        "hrefSubCategory": "/Salud-y-Belleza/Ortopedia-y-Rehabilitacion/Andaderas-y-Muletas/c/cos_13.6.1"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "ortopedia-y-rehabilitacion",
+        "hrefCategory": "/Salud-y-Belleza/Ortopedia-y-Rehabilitacion/c/cos_13.6",
+        "subCategory": "inmovilizadores",
+        "hrefSubCategory": "/Salud-y-Belleza/Ortopedia-y-Rehabilitacion/Inmovilizadores/c/cos_13.6.2"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "ortopedia-y-rehabilitacion",
+        "hrefCategory": "/Salud-y-Belleza/Ortopedia-y-Rehabilitacion/c/cos_13.6",
+        "subCategory": "sillas-de-ruedas",
+        "hrefSubCategory": "/Salud-y-Belleza/Ortopedia-y-Rehabilitacion/Sillas-de-Ruedas/c/cos_13.6.3"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "ortopedia-y-rehabilitacion",
+        "hrefCategory": "/Salud-y-Belleza/Ortopedia-y-Rehabilitacion/c/cos_13.6",
+        "subCategory": "scooters-para-movilidad",
+        "hrefSubCategory": "/Salud-y-Belleza/Ortopedia-y-Rehabilitacion/Scooters-para-Movilidad/c/cos_13.6.4"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "ortopedia-y-rehabilitacion",
+        "hrefCategory": "/Salud-y-Belleza/Ortopedia-y-Rehabilitacion/c/cos_13.6",
+        "subCategory": "equipo-de-bano-y-rehabilitacion",
+        "hrefSubCategory": "/Salud-y-Belleza/Ortopedia-y-Rehabilitacion/Equipo-de-Bano-y-Rehabilitacion/c/cos_13.6.5"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "medicamentos-sin-prescripcion",
+        "hrefCategory": "/Salud-y-Belleza/Medicamentos-sin-Prescripcion/c/cos_13.7",
+        "subCategory": "alivio-estomacal",
+        "hrefSubCategory": "/Salud-y-Belleza/Medicamentos-sin-Prescripcion/Alivio-Estomacal/c/cos_13.7.1"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "medicamentos-sin-prescripcion",
+        "hrefCategory": "/Salud-y-Belleza/Medicamentos-sin-Prescripcion/c/cos_13.7",
+        "subCategory": "analgesicos",
+        "hrefSubCategory": "/Salud-y-Belleza/Medicamentos-sin-Prescripcion/Analgesicos/c/cos_13.7.2"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "medicamentos-sin-prescripcion",
+        "hrefCategory": "/Salud-y-Belleza/Medicamentos-sin-Prescripcion/c/cos_13.7",
+        "subCategory": "alivio-del-sueno",
+        "hrefSubCategory": "/Salud-y-Belleza/Medicamentos-sin-Prescripcion/Alivio-del-Sueno/c/cos_13.7.3"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "medicamentos-sin-prescripcion",
+        "hrefCategory": "/Salud-y-Belleza/Medicamentos-sin-Prescripcion/c/cos_13.7",
+        "subCategory": "tratamientos-naturistas",
+        "hrefSubCategory": "/Salud-y-Belleza/Medicamentos-sin-Prescripcion/Tratamientos-Naturistas/c/cos_13.7.4"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "medicamentos-sin-prescripcion",
+        "hrefCategory": "/Salud-y-Belleza/Medicamentos-sin-Prescripcion/c/cos_13.7",
+        "subCategory": "cuidado-de-los-ojos",
+        "hrefSubCategory": "/Salud-y-Belleza/Medicamentos-sin-Prescripcion/Cuidado-de-los-Ojos/c/cos_13.7.5"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "medicamentos-sin-prescripcion",
+        "hrefCategory": "/Salud-y-Belleza/Medicamentos-sin-Prescripcion/c/cos_13.7",
+        "subCategory": "alivio-respiratorio",
+        "hrefSubCategory": "/Salud-y-Belleza/Medicamentos-sin-Prescripcion/Alivio-Respiratorio/c/cos_13.7.6"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "medicamentos-sin-prescripcion",
+        "hrefCategory": "/Salud-y-Belleza/Medicamentos-sin-Prescripcion/c/cos_13.7",
+        "subCategory": "antigripales",
+        "hrefSubCategory": "/Salud-y-Belleza/Medicamentos-sin-Prescripcion/Antigripales/c/cos_13.7.7"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "medicamentos-sin-prescripcion",
+        "hrefCategory": "/Salud-y-Belleza/Medicamentos-sin-Prescripcion/c/cos_13.7",
+        "subCategory": "antimicoticos",
+        "hrefSubCategory": "/Salud-y-Belleza/Medicamentos-sin-Prescripcion/Antimicoticos/c/cos_13.7.8"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "medicamentos-sin-prescripcion",
+        "hrefCategory": "/Salud-y-Belleza/Medicamentos-sin-Prescripcion/c/cos_13.7",
+        "subCategory": "especialidades-medicas",
+        "hrefSubCategory": "/Salud-y-Belleza/Medicamentos-sin-Prescripcion/Especialidades-Medicas/c/cos_13.7.9"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "equipo-y-suministros-medicos",
+        "hrefCategory": "/Salud-y-Belleza/Equipo-y-Suministros-Medicos/c/cos_13.8",
+        "subCategory": "equipo-medico-profesional",
+        "hrefSubCategory": "/Salud-y-Belleza/Equipo-y-Suministros-Medicos/Equipo-Medico-Profesional/c/cos_13.8.1"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "equipo-y-suministros-medicos",
+        "hrefCategory": "/Salud-y-Belleza/Equipo-y-Suministros-Medicos/c/cos_13.8",
+        "subCategory": "equipo-de-proteccion",
+        "hrefSubCategory": "/Salud-y-Belleza/Equipo-y-Suministros-Medicos/Equipo-de-Proteccion/c/cos_13.8.2"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "cuidado-auditivo",
+        "hrefCategory": "/Salud-y-Belleza/Cuidado-Auditivo/c/cos_13.9",
+        "subCategory": "auxiliares-auditivos",
+        "hrefSubCategory": "/Salud-y-Belleza/Cuidado-Auditivo/Auxiliares-Auditivos/c/cos_13.9.1"
+    },
+    {
+        "department": "salud-y-belleza",
+        "hrefDepartment": "/Salud-y-Belleza/c/cos_13",
+        "category": "cuidado-auditivo",
+        "hrefCategory": "/Salud-y-Belleza/Cuidado-Auditivo/c/cos_13.9",
+        "subCategory": "baterias-y-accesorios",
+        "hrefSubCategory": "/Salud-y-Belleza/Cuidado-Auditivo/Baterias-y-Accesorios/c/cos_13.9.2"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "anillos",
+        "hrefCategory": "/Joyeria-y-Relojes/Anillos/c/cos_14.1",
+        "subCategory": "anillos-de-oro",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Anillos/Anillos-de-Oro/c/cos_14.1.1"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "anillos",
+        "hrefCategory": "/Joyeria-y-Relojes/Anillos/c/cos_14.1",
+        "subCategory": "anillos-de-plata",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Anillos/Anillos-de-Plata/c/cos_14.1.2"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "anillos",
+        "hrefCategory": "/Joyeria-y-Relojes/Anillos/c/cos_14.1",
+        "subCategory": "anillos-de-perlas",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Anillos/Anillos-de-Perlas/c/cos_14.1.3"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "anillos",
+        "hrefCategory": "/Joyeria-y-Relojes/Anillos/c/cos_14.1",
+        "subCategory": "anillos-de-diamantes",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Anillos/Anillos-de-Diamantes/c/cos_14.1.4"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "anillos",
+        "hrefCategory": "/Joyeria-y-Relojes/Anillos/c/cos_14.1",
+        "subCategory": "anillos-de-piedras-semipreciosas",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Anillos/Anillos-de-Piedras-Semipreciosas/c/cos_14.1.6"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "anillos",
+        "hrefCategory": "/Joyeria-y-Relojes/Anillos/c/cos_14.1",
+        "subCategory": "anillos-de-piedras-preciosas",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Anillos/Anillos-de-Piedras-Preciosas/c/cos_14.1.5"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "aretes",
+        "hrefCategory": "/Joyeria-y-Relojes/Aretes/c/cos_14.2",
+        "subCategory": "aretes-de-oro",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Aretes/Aretes-de-Oro/c/cos_14.2.1"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "aretes",
+        "hrefCategory": "/Joyeria-y-Relojes/Aretes/c/cos_14.2",
+        "subCategory": "aretes-de-plata",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Aretes/Aretes-de-Plata/c/cos_14.2.2"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "aretes",
+        "hrefCategory": "/Joyeria-y-Relojes/Aretes/c/cos_14.2",
+        "subCategory": "aretes-de-perlas",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Aretes/Aretes-de-Perlas/c/cos_14.2.3"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "aretes",
+        "hrefCategory": "/Joyeria-y-Relojes/Aretes/c/cos_14.2",
+        "subCategory": "aretes-de-diamantes",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Aretes/Aretes-de-Diamantes/c/cos_14.2.4"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "aretes",
+        "hrefCategory": "/Joyeria-y-Relojes/Aretes/c/cos_14.2",
+        "subCategory": "aretes-de-piedras-preciosas",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Aretes/Aretes-de-Piedras-Preciosas/c/cos_14.2.5"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "aretes",
+        "hrefCategory": "/Joyeria-y-Relojes/Aretes/c/cos_14.2",
+        "subCategory": "aretes-de-piedras-semipreciosas",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Aretes/Aretes-de-Piedras-Semipreciosas/c/cos_14.2.6"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "pulseras-y-brazaletes",
+        "hrefCategory": "/Joyeria-y-Relojes/Pulseras-y-Brazaletes/c/cos_14.3",
+        "subCategory": "pulseras-de-oro",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Pulseras-y-Brazaletes/Pulseras-de-Oro/c/cos_14.3.1"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "pulseras-y-brazaletes",
+        "hrefCategory": "/Joyeria-y-Relojes/Pulseras-y-Brazaletes/c/cos_14.3",
+        "subCategory": "pulseras-de-plata",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Pulseras-y-Brazaletes/Pulseras-de-Plata/c/cos_14.3.2"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "pulseras-y-brazaletes",
+        "hrefCategory": "/Joyeria-y-Relojes/Pulseras-y-Brazaletes/c/cos_14.3",
+        "subCategory": "pulseras-de-perlas",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Pulseras-y-Brazaletes/Pulseras-de-Perlas/c/cos_14.3.3"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "pulseras-y-brazaletes",
+        "hrefCategory": "/Joyeria-y-Relojes/Pulseras-y-Brazaletes/c/cos_14.3",
+        "subCategory": "pulseras-de-diamantes",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Pulseras-y-Brazaletes/Pulseras-de-Diamantes/c/cos_14.3.4"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "pulseras-y-brazaletes",
+        "hrefCategory": "/Joyeria-y-Relojes/Pulseras-y-Brazaletes/c/cos_14.3",
+        "subCategory": "pulseras-de-piedras-preciosas",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Pulseras-y-Brazaletes/Pulseras-de-Piedras-Preciosas/c/cos_14.3.5"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "pulseras-y-brazaletes",
+        "hrefCategory": "/Joyeria-y-Relojes/Pulseras-y-Brazaletes/c/cos_14.3",
+        "subCategory": "pulseras-de-piedras-semipreciosas",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Pulseras-y-Brazaletes/Pulseras-de-Piedras-Semipreciosas/c/cos_14.3.6"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "collares",
+        "hrefCategory": "/Joyeria-y-Relojes/Collares/c/cos_14.4",
+        "subCategory": "collares-de-oro",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Collares/Collares-de-Oro/c/cos_14.4.1"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "collares",
+        "hrefCategory": "/Joyeria-y-Relojes/Collares/c/cos_14.4",
+        "subCategory": "collares-de-plata",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Collares/Collares-de-Plata/c/cos_14.4.2"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "collares",
+        "hrefCategory": "/Joyeria-y-Relojes/Collares/c/cos_14.4",
+        "subCategory": "collares-de-perlas",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Collares/Collares-de-Perlas/c/cos_14.4.3"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "collares",
+        "hrefCategory": "/Joyeria-y-Relojes/Collares/c/cos_14.4",
+        "subCategory": "collares-de-diamantes",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Collares/Collares-de-Diamantes/c/cos_14.4.4"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "collares",
+        "hrefCategory": "/Joyeria-y-Relojes/Collares/c/cos_14.4",
+        "subCategory": "collares-de-piedras-preciosas",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Collares/Collares-de-Piedras-Preciosas/c/cos_14.4.5"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "collares",
+        "hrefCategory": "/Joyeria-y-Relojes/Collares/c/cos_14.4",
+        "subCategory": "collares-de-piedras-semipreciosas",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Collares/Collares-de-Piedras-Semipreciosas/c/cos_14.4.6"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "joyeria-con-motivos-religiosos",
+        "hrefCategory": "/Joyeria-y-Relojes/Joyeria-con-Motivos-Religiosos/c/cos_14.5",
+        "subCategory": "collares",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Joyeria-con-Motivos-Religiosos/Collares/c/cos_14.5.1"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "joyeria-con-motivos-religiosos",
+        "hrefCategory": "/Joyeria-y-Relojes/Joyeria-con-Motivos-Religiosos/c/cos_14.5",
+        "subCategory": "pulseras-y-brazaletes",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Joyeria-con-Motivos-Religiosos/Pulseras-y-Brazaletes/c/cos_14.5.2"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "joyeria-con-motivos-religiosos",
+        "hrefCategory": "/Joyeria-y-Relojes/Joyeria-con-Motivos-Religiosos/c/cos_14.5",
+        "subCategory": "tobilleras",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Joyeria-con-Motivos-Religiosos/Tobilleras/c/cos_14.5.3"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "relojes",
+        "hrefCategory": "/Joyeria-y-Relojes/Relojes/c/cos_14.6",
+        "subCategory": "casual",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Relojes/Casual/c/cos_14.6.1"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "relojes",
+        "hrefCategory": "/Joyeria-y-Relojes/Relojes/c/cos_14.6",
+        "subCategory": "deportivo",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Relojes/Deportivo/c/cos_14.6.2"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "relojes",
+        "hrefCategory": "/Joyeria-y-Relojes/Relojes/c/cos_14.6",
+        "subCategory": "smart-watch",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Relojes/Smart-Watch/c/cos_14.6.3"
+    },
+    {
+        "department": "joyeria-y-relojes",
+        "hrefDepartment": "/Joyeria-y-Relojes/c/cos_14",
+        "category": "relojes",
+        "hrefCategory": "/Joyeria-y-Relojes/Relojes/c/cos_14.6",
+        "subCategory": "cajas-para-reloj",
+        "hrefSubCategory": "/Joyeria-y-Relojes/Relojes/Cajas-para-Reloj/c/cos_14.6.4"
+    },
+    {
+        "department": "optica",
+        "hrefDepartment": "/Optica/c/cos_15",
+        "category": "lentes-de-lectura-y-anteojos",
+        "hrefCategory": "/Optica/Lentes-de-Lectura-y-Anteojos/c/cos_15.1",
+        "subCategory": "lentes-de-sol",
+        "hrefSubCategory": "/Optica/Lentes-de-Lectura-y-Anteojos/Lentes-de-Sol/c/cos_15.1.1"
+    },
+    {
+        "department": "optica",
+        "hrefDepartment": "/Optica/c/cos_15",
+        "category": "lentes-de-lectura-y-anteojos",
+        "hrefCategory": "/Optica/Lentes-de-Lectura-y-Anteojos/c/cos_15.1",
+        "subCategory": "armazones-oftalmicos",
+        "hrefSubCategory": "/Optica/Lentes-de-Lectura-y-Anteojos/Armazones-Oftalmicos/c/cos_15.1.2"
+    },
+    {
+        "department": "optica",
+        "hrefDepartment": "/Optica/c/cos_15",
+        "category": "lentes-de-lectura-y-anteojos",
+        "hrefCategory": "/Optica/Lentes-de-Lectura-y-Anteojos/c/cos_15.1",
+        "subCategory": "lentes-de-contacto",
+        "hrefSubCategory": "/Optica/Lentes-de-Lectura-y-Anteojos/Lentes-de-Contacto/c/cos_15.1.3"
+    },
+    {
+        "department": "optica",
+        "hrefDepartment": "/Optica/c/cos_15",
+        "category": "lentes-de-lectura-y-anteojos",
+        "hrefCategory": "/Optica/Lentes-de-Lectura-y-Anteojos/c/cos_15.1",
+        "subCategory": "lentes-para-lectura",
+        "hrefSubCategory": "/Optica/Lentes-de-Lectura-y-Anteojos/Lentes-para-Lectura/c/cos_15.1.4"
+    },
+    {
+        "department": "optica",
+        "hrefDepartment": "/Optica/c/cos_15",
+        "category": "lentes-de-lectura-y-anteojos",
+        "hrefCategory": "/Optica/Lentes-de-Lectura-y-Anteojos/c/cos_15.1",
+        "subCategory": "cuidado-de-lentes",
+        "hrefSubCategory": "/Optica/Lentes-de-Lectura-y-Anteojos/Cuidado-de-Lentes/c/cos_15.1.5"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "equipo-para-oficina",
+        "hrefCategory": "/Papeleria-y-Negocio/Equipo-para-Oficina/c/cos_16.1",
+        "subCategory": "impresoras-y-rotuladores",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Equipo-para-Oficina/Impresoras-y-Rotuladores/c/cos_16.1.1"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "equipo-para-oficina",
+        "hrefCategory": "/Papeleria-y-Negocio/Equipo-para-Oficina/c/cos_16.1",
+        "subCategory": "multifuncionales-y-escaners",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Equipo-para-Oficina/Multifuncionales-y-Escaners/c/cos_16.1.2"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "equipo-para-oficina",
+        "hrefCategory": "/Papeleria-y-Negocio/Equipo-para-Oficina/c/cos_16.1",
+        "subCategory": "trituradoras-de-papel",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Equipo-para-Oficina/Trituradoras-de-Papel/c/cos_16.1.3"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "equipo-para-oficina",
+        "hrefCategory": "/Papeleria-y-Negocio/Equipo-para-Oficina/c/cos_16.1",
+        "subCategory": "calculadoras-y-sumadoras",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Equipo-para-Oficina/Calculadoras-y-Sumadoras/c/cos_16.1.4"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "equipo-para-oficina",
+        "hrefCategory": "/Papeleria-y-Negocio/Equipo-para-Oficina/c/cos_16.1",
+        "subCategory": "equipo-para-punto-de-venta",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Equipo-para-Oficina/Equipo-para-Punto-de-Venta/c/cos_16.1.5"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "equipo-para-oficina",
+        "hrefCategory": "/Papeleria-y-Negocio/Equipo-para-Oficina/c/cos_16.1",
+        "subCategory": "contador-y-detector-de-billetes",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Equipo-para-Oficina/Contador-y-Detector-de-Billetes/c/cos_16.1.6"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "equipo-para-oficina",
+        "hrefCategory": "/Papeleria-y-Negocio/Equipo-para-Oficina/c/cos_16.1",
+        "subCategory": "accesorios-ergonomicos",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Equipo-para-Oficina/Accesorios-Ergonomicos/c/cos_16.1.7"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "papeleria",
+        "hrefCategory": "/Papeleria-y-Negocio/Papeleria/c/cos_16.2",
+        "subCategory": "pizarrones-y-rotafolios",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Papeleria/Pizarrones-y-Rotafolios/c/cos_16.2.1"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "papeleria",
+        "hrefCategory": "/Papeleria-y-Negocio/Papeleria/c/cos_16.2",
+        "subCategory": "engrapadoras-y-tijeras",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Papeleria/Engrapadoras-y-Tijeras/c/cos_16.2.2"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "papeleria",
+        "hrefCategory": "/Papeleria-y-Negocio/Papeleria/c/cos_16.2",
+        "subCategory": "adhesivos",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Papeleria/Adhesivos/c/cos_16.2.3"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "papeleria",
+        "hrefCategory": "/Papeleria-y-Negocio/Papeleria/c/cos_16.2",
+        "subCategory": "tachuelas-clips-y-broches",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Papeleria/Tachuelas-Clips-y-Broches/c/cos_16.2.4"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "papeleria",
+        "hrefCategory": "/Papeleria-y-Negocio/Papeleria/c/cos_16.2",
+        "subCategory": "maquinas-de-corte-y-enmicadoras",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Papeleria/Maquinas-de-Corte-y-Enmicadoras/c/cos_16.2.5"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "escritura-y-pintura",
+        "hrefCategory": "/Papeleria-y-Negocio/Escritura-y-Pintura/c/cos_16.3",
+        "subCategory": "arte-y-manualidades",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Escritura-y-Pintura/Arte-y-Manualidades/c/cos_16.3.1"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "escritura-y-pintura",
+        "hrefCategory": "/Papeleria-y-Negocio/Escritura-y-Pintura/c/cos_16.3",
+        "subCategory": "cuadernos",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Escritura-y-Pintura/Cuadernos/c/cos_16.3.2"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "escritura-y-pintura",
+        "hrefCategory": "/Papeleria-y-Negocio/Escritura-y-Pintura/c/cos_16.3",
+        "subCategory": "boligrafos",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Escritura-y-Pintura/Boligrafos/c/cos_16.3.3"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "escritura-y-pintura",
+        "hrefCategory": "/Papeleria-y-Negocio/Escritura-y-Pintura/c/cos_16.3",
+        "subCategory": "lapices-y-lapiceros",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Escritura-y-Pintura/Lapices-y-Lapiceros/c/cos_16.3.4"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "escritura-y-pintura",
+        "hrefCategory": "/Papeleria-y-Negocio/Escritura-y-Pintura/c/cos_16.3",
+        "subCategory": "plumones-y-marcadores",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Escritura-y-Pintura/Plumones-y-Marcadores/c/cos_16.3.5"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "escritura-y-pintura",
+        "hrefCategory": "/Papeleria-y-Negocio/Escritura-y-Pintura/c/cos_16.3",
+        "subCategory": "articulos-escolares",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Escritura-y-Pintura/Articulos-Escolares/c/cos_16.3.6"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "libretas-papel-y-folders",
+        "hrefCategory": "/Papeleria-y-Negocio/Libretas-Papel-y-Folders/c/cos_16.4",
+        "subCategory": "libretas-y-blocks-de-notas",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Libretas-Papel-y-Folders/Libretas-y-Blocks-de-Notas/c/cos_16.4.1"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "libretas-papel-y-folders",
+        "hrefCategory": "/Papeleria-y-Negocio/Libretas-Papel-y-Folders/c/cos_16.4",
+        "subCategory": "papel-y-consumibles",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Libretas-Papel-y-Folders/Papel-y-Consumibles/c/cos_16.4.2"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "libretas-papel-y-folders",
+        "hrefCategory": "/Papeleria-y-Negocio/Libretas-Papel-y-Folders/c/cos_16.4",
+        "subCategory": "folders-sobres-y-tarjetas",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Libretas-Papel-y-Folders/Folders-Sobres-y-Tarjetas/c/cos_16.4.3"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "libretas-papel-y-folders",
+        "hrefCategory": "/Papeleria-y-Negocio/Libretas-Papel-y-Folders/c/cos_16.4",
+        "subCategory": "notas-adhesivas",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Libretas-Papel-y-Folders/Notas-Adhesivas/c/cos_16.4.4"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "libretas-papel-y-folders",
+        "hrefCategory": "/Papeleria-y-Negocio/Libretas-Papel-y-Folders/c/cos_16.4",
+        "subCategory": "separadores-y-guias-de-archivo",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Libretas-Papel-y-Folders/Separadores-y-Guias-de-Archivo/c/cos_16.4.5"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "almacenamiento-en-oficina",
+        "hrefCategory": "/Papeleria-y-Negocio/Almacenamiento-en-Oficina/c/cos_16.5",
+        "subCategory": "archiveros-y-papeleras",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Almacenamiento-en-Oficina/Archiveros-y-Papeleras/c/cos_16.5.1"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "almacenamiento-en-oficina",
+        "hrefCategory": "/Papeleria-y-Negocio/Almacenamiento-en-Oficina/c/cos_16.5",
+        "subCategory": "cajas-para-archivo",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Almacenamiento-en-Oficina/Cajas-para-archivo/c/cos_16.5.2"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "almacenamiento-en-oficina",
+        "hrefCategory": "/Papeleria-y-Negocio/Almacenamiento-en-Oficina/c/cos_16.5",
+        "subCategory": "organizadores-de-escritorio",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Almacenamiento-en-Oficina/Organizadores-de-escritorio/c/cos_16.5.4"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "almacenamiento-en-oficina",
+        "hrefCategory": "/Papeleria-y-Negocio/Almacenamiento-en-Oficina/c/cos_16.5",
+        "subCategory": "carpetas-y-protectores",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Almacenamiento-en-Oficina/Carpetas-y-Protectores/c/cos_16.5.3"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "muebles-de-oficina",
+        "hrefCategory": "/Papeleria-y-Negocio/Muebles-de-Oficina/c/cos_16.6",
+        "subCategory": "escritorios-y-mesas-de-oficina",
+        "hrefSubCategory": "/Muebles/Mesas-y-Escritorios/Escritorios-y-Mesas-de-Oficina/c/cos_5.4.5"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "muebles-de-oficina",
+        "hrefCategory": "/Papeleria-y-Negocio/Muebles-de-Oficina/c/cos_16.6",
+        "subCategory": "sillas-de-oficina-y-estudio",
+        "hrefSubCategory": "/Muebles/Sillas/Sillas-de-Oficina-y-Estudio/c/cos_5.5.2"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "muebles-de-oficina",
+        "hrefCategory": "/Papeleria-y-Negocio/Muebles-de-Oficina/c/cos_16.6",
+        "subCategory": "libreros-y-estanteria",
+        "hrefSubCategory": "/Muebles/Almacenaje-y-Organizacion/Libreros-y-Estanteria/c/cos_5.3.2"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "muebles-de-oficina",
+        "hrefCategory": "/Papeleria-y-Negocio/Muebles-de-Oficina/c/cos_16.6",
+        "subCategory": "botes-de-basura",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Muebles-de-Oficina/Botes-de-Basura/c/cos_16.6.1"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "muebles-de-oficina",
+        "hrefCategory": "/Papeleria-y-Negocio/Muebles-de-Oficina/c/cos_16.6",
+        "subCategory": "dispensadores",
+        "hrefSubCategory": "/Hogar-y-Bano/Productos-de-Limpieza/Dispensadores/c/cos_4.7.3"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "consumibles-para-impresoras",
+        "hrefCategory": "/Papeleria-y-Negocio/Consumibles-para-Impresoras/c/cos_16.7",
+        "subCategory": "consumibles",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Consumibles-para-Impresoras/Consumibles/c/cos_16.7.1"
+    },
+    {
+        "department": "papeleria-y-negocio",
+        "hrefDepartment": "/Papeleria-y-Negocio/c/cos_16",
+        "category": "consumibles-para-impresoras",
+        "hrefCategory": "/Papeleria-y-Negocio/Consumibles-para-Impresoras/c/cos_16.7",
+        "subCategory": "toner-y-cintas",
+        "hrefSubCategory": "/Papeleria-y-Negocio/Consumibles-para-Impresoras/Toner-y-Cintas/c/cos_16.7.2"
+    },
+    {
+        "department": "ferreteria-llantas-y-automotriz",
+        "hrefDepartment": "/Ferreteria-Llantas-y-Automotriz/c/cos_17",
+        "category": "llantas",
+        "hrefCategory": "/Ferreteria-Llantas-y-Automotriz/Llantas/c/cos_17.1",
+        "subCategory": "automoviles",
+        "hrefSubCategory": "/Ferreteria-Llantas-y-Automotriz/Llantas/Automoviles/c/cos_17.1.1"
+    },
+    {
+        "department": "ferreteria-llantas-y-automotriz",
+        "hrefDepartment": "/Ferreteria-Llantas-y-Automotriz/c/cos_17",
+        "category": "llantas",
+        "hrefCategory": "/Ferreteria-Llantas-y-Automotriz/Llantas/c/cos_17.1",
+        "subCategory": "suv-y-camionetas",
+        "hrefSubCategory": "/Ferreteria-Llantas-y-Automotriz/Llantas/SUV-y-Camionetas/c/cos_17.1.2"
+    },
+    {
+        "department": "ferreteria-llantas-y-automotriz",
+        "hrefDepartment": "/Ferreteria-Llantas-y-Automotriz/c/cos_17",
+        "category": "cuidado-automotriz",
+        "hrefCategory": "/Ferreteria-Llantas-y-Automotriz/Cuidado-Automotriz/c/cos_17.2",
+        "subCategory": "limpieza-automotriz",
+        "hrefSubCategory": "/Ferreteria-Llantas-y-Automotriz/Cuidado-Automotriz/Limpieza-Automotriz/c/cos_17.2.1"
+    },
+    {
+        "department": "ferreteria-llantas-y-automotriz",
+        "hrefDepartment": "/Ferreteria-Llantas-y-Automotriz/c/cos_17",
+        "category": "cuidado-automotriz",
+        "hrefCategory": "/Ferreteria-Llantas-y-Automotriz/Cuidado-Automotriz/c/cos_17.2",
+        "subCategory": "soporte-y-portaequipaje",
+        "hrefSubCategory": "/Ferreteria-Llantas-y-Automotriz/Cuidado-Automotriz/Soporte-y-Portaequipaje/c/cos_17.2.3"
+    },
+    {
+        "department": "ferreteria-llantas-y-automotriz",
+        "hrefDepartment": "/Ferreteria-Llantas-y-Automotriz/c/cos_17",
+        "category": "cuidado-automotriz",
+        "hrefCategory": "/Ferreteria-Llantas-y-Automotriz/Cuidado-Automotriz/c/cos_17.2",
+        "subCategory": "aceite-para-motor",
+        "hrefSubCategory": "/Ferreteria-Llantas-y-Automotriz/Cuidado-Automotriz/Aceite-para-Motor/c/cos_17.2.4"
+    },
+    {
+        "department": "ferreteria-llantas-y-automotriz",
+        "hrefDepartment": "/Ferreteria-Llantas-y-Automotriz/c/cos_17",
+        "category": "cuidado-automotriz",
+        "hrefCategory": "/Ferreteria-Llantas-y-Automotriz/Cuidado-Automotriz/c/cos_17.2",
+        "subCategory": "accesorios-para-automovil",
+        "hrefSubCategory": "/Ferreteria-Llantas-y-Automotriz/Cuidado-Automotriz/Accesorios-para-Automovil/c/cos_17.2.5"
+    },
+    {
+        "department": "ferreteria-llantas-y-automotriz",
+        "hrefDepartment": "/Ferreteria-Llantas-y-Automotriz/c/cos_17",
+        "category": "herramientas-de-trabajo",
+        "hrefCategory": "/Ferreteria-Llantas-y-Automotriz/Herramientas-de-Trabajo/c/cos_17.3",
+        "subCategory": "compresor-de-aire",
+        "hrefSubCategory": "/Ferreteria-Llantas-y-Automotriz/Herramientas-de-Trabajo/Compresor-de-Aire/c/cos_17.3.1"
+    },
+    {
+        "department": "ferreteria-llantas-y-automotriz",
+        "hrefDepartment": "/Ferreteria-Llantas-y-Automotriz/c/cos_17",
+        "category": "herramientas-de-trabajo",
+        "hrefCategory": "/Ferreteria-Llantas-y-Automotriz/Herramientas-de-Trabajo/c/cos_17.3",
+        "subCategory": "herramientas-y-gabinetes",
+        "hrefSubCategory": "/Ferreteria-Llantas-y-Automotriz/Herramientas-de-Trabajo/Herramientas-y-Gabinetes/c/cos_17.3.2"
+    },
+    {
+        "department": "ferreteria-llantas-y-automotriz",
+        "hrefDepartment": "/Ferreteria-Llantas-y-Automotriz/c/cos_17",
+        "category": "herramientas-de-trabajo",
+        "hrefCategory": "/Ferreteria-Llantas-y-Automotriz/Herramientas-de-Trabajo/c/cos_17.3",
+        "subCategory": "escaleras",
+        "hrefSubCategory": "/Ferreteria-Llantas-y-Automotriz/Herramientas-de-Trabajo/Escaleras/c/cos_17.3.3"
+    },
+    {
+        "department": "ferreteria-llantas-y-automotriz",
+        "hrefDepartment": "/Ferreteria-Llantas-y-Automotriz/c/cos_17",
+        "category": "herramientas-de-trabajo",
+        "hrefCategory": "/Ferreteria-Llantas-y-Automotriz/Herramientas-de-Trabajo/c/cos_17.3",
+        "subCategory": "iluminacion",
+        "hrefSubCategory": "/Ferreteria-Llantas-y-Automotriz/Herramientas-de-Trabajo/Iluminacion/c/cos_17.3.4"
+    },
+    {
+        "department": "ferreteria-llantas-y-automotriz",
+        "hrefDepartment": "/Ferreteria-Llantas-y-Automotriz/c/cos_17",
+        "category": "herramientas-de-trabajo",
+        "hrefCategory": "/Ferreteria-Llantas-y-Automotriz/Herramientas-de-Trabajo/c/cos_17.3",
+        "subCategory": "baterias-y-cargadores",
+        "hrefSubCategory": "/Ferreteria-Llantas-y-Automotriz/Herramientas-de-Trabajo/Baterias-y-Cargadores/c/cos_17.3.5"
+    },
+    {
+        "department": "ferreteria-llantas-y-automotriz",
+        "hrefDepartment": "/Ferreteria-Llantas-y-Automotriz/c/cos_17",
+        "category": "mantenimiento-del-hogar",
+        "hrefCategory": "/Ferreteria-Llantas-y-Automotriz/Mantenimiento-del-Hogar/c/cos_17.4",
+        "subCategory": "pinturas-e-impermeabilizantes",
+        "hrefSubCategory": "/Ferreteria-Llantas-y-Automotriz/Mantenimiento-del-Hogar/Pinturas-e-Impermeabilizantes/c/cos_17.4.1"
+    },
+    {
+        "department": "ferreteria-llantas-y-automotriz",
+        "hrefDepartment": "/Ferreteria-Llantas-y-Automotriz/c/cos_17",
+        "category": "garage",
+        "hrefCategory": "/Ferreteria-Llantas-y-Automotriz/Garage/c/cos_17.5",
+        "subCategory": "puertas-electricas",
+        "hrefSubCategory": "/Ferreteria-Llantas-y-Automotriz/Garage/Puertas-Electricas/c/cos_17.5.1"
+    },
+    {
+        "department": "ferreteria-llantas-y-automotriz",
+        "hrefDepartment": "/Ferreteria-Llantas-y-Automotriz/c/cos_17",
+        "category": "garage",
+        "hrefCategory": "/Ferreteria-Llantas-y-Automotriz/Garage/c/cos_17.5",
+        "subCategory": "elevadores-para-autos",
+        "hrefSubCategory": "/Ferreteria-Llantas-y-Automotriz/Garage/Elevadores-para-Autos/c/cos_17.5.2"
+    },
+    {
+        "department": "ferreteria-llantas-y-automotriz",
+        "hrefDepartment": "/Ferreteria-Llantas-y-Automotriz/c/cos_17",
+        "category": "garage",
+        "hrefCategory": "/Ferreteria-Llantas-y-Automotriz/Garage/c/cos_17.5",
+        "subCategory": "accesorios",
+        "hrefSubCategory": "/Ferreteria-Llantas-y-Automotriz/Garage/Accesorios/c/cos_17.5.3"
+    },
+    {
+        "department": "vida-saludable",
+        "hrefDepartment": "/c/vidaSaludable",
+        "category": "",
+        "hrefCategory": "",
+        "subCategory": "",
+        "hrefSubCategory": ""
+    }
+]

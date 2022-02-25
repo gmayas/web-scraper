@@ -1,0 +1,2751 @@
+{
+    "department": "sistemas-de-seguridad",
+    "category": "puertas-de-seguridad-y-cerraduras",
+    "subCategory": "cerraduras",
+    "products": [
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 4.5,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$1,058.00",
+                "formattedValue": "$529.00",
+                "priceType": "BUY",
+                "value": 529
+            },
+            "businessDelivery": false,
+            "code": "661181",
+            "couponDiscount": {
+                "discountType": "default",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hfe/h36/33777133617182.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hc3/h91/33777132306462.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hee/h8c/33777132765214.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hee/h8c/33777132765214.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h29/h26/79570559631390.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hed/h89/79570559959070.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hf7/h2d/79570560155678.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hf7/h2d/79570560155678.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "Phillips, Cerradura Electrónica para Muebles",
+            "numberOfReviews": 4,
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$1,058.00",
+                "formattedValue": "$529.00",
+                "priceType": "BUY",
+                "value": 529
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "tire": false,
+            "url": "/Security-Systems/Home-Security-Systems/Door-Locks/p/661181",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 1,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "cos_17.5",
+                    "value": true
+                },
+                {
+                    "key": "exclusivosEnLinea",
+                    "value": true
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "cos_17.5.1",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                },
+                {
+                    "key": "cos_17",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 4,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$19,998.00",
+                "formattedValue": "$9,999.00",
+                "priceType": "BUY",
+                "value": 9999
+            },
+            "businessDelivery": false,
+            "code": "637549",
+            "couponDiscount": {
+                "discountType": "default",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h4a/hd3/15907476832286.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h17/h04/15907475947550.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hd7/hc5/15907476307998.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hd7/hc5/15907476307998.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h05/hf8/79525925715998.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h57/h4c/79525925912606.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h74/he9/79525926240286.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h74/he9/79525926240286.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "Merik, Pistones Abre Rejas",
+            "numberOfReviews": 1,
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$19,998.00",
+                "formattedValue": "$9,999.00",
+                "priceType": "BUY",
+                "value": 9999
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "tire": false,
+            "url": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/Cerraduras/Merik-Pistones-Abre-Rejas/p/637549",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 2,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 5,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$1,798.00",
+                "formattedValue": "$899.00",
+                "priceType": "BUY",
+                "value": 899
+            },
+            "businessDelivery": false,
+            "code": "661219",
+            "couponDiscount": {
+                "discountType": "default",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h05/h36/45011788562462.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hed/h00/45011787120670.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h38/h40/45011787513886.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h38/h40/45011787513886.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h30/hd7/79570634309662.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hfd/hd1/79570635259934.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h75/h81/79570635915294.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h75/h81/79570635915294.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "Yale, Manija Lujan para Recámara Color Negro",
+            "numberOfReviews": 1,
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$1,798.00",
+                "formattedValue": "$899.00",
+                "priceType": "BUY",
+                "value": 899
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "tire": false,
+            "url": "/Security-Systems/Home-Security-Systems/Door-Locks/p/661219",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 3,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 5,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$3,598.00",
+                "formattedValue": "$1,799.00",
+                "priceType": "BUY",
+                "value": 1799
+            },
+            "businessDelivery": false,
+            "code": "661179",
+            "couponDiscount": {
+                "discountType": "default",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hf3/h9a/33777130930206.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h51/h00/33777129619486.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h44/h4f/33777129947166.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h44/h4f/33777129947166.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hfc/hd1/79570557141022.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h06/h31/79570558124062.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h37/hc9/79570558451742.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h37/hc9/79570558451742.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "Yale, Cerradura de Alta Seguridad Portofino Negro",
+            "numberOfReviews": 1,
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$3,598.00",
+                "formattedValue": "$1,799.00",
+                "priceType": "BUY",
+                "value": 1799
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "tire": false,
+            "url": "/Security-Systems/Home-Security-Systems/Door-Locks/p/661179",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 4,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 0,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$1,698.00",
+                "formattedValue": "$849.00",
+                "priceType": "BUY",
+                "value": 849
+            },
+            "businessDelivery": false,
+            "code": "661220",
+            "couponDiscount": {
+                "discountType": "default",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h56/h0f/33777174118430.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h7b/h42/33777140498462.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h16/hc4/33777140760606.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h16/hc4/33777140760606.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h9b/h2a/79570635391006.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h91/hcb/79570636374046.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hfd/h63/79570637226014.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hfd/h63/79570637226014.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "Yale, Manija Lujan para Baño Color Negro",
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$1,698.00",
+                "formattedValue": "$849.00",
+                "priceType": "BUY",
+                "value": 849
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "tire": false,
+            "url": "/Security-Systems/Home-Security-Systems/Door-Locks/p/661220",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 5,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "cos_1.10",
+                    "value": false
+                },
+                {
+                    "key": "eventosEspeciales",
+                    "value": false
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "ahorrosConCodigo",
+                    "value": false
+                },
+                {
+                    "key": "ahorros500",
+                    "value": false
+                },
+                {
+                    "key": "cos_4",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                },
+                {
+                    "key": "cos_1",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 5,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$9,998.00",
+                "formattedValue": "$4,999.00",
+                "priceType": "BUY",
+                "value": 4999
+            },
+            "businessDelivery": false,
+            "code": "658606",
+            "couponDiscount": {
+                "discountType": "default",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h13/hb1/27335497285662.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h12/hfc/27335495843870.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h34/hac/27335496499230.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h34/hac/27335496499230.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h3d/h9a/79565139345438.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h5a/h6d/79565139607582.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h1e/hc8/79565139738654.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h1e/hc8/79565139738654.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "Igloohome, Cerradura Electrónica Inteligente,  2S- Metal Grey",
+            "numberOfReviews": 1,
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$9,998.00",
+                "formattedValue": "$4,999.00",
+                "priceType": "BUY",
+                "value": 4999
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "tire": false,
+            "url": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/Cerraduras/Igloohome-Cerradura-Electronica-Inteligente-2S-Metal-Grey/p/658606",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 6,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "cos_1.10",
+                    "value": false
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "cos_4",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                },
+                {
+                    "key": "cos_1",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 3.7,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$8,998.00",
+                "formattedValue": "$4,499.00",
+                "priceType": "BUY",
+                "value": 4499
+            },
+            "businessDelivery": false,
+            "code": "629525",
+            "couponDiscount": {
+                "discountType": "default",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h88/h12/12541234413598.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h33/h58/12541233659934.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h7d/h70/12541233889310.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h7d/h70/12541233889310.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/ha6/h92/79550215553054.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hf5/hbc/79550216077342.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h3a/hfa/79550216405022.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h3a/hfa/79550216405022.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "Yale, Videoportero Touch Inalámbrico",
+            "numberOfReviews": 3,
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$8,998.00",
+                "formattedValue": "$4,499.00",
+                "priceType": "BUY",
+                "value": 4499
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "tire": false,
+            "url": "/Security-Systems/Home-Security-Systems/Door-Locks/p/629525",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 7,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 0,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$1,698.00",
+                "formattedValue": "$849.00",
+                "priceType": "BUY",
+                "value": 849
+            },
+            "businessDelivery": false,
+            "code": "661212",
+            "couponDiscount": {
+                "discountType": "default",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h0d/h40/33777138565150.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h00/hd9/33777137188894.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h6d/hb3/33777137483806.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h6d/hb3/33777137483806.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h1c/h56/79570630869022.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hc0/ha1/79570631655454.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/ha4/h0e/79570632179742.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/ha4/h0e/79570632179742.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "Yale, Manija Cordoba para Baño Color Negro",
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$1,698.00",
+                "formattedValue": "$849.00",
+                "priceType": "BUY",
+                "value": 849
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "tire": false,
+            "url": "/Security-Systems/Home-Security-Systems/Door-Locks/p/661212",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 8,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 5,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$4,898.00",
+                "formattedValue": "$2,449.00",
+                "priceType": "BUY",
+                "value": 2449
+            },
+            "businessDelivery": false,
+            "code": "529502",
+            "couponDiscount": {
+                "discountType": "default",
+                "discountValue": 450,
+                "formattedDiscountValue": "$450.00",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "discountPrice": {
+                "currencyIso": "MXN",
+                "formattedValue": "$450.00",
+                "priceType": "BUY",
+                "value": 450
+            },
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h28/h64/12192715833374.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h88/ha9/12192714719262.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hc3/h76/12192715112478.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hc3/h76/12192715112478.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h5d/hf4/79548559523870.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hbd/h5c/79548560015390.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h69/h5b/79548560310302.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h69/h5b/79548560310302.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "BioCheck Reloj Checador de Huella Digital para 30 Empleados",
+            "numberOfReviews": 1,
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$3,998.00",
+                "formattedValue": "$1,999.00",
+                "priceType": "BUY",
+                "value": 1999
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "tire": false,
+            "url": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/Cerraduras/BioCheck-Reloj-Checador-de-Huella-Digital-para-30-Empleados/p/529502",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 9,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "exclusivosEnLinea",
+                    "value": true
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "preciosEspeciales",
+                    "value": false
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                },
+                {
+                    "key": "campaignSPECIAL_PRICE",
+                    "value": false
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 3,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$7,798.00",
+                "formattedValue": "$3,899.00",
+                "priceType": "BUY",
+                "value": 3899
+            },
+            "businessDelivery": false,
+            "code": "639612",
+            "couponDiscount": {
+                "discountType": "default",
+                "discountValue": 600,
+                "formattedDiscountValue": "$600.00",
+                "hideDiscountCalculation": false
+            },
+            "decalData": [
+                {
+                    "key": "3",
+                    "value": {
+                        "altText": "null",
+                        "position": 3,
+                        "url": "/mediapermalink/decal-specialPrice"
+                    }
+                }
+            ],
+            "departmentNumber": "",
+            "discountPrice": {
+                "currencyIso": "MXN",
+                "formattedValue": "$600.00",
+                "priceType": "BUY",
+                "value": 600
+            },
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h6a/hff/11812251959326.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/he9/hba/11812251271198.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hf1/hd6/11812251500574.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hf1/hd6/11812251500574.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h12/he1/79527460929566.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/he8/hdd/79527461421086.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hde/h34/79527461847070.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hde/h34/79527461847070.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "BioCheck, Reloj Checador Híbrido Facial y Huella Digital para 75 Empleados",
+            "numberOfReviews": 2,
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$6,598.00",
+                "formattedValue": "$3,299.00",
+                "priceType": "BUY",
+                "value": 3299
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "tire": false,
+            "url": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/Cerraduras/BioCheck-Reloj-Checador-Hibrido-Facial-y-Huella-Digital-para-75-Empleados/p/639612",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 10,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "exclusivosEnLinea",
+                    "value": true
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 0,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$7,498.00",
+                "formattedValue": "$3,749.00",
+                "priceType": "BUY",
+                "value": 3749
+            },
+            "businessDelivery": false,
+            "code": "522802",
+            "couponDiscount": {
+                "discountType": "default",
+                "discountValue": 750,
+                "formattedDiscountValue": "$750.00",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "discountPrice": {
+                "currencyIso": "MXN",
+                "formattedValue": "$750.00",
+                "priceType": "BUY",
+                "value": 750
+            },
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h37/h54/11038009557022.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h69/hf3/11038008705054.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h45/ha9/11038009032734.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h45/ha9/11038009032734.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hd3/h76/79527077642270.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hdd/h7c/79527078264862.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hcf/h82/79527078559774.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hcf/h82/79527078559774.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "Royal reloj checador de huella digital para 1000 empleados",
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$5,998.00",
+                "formattedValue": "$2,999.00",
+                "priceType": "BUY",
+                "value": 2999
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "tire": false,
+            "url": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/Cerraduras/Royal-reloj-checador-de-huella-digital-para-1000-empleados/p/522802",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 11,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 0,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$4,598.00",
+                "formattedValue": "$2,299.00",
+                "priceType": "BUY",
+                "value": 2299
+            },
+            "businessDelivery": false,
+            "code": "660170",
+            "couponDiscount": {
+                "discountType": "default",
+                "discountValue": 350,
+                "formattedDiscountValue": "$350.00",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "discountPrice": {
+                "currencyIso": "MXN",
+                "formattedValue": "$350.00",
+                "priceType": "BUY",
+                "value": 350
+            },
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hb2/hcb/31414585196574.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h65/h8f/31414583558174.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h69/h0b/31414584016926.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h69/h0b/31414584016926.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h28/h51/79569100800030.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h27/h53/79569101520926.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hc1/hfc/79569101848606.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hc1/hfc/79569101848606.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "BioCheck, Licencia Premium por 1 Año para 10 Empleados ",
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$3,898.00",
+                "formattedValue": "$1,949.00",
+                "priceType": "BUY",
+                "value": 1949
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "summary": "IMPORTANTE: Las devoluciones aplican únicamente dentro de los primeros 7 días de compra, solo si el código o descarga del producto no ha sido utilizado.",
+            "tire": false,
+            "url": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/Cerraduras/BioCheck-Licencia-Premium-por-1-Ano-para-10-Empleados/p/660170",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 12,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "cos_17.5",
+                    "value": true
+                },
+                {
+                    "key": "exclusivosEnLinea",
+                    "value": true
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "cos_17.5.1",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                },
+                {
+                    "key": "cos_17",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 0,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$1,998.00",
+                "formattedValue": "$999.00",
+                "priceType": "BUY",
+                "value": 999
+            },
+            "businessDelivery": false,
+            "code": "651354",
+            "couponDiscount": {
+                "discountType": "default",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h6b/hbc/11039374016542.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h68/h00/11039373492254.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h8f/h05/11039373688862.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h8f/h05/11039373688862.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/ha0/hac/79533434503198.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h00/h57/79533435158558.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hac/h01/79533435224094.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hac/h01/79533435224094.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "Merik, Transmisor de 4 Canales",
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$1,998.00",
+                "formattedValue": "$999.00",
+                "priceType": "BUY",
+                "value": 999
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "tire": false,
+            "url": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/Cerraduras/Merik-Transmisor-de-4-Canales/p/651354",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 13,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "exclusivosEnLinea",
+                    "value": true
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 0,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$7,798.00",
+                "formattedValue": "$3,899.00",
+                "priceType": "BUY",
+                "value": 3899
+            },
+            "businessDelivery": false,
+            "code": "651975",
+            "couponDiscount": {
+                "discountType": "default",
+                "discountValue": 600,
+                "formattedDiscountValue": "$600.00",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "discountPrice": {
+                "currencyIso": "MXN",
+                "formattedValue": "$600.00",
+                "priceType": "BUY",
+                "value": 600
+            },
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h44/h63/31437721239582.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hac/h96/31437720584222.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h3b/h59/31437720780830.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h3b/h59/31437720780830.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h6d/hff/79533530185758.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hc0/h59/79533530841118.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/he0/h57/79533531430942.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/he0/h57/79533531430942.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "BioCheck, Licencia Premium por 1 Año para 25 Empleados",
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$6,598.00",
+                "formattedValue": "$3,299.00",
+                "priceType": "BUY",
+                "value": 3299
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "summary": "IMPORTANTE: Las devoluciones aplican únicamente dentro de los primeros 7 días de compra, solo si el código o descarga del producto no ha sido utilizado.",
+            "tire": false,
+            "url": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/Cerraduras/BioCheck-Licencia-Premium-por-1-Ano-para-25-Empleados/p/651975",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 14,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "exclusivosEnLinea",
+                    "value": true
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 0,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$12,998.00",
+                "formattedValue": "$6,499.00",
+                "priceType": "BUY",
+                "value": 6499
+            },
+            "businessDelivery": false,
+            "code": "651976",
+            "couponDiscount": {
+                "discountType": "default",
+                "discountValue": 1000,
+                "formattedDiscountValue": "$1,000.00",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "discountPrice": {
+                "currencyIso": "MXN",
+                "formattedValue": "$1,000.00",
+                "priceType": "BUY",
+                "value": 1000
+            },
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h61/h57/31437720977438.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hcb/h07/31437720649758.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h0d/hcc/31437720715294.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h0d/hcc/31437720715294.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/he2/hfa/79533529595934.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h9c/ha5/79533530447902.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h9f/hf0/79533530873886.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h9f/hf0/79533530873886.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "BioCheck, Licencia Premium por 1 Año para 50 Empleados",
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$10,998.00",
+                "formattedValue": "$5,499.00",
+                "priceType": "BUY",
+                "value": 5499
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "summary": "IMPORTANTE: Las devoluciones aplican únicamente dentro de los primeros 7 días de compra, solo si el código o descarga del producto no ha sido utilizado.",
+            "tire": false,
+            "url": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/Cerraduras/BioCheck-Licencia-Premium-por-1-Ano-para-50-Empleados/p/651976",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 15,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 3,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$7,398.00",
+                "formattedValue": "$3,699.00",
+                "priceType": "BUY",
+                "value": 3699
+            },
+            "businessDelivery": false,
+            "code": "531531",
+            "couponDiscount": {
+                "discountType": "default",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h94/hfc/13986552184862.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/ha5/hd3/13986551791646.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h4b/h11/13986551922718.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h4b/h11/13986551922718.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hc2/h34/79555383590942.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/ha3/h8c/79555384180766.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/heb/h45/79555384311838.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/heb/h45/79555384311838.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "BioCheck, Cerradura Biométrica",
+            "numberOfReviews": 4,
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$7,398.00",
+                "formattedValue": "$3,699.00",
+                "priceType": "BUY",
+                "value": 3699
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "tire": false,
+            "url": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/Cerraduras/BioCheck-Cerradura-Biometrica/p/531531",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 16,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 2,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$1,698.00",
+                "formattedValue": "$849.00",
+                "priceType": "BUY",
+                "value": 849
+            },
+            "businessDelivery": false,
+            "code": "662692",
+            "couponDiscount": {
+                "discountType": "default",
+                "discountValue": 150,
+                "formattedDiscountValue": "$150.00",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "discountPrice": {
+                "currencyIso": "MXN",
+                "formattedValue": "$150.00",
+                "priceType": "BUY",
+                "value": 150
+            },
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hd0/h3f/51035454603294.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h68/h94/51035453030430.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h20/h37/51035453456414.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h20/h37/51035453456414.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h88/ha6/79585722597406.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/ha3/h3c/79585723121694.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h3c/h06/79585723645982.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h3c/h06/79585723645982.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "BioCheck Kiosko Licencia Reloj Checador Digital para 30 Empleados para Dispositivos Móviles",
+            "numberOfReviews": 1,
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$1,398.00",
+                "formattedValue": "$699.00",
+                "priceType": "BUY",
+                "value": 699
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "tire": false,
+            "url": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/Cerraduras/BioCheck-Kiosko-Licencia-Reloj-Checador-Digital-para-30-Empleados-para-Dispositivos-Moviles/p/662692",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 17,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 0,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$858.00",
+                "formattedValue": "$429.00",
+                "priceType": "BUY",
+                "value": 429
+            },
+            "businessDelivery": false,
+            "code": "662694",
+            "couponDiscount": {
+                "discountType": "default",
+                "discountValue": 70,
+                "formattedDiscountValue": "$70.00",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "discountPrice": {
+                "currencyIso": "MXN",
+                "formattedValue": "$70.00",
+                "priceType": "BUY",
+                "value": 70
+            },
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hf5/h3d/51375850487838.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h58/h75/51375848849438.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h6e/h87/51375849308190.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h6e/h87/51375849308190.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hbc/h1f/79586121187358.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h1d/h6f/79586121842718.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h50/h87/79586122039326.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h50/h87/79586122039326.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "Biocheck Kiosko Licencia para 1 Dispositivo Móvil",
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$718.00",
+                "formattedValue": "$359.00",
+                "priceType": "BUY",
+                "value": 359
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "tire": false,
+            "url": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/Cerraduras/Biocheck-Kiosko-Licencia-para-1-Dispositivo-Movil/p/662694",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 18,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "cos_1.10",
+                    "value": false
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "cos_4",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                },
+                {
+                    "key": "cos_1",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 5,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$10,398.00",
+                "formattedValue": "$5,199.00",
+                "priceType": "BUY",
+                "value": 5199
+            },
+            "businessDelivery": false,
+            "code": "640722",
+            "couponDiscount": {
+                "discountType": "default",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h5e/h03/10766494990366.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hf5/hb1/10766493483038.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h35/h35/10766494072862.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h35/h35/10766494072862.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h4a/ha9/79518302830622.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h24/h51/79518303485982.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h05/ha2/79518303911966.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h05/ha2/79518303911966.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "Yale, Cerradura Gateman Digital para Puerta de Cristal con Bluetooth",
+            "numberOfReviews": 1,
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$10,398.00",
+                "formattedValue": "$5,199.00",
+                "priceType": "BUY",
+                "value": 5199
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "tire": false,
+            "url": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/Cerraduras/Yale-Cerradura-Gateman-Digital-para-Puerta-de-Cristal-con-Bluetooth/p/640722",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 19,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "ahorrosConCodigo",
+                    "value": false
+                },
+                {
+                    "key": "ahorros500",
+                    "value": false
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 0,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$20,998.00",
+                "formattedValue": "$10,499.00",
+                "priceType": "BUY",
+                "value": 10499
+            },
+            "businessDelivery": false,
+            "code": "666117",
+            "couponDiscount": {
+                "discountType": "default",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hfe/h95/65556827930654.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hb9/hfe/65556826554398.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h95/hf6/65556826947614.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h95/hf6/65556826947614.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h60/hc7/79602646253598.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hca/h12/79602646646814.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h1f/h7c/79602647040030.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h1f/h7c/79602647040030.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "Igloohome, Smart Mortise Mod. 2+, Cerradura Electrónica, con Huella Digital",
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$20,998.00",
+                "formattedValue": "$10,499.00",
+                "priceType": "BUY",
+                "value": 10499
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "tire": false,
+            "url": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/Cerraduras/Igloohome-Smart-Mortise-Mod-2-Cerradura-Electronica-con-Huella-Digital/p/666117",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 20,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 0,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$11,798.00",
+                "formattedValue": "$5,899.00",
+                "priceType": "BUY",
+                "value": 5899
+            },
+            "businessDelivery": false,
+            "code": "668339",
+            "couponDiscount": {
+                "discountType": "default",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hf1/h0a/84232217165854.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h96/h2c/84232216117278.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/haa/had/84232216379422.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/haa/had/84232216379422.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h84/hc8/84232218411038.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h9c/hf4/84232218935326.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h4f/h46/84232219656222.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h4f/h46/84232219656222.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "Kwikset, Combo Cerradura Electrónica Touchscreen Halo WiFi + Manija Moderna Halifax",
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$11,798.00",
+                "formattedValue": "$5,899.00",
+                "priceType": "BUY",
+                "value": 5899
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "tire": false,
+            "url": "/Sistemas-de-Seguridad/Puertas-de-Seguridad-y-Cerraduras/Cerraduras/Kwikset-Combo-Cerradura-Electronica-Touchscreen-Halo-WiFi-Manija-Moderna-Halifax/p/668339",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 21,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        },
+        {
+            "addToCartFromPLPCategories": [
+                {
+                    "key": "cos_3.4.3",
+                    "value": true
+                },
+                {
+                    "key": "cos_3.4",
+                    "value": true
+                },
+                {
+                    "key": "cos_1.10",
+                    "value": false
+                },
+                {
+                    "key": "costco",
+                    "value": true
+                },
+                {
+                    "key": "cos_4",
+                    "value": true
+                },
+                {
+                    "key": "cos_3",
+                    "value": true
+                },
+                {
+                    "key": "cos_1",
+                    "value": true
+                }
+            ],
+            "addableToCartFromListingPage": true,
+            "availableForPreorder": false,
+            "averageRating": 4.7,
+            "basePrice": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$8,398.00",
+                "formattedValue": "$4,199.00",
+                "priceType": "BUY",
+                "value": 4199
+            },
+            "businessDelivery": false,
+            "code": "629516",
+            "couponDiscount": {
+                "discountType": "default",
+                "hideDiscountCalculation": false
+            },
+            "departmentNumber": "",
+            "displayExVatPrice": false,
+            "englishName": "",
+            "expeditedDelivery": false,
+            "hasPricePerUnit": false,
+            "hidePriceValue": false,
+            "images": [
+                {
+                    "format": "thumbnail",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h59/hf4/10765438025758.jpg"
+                },
+                {
+                    "format": "product",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h4f/hb4/10765436256286.jpg"
+                },
+                {
+                    "format": "results",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hfd/h13/10765436780574.jpg"
+                },
+                {
+                    "format": "carousel",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hfd/h13/10765436780574.jpg"
+                },
+                {
+                    "format": "thumbnail-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/hde/hbd/79516352348190.webp"
+                },
+                {
+                    "format": "product-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/ha5/h75/79516353232926.webp"
+                },
+                {
+                    "format": "results-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h67/h45/79516353593374.webp"
+                },
+                {
+                    "format": "carousel-webp",
+                    "imageType": "PRIMARY",
+                    "url": "/medias/sys_master/products/h67/h45/79516353593374.webp"
+                }
+            ],
+            "inRestrictedZone": false,
+            "isBaseProduct": false,
+            "membershipRestrictionApplied": false,
+            "minOrderQuantity": 1,
+            "modulusItemQuantity": 1,
+            "multiProduct": false,
+            "name": "Yale, Cerradura Digital Real Living",
+            "numberOfReviews": 3,
+            "price": {
+                "currencyIso": "MXN",
+                "formattedPriceForSetOfTwoQuantities": "$8,398.00",
+                "formattedValue": "$4,199.00",
+                "priceType": "BUY",
+                "value": 4199
+            },
+            "productCartGroupAvailableInWarehouse": false,
+            "purchasable": true,
+            "randomWeight": false,
+            "shippingIncluded": true,
+            "shippingRestrictionApplied": false,
+            "stock": {
+                "contactDay": 0,
+                "deliveryLeadTime": 0,
+                "stockLevelStatus": "inStock"
+            },
+            "tire": false,
+            "url": "/Security-Systems/Home-Security-Systems/Door-Locks/p/629516",
+            "warehouseFulfilled": false,
+            "warehouseHidePriceValue": false,
+            "subCategoryPosition": 22,
+            "departmentPosition": 0,
+            "categoryPosition": 1
+        }
+    ],
+    "dateExtraccion": "31/01/2022 18:03:57"
+}
