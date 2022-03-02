@@ -4,32 +4,133 @@ const puppeteer = require("puppeteer");
 const path = require('path');
 const fs = require('fs');
 const axios = require('axios');
+const { CLIENT_RENEG_LIMIT } = require("tls");
 //
 const urlHome = "https://www.sams.com.mx/";
 //
-const main = async () => {
-    try {
+const headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36',
+    'Content-Type': 'application/json',
+    origin: 'https://www.sams.com.mx/',
+    referer: 'https://www.sams.com.mx/',
+    Connection: 'keep-alive',
+    banner: 'WM_OD',
+    Accept: 'application/json, text/javascript, */*; q=0.01',
+    experience: 'isSimplifiedCheckout=true'
+};
 
-        let data = [];
-        const urlAxios = "https://www.sams.com.mx/sams/home/?format=json&centralPts=0000006578,0000006286,0000004911,0000006563,0000008122,0000006310&expressDeliveryStoreIds=0000006578&storeId=0000006578";
-        const response = await axios.get(urlAxios);
-        data = response.data.headerArea.filter((f) => f.name == "Taxonomy");;
-        //data = data.filter((f) => f.name == "Taxonomy");
-        let newContents = data.map((value, index) => { const res = { index, newContents: value.contents }; return res; });
-        let departments = [];
-        newContents.map((value, index) => {
-            const arrayDepartments = value.newContents[index].departments;
+const getTaxonimySams = async () => {
+    try {
+        let data = [], departments = [];;
+        const urlAxios = "https://www.sams.com.mx/sams/home/?format=json";
+        const response = await axios.get(urlAxios, headers);
+        data = response.data.headerArea.filter((f) => f.name == "Taxonomy");
+        data.map((value, index) => {
+            const arrayDepartments = value.contents[index].departments;
             arrayDepartments.map((valueDep) => { departments.push(valueDep) });
         });
         const fileName = 'taxtSams.json';
         const filePath = path.join(__dirname, `/samsHTML/filesJson/${fileName}`);
         fs.writeFileSync(filePath, JSON.stringify({ departments }), 'utf-8');
+    } catch (error) {
+        console.log('error:', error)
+        const fileName = 'errorGetTaxonimySams.json';
+        const filePath = path.join(__dirname, `/samsHTML/filesJson/${fileName}`);
+        fs.writeFileSync(filePath, JSON.stringify(error), 'utf-8');
+    };
+};
 
+const setTimestamp = () => {
+    //const dateNow = new Date();
+    //console.log('dateNow:', dateNow);
+    return Math.floor(new Date(Date.now()));
+};
 
+const getProductDetail = async (i, skuId, upc) => {
+    try {
+        const paramTimestamp = setTimestamp();
+        const url = `https://www.sams.com.mx/rest/model/atg/commerce/catalog/ProductCatalogActor/getSkuSummaryDetails?skuId=${skuId}&upc=${upc}&storeId=0000009999&_=${paramTimestamp}`;
+        console.log('index:', i);
+        console.log('skuId, upc:', skuId, upc);
+        console.log('paramTimestamp:', paramTimestamp);
+        console.log('url:', url);
+        const response = await axios.get(url, headers);
+        console.log('response status:', response.status);
+        let data = response.data;
+        return { url, data, statusRes: response.status };
+    } catch (error) {
+        console.log('error:', { message: error.message, status: error.response.status });
+        //return { url: "", data: {}, statusRes: error.response.status };
+        console.log('Re run getProductDetail in 5 seg...');
+        setTimeout(async () => {
+            console.log('Re run getProductDetail go ...');
+            return await getProductDetail(i, skuId, upc);
+        }, 50000);
+        
+    };
+};
 
+const setProductDetail = async (products) => {
+    try {
+        let productDetail, productsDetail = [];
+        for (let i = 0; i < products.length; i++) {
+            const { skuId, upc } = products[i];
+            productDetail = await getProductDetail(i, skuId, upc);
+            //console.log('productDetail:', JSON.stringify(productDetail))
+            products[i].productDetail = productDetail;
+            //console.log('productDetail:', JSON.stringify(products[i].productDetail))
+            productsDetail.push(products[i]);
+        };
+        return productsDetail;
+    } catch (error) {
+        console.log('error:', { message: error.message });
+    };
+};
 
+const getProducts = async () => {
+    try {
+        const paramTimestamp = setTimestamp();
+        console.log('paramTimestamp:', paramTimestamp);
+        const urlAxios = `https://www.sams.com.mx/sams/browse/vinos-licores-y-cervezas/cervezas/clara/_/N-95v?_=${paramTimestamp}`;
+        console.log('urlAxios:', urlAxios)
+        const response = await axios.get(urlAxios, headers);
+        console.log('response status:', response.status)
+        let data = response.data.mainArea.filter((f) => f.name == "ResultsList");
+        let products = [];
+        data.map((value, index) => {
+            const arrayproducts = value.contents[index].records;
+            arrayproducts.map((dataProduct, i) => {
+                const skuId = dataProduct.attributes["sku.repositoryId"].join();
+                const upc = dataProduct.attributes["product.repositoryId"].join();
+                const skuDisplayName = dataProduct.attributes["skuDisplayName"].join();
+                const resProduct = {
+                    recordIndex: i,
+                    skuId,
+                    upc,
+                    skuDisplayName,
+                    dataProduct,
+                };
+                products.push(resProduct)
+            });
+        });
+        const productsDetail = await setProductDetail(products);
+        const fileName = 'cervezas-clara-products.json';
+        const filePath = path.join(__dirname, `/samsHTML/filesJson/${fileName}`);
+        fs.writeFileSync(filePath, JSON.stringify(productsDetail), 'utf-8');
+        //return JSON.stringify(productsDetail);
+        //
+    } catch (error) {
+        console.log('error:', { message: error.message });
+        console.log('Re run getProducts in 5 seg ...');
+        setTimeout(async () => {
+            console.log('Re run getProducts go ...');
+           return await getProducts();
+        }, 50000);
+    };
+};
 
-
+const main = async () => {
+    try {
         //let html, $;
         //let data = [], links = []; 
         /*const browser = await puppeteer.launch({
@@ -97,22 +198,9 @@ const main = async () => {
         //const filePath = path.join(__dirname, `/coscoHTML/filesJson/${fileName}`);
         //fs.writeFileSync(filePath, JSON.stringify(links), 'utf-8');
 
-        //const urlAxios = "https://www.tiendasjumbo.co/supermercado/despensa";
-        //const urlAxios = "https://www.sams.com.mx/sams/home/?format=json&centralPts=0000006578,0000006286,0000004911,0000006563,0000008122,0000006310&expressDeliveryStoreIds=0000006578&storeId=0000006578";
-        //const response = await axios.get(urlAxios);
-        //console.log('response:', response.data)
-        //html = response.data;
-        //data = response.data.headerArea;
-        //data = data.filter( (f) => f.name == "Taxonomy" );
-        //let newContents = data.map((value, index) => { const res = { index, newContents: value.contents }; return res; });
-        //let departments = [];
-        // newContents.map((value, index) => { 
-        //           const arrayDepartments = value.newContents[index].departments;
-        //           const res = arrayDepartments.map((valueInt, indexInt) => {
-        //           console.log(`valueInt:`, valueInt)
-        //           departments.push(valueInt); 
-        //           });
-        //        });
+
+
+
         //let departments = newDepartments//.map((value, index) => { const res = { newDepartments: value.newContents[index].departments }; return res; });
 
         //f.contents.name == "Category Navigation Menu"
@@ -147,15 +235,16 @@ const main = async () => {
                 listProductid.push(dataProductid)
             };
         });
-        
         console.log('listProductid:', listProductid); 
         let data = [], links = [];*/
-
-
         //console.log('links:', links);
         //await browser.close();
-    } catch (e) {
-        console.log('error:', e)
+        //
+        await getProducts();
+
+
+    } catch (error) {
+        console.log('error message:', error.message)
     };
 };
 //
@@ -222,6 +311,21 @@ const getThirdItem = (hRef) => {
 
 // Remove Accents y Tildes 
 const removeAccents = (str) => { return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "") };
+
+
+
+
+const getHtmlSams = async () => {
+
+    const urlAxios = "https://www.sams.com.mx/vinos-licores-y-cervezas/cervezas/clara/_/N-95v";
+    const response = await axios.get(urlAxios);
+    //console.log('response:', response.data)
+    let html = response.data;
+    const fileName = 'N-95v.html';
+    const filePath = path.join(__dirname, `/samsHTML/${fileName}`);
+    fs.writeFileSync(filePath, html, 'utf-8');
+}
+
 
 
 /*
