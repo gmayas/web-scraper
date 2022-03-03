@@ -41,32 +41,44 @@ const getTaxonimySams = async () => {
 };
 
 const setTimestamp = () => {
-    //const dateNow = new Date();
-    //console.log('dateNow:', dateNow);
-    return Math.floor(new Date(Date.now()));
+    let dateNow = new Date();
+    dateNow.setDate(dateNow.getDate() + 1)
+    console.log('dateNow:', dateNow);
+    return Math.floor(new Date(dateNow).getTime());
 };
 
-const getProductDetail = async (i, skuId, upc) => {
+const getProductDetail = async (runNumber, index, skuId, upc) => {
     try {
+        const headerDetail = {
+            "authority": "www.sams.com.mx",
+            "accept": "application/json, text/javascript, */*; q=0.01",
+            "accept-encoding": "gzip, deflate, br",
+            "accept-language": "es-ES,es;q=0.9",
+            "cache-control": "no-cache",
+            "pragma": "no-cache",
+            "referer": "https://www.sams.com.mx/vinos-licores-y-cervezas/cervezas/clara/_/N-95v",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36",
+            "x-requested-with": "XMLHttpRequest"
+        };
         const paramTimestamp = setTimestamp();
         const url = `https://www.sams.com.mx/rest/model/atg/commerce/catalog/ProductCatalogActor/getSkuSummaryDetails?skuId=${skuId}&upc=${upc}&storeId=0000009999&_=${paramTimestamp}`;
-        console.log('index:', i);
+        console.log('index:', index);
         console.log('skuId, upc:', skuId, upc);
         console.log('paramTimestamp:', paramTimestamp);
         console.log('url:', url);
-        const response = await axios.get(url, headers);
+        const response = await axios.get(url, headerDetail);
         console.log('response status:', response.status);
         let data = response.data;
         return { url, data, statusRes: response.status };
     } catch (error) {
         console.log('error:', { message: error.message, status: error.response.status });
-        //return { url: "", data: {}, statusRes: error.response.status };
-        console.log('Re run getProductDetail in 5 seg...');
-        setTimeout(async () => {
-            console.log('Re run getProductDetail go ...');
-            return await getProductDetail(i, skuId, upc);
-        }, 50000);
-        
+        runNumber = runNumber + 1;
+        if (runNumber <= 10) {
+            console.log('Re run getProductDetail:', runNumber);
+            return await getProductDetail(runNumber, index, skuId, upc);
+        } else {
+            return { url: "", data: {}, statusRes: error.response.status };
+        };
     };
 };
 
@@ -75,7 +87,7 @@ const setProductDetail = async (products) => {
         let productDetail, productsDetail = [];
         for (let i = 0; i < products.length; i++) {
             const { skuId, upc } = products[i];
-            productDetail = await getProductDetail(i, skuId, upc);
+            productDetail = await getProductDetail(0, i, skuId, upc);
             //console.log('productDetail:', JSON.stringify(productDetail))
             products[i].productDetail = productDetail;
             //console.log('productDetail:', JSON.stringify(products[i].productDetail))
@@ -87,7 +99,7 @@ const setProductDetail = async (products) => {
     };
 };
 
-const getProducts = async () => {
+const getProducts = async (runNumber) => {
     try {
         const paramTimestamp = setTimestamp();
         console.log('paramTimestamp:', paramTimestamp);
@@ -120,12 +132,14 @@ const getProducts = async () => {
         //return JSON.stringify(productsDetail);
         //
     } catch (error) {
-        console.log('error:', { message: error.message });
-        console.log('Re run getProducts in 5 seg ...');
-        setTimeout(async () => {
-            console.log('Re run getProducts go ...');
-           return await getProducts();
-        }, 50000);
+        console.log('error:', { message: error.message, status: error.response.status });
+        runNumber = runNumber + 1;
+        if (runNumber <= 10) {
+            console.log('Re run getProducts:', runNumber);
+            return await getProducts(runNumber);
+        } else {
+            return [];
+        };
     };
 };
 
@@ -240,9 +254,8 @@ const main = async () => {
         //console.log('links:', links);
         //await browser.close();
         //
-        await getProducts();
-
-
+        await getProducts(0);
+        //  
     } catch (error) {
         console.log('error message:', error.message)
     };
