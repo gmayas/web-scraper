@@ -4,9 +4,9 @@ const puppeteer = require("puppeteer");
 const path = require('path');
 const fs = require('fs');
 const axios = require('axios');
-const { CLIENT_RENEG_LIMIT } = require("tls");
+//const { CLIENT_RENEG_LIMIT } = require("tls");
 //
-const urlHome = "https://www.sams.com.mx/";
+const urlHome = "https://www.sams.com.mx";
 //
 const headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36',
@@ -47,7 +47,7 @@ const setTimestamp = () => {
     return Math.floor(new Date(dateNow).getTime());
 };
 
-const getProductDetail = async (runNumber, index, skuId, upc) => {
+const getProductDetail = async (runNumber, index, skuId, upc, urlProduct) => {
     try {
         const headerDetail = {
             "authority": "www.sams.com.mx",
@@ -56,28 +56,29 @@ const getProductDetail = async (runNumber, index, skuId, upc) => {
             "accept-language": "es-ES,es;q=0.9",
             "cache-control": "no-cache",
             "pragma": "no-cache",
-            "referer": "https://www.sams.com.mx/vinos-licores-y-cervezas/cervezas/clara/_/N-95v",
+            "referer": urlProduct, //"https://www.sams.com.mx/cervezas/cerveza-clara-amstel-ultra-24-botellas-de-355-ml-c-u/980023644",
             "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36",
             "x-requested-with": "XMLHttpRequest"
         };
         const paramTimestamp = setTimestamp();
-        const url = `https://www.sams.com.mx/rest/model/atg/commerce/catalog/ProductCatalogActor/getSkuSummaryDetails?skuId=${skuId}&upc=${upc}&storeId=0000009999&_=${paramTimestamp}`;
+        //const urlAxios = `https://www.sams.com.mx/rest/model/atg/commerce/catalog/ProductCatalogActor/getSkuSummaryDetails?skuId=${skuId}&upc=${upc}&storeId=0000009999&_=${paramTimestamp}`;
+        const urlAxios = `${urlHome}/rest/model/atg/commerce/catalog/ProductCatalogActor/getSkuSummaryDetails?skuId=${skuId}&upc=${upc}&storeId=0000009999&_=${paramTimestamp}`;
         console.log('index:', index);
         console.log('skuId, upc:', skuId, upc);
         console.log('paramTimestamp:', paramTimestamp);
-        console.log('url:', url);
-        const response = await axios.get(url, headerDetail);
+        console.log('urlAxios:', urlAxios);
+        const response = await axios.get(urlAxios, headerDetail);
         console.log('response status:', response.status);
         let data = response.data;
-        return { url, data, statusRes: response.status };
+        return { url: urlAxios, data, statusRes: true };
     } catch (error) {
-        console.log('error:', { message: error.message, status: error.response.status });
+        console.log('error:', { message: error.message });//, status: error.response.status });
         runNumber = runNumber + 1;
         if (runNumber <= 10) {
             console.log('Re run getProductDetail:', runNumber);
-            return await getProductDetail(runNumber, index, skuId, upc);
+            return await getProductDetail(runNumber, index, skuId, upc, urlProduct);
         } else {
-            return { url: "", data: {}, statusRes: error.response.status };
+            return { url: "", data: {}, statusRes: false };
         };
     };
 };
@@ -86,11 +87,9 @@ const setProductDetail = async (products) => {
     try {
         let productDetail, productsDetail = [];
         for (let i = 0; i < products.length; i++) {
-            const { skuId, upc } = products[i];
-            productDetail = await getProductDetail(0, i, skuId, upc);
-            //console.log('productDetail:', JSON.stringify(productDetail))
+            const { skuId, upc, urlProduct } = products[i];
+            productDetail = await getProductDetail(0, i, skuId, upc, urlProduct);
             products[i].productDetail = productDetail;
-            //console.log('productDetail:', JSON.stringify(products[i].productDetail))
             productsDetail.push(products[i]);
         };
         return productsDetail;
@@ -99,27 +98,45 @@ const setProductDetail = async (products) => {
     };
 };
 
-const getProducts = async (runNumber) => {
+const getProducts = async (runNumber, hRef) => {
     try {
+        const headerProducts = {
+            "authority": "www.sams.com.mx",
+            "accept": "application/json, text/javascript, */*; q=0.01",
+            "accept-encoding": "gzip, deflate, br",
+            "accept-language": "es-ES,es;q=0.9",
+            "cache-control": "no-cache",
+            "pragma": "no-cache",
+            "referer": hRef, // "https://www.sams.com.mx/vinos-licores-y-cervezas/cervezas/clara/_/N-95v",
+            "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36",
+            "x-requested-with": "XMLHttpRequest"
+        };
         const paramTimestamp = setTimestamp();
         console.log('paramTimestamp:', paramTimestamp);
-        const urlAxios = `https://www.sams.com.mx/sams/browse/vinos-licores-y-cervezas/cervezas/clara/_/N-95v?_=${paramTimestamp}`;
+        //https://www.sams.com.mx/sams/browse/vinos-licores-y-cervezas/cervezas/clara/_/N-95v?_=1646333869166
+        //https://www.sams.com.mx/sams/browse/vinos-licores-y-cervezas/cervezas/clara/_/N-95v?_=1646420493857
+        //https://www.sams.com.mx/sams/browse/vinos-licores-y-cervezas/cervezas/clara/_/N-95v?_=1646428287899
+        //https://www.sams.com.mx/sams/browse/vinos-licores-y-cervezas/cervezas/clara/_/N-95v?_=1646342018576
+        const urlAxios = `${urlHome}/sams/browse${hRef}?_=${paramTimestamp}`;
         console.log('urlAxios:', urlAxios)
-        const response = await axios.get(urlAxios, headers);
+        const response = await axios.get(urlAxios, headerProducts);
         console.log('response status:', response.status)
         let data = response.data.mainArea.filter((f) => f.name == "ResultsList");
         let products = [];
         data.map((value, index) => {
             const arrayproducts = value.contents[index].records;
-            arrayproducts.map((dataProduct, i) => {
+            arrayproducts.map((dataProduct, indexProduct) => {
                 const skuId = dataProduct.attributes["sku.repositoryId"].join();
                 const upc = dataProduct.attributes["product.repositoryId"].join();
                 const skuDisplayName = dataProduct.attributes["skuDisplayName"].join();
+                const productSeoURL = dataProduct.attributes["product.seoURL"].join().replace(/[[\]\\]/g, "");
+                const urlProduct = `${urlHome}${productSeoURL}`;
                 const resProduct = {
-                    recordIndex: i,
+                    indexProduct,
                     skuId,
                     upc,
                     skuDisplayName,
+                    urlProduct,
                     dataProduct,
                 };
                 products.push(resProduct)
@@ -132,11 +149,13 @@ const getProducts = async (runNumber) => {
         //return JSON.stringify(productsDetail);
         //
     } catch (error) {
-        console.log('error:', { message: error.message, status: error.response.status });
+        console.log('error:', { message: error.message} )//, status: error.response.status });
+        const redirectUrl = error.response.data.redirectUrl
+        console.log('error redirectUrl:', redirectUrl);
         runNumber = runNumber + 1;
         if (runNumber <= 10) {
             console.log('Re run getProducts:', runNumber);
-            return await getProducts(runNumber);
+            return await getProducts(runNumber, hRef);
         } else {
             return [];
         };
@@ -254,7 +273,9 @@ const main = async () => {
         //console.log('links:', links);
         //await browser.close();
         //
-        await getProducts(0);
+        const hRef = "/vinos-licores-y-cervezas/cervezas/clara/_/N-95v";
+        await getProducts(0, hRef);
+        console.log('Fin de la ejecución ...');
         //  
     } catch (error) {
         console.log('error message:', error.message)
