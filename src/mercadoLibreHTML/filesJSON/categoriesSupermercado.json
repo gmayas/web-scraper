@@ -1,0 +1,248 @@
+[
+    {
+        "department": "Ofertas",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/_Deal_supermercado_Discount_10-100#origin=supermarket_navigation&from=search-frontend",
+        "category": "",
+        "hrefCategory": ""
+    },
+    {
+        "department": "Cuidado Personal",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/cuidado-personal/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Cuidado del Cabello",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/cuidado-personal/cuidado-del-cabello/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Cuidado Personal",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/cuidado-personal/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Cuidado de la Piel",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/cuidado-personal/cuidado-de-la-piel/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Cuidado Personal",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/cuidado-personal/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Higiene Personal",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/cuidado-personal/higiene-personal/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Cuidado Personal",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/cuidado-personal/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Manicure y Pedicure",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/cuidado-personal/manicure-pedicure/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Cuidado Personal",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/cuidado-personal/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Farmacia",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/farmacia/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Cuidado Personal",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/cuidado-personal/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Barbería",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/barberia/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Cuidado Personal",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/cuidado-personal/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Maquillajes",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/maquillajes/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Cuidado del Hogar",
+        "hrefDepartment": "https://hogar.mercadolibre.com.mx/supermercado/cuidado-del-hogar-lavanderia/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Productos de Limpieza",
+        "hrefCategory": "https://hogar.mercadolibre.com.mx/supermercado/cuidado-del-hogar-lavanderia-productos-limpieza/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Cuidado del Hogar",
+        "hrefDepartment": "https://hogar.mercadolibre.com.mx/supermercado/cuidado-del-hogar-lavanderia/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Accesorios de Limpieza",
+        "hrefCategory": "https://hogar.mercadolibre.com.mx/supermercado/cuidado-del-lavanderia-accesorios-limpieza/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Cuidado del Hogar",
+        "hrefDepartment": "https://hogar.mercadolibre.com.mx/supermercado/cuidado-del-hogar-lavanderia/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Productos de Lavandería",
+        "hrefCategory": "https://hogar.mercadolibre.com.mx/supermercado/cuidado-del-hogar-lavanderia-productos/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Cuidado del Hogar",
+        "hrefDepartment": "https://hogar.mercadolibre.com.mx/supermercado/cuidado-del-hogar-lavanderia/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Desechables",
+        "hrefCategory": "https://hogar.mercadolibre.com.mx/supermercado/cuidado-del-hogar-lavanderia-desechables/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Cuidado del Hogar",
+        "hrefDepartment": "https://hogar.mercadolibre.com.mx/supermercado/cuidado-del-hogar-lavanderia/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Insecticidas y Repelentes",
+        "hrefCategory": "https://hogar.mercadolibre.com.mx/supermercado/cuidado-del-lavanderia-insecticida-repelentes/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Cuidado del Hogar",
+        "hrefDepartment": "https://hogar.mercadolibre.com.mx/supermercado/cuidado-del-hogar-lavanderia/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Accesorios para Lavandería",
+        "hrefCategory": "https://hogar.mercadolibre.com.mx/supermercado/cuidado-del-lavanderia-accesorios/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Cuidado del Hogar",
+        "hrefDepartment": "https://hogar.mercadolibre.com.mx/supermercado/cuidado-del-hogar-lavanderia/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Cuidado del Calzado",
+        "hrefCategory": "https://hogar.mercadolibre.com.mx/supermercado/cuidado-del-lavanderia-calzado/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Bebés",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/bebes/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Higiene y Cuidado del Bebé",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/bebes/higiene-cuidado/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Bebés",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/bebes/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Comida para Bebés",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/bebes/comida/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Bebés",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/bebes/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Artículos de Maternidad",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/bebes/maternidad/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Bebés",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/bebes/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Artículos de Bebés para Baño",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/bebes/bano/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Bebés",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/bebes/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Salud del Bebé",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/bebes/salud/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Despensa",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/despensa/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Dulces y Chocolates",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/despensa-dulces-chocolates/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Despensa",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/despensa/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Café, Té y Mate",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/despensa-cafe-te-mate/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Despensa",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/despensa/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Salsas y Condimentos",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/comestibles-salsas-condimentos/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Despensa",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/despensa/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Pastelería y Repostería",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/comestibles-pasteleria-reposteria/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Despensa",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/despensa/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Botanas",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/comestibles-botanas/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Despensa",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/despensa/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Saborizantes y Jarabes",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/comestibles-saborizantes-jarabes/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Despensa",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/despensa/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Mermeladas y Miel",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/despensa-mermeladas-miel/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Bebidas",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/bebidas/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Bebidas Blancas y Licores",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/bebidas-blancas-licores/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Bebidas",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/bebidas/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Vinos y Espumosos",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/bebidas-vinos-espumosos/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Bebidas",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/bebidas/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Cervezas",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/bebidas-cervezas/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Bebidas",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/bebidas/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Aguas",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/bebidas-sin-alcohol/aguas/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Bebidas",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/bebidas/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Jugos",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/bebidas-jugos/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Bebidas",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/bebidas/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Leche",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/bebidas-leche/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Bebidas",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/bebidas/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Bebidas Preparadas",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/bebidas-preparadas/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Mascotas",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/animales/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Perros",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/animales/perros/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Mascotas",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/animales/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Peces",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/animales/peces/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Mascotas",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/animales/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Gatos",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/animales/gatos/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Mascotas",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/animales/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Aves",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/animales/aves/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Mascotas",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/animales/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Reptiles y Anfibios",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/animales/reptiles-anfibios/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Mascotas",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/animales/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Equinos",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/animales/equinos/#origin=supermarket_navigation&from=search-frontend"
+    },
+    {
+        "department": "Mascotas",
+        "hrefDepartment": "https://listado.mercadolibre.com.mx/supermercado/animales/#origin=supermarket_navigation&from=search-frontend",
+        "category": "Roedores",
+        "hrefCategory": "https://listado.mercadolibre.com.mx/supermercado/animales/roedores/#origin=supermarket_navigation&from=search-frontend"
+    }
+]
