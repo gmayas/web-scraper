@@ -6,31 +6,60 @@ const fs = require('fs');
 const axios = require('axios');
 
 //
-//const urlHome = "https://listado.mercadolibre.com.mx/supermercado/";
-const urlHome = "https://listado.mercadolibre.com.mx/supermercado/_Desde_1969_Deal_supermercado_Discount_10-100_NoIndex_True";
-//const urlHome = "https://listado.mercadolibre.com.mx/supermercado/_Deal_supermercado_Discount_10-100#origin=supermarket_navigation&from=search-frontend";
+const urlHome = "https://listado.mercadolibre.com.mx/supermercado/";
+//const urlHome = "https://listado.mercadolibre.com.mx/supermercado/_Deal_supermercado_Discount_10-100";
+//
 const main = async () => {
     try {
-        let listProductId = [], i = 0; 
-        const response = await axios.get(urlHome);
-        html = response.data;
-        $ = cheerio.load(html);
-        $('section.ui-search-results ol li div div div form input').each((index, content) => {
-            let name = $(content).attr('name');
-            let value = $(content).attr('value');
-            if ( name == "itemId") {
-                i = i + 1;
-                console.log(`index: ${i} - name: ${name} - value: ${value}`);
-                listProductId.push(value);
-            };
+        const browser = await puppeteer.launch({
+            headless: true,
+            slowMo: 1000,
+            args: ["--start-maximized", "--use-gl=egl"],
         });
-
-        const htmlPaginationButtonNext = $('section.ui-search-results div.ui-search-pagination li.andes-pagination__button--next a').attr('href');
-        if (htmlPaginationButtonNext) { 
-            console.log(`htmlPaginationButtonNext: ${htmlPaginationButtonNext} `);
-        };
-        
-        //const fileName = 'ofertasPag01Gral.html';
+        const page = await browser.newPage();
+        await page.setViewport({
+            width: 1122,
+            height: 800,
+            deviceScaleFactor: 1,
+        });
+        await page.goto(urlHome, {
+            waitUntil: 'networkidle2',
+            timeout: 0
+        });
+        await page.waitForTimeout(3000);
+        let html, $, links = [];
+        // Process Scraper
+        html = await page.evaluate(() => document.querySelector("div.ui-cpg__container").outerHTML);
+        $ = cheerio.load(html);
+        let department, hrefDepartment, category, hrefCategory;
+        $('div.ui-cpg__department').each((indexDepartment, contentDepartment) => { 
+            const htmlDepartment = $(contentDepartment).html();
+            const $Department = cheerio.load(htmlDepartment);
+            //console.log('htmlDepartment:', htmlDepartment);
+            department =  $Department('a.ui-cpg__department-link img').attr('alt');
+            hrefDepartment = $Department('a.ui-cpg__department-link').attr('href');
+            const htmlCategories = $Department('div.ui-cpg__department-menu').html();
+            if (htmlCategories) {
+                console.log('htmlCategories:', htmlCategories);
+                const $Categories = cheerio.load(htmlCategories);
+                $Categories('ul.ui-cpg__department-menu-list li.ui-cpg__department-menu-list-item').each((indexCategory, contentCategory) => { 
+                    const htmlCategory = $(contentCategory).html();
+                    const $Category = cheerio.load(htmlCategory);
+                    category =  $Category('a').html();
+                    hrefCategory = $Category('a').attr('href');
+                    links.push({ department, hrefDepartment, category, hrefCategory });
+                });
+                console.log('...');
+            } else {
+                links.push({ department, hrefDepartment, "category": "", "hrefCategory": "" });
+            }
+            console.log('...');
+        });
+        await browser.close();
+        const fileName = 'categoriesSupermercado.json';
+        const filePath = path.join(__dirname, `/mercadoLibreHTML/filesJson/${fileName}`);
+        fs.writeFileSync(filePath, JSON.stringify(links), 'utf-8'); 
+        //const fileName = 'ofertasPag01.html';
         //const filePath = path.join(__dirname, `/mercadoLibreHTML/${fileName}`);
         //fs.writeFileSync(filePath, html, 'utf-8');
           
