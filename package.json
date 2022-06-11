@@ -4,13 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/app.js"
+    "start": "node src/app.js",
+    "startTest": "node src/scraper_api.js"
   },
   "author": "GMS",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.24.0",
+    "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.10",
-    "puppeteer": "^8.0.0"
+    "hpagent": "^1.0.0",
+    "puppeteer": "^8.0.0",
+    "query-selector-shadow-dom": "^1.0.0",
+    "scraperapi-sdk": "^1.0.6"
+  },
+  "devDependencies": {
+    "@types/query-selector-shadow-dom": "^1.0.0"
   }
 }

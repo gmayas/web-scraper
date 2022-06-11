@@ -4,36 +4,65 @@ const puppeteer = require("puppeteer");
 const path = require('path');
 const fs = require('fs');
 const axios = require('axios');
+const { querySelectorDeep } = require("query-selector-shadow-dom");
+//import { querySelectorAllDeep, querySelectorDeep } from 'query-selector-shadow-dom';
+//puppeteer.registerCustomQueryHandler('shadow', QueryHandler);
 
 //
-//const urlHome = "https://listado.mercadolibre.com.mx/supermercado/";
-const urlHome = "https://listado.mercadolibre.com.mx/supermercado/_Desde_1969_Deal_supermercado_Discount_10-100_NoIndex_True";
-//const urlHome = "https://listado.mercadolibre.com.mx/supermercado/_Deal_supermercado_Discount_10-100#origin=supermarket_navigation&from=search-frontend";
+const urlHome = "https://super.walmart.com.mx/"
+
+
+const getDepartments = async () => {
+    try {
+
+        const browser = await puppeteer.launch({
+            headless: true,
+            ignoreHTTPSErrors: true,
+            slowMo: 1000,
+            args: ["--start-maximized", "--use-gl=egl"],
+        });
+        const page = await browser.newPage();
+        /*await page.authenticate({
+            username: proxy.username,
+            password: proxy.password
+        })*/
+        await page.setViewport({
+            width: 1122,
+            height: 800,
+            deviceScaleFactor: 1,
+        });
+        await page.goto(urlHome, {
+            waitUntil: 'networkidle2',
+            timeout: 0
+        });
+        //await page.waitForTimeout(2000);
+        // Process Scraper
+        let html, $, links = [];
+        await page.waitForTimeout(2000);
+        const cookies = await page.cookies();
+        await browser.close();
+        
+        //let data = JSON.stringify(...cookies);
+        //console.log('data:',...data);
+        const fileNamecookies = 'bodyMainWalmart01.json';
+        const filePathcookies = path.join(__dirname, `/Walmart/${fileNamecookies}`);
+        fs.writeFileSync(filePathcookies, ...cookies, 'utf-8'); 
+        const fileName = 'bodyMainWalmart01.html';
+        const filePath = path.join(__dirname, `/Walmart/${fileName}`);
+        fs.writeFileSync(filePath, html, 'utf-8'); 
+        return links;
+    } catch (e) {
+        console.log('error:', e)
+        return [];
+    };
+};
+
+//
 const main = async () => {
     try {
-        let listProductId = [], i = 0; 
-        const response = await axios.get(urlHome);
-        html = response.data;
-        $ = cheerio.load(html);
-        $('section.ui-search-results ol li div div div form input').each((index, content) => {
-            let name = $(content).attr('name');
-            let value = $(content).attr('value');
-            if ( name == "itemId") {
-                i = i + 1;
-                console.log(`index: ${i} - name: ${name} - value: ${value}`);
-                listProductId.push(value);
-            };
-        });
-
-        const htmlPaginationButtonNext = $('section.ui-search-results div.ui-search-pagination li.andes-pagination__button--next a').attr('href');
-        if (htmlPaginationButtonNext) { 
-            console.log(`htmlPaginationButtonNext: ${htmlPaginationButtonNext} `);
-        };
-        
-        //const fileName = 'ofertasPag01Gral.html';
-        //const filePath = path.join(__dirname, `/mercadoLibreHTML/${fileName}`);
-        //fs.writeFileSync(filePath, html, 'utf-8');
-          
+        console.log("Starting Desafio humano Bodega Aurrera ...")
+        let departments = await getDepartments();
+        console.log("End Starting Desafio humano Bodega Aurrera ...")
     } catch (error) {
         console.log('error message:', error.message)
     };
@@ -41,6 +70,22 @@ const main = async () => {
 //
 main();
 //
+
+const getChildrenCategories = () => {
+    try {
+
+    } catch (e) {
+        console.log('error:', e)
+        return [];
+    };
+};
+
+
+
+
+
+
+
 // Es URL?
 const isURL = (hRef) => {
     let res = false;

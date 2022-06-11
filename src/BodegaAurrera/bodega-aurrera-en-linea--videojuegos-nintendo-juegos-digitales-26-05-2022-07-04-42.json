@@ -1,0 +1,1123 @@
+{
+    "id": "cat265021",
+    "type": "fineLine",
+    "image": null,
+    "name": "Juegos Digitales",
+    "url": "/videojuegos/nintendo/juegos-digitales",
+    "department": {
+        "categoryRepositoryId": "cat265013",
+        "parentId": "cat264999",
+        "type": "family",
+        "displayName": "Nintendo",
+        "smallImageUrl": "https://res.cloudinary.com/walmart-labs/image/upload/v1602176689/mg/images/categorias/d-videojuegos/fcts-nintendo.jpg",
+        "thumbnailImageUrl": null,
+        "images": [
+            "https://res.cloudinary.com/walmart-labs/image/upload/v1602176689/mg/images/categorias/d-videojuegos/fcts-nintendo.jpg"
+        ],
+        "level": 2
+    },
+    "departmentParent": {
+        "categoryRepositoryId": "cat264999",
+        "parentId": "cat264998",
+        "type": "department",
+        "displayName": "Videojuegos",
+        "smallImageUrl": "https://i5.walmartimages.com/dfw/fc2bdac6-ba3d/k2-_9c6ceeb7-1503-47c2-8a3a-ff6f16fe9428.v1.jpg",
+        "thumbnailImageUrl": null,
+        "images": [
+            "https://i5.walmartimages.com/dfw/fc2bdac6-ba3d/k2-_9c6ceeb7-1503-47c2-8a3a-ff6f16fe9428.v1.jpg"
+        ],
+        "level": 1
+    },
+    "retry": 1,
+    "Ok": true,
+    "message": "Valid get Bodega Aurrera",
+    "status": 200,
+    "products": [
+        {
+            "id": "00088725609092",
+            "productId": "00088725609092",
+            "skuDisplayName": "Just Dance 2020 Nintendo Switch Juego Físico Nintendo Switch",
+            "productSeoUrl": "/videojuegos/nintendo-switch/juegos/just-dance-2020-nintendo-switch-juego-fisico-nintendo-switch_00088725609092",
+            "productRatings": 0,
+            "weighable": false,
+            "freeShippingItem": "No Free Shipping",
+            "skuPrice": 1009,
+            "bigItem": false,
+            "onDemand": false,
+            "bundle": false,
+            "preOrderable": false,
+            "pickUpEnabled": false,
+            "brandName": "nintendo",
+            "imageUrls": {
+                "small": "/gm/3pp/asr/d5512981-e3a0-4539-8d06-1c3064dc0403.4c02442424921a51998fe1e5f3eae352.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                "large": "/gm/3pp/asr/d5512981-e3a0-4539-8d06-1c3064dc0403.4c02442424921a51998fe1e5f3eae352.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff"
+            },
+            "score": 0.000004518755304161459,
+            "salesRank": 0.00000451875538324314,
+            "variants": [],
+            "detail": {
+                "error": {
+                    "localizedMessage": "El producto null no está definido en el sitio actual",
+                    "messageCode": "PRODUCT_NOT_IN_CURRENT_SITE"
+                },
+                "jsessionid": "epGxlcG8+V8dXJXeJVtUtn0p.restapp-354905749-8-1093987602",
+                "serverConfiguration": "X.X.X.6"
+            },
+            "promotions": {
+                "skuList": [
+                    {
+                        "salePrice": "1009.00",
+                        "sellerName": "Gameland Mexico",
+                        "internationalSeller": false,
+                        "offerType": "3P",
+                        "sellerId": "10001048115",
+                        "refurbished": false,
+                        "shippingCountry": "Mexico",
+                        "inventoryAvailable": true,
+                        "offerId": "71225811D4074F90A675E2B75833CCDA",
+                        "skuId": "00088725609092",
+                        "listPrice": "1009.00"
+                    }
+                ],
+                "promotionDetails": {
+                    "promoLabel": null,
+                    "maxMSI": 0
+                },
+                "skuId": "00088725609092"
+            },
+            "brandPosition": 1
+        },
+        {
+            "id": "00088392966895",
+            "productId": "00088392966895",
+            "skuDisplayName": "Mortal Kombat Nintendo Switch M 11",
+            "productSeoUrl": "/videojuegos/nintendo-switch/juegos/mortal-kombat-nintendo-switch-m-11_00088392966895",
+            "productRatings": 0,
+            "weighable": false,
+            "freeShippingItem": "No Free Shipping",
+            "skuPrice": 749,
+            "bigItem": false,
+            "onDemand": false,
+            "bundle": false,
+            "preOrderable": false,
+            "pickUpEnabled": false,
+            "brandName": "nintendo switch",
+            "imageUrls": {
+                "small": "/gm/3pp/asr/36920a11-6049-4fcc-a5a4-5192a53df35d.e7ad8fe43e1b14e1dd75bde47ec36981.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                "large": "/gm/3pp/asr/36920a11-6049-4fcc-a5a4-5192a53df35d.e7ad8fe43e1b14e1dd75bde47ec36981.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff"
+            },
+            "score": 6.760286055396136e-7,
+            "salesRank": 6.760286111176451e-7,
+            "variants": [],
+            "detail": {
+                "jsessionid": "Tak3gH8zQWZffeK3KRkltkLD.restapp-383446992-3-409917422",
+                "product": {
+                    "childSKUs": [
+                        {
+                            "longDescription": "El nuevo motor gráfico que muestra todos los momentos que te destrozan las calaveras y que te dejan sin aliento$$Nintendo switch$$Las nuevas variaciones de caracteres personalizados te brindan un control sin precedentes para personalizar a los luchadores y hacerlos tuyos.",
+                            "bundleLinks": [],
+                            "offerPromoList": [],
+                            "dynamicFacets": {
+                                "32": {
+                                    "attrGroupId": "13",
+                                    "value": "STANDARD",
+                                    "attrOrder": 15,
+                                    "attrName": "Edición",
+                                    "attrDesc": "Edición"
+                                },
+                                "102": {
+                                    "attrGroupId": "39",
+                                    "value": "1080p (FHD)",
+                                    "attrOrder": 19,
+                                    "attrName": "Gráficos",
+                                    "attrDesc": "Gráficos"
+                                },
+                                "382": {
+                                    "attrGroupId": "17",
+                                    "value": "NINTENDO SW",
+                                    "attrOrder": 5,
+                                    "attrName": "Compatibilidad",
+                                    "attrDesc": "Compatibilidad"
+                                },
+                                "689": {
+                                    "attrGroupId": "3",
+                                    "value": "Juego Completo",
+                                    "attrOrder": 178,
+                                    "attrName": "Tipo",
+                                    "attrDesc": "Tipo"
+                                },
+                                "709": {
+                                    "attrGroupId": "3",
+                                    "value": "AA (Contenido para público infantil)",
+                                    "attrOrder": 183,
+                                    "attrName": "Clasificación",
+                                    "attrDesc": "Clasificación"
+                                },
+                                "713": {
+                                    "attrGroupId": "33",
+                                    "value": "México",
+                                    "attrOrder": 3,
+                                    "attrName": "País de Origen",
+                                    "attrDesc": "País de Origen"
+                                },
+                                "991": {
+                                    "attrGroupId": "13",
+                                    "value": "Arcade",
+                                    "attrOrder": 252,
+                                    "attrName": "Género del Juego",
+                                    "attrDesc": "Género del Juego"
+                                },
+                                "PGA411": {
+                                    "attrGroupId": "-1",
+                                    "value": "Switch",
+                                    "attrOrder": -1,
+                                    "attrName": "Plataforma de Videojuegos",
+                                    "attrDesc": "Plataforma de Videojuegos"
+                                },
+                                "P004": {
+                                    "attrGroupId": "-1",
+                                    "value": "Si tienes problemas de epilepsia consultar a un médico antes de jugar videouegos",
+                                    "attrOrder": -1,
+                                    "attrName": "Leyendas de Protección / Advertencias",
+                                    "attrDesc": "Leyendas de Protección / Advertencias"
+                                },
+                                "P007": {
+                                    "attrGroupId": "-1",
+                                    "value": "10.00 cm",
+                                    "attrOrder": -1,
+                                    "attrName": "Largo del Producto Armado",
+                                    "attrDesc": "Largo del Producto Armado"
+                                },
+                                "P006": {
+                                    "attrGroupId": "-1",
+                                    "value": "10.00 cm",
+                                    "attrOrder": -1,
+                                    "attrName": "Altura del Producto Armado",
+                                    "attrDesc": "Altura del Producto Armado"
+                                },
+                                "PGA217": {
+                                    "attrGroupId": "25",
+                                    "value": "NA",
+                                    "attrOrder": -1,
+                                    "attrName": "Palabras clave",
+                                    "attrDesc": "Palabras clave"
+                                },
+                                "P011": {
+                                    "attrGroupId": "-1",
+                                    "value": "11",
+                                    "attrOrder": -1,
+                                    "attrName": "Modelo",
+                                    "attrDesc": "Modelo"
+                                },
+                                "PGA317": {
+                                    "attrGroupId": "-1",
+                                    "value": "Sí",
+                                    "attrOrder": -1,
+                                    "attrName": "Juego Online",
+                                    "attrDesc": "Juego Online"
+                                },
+                                "P009": {
+                                    "attrGroupId": "-1",
+                                    "value": "10.00 cm",
+                                    "attrOrder": -1,
+                                    "attrName": "Ancho del Producto Armado",
+                                    "attrDesc": "Ancho del Producto Armado"
+                                },
+                                "PGA220": {
+                                    "attrGroupId": "-1",
+                                    "value": "Negro",
+                                    "attrOrder": -1,
+                                    "attrName": "Gama Color",
+                                    "attrDesc": "Gama Color"
+                                },
+                                "P008": {
+                                    "attrGroupId": "-1",
+                                    "value": "1.00 kg",
+                                    "attrOrder": -1,
+                                    "attrName": "Peso del Producto Armado",
+                                    "attrDesc": "Peso del Producto Armado"
+                                },
+                                "PGA2503": {
+                                    "attrGroupId": "-1",
+                                    "value": "WB",
+                                    "attrOrder": -1,
+                                    "attrName": "Licencia de Marca",
+                                    "attrDesc": "Licencia de Marca"
+                                },
+                                "P010": {
+                                    "attrGroupId": "-1",
+                                    "value": "1 videojuego",
+                                    "attrOrder": -1,
+                                    "attrName": "Contenido del empaque",
+                                    "attrDesc": "Contenido del empaque"
+                                }
+                            },
+                            "displayName": "Mortal Kombat Nintendo Switch M 11",
+                            "isPreOrderable": false,
+                            "isOnDemand": false,
+                            "itemHeight": 10,
+                            "returnableStatus": "N",
+                            "description": "Mortal Kombat Nintendo Switch M 11",
+                            "videoId": [],
+                            "type": "sku",
+                            "thumbnailImageUrl": "/gm/3pp/asr/36920a11-6049-4fcc-a5a4-5192a53df35d.e7ad8fe43e1b14e1dd75bde47ec36981.jpeg?odnHeight=100&odnWidth=100&odnBg=ffffff",
+                            "subBrand": "M",
+                            "itemWidth": 10,
+                            "id": "00088392966895",
+                            "brand": "Nintendo Switch",
+                            "itemWeight": 1,
+                            "images": {
+                                "small": "/gm/3pp/asr/36920a11-6049-4fcc-a5a4-5192a53df35d.e7ad8fe43e1b14e1dd75bde47ec36981.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                                "thumbnail": "/gm/3pp/asr/36920a11-6049-4fcc-a5a4-5192a53df35d.e7ad8fe43e1b14e1dd75bde47ec36981.jpeg?odnHeight=100&odnWidth=100&odnBg=ffffff",
+                                "large": "/gm/3pp/asr/36920a11-6049-4fcc-a5a4-5192a53df35d.e7ad8fe43e1b14e1dd75bde47ec36981.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+                                "icon": "/gm/3pp/asr/36920a11-6049-4fcc-a5a4-5192a53df35d.e7ad8fe43e1b14e1dd75bde47ec36981.jpeg?odnHeight=60&odnWidth=60&odnBg=ffffff",
+                                "medium": "/gm/3pp/asr/36920a11-6049-4fcc-a5a4-5192a53df35d.e7ad8fe43e1b14e1dd75bde47ec36981.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+                            },
+                            "smallImageUrl": "/gm/3pp/asr/36920a11-6049-4fcc-a5a4-5192a53df35d.e7ad8fe43e1b14e1dd75bde47ec36981.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                            "isBigItem": false,
+                            "seoDescription": "Las nuevas variaciones de personajes personalizados te dan un control sin precedentes para personalizar a los luchadores y hacerlos tuyos. El nuevo motor de gráficos que muestra cada momento que te destroza el cráneo y que te deja sin aliento, te acerca tanto a la lucha que puedes sentirlo. Y con una lista de los nuevos y recurrentes Klassic Fighters, el mejor modo de historia cinematográfica de Mortal Kombat continúa con la saga épica durante más de 25 años.",
+                            "skuStatus": "A",
+                            "upc": "00088392966895",
+                            "itemLength": 10,
+                            "secondaryImages": [
+                                {
+                                    "icon": "/gm/3pp/asr/06418421-21db-454a-acaa-6f382a1cd699.bfea7879e346f59f43c430e0a4111836.jpeg?odnHeight=60&odnWidth=60&odnBg=ffffff",
+                                    "thumbnail": "/gm/3pp/asr/06418421-21db-454a-acaa-6f382a1cd699.bfea7879e346f59f43c430e0a4111836.jpeg?odnHeight=100&odnWidth=100&odnBg=ffffff",
+                                    "small": "/gm/3pp/asr/06418421-21db-454a-acaa-6f382a1cd699.bfea7879e346f59f43c430e0a4111836.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                                    "medium": "/gm/3pp/asr/06418421-21db-454a-acaa-6f382a1cd699.bfea7879e346f59f43c430e0a4111836.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+                                    "large": "/gm/3pp/asr/06418421-21db-454a-acaa-6f382a1cd699.bfea7879e346f59f43c430e0a4111836.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff"
+                                }
+                            ],
+                            "sellingAtStore": false,
+                            "formatId": "MP",
+                            "auxiliaryMedia": {},
+                            "largeImageUrl": "/gm/3pp/asr/36920a11-6049-4fcc-a5a4-5192a53df35d.e7ad8fe43e1b14e1dd75bde47ec36981.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+                            "parentUpc": "00088392966895",
+                            "offerList": [
+                                {
+                                    "offerPromoList": null,
+                                    "sellerName": "Gameland Mexico",
+                                    "length": 10,
+                                    "active": true,
+                                    "weight": 1,
+                                    "isMHPromoApplicable": false,
+                                    "isInvAvailable": true,
+                                    "internationalSeller": false,
+                                    "offerRank": 1,
+                                    "warrantyInMonths": 3,
+                                    "offerType": "3P",
+                                    "priceInfo": {
+                                        "originalPrice": 749,
+                                        "eventCode": null,
+                                        "specialPrice": 749,
+                                        "promotionEvent": null
+                                    },
+                                    "sellerId": "10001048115",
+                                    "refurbished": false,
+                                    "shippingCountry": "Mexico",
+                                    "width": 10,
+                                    "msiEnabled": false,
+                                    "offerId": "CE88A0A168684D58A31891BDFFE0BB09",
+                                    "warranty": "Gameland",
+                                    "warrantyCondition": null,
+                                    "height": 10
+                                },
+                                {
+                                    "offerPromoList": null,
+                                    "sellerName": "ULIDENTGAMES SAS DE CV",
+                                    "length": 11,
+                                    "active": true,
+                                    "weight": 1,
+                                    "isMHPromoApplicable": false,
+                                    "isInvAvailable": true,
+                                    "internationalSeller": false,
+                                    "offerRank": 2,
+                                    "warrantyInMonths": 3,
+                                    "offerType": "3P",
+                                    "priceInfo": {
+                                        "originalPrice": 798,
+                                        "eventCode": null,
+                                        "specialPrice": 798,
+                                        "promotionEvent": null
+                                    },
+                                    "sellerId": "10001099288",
+                                    "refurbished": false,
+                                    "shippingCountry": "MEX",
+                                    "width": 11,
+                                    "msiEnabled": false,
+                                    "offerId": "E15DF20711B34033A8E01763DA3AAEF8",
+                                    "warranty": "si",
+                                    "warrantyCondition": null,
+                                    "height": 11
+                                },
+                                {
+                                    "offerPromoList": null,
+                                    "sellerName": "SOUNDS MEXICO",
+                                    "length": 1,
+                                    "active": true,
+                                    "weight": 1,
+                                    "isMHPromoApplicable": false,
+                                    "isInvAvailable": true,
+                                    "internationalSeller": false,
+                                    "offerRank": 3,
+                                    "warrantyInMonths": 3,
+                                    "offerType": "3P",
+                                    "priceInfo": {
+                                        "originalPrice": 861,
+                                        "eventCode": null,
+                                        "specialPrice": 861,
+                                        "promotionEvent": null
+                                    },
+                                    "sellerId": "10001048332",
+                                    "refurbished": false,
+                                    "shippingCountry": "Mexico",
+                                    "width": 10,
+                                    "msiEnabled": false,
+                                    "offerId": "38BCCB7B87AC41609B9262AEB9CFF3F9",
+                                    "warranty": "SOUNDS MEXICO",
+                                    "warrantyCondition": "CONTRA DEFECTO DE FABRICA CON EMPAQUE Y ACCESORIOS",
+                                    "height": 18
+                                },
+                                {
+                                    "offerPromoList": null,
+                                    "sellerName": "Compra Mundo",
+                                    "length": 8,
+                                    "active": true,
+                                    "weight": 1,
+                                    "isMHPromoApplicable": false,
+                                    "isInvAvailable": false,
+                                    "internationalSeller": false,
+                                    "offerRank": 4,
+                                    "warrantyInMonths": 16,
+                                    "offerType": "3P",
+                                    "priceInfo": {
+                                        "originalPrice": 1099,
+                                        "eventCode": null,
+                                        "specialPrice": 1099,
+                                        "promotionEvent": null
+                                    },
+                                    "sellerId": "10001112896",
+                                    "refurbished": false,
+                                    "shippingCountry": "MEX",
+                                    "width": 8,
+                                    "msiEnabled": false,
+                                    "offerId": "12ABFFD9F7C043E5B5A9F83481EBCA92",
+                                    "warranty": "COMPRA MUNDO",
+                                    "warrantyCondition": "NO ROTO NI RAYADO",
+                                    "height": 8
+                                },
+                                {
+                                    "offerPromoList": null,
+                                    "sellerName": "Igamers",
+                                    "length": 15,
+                                    "active": true,
+                                    "weight": 1,
+                                    "isMHPromoApplicable": false,
+                                    "isInvAvailable": false,
+                                    "internationalSeller": false,
+                                    "offerRank": 5,
+                                    "warrantyInMonths": 3,
+                                    "offerType": "3P",
+                                    "priceInfo": {
+                                        "originalPrice": 9999,
+                                        "eventCode": null,
+                                        "specialPrice": 9999,
+                                        "promotionEvent": null
+                                    },
+                                    "sellerId": "10001047278",
+                                    "refurbished": false,
+                                    "shippingCountry": "MEX",
+                                    "width": 5,
+                                    "msiEnabled": true,
+                                    "offerId": "680B0D8BB330488BAB1CC77F4F4DA762",
+                                    "warranty": "iGamers",
+                                    "warrantyCondition": "Devolver sellado con el empaque original",
+                                    "height": 25
+                                },
+                                {
+                                    "offerPromoList": null,
+                                    "sellerName": "SG VIDEOJUEGOS SAS DE CV",
+                                    "length": 10,
+                                    "active": true,
+                                    "weight": 1,
+                                    "isMHPromoApplicable": false,
+                                    "isInvAvailable": false,
+                                    "internationalSeller": false,
+                                    "offerRank": 6,
+                                    "warrantyInMonths": 3,
+                                    "offerType": "3P",
+                                    "priceInfo": {
+                                        "originalPrice": 629,
+                                        "eventCode": null,
+                                        "specialPrice": 629,
+                                        "promotionEvent": null
+                                    },
+                                    "sellerId": "10001060885",
+                                    "refurbished": false,
+                                    "shippingCountry": "Mexico",
+                                    "width": 2,
+                                    "msiEnabled": false,
+                                    "offerId": "69E026F70CDC47B59E342BD15F0DAC84",
+                                    "warranty": "SG VIDEOJUEGOS SAS DE CV",
+                                    "warrantyCondition": "30 Días de garantía por defectos de fabrica, si tu paquete tiene presenta maltrato evidente, no lo recibas.",
+                                    "height": 15
+                                },
+                                {
+                                    "offerPromoList": null,
+                                    "sellerName": "ULIDENT",
+                                    "length": 13,
+                                    "active": true,
+                                    "weight": 1,
+                                    "isMHPromoApplicable": false,
+                                    "isInvAvailable": false,
+                                    "internationalSeller": false,
+                                    "offerRank": 7,
+                                    "warrantyInMonths": 3,
+                                    "offerType": "3P",
+                                    "priceInfo": {
+                                        "originalPrice": 892,
+                                        "eventCode": null,
+                                        "specialPrice": 892,
+                                        "promotionEvent": null
+                                    },
+                                    "sellerId": "10001047182",
+                                    "refurbished": false,
+                                    "shippingCountry": "MEX",
+                                    "width": 13,
+                                    "msiEnabled": false,
+                                    "offerId": "96107FE5310B422FB32819513787EEB3",
+                                    "warranty": "si",
+                                    "warrantyCondition": null,
+                                    "height": 13
+                                },
+                                {
+                                    "offerPromoList": null,
+                                    "sellerName": "Start Games.",
+                                    "length": 10,
+                                    "active": true,
+                                    "weight": 1,
+                                    "isMHPromoApplicable": false,
+                                    "isInvAvailable": false,
+                                    "internationalSeller": false,
+                                    "offerRank": 8,
+                                    "warrantyInMonths": 3,
+                                    "offerType": "3P",
+                                    "priceInfo": {
+                                        "originalPrice": 1349,
+                                        "eventCode": null,
+                                        "specialPrice": 1349,
+                                        "promotionEvent": null
+                                    },
+                                    "sellerId": "10001053215",
+                                    "refurbished": false,
+                                    "shippingCountry": "MEX",
+                                    "width": 2,
+                                    "msiEnabled": false,
+                                    "offerId": "B78DD7F421DB43F181D20A683EDDCFEB",
+                                    "warranty": "Start-Games.",
+                                    "warrantyCondition": "30 Días de Garantía por defectos de fabrica.",
+                                    "height": 10
+                                },
+                                {
+                                    "offerPromoList": null,
+                                    "sellerName": "iMports77",
+                                    "length": 10,
+                                    "active": true,
+                                    "weight": 1,
+                                    "isMHPromoApplicable": false,
+                                    "isInvAvailable": false,
+                                    "internationalSeller": false,
+                                    "offerRank": 9,
+                                    "warrantyInMonths": 3,
+                                    "offerType": "3P",
+                                    "priceInfo": {
+                                        "originalPrice": 1079,
+                                        "eventCode": null,
+                                        "specialPrice": 1079,
+                                        "promotionEvent": null
+                                    },
+                                    "sellerId": "10001040975",
+                                    "refurbished": false,
+                                    "shippingCountry": "MEX",
+                                    "width": 15,
+                                    "msiEnabled": false,
+                                    "offerId": "E53FA1B946E342E2A46ED802EC9731A7",
+                                    "warranty": "90 días por defectos de fábrica",
+                                    "warrantyCondition": "90 días por defectos de fábrica",
+                                    "height": 10
+                                }
+                            ]
+                        }
+                    ],
+                    "longDescription": "El nuevo motor gráfico que muestra todos los momentos que te destrozan las calaveras y que te dejan sin aliento$$Nintendo switch$$Las nuevas variaciones de caracteres personalizados te brindan un control sin precedentes para personalizar a los luchadores y hacerlos tuyos.",
+                    "smallImageUrl": "/gm/3pp/asr/36920a11-6049-4fcc-a5a4-5192a53df35d.e7ad8fe43e1b14e1dd75bde47ec36981.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                    "displayName": "Mortal Kombat Nintendo Switch M 11",
+                    "productStatus": "A",
+                    "description": "Mortal Kombat Nintendo Switch M 11",
+                    "negotiations": [
+                        "34228",
+                        "34239",
+                        "34238",
+                        "34237",
+                        "34236",
+                        "34296",
+                        "34294",
+                        "34292",
+                        "34290",
+                        "23728"
+                    ],
+                    "seoKeywords": [],
+                    "metaDescription": "Compra por internet Mortal Kombat Nintendo Switch M 11",
+                    "maxQuantityAllowed": 5,
+                    "productIcons": {
+                        "freeShippingItem": "No Free Shipping",
+                        "isBundleItem": false,
+                        "specialEvent": [],
+                        "isPickupToday": true
+                    },
+                    "maxMSI": 12,
+                    "thumbnailImageUrl": "/gm/3pp/asr/36920a11-6049-4fcc-a5a4-5192a53df35d.e7ad8fe43e1b14e1dd75bde47ec36981.jpeg?odnHeight=100&odnWidth=100&odnBg=ffffff",
+                    "isBulkBundle": false,
+                    "breadcrumb": {
+                        "familyId": "cat265043",
+                        "departmentName": "Videojuegos",
+                        "familyName": "Nintendo Switch",
+                        "departmentId": "cat264999",
+                        "fineLineName": "Juegos",
+                        "fineLineId": "cat265047"
+                    },
+                    "subBrand": "M",
+                    "metaTitle": "Mortal Kombat Nintendo Switch M 11 | Walmart en línea",
+                    "largeImageUrl": "/gm/3pp/asr/36920a11-6049-4fcc-a5a4-5192a53df35d.e7ad8fe43e1b14e1dd75bde47ec36981.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+                    "repositoryId": "00088392966895",
+                    "productSeoUrl": "/videojuegos/nintendo-switch/juegos/mortal-kombat-nintendo-switch-m-11_00088392966895",
+                    "brand": "Nintendo Switch",
+                    "isGiftListProduct": false
+                },
+                "serverConfiguration": "X.X.X.41"
+            },
+            "promotions": {
+                "skuList": [
+                    {
+                        "salePrice": "749.00",
+                        "sellerName": "Gameland Mexico",
+                        "internationalSeller": false,
+                        "offerType": "3P",
+                        "sellerId": "10001048115",
+                        "refurbished": false,
+                        "shippingCountry": "Mexico",
+                        "inventoryAvailable": true,
+                        "offerId": "CE88A0A168684D58A31891BDFFE0BB09",
+                        "skuId": "00088392966895",
+                        "listPrice": "749.00"
+                    }
+                ],
+                "promotionDetails": {
+                    "promoLabel": null,
+                    "maxMSI": 0
+                },
+                "skuId": "00088392966895"
+            },
+            "brandPosition": 1
+        },
+        {
+            "id": "00009315517577",
+            "productId": "00009315517577",
+            "skuDisplayName": "DOOM Slayers Collection Nintendo Switch Bethesda Fisico más Codigo Digital",
+            "productSeoUrl": "/videojuegos/nintendo/juegos-digitales/doom-slayers-collection-nintendo-switch-bethesda-fisico-mas-codigo-digital_00009315517577",
+            "productRatings": 0,
+            "weighable": false,
+            "freeShippingItem": "No Free Shipping",
+            "skuPrice": 1250,
+            "bigItem": false,
+            "onDemand": false,
+            "bundle": false,
+            "preOrderable": false,
+            "pickUpEnabled": false,
+            "brandName": "nintendo switch",
+            "imageUrls": {
+                "small": "/gm/3pp/asr/b14360e1-fedc-48c1-a8a0-c92937e6d232.0c990868b8b833a4f4231e7b208d6df8.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                "large": "/gm/3pp/asr/b14360e1-fedc-48c1-a8a0-c92937e6d232.0c990868b8b833a4f4231e7b208d6df8.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff"
+            },
+            "score": 5.366067057366308e-7,
+            "salesRank": 5.366066934456149e-7,
+            "variants": [],
+            "detail": {
+                "error": {
+                    "localizedMessage": "El producto null no está definido en el sitio actual",
+                    "messageCode": "PRODUCT_NOT_IN_CURRENT_SITE"
+                },
+                "jsessionid": "XDU-q+bT0bn+SHuDXuJOQp24.restapp-354905749-5-1093987593",
+                "serverConfiguration": "X.X.X.156"
+            },
+            "promotions": {
+                "skuList": [
+                    {
+                        "salePrice": "1250.00",
+                        "sellerName": "UP-GAMES",
+                        "internationalSeller": false,
+                        "offerType": "3P",
+                        "sellerId": "10001111903",
+                        "refurbished": false,
+                        "shippingCountry": "MX",
+                        "inventoryAvailable": true,
+                        "offerId": "94FF125EBC2847298B7BF8B18AB01BD4",
+                        "skuId": "00009315517577",
+                        "listPrice": "1250.00"
+                    }
+                ],
+                "promotionDetails": {
+                    "promoLabel": null,
+                    "maxMSI": 0
+                },
+                "skuId": "00009315517577"
+            },
+            "brandPosition": 2
+        },
+        {
+            "id": "00081230301585",
+            "productId": "00081230301585",
+            "skuDisplayName": "Blue Fire - Nintendo Switch Nintendo Nintendo Switch",
+            "productSeoUrl": "/accesorios-de-moda/lentes/lentes-oftalmicos-hombre/blue-fire-nintendo-switch-nintendo-nintendo-switch_00081230301585",
+            "productRatings": 0,
+            "weighable": false,
+            "freeShippingItem": "No Free Shipping",
+            "skuPrice": 979,
+            "bigItem": false,
+            "onDemand": false,
+            "bundle": false,
+            "preOrderable": false,
+            "pickUpEnabled": false,
+            "brandName": "nintendo",
+            "imageUrls": {
+                "small": "/gm/3pp/asr/b058b4bd-934c-499c-b773-4d797055e8ea.ccce59b27ca21f15de432ded9b1fe5d5.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                "large": "/gm/3pp/asr/b058b4bd-934c-499c-b773-4d797055e8ea.ccce59b27ca21f15de432ded9b1fe5d5.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff"
+            },
+            "score": 0,
+            "salesRank": 0,
+            "variants": [],
+            "detail": {
+                "jsessionid": "UlQiOy6S7kX-FlYeRmkZpQRx.restapp-354905749-9-1093987605",
+                "product": {
+                    "childSKUs": [
+                        {
+                            "longDescription": "Nuevo$$Videojuego$$Switch",
+                            "bundleLinks": [],
+                            "offerPromoList": [],
+                            "dynamicFacets": {
+                                "26": {
+                                    "attrGroupId": "3",
+                                    "value": "1-100 years",
+                                    "attrOrder": 11,
+                                    "attrName": "Edad recomendada",
+                                    "attrDesc": "Edad recomendada"
+                                },
+                                "102": {
+                                    "attrGroupId": "39",
+                                    "value": "1080p (FHD)",
+                                    "attrOrder": 19,
+                                    "attrName": "Gráficos",
+                                    "attrDesc": "Gráficos"
+                                },
+                                "689": {
+                                    "attrGroupId": "3",
+                                    "value": "Juego Completo",
+                                    "attrOrder": 178,
+                                    "attrName": "Tipo",
+                                    "attrDesc": "Tipo"
+                                },
+                                "709": {
+                                    "attrGroupId": "3",
+                                    "value": "A (Todas las edades)",
+                                    "attrOrder": 183,
+                                    "attrName": "Clasificación",
+                                    "attrDesc": "Clasificación"
+                                },
+                                "713": {
+                                    "attrGroupId": "33",
+                                    "value": "Estados Unidos",
+                                    "attrOrder": 3,
+                                    "attrName": "País de Origen",
+                                    "attrDesc": "País de Origen"
+                                },
+                                "991": {
+                                    "attrGroupId": "13",
+                                    "value": "No Aplica",
+                                    "attrOrder": 252,
+                                    "attrName": "Género del Juego",
+                                    "attrDesc": "Género del Juego"
+                                },
+                                "PGA411": {
+                                    "attrGroupId": "-1",
+                                    "value": "Switch",
+                                    "attrOrder": -1,
+                                    "attrName": "Plataforma de Videojuegos",
+                                    "attrDesc": "Plataforma de Videojuegos"
+                                },
+                                "P004": {
+                                    "attrGroupId": "-1",
+                                    "value": "Verificar que sea compatible con su consola",
+                                    "attrOrder": -1,
+                                    "attrName": "Leyendas de Protección / Advertencias",
+                                    "attrDesc": "Leyendas de Protección / Advertencias"
+                                },
+                                "P007": {
+                                    "attrGroupId": "-1",
+                                    "value": "10 cm",
+                                    "attrOrder": -1,
+                                    "attrName": "Largo del Producto Armado",
+                                    "attrDesc": "Largo del Producto Armado"
+                                },
+                                "P006": {
+                                    "attrGroupId": "-1",
+                                    "value": "10 cm",
+                                    "attrOrder": -1,
+                                    "attrName": "Altura del Producto Armado",
+                                    "attrDesc": "Altura del Producto Armado"
+                                },
+                                "PGA317": {
+                                    "attrGroupId": "-1",
+                                    "value": "Sí",
+                                    "attrOrder": -1,
+                                    "attrName": "Juego Online",
+                                    "attrDesc": "Juego Online"
+                                },
+                                "P009": {
+                                    "attrGroupId": "-1",
+                                    "value": "10 cm",
+                                    "attrOrder": -1,
+                                    "attrName": "Ancho del Producto Armado",
+                                    "attrDesc": "Ancho del Producto Armado"
+                                },
+                                "PGA220": {
+                                    "attrGroupId": "-1",
+                                    "value": "Transparente",
+                                    "attrOrder": -1,
+                                    "attrName": "Gama Color",
+                                    "attrDesc": "Gama Color"
+                                },
+                                "P008": {
+                                    "attrGroupId": "-1",
+                                    "value": "1 kg",
+                                    "attrOrder": -1,
+                                    "attrName": "Peso del Producto Armado",
+                                    "attrDesc": "Peso del Producto Armado"
+                                },
+                                "P010": {
+                                    "attrGroupId": "-1",
+                                    "value": "1 Videojuego",
+                                    "attrOrder": -1,
+                                    "attrName": "Contenido del empaque",
+                                    "attrDesc": "Contenido del empaque"
+                                }
+                            },
+                            "displayName": "Blue Fire - Nintendo Switch Nintendo Nintendo Switch",
+                            "isPreOrderable": false,
+                            "isOnDemand": false,
+                            "itemHeight": 10,
+                            "returnableStatus": "N",
+                            "description": "Blue Fire - Nintendo Switch Nintendo Nintendo Switch",
+                            "videoId": [],
+                            "type": "sku",
+                            "thumbnailImageUrl": "/gm/3pp/asr/b058b4bd-934c-499c-b773-4d797055e8ea.ccce59b27ca21f15de432ded9b1fe5d5.jpeg?odnHeight=100&odnWidth=100&odnBg=ffffff",
+                            "itemWidth": 10,
+                            "id": "00081230301585",
+                            "brand": "Nintendo",
+                            "itemWeight": 1,
+                            "images": {
+                                "small": "/gm/3pp/asr/b058b4bd-934c-499c-b773-4d797055e8ea.ccce59b27ca21f15de432ded9b1fe5d5.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                                "thumbnail": "/gm/3pp/asr/b058b4bd-934c-499c-b773-4d797055e8ea.ccce59b27ca21f15de432ded9b1fe5d5.jpeg?odnHeight=100&odnWidth=100&odnBg=ffffff",
+                                "large": "/gm/3pp/asr/b058b4bd-934c-499c-b773-4d797055e8ea.ccce59b27ca21f15de432ded9b1fe5d5.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+                                "icon": "/gm/3pp/asr/b058b4bd-934c-499c-b773-4d797055e8ea.ccce59b27ca21f15de432ded9b1fe5d5.jpeg?odnHeight=60&odnWidth=60&odnBg=ffffff",
+                                "medium": "/gm/3pp/asr/b058b4bd-934c-499c-b773-4d797055e8ea.ccce59b27ca21f15de432ded9b1fe5d5.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff"
+                            },
+                            "smallImageUrl": "/gm/3pp/asr/b058b4bd-934c-499c-b773-4d797055e8ea.ccce59b27ca21f15de432ded9b1fe5d5.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                            "isBigItem": false,
+                            "seoDescription": "Plataforma difícil: salta a través de trampas mortales y domina el movimiento para navegar por desafíos de plataforma exigentes gradualmente.\nPerdido en el vacío, lejos de la penumbra, hay una tierra perdida llamada el vacío. Encuentra entradas Void en todo el mundo para descubrir desafíos abstractos de plataforma que requieren gran dominio para recoger las valiosas recompensas ocultas en el interior.\nAtrapa tu camino a través de grandes adversarios, encuentra enemigos peligrosos con diferentes estilos de lucha y participa en intensas peleas de combate en plataformas.\nUn mundo encantador: Viaja a través del mundo perecido de la penumbra como Umbra para explorar áreas únicas llenas de diversos enemigos, retos de plataforma 3D, misiones, coleccionables y mucho más.\nEnfréntate a supervivientes peculiares: ha pasado mucho tiempo desde que la penumbra se consiguió",
+                            "skuStatus": "A",
+                            "upc": "00081230301585",
+                            "itemLength": 10,
+                            "secondaryImages": [
+                                {
+                                    "icon": "/gm/3pp/asr/2fd50714-accc-494f-beee-13f1bee6aad1.c8eb74acc18d07eb2831fc1c804a9e3d.jpeg?odnHeight=60&odnWidth=60&odnBg=ffffff",
+                                    "thumbnail": "/gm/3pp/asr/2fd50714-accc-494f-beee-13f1bee6aad1.c8eb74acc18d07eb2831fc1c804a9e3d.jpeg?odnHeight=100&odnWidth=100&odnBg=ffffff",
+                                    "small": "/gm/3pp/asr/2fd50714-accc-494f-beee-13f1bee6aad1.c8eb74acc18d07eb2831fc1c804a9e3d.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                                    "medium": "/gm/3pp/asr/2fd50714-accc-494f-beee-13f1bee6aad1.c8eb74acc18d07eb2831fc1c804a9e3d.jpeg?odnHeight=450&odnWidth=450&odnBg=ffffff",
+                                    "large": "/gm/3pp/asr/2fd50714-accc-494f-beee-13f1bee6aad1.c8eb74acc18d07eb2831fc1c804a9e3d.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff"
+                                }
+                            ],
+                            "sellingAtStore": false,
+                            "formatId": "MP",
+                            "auxiliaryMedia": {},
+                            "largeImageUrl": "/gm/3pp/asr/b058b4bd-934c-499c-b773-4d797055e8ea.ccce59b27ca21f15de432ded9b1fe5d5.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+                            "parentUpc": "00081230301585",
+                            "offerList": [
+                                {
+                                    "offerPromoList": null,
+                                    "sellerName": "Gameland Mexico",
+                                    "length": 10,
+                                    "active": true,
+                                    "weight": 1,
+                                    "isMHPromoApplicable": false,
+                                    "isInvAvailable": true,
+                                    "internationalSeller": false,
+                                    "offerRank": 1,
+                                    "warrantyInMonths": 3,
+                                    "offerType": "3P",
+                                    "priceInfo": {
+                                        "originalPrice": 979,
+                                        "eventCode": null,
+                                        "specialPrice": 979,
+                                        "promotionEvent": null
+                                    },
+                                    "sellerId": "10001048115",
+                                    "refurbished": false,
+                                    "shippingCountry": "Mexico",
+                                    "width": 10,
+                                    "msiEnabled": false,
+                                    "offerId": "8CF83E72069F4EF2A0A7B6C757BB1C34",
+                                    "warranty": "Gameland Mexico",
+                                    "warrantyCondition": null,
+                                    "height": 10
+                                },
+                                {
+                                    "offerPromoList": null,
+                                    "sellerName": "ULIDENTGAMES SAS DE CV",
+                                    "length": 2,
+                                    "active": true,
+                                    "weight": 1,
+                                    "isMHPromoApplicable": false,
+                                    "isInvAvailable": true,
+                                    "internationalSeller": false,
+                                    "offerRank": 2,
+                                    "warrantyInMonths": 3,
+                                    "offerType": "3P",
+                                    "priceInfo": {
+                                        "originalPrice": 1098,
+                                        "eventCode": null,
+                                        "specialPrice": 1098,
+                                        "promotionEvent": null
+                                    },
+                                    "sellerId": "10001099288",
+                                    "refurbished": false,
+                                    "shippingCountry": "MEX",
+                                    "width": 13,
+                                    "msiEnabled": false,
+                                    "offerId": "74EF9DF176A84419BCA0B870EF6472E9",
+                                    "warranty": "si",
+                                    "warrantyCondition": null,
+                                    "height": 13
+                                },
+                                {
+                                    "offerPromoList": null,
+                                    "sellerName": "Mercadojuego",
+                                    "length": 10,
+                                    "active": true,
+                                    "weight": 0.5,
+                                    "isMHPromoApplicable": false,
+                                    "isInvAvailable": false,
+                                    "internationalSeller": false,
+                                    "offerRank": 3,
+                                    "warrantyInMonths": 3,
+                                    "offerType": "3P",
+                                    "priceInfo": {
+                                        "originalPrice": 999,
+                                        "eventCode": null,
+                                        "specialPrice": 999,
+                                        "promotionEvent": null
+                                    },
+                                    "sellerId": "10001054231",
+                                    "refurbished": false,
+                                    "shippingCountry": "MEX",
+                                    "width": 10,
+                                    "msiEnabled": false,
+                                    "offerId": "274302C0F60C47DB9ACF65114CA23028",
+                                    "warranty": "Mercado Juego",
+                                    "warrantyCondition": null,
+                                    "height": 10
+                                },
+                                {
+                                    "offerPromoList": null,
+                                    "sellerName": "Triplenet Pricing MX",
+                                    "length": 0,
+                                    "active": true,
+                                    "weight": 0.05,
+                                    "isMHPromoApplicable": false,
+                                    "isInvAvailable": false,
+                                    "internationalSeller": true,
+                                    "offerRank": 4,
+                                    "warrantyInMonths": 3,
+                                    "offerType": "3P",
+                                    "priceInfo": {
+                                        "originalPrice": 1027.13,
+                                        "eventCode": null,
+                                        "specialPrice": 1027.13,
+                                        "promotionEvent": null
+                                    },
+                                    "sellerId": "10001119841",
+                                    "refurbished": false,
+                                    "shippingCountry": "US",
+                                    "width": 0,
+                                    "msiEnabled": false,
+                                    "offerId": "8FB5731AD4344122BB67A6A1B42FCB01",
+                                    "warranty": ".",
+                                    "warrantyCondition": null,
+                                    "height": 0
+                                },
+                                {
+                                    "offerPromoList": null,
+                                    "sellerName": "Compra Mundo.",
+                                    "length": 5,
+                                    "active": true,
+                                    "weight": 0.8,
+                                    "isMHPromoApplicable": false,
+                                    "isInvAvailable": false,
+                                    "internationalSeller": false,
+                                    "offerRank": 5,
+                                    "warrantyInMonths": 3,
+                                    "offerType": "3P",
+                                    "priceInfo": {
+                                        "originalPrice": 1099,
+                                        "eventCode": null,
+                                        "specialPrice": 1099,
+                                        "promotionEvent": null
+                                    },
+                                    "sellerId": "10001120870",
+                                    "refurbished": false,
+                                    "shippingCountry": "MX",
+                                    "width": 15,
+                                    "msiEnabled": false,
+                                    "offerId": "CCD738403AF04129841D25A60C5DBA37",
+                                    "warranty": "Compra mundo",
+                                    "warrantyCondition": "No se aceptan devoluciones de juegos rayados o rotos",
+                                    "height": 15
+                                }
+                            ]
+                        }
+                    ],
+                    "longDescription": "Nuevo$$Videojuego$$Switch",
+                    "displayName": "Blue Fire - Nintendo Switch Nintendo Nintendo Switch",
+                    "productStatus": "A",
+                    "description": "Blue Fire - Nintendo Switch Nintendo Nintendo Switch",
+                    "negotiations": [
+                        "34228",
+                        "34239",
+                        "34238",
+                        "34237",
+                        "34236",
+                        "34296",
+                        "34294",
+                        "34292",
+                        "34290",
+                        "23728"
+                    ],
+                    "seoKeywords": [],
+                    "metaDescription": "Compra por internet Blue Fire - Nintendo Switch Nintendo Nintendo Switch",
+                    "maxQuantityAllowed": 5,
+                    "productIcons": {
+                        "freeShippingItem": "No Free Shipping",
+                        "isBundleItem": false,
+                        "specialEvent": [],
+                        "isPickupToday": true
+                    },
+                    "maxMSI": 12,
+                    "isBulkBundle": false,
+                    "breadcrumb": {
+                        "familyId": "cat264656",
+                        "departmentName": "Accesorios de Moda",
+                        "familyName": "Lentes",
+                        "departmentId": "cat264599",
+                        "fineLineName": "Lentes Oftálmicos Hombre",
+                        "fineLineId": "cat264661"
+                    },
+                    "metaTitle": "Blue Fire - Nintendo Switch Nintendo Nintendo Switch | Walmart en línea",
+                    "repositoryId": "00081230301585",
+                    "productSeoUrl": "/accesorios-de-moda/lentes/lentes-oftalmicos-hombre/blue-fire-nintendo-switch-nintendo-nintendo-switch_00081230301585",
+                    "brand": "Nintendo",
+                    "isGiftListProduct": false
+                },
+                "serverConfiguration": "X.X.X.167"
+            },
+            "promotions": {
+                "skuList": [
+                    {
+                        "salePrice": "979.00",
+                        "sellerName": "Gameland Mexico",
+                        "internationalSeller": false,
+                        "offerType": "3P",
+                        "sellerId": "10001048115",
+                        "refurbished": false,
+                        "shippingCountry": "Mexico",
+                        "inventoryAvailable": true,
+                        "offerId": "8CF83E72069F4EF2A0A7B6C757BB1C34",
+                        "skuId": "00081230301585",
+                        "listPrice": "979.00"
+                    }
+                ],
+                "promotionDetails": {
+                    "promoLabel": null,
+                    "maxMSI": 0
+                },
+                "skuId": "00081230301585"
+            },
+            "brandPosition": 2
+        },
+        {
+            "id": "00004549659804",
+            "productId": "00004549659804",
+            "skuDisplayName": "Pokemon Legends: Arceus Nintendo Switch Game Freak Fisico",
+            "productSeoUrl": "/videojuegos/nintendo/juegos-digitales/pokemon-legends-arceus-nintendo-switch-game-freak-fisico_00004549659804",
+            "productRatings": 0,
+            "weighable": false,
+            "freeShippingItem": "No Free Shipping",
+            "skuPrice": 1490,
+            "bigItem": false,
+            "onDemand": false,
+            "bundle": false,
+            "preOrderable": false,
+            "pickUpEnabled": false,
+            "brandName": "nintendo switch",
+            "imageUrls": {
+                "small": "/gm/3pp/asr/d34c003e-9b22-493b-bffa-bd8b27c12797.c6540373c07622e71c5f9208eb8220d1.jpeg?odnHeight=180&odnWidth=180&odnBg=ffffff",
+                "large": "/gm/3pp/asr/d34c003e-9b22-493b-bffa-bd8b27c12797.c6540373c07622e71c5f9208eb8220d1.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff"
+            },
+            "score": 0,
+            "salesRank": 0,
+            "variants": [],
+            "detail": {
+                "error": {
+                    "localizedMessage": "El producto null no está definido en el sitio actual",
+                    "messageCode": "PRODUCT_NOT_IN_CURRENT_SITE"
+                },
+                "jsessionid": "L4Hw6U2m7gS7BCtzfU056Ln8.restapp-354905749-9-1093987605",
+                "serverConfiguration": "X.X.X.167"
+            },
+            "promotions": {
+                "skuList": [
+                    {
+                        "salePrice": "1490.00",
+                        "sellerName": "UP-GAMES",
+                        "internationalSeller": false,
+                        "offerType": "3P",
+                        "sellerId": "10001111903",
+                        "refurbished": false,
+                        "shippingCountry": "MX",
+                        "inventoryAvailable": true,
+                        "offerId": "17A1BEC07BD04DAC9BE57B218AE8C0EB",
+                        "skuId": "00004549659804",
+                        "listPrice": "1490.00"
+                    }
+                ],
+                "promotionDetails": {
+                    "promoLabel": null,
+                    "maxMSI": 0
+                },
+                "skuId": "00004549659804"
+            },
+            "brandPosition": 3
+        }
+    ],
+    "resultError": "",
+    "classifier": "nintendo__juegos-digitales",
+    "dateExtraccion": "26/05/2022 07:04:42"
+}

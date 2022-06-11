@@ -1,10 +1,12 @@
 
 const cheerio = require("cheerio");
 const puppeteer = require("puppeteer");
+const axios = require('axios');
+
 const path = require('path');
 const fs = require('fs');
-const axios = require('axios');
-//const { CLIENT_RENEG_LIMIT } = require("tls");
+
+
 //
 const urlHome = "https://www.sams.com.mx";
 //

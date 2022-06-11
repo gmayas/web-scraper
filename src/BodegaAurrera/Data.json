@@ -1,0 +1,30 @@
+{
+    "id": "cat750079",
+    "type": "fineLine",
+    "image": "https://res.cloudinary.com/walmart-labs/image/upload/v1636058684/mg/images/categorias/d-Ceverzas-Vinos-y-Licores/licores-y-destilados/l-Ron.jpg",
+    "name": "Ron",
+    "url": "/cervezas-vinos-y-licores/licores-y-destilados/ron",
+    "department": {
+        "categoryRepositoryId": "cat750073",
+        "parentId": "cat750004",
+        "type": "family",
+        "displayName": "Licores y Destilados",
+        "smallImageUrl": "https://res.cloudinary.com/walmart-labs/image/upload/v1581605698/mg/images/categorias/d-Ceverzas-Vinos-y-Licores/cat750073.jpg",
+        "thumbnailImageUrl": null,
+        "images": [
+            "https://res.cloudinary.com/walmart-labs/image/upload/v1581605698/mg/images/categorias/d-Ceverzas-Vinos-y-Licores/cat750073.jpg"
+        ],
+        "level": 2
+    },
+    "departmentParent": {
+        "categoryRepositoryId": "cat750004",
+        "parentId": "cat750002",
+        "type": "department",
+        "displayName": "Cervezas Vinos y Licores",
+        "smallImageUrl": null,
+        "thumbnailImageUrl": null,
+        "images": [],
+        "level": 1
+    },
+    "retry": 217
+}
