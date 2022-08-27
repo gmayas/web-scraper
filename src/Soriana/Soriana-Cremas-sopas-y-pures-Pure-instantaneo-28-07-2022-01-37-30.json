@@ -1,0 +1,860 @@
+{
+    "departmentName": "Despensa",
+    "categoryName": "Cremas, sopas y purés",
+    "categoryUrl": "/despensa/cremas-sopas-y-pures/",
+    "subCategoryName": "Puré instantaneo",
+    "subCategoryUrl": "/despensa/cremas-sopas-y-pures/pure-instantaneo/",
+    "retry": 1,
+    "products": [
+        {
+            "position": 1,
+            "productId": "11315102",
+            "productName": "Puré de Papa Valley Foods 160 gr",
+            "detail": {
+                "action": "Product-ShowQuickView",
+                "queryString": "pid=11315102",
+                "locale": "default",
+                "product": {
+                    "uuid": "e600e5f5574a07076d9d2f57bf",
+                    "id": "11315102",
+                    "productName": "Puré de Papa Valley Foods 160 gr",
+                    "productType": "standard",
+                    "brand": "Valley Foods",
+                    "price": {
+                        "sales": {
+                            "value": 28.9,
+                            "currency": "MXN",
+                            "formatted": "$28.90",
+                            "decimalPrice": "28.90"
+                        },
+                        "list": null
+                    },
+                    "images": {
+                        "large": [
+                            {
+                                "index": "0",
+                                "alt": "Puré de Papa Valley Foods 160 gr",
+                                "title": "Puré de Papa Valley Foods 160 gr",
+                                "url": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw1a2379dc/images/product/7500093875194_A.jpg?sw=1000&sh=1000&sm=fit",
+                                "absURL": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw1a2379dc/images/product/7500093875194_A.jpg?sw=1000&sh=1000&sm=fit"
+                            }
+                        ],
+                        "small": [
+                            {
+                                "index": "0",
+                                "alt": "Puré de Papa Valley Foods 160 gr",
+                                "title": "Puré de Papa Valley Foods 160 gr",
+                                "url": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw1a2379dc/images/product/7500093875194_A.jpg?sw=400&sh=400&sm=fit",
+                                "absURL": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw1a2379dc/images/product/7500093875194_A.jpg?sw=400&sh=400&sm=fit"
+                            }
+                        ]
+                    },
+                    "selectedQuantity": 1,
+                    "minOrderQuantity": "1.00",
+                    "maxOrderQuantity": 24,
+                    "variationAttributes": null,
+                    "longDescription": null,
+                    "shortDescription": "Puré de Papa Valley Foods 160 gr",
+                    "rating": 5,
+                    "promotions": null,
+                    "attributes": null,
+                    "availability": {
+                        "messages": [
+                            "In Stock"
+                        ],
+                        "inStockDate": null
+                    },
+                    "available": true,
+                    "isPreOrder": false,
+                    "options": [],
+                    "quantities": [
+                        {
+                            "value": "1",
+                            "selected": true,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=1"
+                        },
+                        {
+                            "value": "2",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=2"
+                        },
+                        {
+                            "value": "3",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=3"
+                        },
+                        {
+                            "value": "4",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=4"
+                        },
+                        {
+                            "value": "5",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=5"
+                        },
+                        {
+                            "value": "6",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=6"
+                        },
+                        {
+                            "value": "7",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=7"
+                        },
+                        {
+                            "value": "8",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=8"
+                        },
+                        {
+                            "value": "9",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=9"
+                        },
+                        {
+                            "value": "10",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=10"
+                        },
+                        {
+                            "value": "11",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=11"
+                        },
+                        {
+                            "value": "12",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=12"
+                        },
+                        {
+                            "value": "13",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=13"
+                        },
+                        {
+                            "value": "14",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=14"
+                        },
+                        {
+                            "value": "15",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=15"
+                        },
+                        {
+                            "value": "16",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=16"
+                        },
+                        {
+                            "value": "17",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=17"
+                        },
+                        {
+                            "value": "18",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=18"
+                        },
+                        {
+                            "value": "19",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=19"
+                        },
+                        {
+                            "value": "20",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=20"
+                        },
+                        {
+                            "value": "21",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=21"
+                        },
+                        {
+                            "value": "22",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=22"
+                        },
+                        {
+                            "value": "23",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=23"
+                        },
+                        {
+                            "value": "24",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11315102&quantity=24"
+                        }
+                    ],
+                    "sizeChartId": null,
+                    "selectedProductUrl": "/pure-de-papa-valley-foods-160-gr/11315102.html?%2Fpure-de-papa-valley-foods-160-gr%2F11315102.html=undefined&quantity=undefined",
+                    "readyToOrder": true,
+                    "online": true,
+                    "pageTitle": null,
+                    "pageDescription": null,
+                    "pageKeywords": null,
+                    "pageMetaTags": [
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {}
+                    ],
+                    "template": null,
+                    "dualUnitData": {
+                        "salesUnit": "pza"
+                    },
+                    "defaultQuantity": "1.00",
+                    "category": {
+                        "id": "pure-instantaneo",
+                        "displayName": "Puré instantaneo",
+                        "url": "/despensa/cremas-sopas-y-pures/pure-instantaneo/"
+                    },
+                    "canonicalLink": null,
+                    "EAN": "7500093875194",
+                    "model": "",
+                    "ingredients": null,
+                    "storeSupply": false,
+                    "tab1Name": "Descripción",
+                    "tab2Name": "Características",
+                    "tab1Content": "",
+                    "tab2Content": "<table class=\"table table-striped\" cellspacing=\"10\" cellpadding=\"10\" ><tr width=\"50%\"><td><b>Categoría</b></td><td>Puré instantaneo</td></tr><tr width=\"50%\"><td><b>Marca</b></td><td>Valley Foods</td></tr><tr width=\"50%\"><td><b>Tipo</b></td><td>Puré de papa</td></tr><tr width=\"50%\"><td><b>Contenido Neto</b></td><td>95 g</td></tr></table>",
+                    "maturation": false,
+                    "thickness": false,
+                    "newStampFlag": false,
+                    "newStampDate": null,
+                    "exclusiveStampFlag": false,
+                    "exclusiveStampDate": null,
+                    "onlineStampFlag": false,
+                    "onlineStampDate": null,
+                    "badges": [],
+                    "hasActiveCoupon": false,
+                    "recommendations": {},
+                    "pliAvailabilityMessages": []
+                },
+                "addToCartUrl": {},
+                "resources": {
+                    "info_selectforstock": "Select Styles for Availability",
+                    "assistiveSelectedText": "seleccionado"
+                },
+                "quickViewFullDetailMsg": "View Full Details",
+                "closeButtonText": "Cerrar la vista rápida de diálogo",
+                "enterDialogMessage": "Inicio de la ventana de diálogo vista rápida. Seleccione cerrar para cancelar y cerrar la ventana.",
+                "template": "product/quickView.isml",
+                "availableByIds": {
+                    "11315102": true
+                },
+                "available": true,
+                "productId": "11315102",
+                "isPreOrder": false,
+                "readyToOrder": true,
+                "displayAddCart": true,
+                "minOrderQuantity": "1.00",
+                "maxOrderQuantity": 24,
+                "defaultQuantity": "1.00",
+                "isQuickView": true,
+                "showQuantity": true,
+                "isEditProduct": false,
+                "actionUrls": {
+                    "removeProductLineItemUrl": "/on/demandware.store/Sites-Soriana-Site/default/Cart-RemoveProductLineItem",
+                    "updateQuantityUrl": "/on/demandware.store/Sites-Soriana-Site/default/Cart-UpdateQuantity"
+                },
+                "productBasket": {},
+                "renderedTemplate": "\n\n\n\n\n\n\n<div class=\"has-custom-scrollbar\">\n<div class=\"product-quickview product-standard product-wrapper product-detail\" data-pid=\"11315102\" data-update=\"false\">\n<div data-cbt=\"{&quot;selector&quot;:&quot;#quickViewModal .close&quot;,&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;add,link,click,hover&quot;,&quot;action&quot;:&quot;QVP Close&quot;,&quot;label&quot;:&quot;Pur&eacute; de Papa Valley Foods 160 gr&quot;}\"></div>\n<div data-cbt=\"{&quot;selector&quot;:&quot;#quickViewModal .close span&quot;,&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;add,link,click,hover&quot;,&quot;action&quot;:&quot;QVP Close&quot;,&quot;label&quot;:&quot;Pur&eacute; de Papa Valley Foods 160 gr&quot;}\"></div>\n<div data-cbt=\"{&quot;selector&quot;:&quot;#quickViewModal .full-pdp-link&quot;,&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;add,link,click,hover&quot;,&quot;action&quot;:&quot;QVP See Details&quot;,&quot;label&quot;:&quot;Pur&eacute; de Papa Valley Foods 160 gr&quot;}\"></div>\n<div class=\"product-quickview-content d-flex\">\n<div class=\"product-quickview-info w-100\">\n<div class=\"row product-detail__container_qv\">\n\n\n\n<div class=\"col-10 col-lg-6 d-lg-none\">\n\r\n\r\n    <h1 class=\"product-name\">Pur&eacute; de Papa Valley Foods 160 gr</h1>\r\n\r\n\r\n\r\n\r\n    <a href=\"/buscar?q=Valley%20Foods\">\r\n        <h2 class=\"product-brand\">Valley Foods</h2>\r\n    </a>\r\n\r\n\n</div>\n<div class=\"col-12 col-lg-6 product-detail__images-container\">\n\n<div class=\"primary-images\">\n\n    \n\n    \n    \n    \n\n    \n    \n    \n\n    \n    \n    \n\n    <div id=\"pdpCarousel-11315102\" class=\"product-details__images-carousel carousel slide\" data-interval=\"0\" data-prev=\"Previous\" data-next=\"Next\">\n        \n\n        <div class=\"carousel-inner xzoom-wrapper w-auto\">\n            \n                \n                    <div class='carousel-item active'>\n\n                        <div class=\"col-6 mt-4 container-stamp-product\">\n                            \n                            \n                            \n                        </div>\n\n                        <img src=\"https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw1a2379dc/images/product/7500093875194_A.jpg?sw=1000&amp;sh=1000&amp;sm=fit\"\n                            class=\"d-block img-fluid xzoom content-visibility-auto\"\n                            xoriginal=\"https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw1a2379dc/images/product/7500093875194_A.jpg?sw=1000&amp;sh=1000&amp;sm=fit\"\n                            alt=\"Pur&eacute; de Papa Valley Foods 160 gr image number 0\"\n                            title=\"Pur&eacute; de Papa Valley Foods 160 gr image number 0\"\n                            data-hover=\"0\"\n                            data-cbt=\"{&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;hover,click&quot;,&quot;action&quot;:&quot;QVP Image&quot;,&quot;label&quot;:&quot;Pur&eacute; de Papa Valley Foods 160 gr&quot;}\"\n                            decoding=\"async\" width=\"445px\" height=\"445px\" />\n                    </div>\n                \n            \n        </div>\n    </div>\n</div>\n\n\n\n\n<div class=\"badges\">\n\n\n\n\n\n\n\n</div>\n\n</div>\n<div class=\"col-12 col-lg-6 product-detail__details-container\">\n\n<div class=\"d-none d-lg-block\">\n\r\n\r\n    <h1 class=\"product-name\">Pur&eacute; de Papa Valley Foods 160 gr</h1>\r\n\r\n\r\n\r\n\r\n    <a href=\"/buscar?q=Valley%20Foods\">\r\n        <h2 class=\"product-brand\">Valley Foods</h2>\r\n    </a>\r\n\r\n\n</div>\n\n\n\n<div class=\"carousel-badges badges-promo-msg badges-color badge-inline\">\n<div class=\"carousel-inner\">\n\n\n\n\n\n\n\n</div>\n</div>\n<div class=\"badges-promo-msg d-lg-block\">\n\n</div>\n\n\n<div class=\"prices_qv move-to-right text-left pt-0\">\n\n\n\n\n    <div class=\"price text-right\">\n        \n        \n            \n\n\n\n\n\n<div class=\"\">\n\n\n\n<div class=\"sales d-flex flex-row-reverse\">\n\n\n\n\n<span class=\"value\" content=\"28.90\">\n\n\n\n<span class=\"font-primary--bold  font-size-14 px-1 cart-price price-plp\">\n    \n        $28.90\n    \n</span>\n\n\n</span>\n</div>\n</div>\n        \n    </div>\n\n\n</div>\n<div class=\"attributes p-0\">\n\n\n<div class=\"attributes-variations-section\" id=\"attributes-variations-section\">\n\n</div>\n</div>\n<div class=\"add-to-cart-elements-wrapper mt-2\">\n\n\n<!-- Cart and [Optionally] Apple Pay -->\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\n<div class=\"cart-and-ipay\">\n<div class=\"add-to-cart\" data-pid=\"11315102\" data-endpoint-update-quantity=\"/on/demandware.store/Sites-Soriana-Site/default/Cart-UpdateQuantity\" data-endpoint-add-to-cart=\"/on/demandware.store/Sites-Soriana-Site/default/Cart-AddProduct\">\n\n<div class=\"quantity text-left js_quantity-container p-2\">\n\n<div class=\"d-flex flex-wrap justify-content-center justify-content-lg-start text-center js_quantity-container align-items-center\" data-min-quantity=\"1.00\" data-max-quantity=\"24.0\">\n<button class=\"js_product-update-quantity tile-update-quantity decrease\" aria-label=\"Disminuci&oacute;n\" data-decrease=\"true\" >\n\n\n    <svg  xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"> <g fill=\"none\" fill-rule=\"evenodd\"> <g fill=\"#4D4F53\" transform=\"translate(-1437 -648)\"> <rect width=\"18\" height=\"2\" x=\"3\" y=\"11\" rx=\"1\" transform=\"translate(1437 648)\"/> </g> </g></svg>\n\n</button>\n<div class=\"js_itemquantity itemquantity itemquantity-11315102\">\n\n<input type=\"number\" id=\"quantity-input-11315102\" name=\"quantity\" class=\"tile-input-quantity-product quantity tile-input-quantity js_tile-input-quantity\" data-min-quantity=\"1.00\"\nvalue=\"1.00\"\npattern=\"[0-9]*\" inputmode=\"decimal\"\n>\n<label for=\"quantity-input-11315102\" class=\"sr-only\">Cantidad</label>\n</div>\n<button class=\"js_product-update-quantity tile-update-quantity increase\" aria-label=\"Incrementar\" data-decrease=\"false\">\n\n\n    <svg  xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"> <g fill=\"none\" fill-rule=\"evenodd\"> <g fill=\"#4D4F53\"> <path d=\"M13 4c0-.555-.448-1-1-1-.556 0-1 .448-1 1v7H4c-.555 0-1 .448-1 1 0 .556.448 1 1 1h7v7c0 .555.448 1 1 1 .556 0 1-.448 1-1v-7h7c.555 0 1-.448 1-1 0-.556-.448-1-1-1h-7V4z\" transform=\"translate(-1341 -648) translate(1341 648)\"/> </g> </g></svg>\n\n<div class=\"itemquantity__msg increase-quantity-max-msg\">\n<div class=\"arrow\"></div>\n<span class=\"error-message\"></span>\n</div>\n</button>\n\n\n\n\n    <span class=\"single-unit-label js-unit-label\" data-measurement-unit=\"pza\">\n        \n        Pza(s)\n    </span>\n\n\n\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\n\n<div class=\"d-flex align-items-center product-tile--addto-wrapper\">\n<button\nclass=\"d-flex product-tile--addto-action product-tile--addto-wishlist wishlistTile btn button button--primary-transparent \"\ndata-url=\"https://www.soriana.com/on/demandware.store/Sites-Soriana-Site/default/ShopingList-AddProduct\"\ndata-pid=\"11315102\"\n>\n\n\n    <svg class=\"icon-heart\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\"><g fill=\"none\" fill-rule=\"evenodd\"><g class=\"shape\" fill=\"#BCC3CC\"><g><g style=\"mix-blend-mode:multiply\"><g><g><path d=\"M2.667 6c0 2.083 2.04 4.6 5.337 6.756C11.3 10.6 13.334 8.136 13.334 6c0-1.473-1.195-2.667-2.667-2.667-.667 0-1.292.244-1.778.679l-.641.574c-.137.123-.357.124-.496 0l-.641-.574C6.625 3.577 6 3.333 5.333 3.333 3.861 3.333 2.667 4.527 2.667 6zM8 3.019C8.708 2.385 9.642 2 10.667 2c2.209 0 4 1.79 4 4 0 3.224-3.338 6.333-6.384 8.158-.155.096-.409.097-.564 0C4.652 12.342 1.333 9.225 1.333 6c0-2.21 1.791-4 4-4C6.358 2 7.293 2.385 8 3.019z\" transform=\"translate(-189 -838) translate(167 230) translate(0 172) translate(0 372) translate(18 64) translate(4)\"/></g></g></g></g></g></g></svg>\n\n<span class=\"product-tile--addto-text add-to-wishlist--text\">Fav</span>\n</button>\n<input type=\"hidden\" class=\"csrf-token\" name=\"csrf_token\" value=\"Vi5MNGOkzniCTlW5wsLEvhxahRYizV6VqSe-5HZZz33v20gwdd_doGM_if-oIudZkBeWllxhN9gzHTJY1DDTTDuPMZlDCqL2ZZYLfUYJM3f0qi3pl2MKEjDe3lkj1XXK8Q0EOHBjwOAEgJxM7l8d3iAmqkMQct7nk6hBMzSTe585dn2ctes=\"/>\n\n<button class=\"d-flex btn product-tile--addto-action product-tile--addto-shopinglist add-to-shopinglist shopping-list-tile\" href=\"#\"\ndata-url=\"https://www.soriana.com/on/demandware.store/Sites-Soriana-Site/default/ShopingList-RenderProductAdd\"\ndata-pid=\"11315102\"\ndata-target=\"#shoppinglistmodal\"\ndata-cbt=\"{&quot;event&quot;:&quot;showProductClick&quot;,&quot;eventTypes&quot;:&quot;click&quot;,&quot;ecommerce&quot;:{&quot;click&quot;:{&quot;actionField&quot;:{&quot;list&quot;:&quot;Search Results&quot;},&quot;products&quot;:[{&quot;category&quot;:&quot;Despensa/Cremas, sopas y pur&eacute;s/Pur&eacute; instantaneo&quot;,&quot;name&quot;:&quot;Pur&eacute; de Papa Valley Foods 160 gr&quot;,&quot;price&quot;:28.9,&quot;id&quot;:&quot;11315102&quot;,&quot;variant&quot;:&quot;&quot;,&quot;brand&quot;:&quot;Valley Foods&quot;,&quot;position&quot;:&quot;&quot;}]},&quot;currencyCode&quot;:&quot;MXN&quot;}}\"\n>\n\n\n    <svg class=\"icon-account-wishlist\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" fill-rule=\"evenodd\"><g class=\"shape\" fill=\"#D52B1E\"><g><g><path d=\"M1.846 24.154c0-.68.548-1.23 1.23-1.23H22.77c.68 0 1.231.545 1.231 1.23 0 .68-.548 1.23-1.23 1.23H3.076c-.68 0-1.23-.546-1.23-1.23zm0-7.385c0-.68.712-1.23 1.576-1.23h19.003c.87 0 1.575.546 1.575 1.23 0 .68-.712 1.231-1.575 1.231H3.422c-.87 0-1.576-.546-1.576-1.23zm9.611-7.384c0-.68.548-1.231 1.23-1.231H22.77c.68 0 1.231.546 1.231 1.23 0 .68-.548 1.231-1.23 1.231H12.687c-.68 0-1.23-.546-1.23-1.23zM4.467 2c.68 0 1.231.548 1.231 1.23v1.942H8c.68 0 1.23.546 1.23 1.23 0 .68-.547 1.232-1.23 1.232l-2.302-.001V10c0 .68-.546 1.23-1.23 1.23-.68 0-1.231-.547-1.231-1.23l-.001-2.367H1.231C.55 7.634 0 7.088 0 6.404c0-.68.548-1.23 1.23-1.23l2.006-.001V3.231C3.237 2.55 3.784 2 4.469 2z\" transform=\"translate(-24 -124) translate(24 122)\"/></g></g></g></g></svg>\n\n<span class=\"product-tile--addto-text add-to-shopinglist--text\">Lista</span>\n</button>\n\n\n</div>\n\n\n</div>\n</div>\n\n\n<div class=\"d-flex flex-column flex-lg-row btn-add-to-cart--wrapper\">\n\n\n\n\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\n\n\n\n<div class=\"cart-and-ipay \" data-e=\"[1,&quot;&quot;,&quot;1.00&quot;,&quot;1.00&quot;,24,{&quot;idx&quot;:1,&quot;kgs&quot;:1,&quot;pzaToKgs&quot;:1,&quot;pzaToKgsCheck&quot;:1,&quot;maxIdx&quot;:24,&quot;formatKgs&quot;:1,&quot;formatPza&quot;:1}]\">\n<div class=\"add-to-cart d-flex align-items-start expand-content align-button\" data-pid=\"11315102\"\ndata-endpoint-update-quantity=\"/on/demandware.store/Sites-Soriana-Site/default/Cart-UpdateQuantity\"\ndata-endpoint-add-to-cart=\"/on/demandware.store/Sites-Soriana-Site/default/Cart-AddProduct\"\ndata-uuid=\"null\"\ndata-action=\"\"\ndata-dual-factor=\"1.0\"\ndata-min-quantity=\"1.00\"\ndata-max-quantity=\"24.0\"\ndata-bskuuid=\"null\"\n>\n\n\n<div class=\"section-add-area-control quantity expand-content min-btn-add text-left js_quantity-container butQuantity\" style=\"\">\n\n<div class=\"d-flex flex-wrap justify-content-around text-center js_quantity-container align-items-center\"\ndata-min-quantity=\"1.00\" data-max-quantity=\"24.0\">\n<button class=\"js_product-update-quantity tile-update-quantity decrease\" aria-label=\"decrease cart\"\ndata-decrease=\"true\"\n\n>\n\n\n    <svg  xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"> <g fill=\"none\" fill-rule=\"evenodd\"> <g fill=\"#4D4F53\" transform=\"translate(-1437 -648)\"> <rect width=\"18\" height=\"2\" x=\"3\" y=\"11\" rx=\"1\" transform=\"translate(1437 648)\"/> </g> </g></svg>\n\n</button>\n\n\n<span data-uuid=\"null\" data-pid=\"11315102\" class=\"btn-icon-remove\" style=\"\">\n\n\n    <svg class=\"remove-btn__icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"> <g fill=\"none\" fill-rule=\"evenodd\"> <g class=\"shape\" fill=\"#4D4F53\"> <path d=\"M6.469 20.657h11.564c-.002 0-.002-11.329-.002-15.032H6.47v15.032zm13.875 0c0 1.277-1.037 2.312-2.31 2.312H6.466c-1.276 0-2.31-1.033-2.31-2.312V5.625C3.516 5.625 3 5.111 3 4.469c0-.639.514-1.157 1.157-1.157h5.78C9.938 2.035 10.973 1 12.25 1c1.277 0 2.313 1.035 2.313 2.313h5.78c.639 0 1.157.513 1.157 1.156 0 .638-.514 1.155-1.156 1.156v15.032zM13.406 9.09c0-.637.513-1.153 1.156-1.153.64 0 1.157.516 1.157 1.153v8.1c0 .636-.513 1.153-1.156 1.153-.64 0-1.157-.516-1.157-1.154v-8.1zm-4.625 0c0-.637.513-1.153 1.156-1.153.64 0 1.157.516 1.157 1.153v8.1c0 .636-.513 1.153-1.156 1.153-.64 0-1.157-.516-1.157-1.154v-8.1z\" transform=\"translate(-1053 -648) translate(1053 648)\"/> </g> </g></svg>\n\n</span>\n<button type=\"button\" class=\"btn remove-btn px-0 minicart-remove-product d-none remove-button-product-tile\" data-target=\"#removeProductModal\"\ndata-pid=\"null\" data-name=\"null\"\ndata-action=\"/on/demandware.store/Sites-Soriana-Site/default/Cart-RemoveProductLineItem\" data-uuid=\"null\"\ndata-cbt=\"{&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;link,click,hover&quot;,&quot;action&quot;:&quot;Minicart Remove&quot;,&quot;label&quot;:&quot;&quot;}\"\naria-label=\"Remove product undefined\">\n</button>\n\n\n<div class=\"js_itemquantity itemquantity itemquantity-11315102\">\n\n\n<input data-idx=\"1.0\" data-idx-default=\"1.0\" type=\"number\" id=\"quantity-input-11315102\" name=\"quantity\"\nclass=\"quantity change-font-size tile-input-quantity js_tile-input-quantity\"\ndata-min-quantity=\"1.00\"\nvalue=\"1\"\npattern=\"[0-9]*\" inputmode=\"decimal\"\ndata-conversion-factor=\"1.0\"\ndata-sales-unit-default=\"true\"\ndata-step-quantity=\"1.00\"\ndata-quantity-default=\"1.00\"\ndata-original-max-quantity=\"24.0\"\ndata-max-quantity=\"24.0\"\n>\n<label for=\"quantity-input-11315102\" class=\"sr-only\">Cantidad</label>\n</div>\n<button class=\"js_product-update-quantity tile-update-quantity increase\" aria-label=\"increment cart\"\ndata-decrease=\"false\"\n\n>\n\n\n    <svg  xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"> <g fill=\"none\" fill-rule=\"evenodd\"> <g fill=\"#4D4F53\"> <path d=\"M13 4c0-.555-.448-1-1-1-.556 0-1 .448-1 1v7H4c-.555 0-1 .448-1 1 0 .556.448 1 1 1h7v7c0 .555.448 1 1 1 .556 0 1-.448 1-1v-7h7c.555 0 1-.448 1-1 0-.556-.448-1-1-1h-7V4z\" transform=\"translate(-1341 -648) translate(1341 648)\"/> </g> </g></svg>\n\n<div class=\"itemquantity__msg increase-quantity-max-msg\">\n<div class=\"arrow\"></div>\n<span class=\"error-message\"></span>\n</div>\n</button>\n\n<span class=\"font-size-10 w-100 d-none\">en tu carrito</span>\n\n</div>\n\n\n\n\n    <span class=\"single-unit-label js-unit-label\" data-measurement-unit=\"pza\">\n        \n        Pza(s)\n    </span>\n\n\n\n\n</div>\n\n\n<div class=\"section-add-area-button container-add-to-cart-remaster d-flex flex-column-disabled flex-lg-row-disabled btn-add-to-cart--wrapper \" style=\"\" >\n\n\n\n\n\n<input type=\"hidden\" class=\"update-cart-url\" value=\"/on/demandware.store/Sites-Soriana-Site/default/Cart-EditProductLineItem\" data-selected-quantity=\"1.0\" data-selected-option=\"null\" data-uuid=\"null\">\n<button class=\"btn-add-to-cart-remaster d-inline-flex btn btn-primary button button--secondary-red m-0\" aria-label=\"add product to cart\"\ndata-pid=\"11315102\"\ndata-update=\"false\"\ndata-available=\"true\"\ndata-ready-to-order=\"true\"\ndata-uuid=\"null\"\n\ndata-operationtype=\"\"\n>\n<span class=\"btn-add-to-cart--text expand-btn\" data-text-pre-order=\"Reservar\"\ndata-text-updatecart=\"Actualizar\"\ndata-text-addtocart=\"Agregar\"\ndata-text-outofstock=\"Agotado en l&iacute;nea\">Agregar</span>\n</button>\n\n\n<button class=\"btn btn-primary button button--secondary-red btn-add-to-cart btn-add-to-cart-new d-none m-0\"\naria-label=\"add product to cart\"\ndata-cbt=\"{&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;hover,click&quot;,&quot;action&quot;:&quot;QVP Add To Cart&quot;,&quot;label&quot;:&quot;Pur&eacute; de Papa Valley Foods 160 gr&quot;}\"\ndata-toggle=\"modal\" data-target=\"#chooseBonusProductModal\"\ndata-pid=\"11315102\"\ndata-update=\"false\"\ndata-available=\"true\"\ndata-ready-to-order=\"true\"\ndata-uuid=\"null\"\n\ndata-operationtype=\"\"\n>\n<span class=\"btn-add-to-cart--text\"\ndata-text-pre-order=\"Reservar\"\ndata-text-updatecart=\"Actualizar\"\ndata-text-addtocart=\"Agregar\"\ndata-text-outofstock=\"Agotado en l&iacute;nea\">Agregar</span>\n<div class=\"cart-icon \">\n\n\n    <svg class=\"btn-add-to-cart__icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" fill-rule=\"evenodd\"><g class=\"shape\" fill=\"#FFF\"><path d=\"M5.766 4.538l15.905.975c.551.031.915.499.814 1.037l-1.302 6.969c-.1.542-.63.981-1.182.981H8.066l.23 1H19.5c.552 0 1 .448 1 1s-.448 1-1 1h-12c-.466 0-.87-.321-.974-.775L3.633 4.19 2.07 3.405c-.494-.246-.695-.847-.448-1.341.246-.494.847-.695 1.341-.449l1.984.99c.268.133.461.38.528.67l.292 1.263zM19.339 12.5l.947-5.07-14.05-.86 1.368 5.93H19.34zm-1.839 10c-1.105 0-2-.895-2-2s.895-2 2-2 2 .895 2 2-.895 2-2 2zm-9 0c-1.105 0-2-.895-2-2s.895-2 2-2 2 .895 2 2-.895 2-2 2z\" transform=\"translate(-270 -21) translate(270 21)\"/></g></g></svg>\n\n</div>\n</button>\n\n</div>\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\n\n<div class=\"d-flex align-items-center product-tile--addto-wrapper\">\n<button\nclass=\"d-flex product-tile--addto-action product-tile--addto-wishlist wishlistTile btn button button--primary-transparent \"\ndata-url=\"https://www.soriana.com/on/demandware.store/Sites-Soriana-Site/default/ShopingList-AddProduct\"\ndata-pid=\"11315102\"\n>\n\n\n    <svg class=\"icon-heart\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\"><g fill=\"none\" fill-rule=\"evenodd\"><g class=\"shape\" fill=\"#BCC3CC\"><g><g style=\"mix-blend-mode:multiply\"><g><g><path d=\"M2.667 6c0 2.083 2.04 4.6 5.337 6.756C11.3 10.6 13.334 8.136 13.334 6c0-1.473-1.195-2.667-2.667-2.667-.667 0-1.292.244-1.778.679l-.641.574c-.137.123-.357.124-.496 0l-.641-.574C6.625 3.577 6 3.333 5.333 3.333 3.861 3.333 2.667 4.527 2.667 6zM8 3.019C8.708 2.385 9.642 2 10.667 2c2.209 0 4 1.79 4 4 0 3.224-3.338 6.333-6.384 8.158-.155.096-.409.097-.564 0C4.652 12.342 1.333 9.225 1.333 6c0-2.21 1.791-4 4-4C6.358 2 7.293 2.385 8 3.019z\" transform=\"translate(-189 -838) translate(167 230) translate(0 172) translate(0 372) translate(18 64) translate(4)\"/></g></g></g></g></g></g></svg>\n\n<span class=\"product-tile--addto-text add-to-wishlist--text\">Fav</span>\n</button>\n<input type=\"hidden\" class=\"csrf-token\" name=\"csrf_token\" value=\"OCHDkeYGndLs8PRZVRLHHBcnnfbzemGqxltQB04AiFxX93l-tPpt9o6TO-kPBY-UXVPyMAO8zmo0cCq6a-F-giOcIJikutdZQdXvUq8TPCvH3xkFtpIZfhq24fn5-ScX2XDCy6zjqk3RXcv-tnIQofq8xKDoyBZrBLaoDQEUzvhXtJMN4yM=\"/>\n\n<button class=\"d-flex btn product-tile--addto-action product-tile--addto-shopinglist add-to-shopinglist shopping-list-tile\" href=\"#\"\ndata-url=\"https://www.soriana.com/on/demandware.store/Sites-Soriana-Site/default/ShopingList-RenderProductAdd\"\ndata-pid=\"11315102\"\ndata-target=\"#shoppinglistmodal\"\ndata-cbt=\"{&quot;event&quot;:&quot;showProductClick&quot;,&quot;eventTypes&quot;:&quot;click&quot;,&quot;ecommerce&quot;:{&quot;click&quot;:{&quot;actionField&quot;:{&quot;list&quot;:&quot;Search Results&quot;},&quot;products&quot;:[{&quot;category&quot;:&quot;Despensa/Cremas, sopas y pur&eacute;s/Pur&eacute; instantaneo&quot;,&quot;name&quot;:&quot;Pur&eacute; de Papa Valley Foods 160 gr&quot;,&quot;price&quot;:28.9,&quot;id&quot;:&quot;11315102&quot;,&quot;variant&quot;:&quot;&quot;,&quot;brand&quot;:&quot;Valley Foods&quot;,&quot;position&quot;:&quot;&quot;}]},&quot;currencyCode&quot;:&quot;MXN&quot;}}\"\n>\n\n\n    <svg class=\"icon-account-wishlist\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" fill-rule=\"evenodd\"><g class=\"shape\" fill=\"#D52B1E\"><g><g><path d=\"M1.846 24.154c0-.68.548-1.23 1.23-1.23H22.77c.68 0 1.231.545 1.231 1.23 0 .68-.548 1.23-1.23 1.23H3.076c-.68 0-1.23-.546-1.23-1.23zm0-7.385c0-.68.712-1.23 1.576-1.23h19.003c.87 0 1.575.546 1.575 1.23 0 .68-.712 1.231-1.575 1.231H3.422c-.87 0-1.576-.546-1.576-1.23zm9.611-7.384c0-.68.548-1.231 1.23-1.231H22.77c.68 0 1.231.546 1.231 1.23 0 .68-.548 1.231-1.23 1.231H12.687c-.68 0-1.23-.546-1.23-1.23zM4.467 2c.68 0 1.231.548 1.231 1.23v1.942H8c.68 0 1.23.546 1.23 1.23 0 .68-.547 1.232-1.23 1.232l-2.302-.001V10c0 .68-.546 1.23-1.23 1.23-.68 0-1.231-.547-1.231-1.23l-.001-2.367H1.231C.55 7.634 0 7.088 0 6.404c0-.68.548-1.23 1.23-1.23l2.006-.001V3.231C3.237 2.55 3.784 2 4.469 2z\" transform=\"translate(-24 -124) translate(24 122)\"/></g></g></g></g></svg>\n\n<span class=\"product-tile--addto-text add-to-shopinglist--text\">Lista</span>\n</button>\n\n\n</div>\n\n\n\n</div>\n\n<a href=\"/pure-de-papa-valley-foods-160-gr/11315102.html\" data-cbt=\"{&quot;selector&quot;:&quot;#quickViewModal .full-pdp-link&quot;,&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;add,link,click,hover&quot;,&quot;action&quot;:&quot;QVP See Details&quot;,&quot;label&quot;:&quot;Pur&eacute; de Papa Valley Foods 160 gr&quot;}\"\nclass=\"btn btn-outline-primary btn-see-full-product font-primary--bold\"\naria-label=\"Ver detalle completo\">\n<span>Ver detalle completo</span>\n</a>\n\n\n\n</div>\n\n\n<div class=\"confirm-action\">\n<span class=\"confirm d-none\">\n&iquest;Deseas eliminar este producto de tu carrito?\n</span>\n<label class=\"btn btn-sm btn-danger bg-white d-none\" data-option=\"no\">\nNo\n</label>\n<label class=\"btn btn-sm btn-success d-none\" data-option=\"yes\">\nS&iacute;\n</label>\n<span class=\"message\"></span>\n</div>\n\n\n\n</div>\n</div>\n</div>\n\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+                "productUrl": "/pure-de-papa-valley-foods-160-gr/11315102.html"
+            },
+            "categoryPosition": 63
+        },
+        {
+            "position": 2,
+            "productId": "11089764",
+            "productName": "Puré De Mantequilla Verde Valle 80 Gr",
+            "detail": {
+                "action": "Product-ShowQuickView",
+                "queryString": "pid=11089764",
+                "locale": "default",
+                "product": {
+                    "uuid": "ceb571873dfb5c6baa5286dc2b",
+                    "id": "11089764",
+                    "productName": "Puré De Mantequilla Verde Valle 80 Gr",
+                    "productType": "standard",
+                    "brand": "Verde Valle",
+                    "price": {
+                        "sales": {
+                            "value": 19.6,
+                            "currency": "MXN",
+                            "formatted": "$19.60",
+                            "decimalPrice": "19.60"
+                        },
+                        "list": null
+                    },
+                    "images": {
+                        "large": [
+                            {
+                                "index": "0",
+                                "alt": "Puré De Mantequilla Verde Valle 80 Gr",
+                                "title": "Puré De Mantequilla Verde Valle 80 Gr",
+                                "url": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw8e58eb4e/images/product/7501071300592_A.jpg?sw=1000&sh=1000&sm=fit",
+                                "absURL": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw8e58eb4e/images/product/7501071300592_A.jpg?sw=1000&sh=1000&sm=fit"
+                            }
+                        ],
+                        "small": [
+                            {
+                                "index": "0",
+                                "alt": "Puré De Mantequilla Verde Valle 80 Gr",
+                                "title": "Puré De Mantequilla Verde Valle 80 Gr",
+                                "url": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw8e58eb4e/images/product/7501071300592_A.jpg?sw=400&sh=400&sm=fit",
+                                "absURL": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw8e58eb4e/images/product/7501071300592_A.jpg?sw=400&sh=400&sm=fit"
+                            }
+                        ]
+                    },
+                    "selectedQuantity": 1,
+                    "minOrderQuantity": "1.00",
+                    "maxOrderQuantity": 24,
+                    "variationAttributes": null,
+                    "longDescription": null,
+                    "shortDescription": "Puré De Mantequilla Verde Valle 80 Gr",
+                    "rating": 3.1,
+                    "promotions": null,
+                    "attributes": [
+                        {
+                            "ID": "Despensa",
+                            "name": "Despensa",
+                            "attributes": [
+                                {
+                                    "id": "ingredients",
+                                    "label": "Ingredientes",
+                                    "value": [
+                                        {}
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "ID": "Despensa excepto frescos",
+                            "name": "Despensa excepto frescos",
+                            "attributes": [
+                                {
+                                    "id": "flavor",
+                                    "label": "Sabor",
+                                    "value": [
+                                        "Mantequilla"
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "availability": {
+                        "messages": [
+                            "In Stock"
+                        ],
+                        "inStockDate": null
+                    },
+                    "available": true,
+                    "isPreOrder": false,
+                    "options": [],
+                    "quantities": [
+                        {
+                            "value": "1",
+                            "selected": true,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=1"
+                        },
+                        {
+                            "value": "2",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=2"
+                        },
+                        {
+                            "value": "3",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=3"
+                        },
+                        {
+                            "value": "4",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=4"
+                        },
+                        {
+                            "value": "5",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=5"
+                        },
+                        {
+                            "value": "6",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=6"
+                        },
+                        {
+                            "value": "7",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=7"
+                        },
+                        {
+                            "value": "8",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=8"
+                        },
+                        {
+                            "value": "9",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=9"
+                        },
+                        {
+                            "value": "10",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=10"
+                        },
+                        {
+                            "value": "11",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=11"
+                        },
+                        {
+                            "value": "12",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=12"
+                        },
+                        {
+                            "value": "13",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=13"
+                        },
+                        {
+                            "value": "14",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=14"
+                        },
+                        {
+                            "value": "15",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=15"
+                        },
+                        {
+                            "value": "16",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=16"
+                        },
+                        {
+                            "value": "17",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=17"
+                        },
+                        {
+                            "value": "18",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=18"
+                        },
+                        {
+                            "value": "19",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=19"
+                        },
+                        {
+                            "value": "20",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=20"
+                        },
+                        {
+                            "value": "21",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=21"
+                        },
+                        {
+                            "value": "22",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=22"
+                        },
+                        {
+                            "value": "23",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=23"
+                        },
+                        {
+                            "value": "24",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=11089764&quantity=24"
+                        }
+                    ],
+                    "sizeChartId": null,
+                    "selectedProductUrl": "/pure-de-mantequilla-verde-valle-80-gr/11089764.html?%2Fpure-de-mantequilla-verde-valle-80-gr%2F11089764.html=undefined&quantity=undefined",
+                    "readyToOrder": true,
+                    "online": true,
+                    "pageTitle": null,
+                    "pageDescription": null,
+                    "pageKeywords": null,
+                    "pageMetaTags": [
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {}
+                    ],
+                    "template": null,
+                    "dualUnitData": {
+                        "salesUnit": "pza"
+                    },
+                    "defaultQuantity": "1.00",
+                    "category": {
+                        "id": "pure-instantaneo",
+                        "displayName": "Puré instantaneo",
+                        "url": "/despensa/cremas-sopas-y-pures/pure-instantaneo/"
+                    },
+                    "canonicalLink": null,
+                    "EAN": "7501071300592",
+                    "model": "",
+                    "ingredients": {},
+                    "storeSupply": false,
+                    "tab1Name": "Descripción",
+                    "tab2Name": "Características",
+                    "tab1Content": "",
+                    "tab2Content": "<table class=\"table table-striped\" cellspacing=\"10\" cellpadding=\"10\" ><tr width=\"50%\"><td><b>Categoría</b></td><td>Puré instantaneo</td></tr><tr width=\"50%\"><td><b>Marca</b></td><td>Verde Valle</td></tr><tr width=\"50%\"><td><b>Tipo</b></td><td>Mantequilla</td></tr><tr width=\"50%\"><td><b>Presentación</b></td><td>Bolsa</td></tr><tr width=\"50%\"><td><b>Contenido Neto</b></td><td>80 g</td></tr><tr width=\"50%\"><td><b>Ingredientes</b></td><td>Papa deshidratada, mono y diglicéridos, pirofosfato diosódico, ácido cítrico,metabisulfito de sodio y BHA.), leche entera en polvo, sal yodada, sabores naturales y artificiales</td></tr><tr width=\"50%\"><td><b>Azúcares totales</b></td><td>0g</td></tr><tr width=\"50%\"><td><b>Carbohidratos</b></td><td>14.7g</td></tr><tr width=\"50%\"><td><b>Energía por porción</b></td><td>85,9</td></tr><tr width=\"50%\"><td><b>Fibra</b></td><td>1.4g</td></tr><tr width=\"50%\"><td><b>Grasa Saturada</b></td><td>1g</td></tr><tr width=\"50%\"><td><b>Grasas Totales</b></td><td>1.9g</td></tr><tr width=\"50%\"><td><b>Grasas Trans</b></td><td>26mg</td></tr><tr width=\"50%\"><td><b>Otras Grasas</b></td><td>0g</td></tr><tr width=\"50%\"><td><b>Proteínas</b></td><td>2.5g</td></tr><tr width=\"50%\"><td><b>Sodio</b></td><td>808mg</td></tr><tr width=\"50%\"><td><b>Sabor</b></td><td>Mantequilla</td></tr><tr width=\"50%\"><td><b>Porciones por Envase</b></td><td>4</td></tr><tr width=\"50%\"><td><b>Tamaño de la porción</b></td><td>100g</td></tr></table>",
+                    "maturation": false,
+                    "thickness": false,
+                    "newStampFlag": false,
+                    "newStampDate": null,
+                    "exclusiveStampFlag": false,
+                    "exclusiveStampDate": null,
+                    "onlineStampFlag": false,
+                    "onlineStampDate": null,
+                    "badges": [],
+                    "hasActiveCoupon": false,
+                    "recommendations": {},
+                    "pliAvailabilityMessages": []
+                },
+                "addToCartUrl": {},
+                "resources": {
+                    "info_selectforstock": "Select Styles for Availability",
+                    "assistiveSelectedText": "seleccionado"
+                },
+                "quickViewFullDetailMsg": "View Full Details",
+                "closeButtonText": "Cerrar la vista rápida de diálogo",
+                "enterDialogMessage": "Inicio de la ventana de diálogo vista rápida. Seleccione cerrar para cancelar y cerrar la ventana.",
+                "template": "product/quickView.isml",
+                "availableByIds": {
+                    "11089764": true
+                },
+                "available": true,
+                "productId": "11089764",
+                "isPreOrder": false,
+                "readyToOrder": true,
+                "displayAddCart": true,
+                "minOrderQuantity": "1.00",
+                "maxOrderQuantity": 24,
+                "defaultQuantity": "1.00",
+                "isQuickView": true,
+                "showQuantity": true,
+                "isEditProduct": false,
+                "actionUrls": {
+                    "removeProductLineItemUrl": "/on/demandware.store/Sites-Soriana-Site/default/Cart-RemoveProductLineItem",
+                    "updateQuantityUrl": "/on/demandware.store/Sites-Soriana-Site/default/Cart-UpdateQuantity"
+                },
+                "productBasket": {},
+                "renderedTemplate": "\n\n\n\n\n\n\n<div class=\"has-custom-scrollbar\">\n<div class=\"product-quickview product-standard product-wrapper product-detail\" data-pid=\"11089764\" data-update=\"false\">\n<div data-cbt=\"{&quot;selector&quot;:&quot;#quickViewModal .close&quot;,&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;add,link,click,hover&quot;,&quot;action&quot;:&quot;QVP Close&quot;,&quot;label&quot;:&quot;Pur&eacute; De Mantequilla Verde Valle 80 Gr&quot;}\"></div>\n<div data-cbt=\"{&quot;selector&quot;:&quot;#quickViewModal .close span&quot;,&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;add,link,click,hover&quot;,&quot;action&quot;:&quot;QVP Close&quot;,&quot;label&quot;:&quot;Pur&eacute; De Mantequilla Verde Valle 80 Gr&quot;}\"></div>\n<div data-cbt=\"{&quot;selector&quot;:&quot;#quickViewModal .full-pdp-link&quot;,&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;add,link,click,hover&quot;,&quot;action&quot;:&quot;QVP See Details&quot;,&quot;label&quot;:&quot;Pur&eacute; De Mantequilla Verde Valle 80 Gr&quot;}\"></div>\n<div class=\"product-quickview-content d-flex\">\n<div class=\"product-quickview-info w-100\">\n<div class=\"row product-detail__container_qv\">\n\n\n\n<div class=\"col-10 col-lg-6 d-lg-none\">\n\r\n\r\n    <h1 class=\"product-name\">Pur&eacute; De Mantequilla Verde Valle 80 Gr</h1>\r\n\r\n\r\n\r\n\r\n    <a href=\"/buscar?q=Verde%20Valle\">\r\n        <h2 class=\"product-brand\">Verde Valle</h2>\r\n    </a>\r\n\r\n\n</div>\n<div class=\"col-12 col-lg-6 product-detail__images-container\">\n\n<div class=\"primary-images\">\n\n    \n\n    \n    \n    \n\n    \n    \n    \n\n    \n    \n    \n\n    <div id=\"pdpCarousel-11089764\" class=\"product-details__images-carousel carousel slide\" data-interval=\"0\" data-prev=\"Previous\" data-next=\"Next\">\n        \n\n        <div class=\"carousel-inner xzoom-wrapper w-auto\">\n            \n                \n                    <div class='carousel-item active'>\n\n                        <div class=\"col-6 mt-4 container-stamp-product\">\n                            \n                            \n                            \n                        </div>\n\n                        <img src=\"https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw8e58eb4e/images/product/7501071300592_A.jpg?sw=1000&amp;sh=1000&amp;sm=fit\"\n                            class=\"d-block img-fluid xzoom content-visibility-auto\"\n                            xoriginal=\"https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw8e58eb4e/images/product/7501071300592_A.jpg?sw=1000&amp;sh=1000&amp;sm=fit\"\n                            alt=\"Pur&eacute; De Mantequilla Verde Valle 80 Gr image number 0\"\n                            title=\"Pur&eacute; De Mantequilla Verde Valle 80 Gr image number 0\"\n                            data-hover=\"0\"\n                            data-cbt=\"{&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;hover,click&quot;,&quot;action&quot;:&quot;QVP Image&quot;,&quot;label&quot;:&quot;Pur&eacute; De Mantequilla Verde Valle 80 Gr&quot;}\"\n                            decoding=\"async\" width=\"445px\" height=\"445px\" />\n                    </div>\n                \n            \n        </div>\n    </div>\n</div>\n\n\n\n\n<div class=\"badges\">\n\n\n\n\n\n\n\n</div>\n\n</div>\n<div class=\"col-12 col-lg-6 product-detail__details-container\">\n\n<div class=\"d-none d-lg-block\">\n\r\n\r\n    <h1 class=\"product-name\">Pur&eacute; De Mantequilla Verde Valle 80 Gr</h1>\r\n\r\n\r\n\r\n\r\n    <a href=\"/buscar?q=Verde%20Valle\">\r\n        <h2 class=\"product-brand\">Verde Valle</h2>\r\n    </a>\r\n\r\n\n</div>\n\n\n\n<div class=\"carousel-badges badges-promo-msg badges-color badge-inline\">\n<div class=\"carousel-inner\">\n\n\n\n\n\n\n\n</div>\n</div>\n<div class=\"badges-promo-msg d-lg-block\">\n\n</div>\n\n\n<div class=\"prices_qv move-to-right text-left pt-0\">\n\n\n\n\n    <div class=\"price text-right\">\n        \n        \n            \n\n\n\n\n\n<div class=\"\">\n\n\n\n<div class=\"sales d-flex flex-row-reverse\">\n\n\n\n\n<span class=\"value\" content=\"19.60\">\n\n\n\n<span class=\"font-primary--bold  font-size-14 px-1 cart-price price-plp\">\n    \n        $19.60\n    \n</span>\n\n\n</span>\n</div>\n</div>\n        \n    </div>\n\n\n</div>\n<div class=\"attributes p-0\">\n\n\n<div class=\"attributes-variations-section\" id=\"attributes-variations-section\">\n\n</div>\n</div>\n<div class=\"add-to-cart-elements-wrapper mt-2\">\n\n\n<!-- Cart and [Optionally] Apple Pay -->\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\n<div class=\"cart-and-ipay\">\n<div class=\"add-to-cart\" data-pid=\"11089764\" data-endpoint-update-quantity=\"/on/demandware.store/Sites-Soriana-Site/default/Cart-UpdateQuantity\" data-endpoint-add-to-cart=\"/on/demandware.store/Sites-Soriana-Site/default/Cart-AddProduct\">\n\n<div class=\"quantity text-left js_quantity-container p-2\">\n\n<div class=\"d-flex flex-wrap justify-content-center justify-content-lg-start text-center js_quantity-container align-items-center\" data-min-quantity=\"1.00\" data-max-quantity=\"24.0\">\n<button class=\"js_product-update-quantity tile-update-quantity decrease\" aria-label=\"Disminuci&oacute;n\" data-decrease=\"true\" >\n\n\n    <svg  xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"> <g fill=\"none\" fill-rule=\"evenodd\"> <g fill=\"#4D4F53\" transform=\"translate(-1437 -648)\"> <rect width=\"18\" height=\"2\" x=\"3\" y=\"11\" rx=\"1\" transform=\"translate(1437 648)\"/> </g> </g></svg>\n\n</button>\n<div class=\"js_itemquantity itemquantity itemquantity-11089764\">\n\n<input type=\"number\" id=\"quantity-input-11089764\" name=\"quantity\" class=\"tile-input-quantity-product quantity tile-input-quantity js_tile-input-quantity\" data-min-quantity=\"1.00\"\nvalue=\"1.00\"\npattern=\"[0-9]*\" inputmode=\"decimal\"\n>\n<label for=\"quantity-input-11089764\" class=\"sr-only\">Cantidad</label>\n</div>\n<button class=\"js_product-update-quantity tile-update-quantity increase\" aria-label=\"Incrementar\" data-decrease=\"false\">\n\n\n    <svg  xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"> <g fill=\"none\" fill-rule=\"evenodd\"> <g fill=\"#4D4F53\"> <path d=\"M13 4c0-.555-.448-1-1-1-.556 0-1 .448-1 1v7H4c-.555 0-1 .448-1 1 0 .556.448 1 1 1h7v7c0 .555.448 1 1 1 .556 0 1-.448 1-1v-7h7c.555 0 1-.448 1-1 0-.556-.448-1-1-1h-7V4z\" transform=\"translate(-1341 -648) translate(1341 648)\"/> </g> </g></svg>\n\n<div class=\"itemquantity__msg increase-quantity-max-msg\">\n<div class=\"arrow\"></div>\n<span class=\"error-message\"></span>\n</div>\n</button>\n\n\n\n\n    <span class=\"single-unit-label js-unit-label\" data-measurement-unit=\"pza\">\n        \n        Pza(s)\n    </span>\n\n\n\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\n\n<div class=\"d-flex align-items-center product-tile--addto-wrapper\">\n<button\nclass=\"d-flex product-tile--addto-action product-tile--addto-wishlist wishlistTile btn button button--primary-transparent \"\ndata-url=\"https://www.soriana.com/on/demandware.store/Sites-Soriana-Site/default/ShopingList-AddProduct\"\ndata-pid=\"11089764\"\n>\n\n\n    <svg class=\"icon-heart\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\"><g fill=\"none\" fill-rule=\"evenodd\"><g class=\"shape\" fill=\"#BCC3CC\"><g><g style=\"mix-blend-mode:multiply\"><g><g><path d=\"M2.667 6c0 2.083 2.04 4.6 5.337 6.756C11.3 10.6 13.334 8.136 13.334 6c0-1.473-1.195-2.667-2.667-2.667-.667 0-1.292.244-1.778.679l-.641.574c-.137.123-.357.124-.496 0l-.641-.574C6.625 3.577 6 3.333 5.333 3.333 3.861 3.333 2.667 4.527 2.667 6zM8 3.019C8.708 2.385 9.642 2 10.667 2c2.209 0 4 1.79 4 4 0 3.224-3.338 6.333-6.384 8.158-.155.096-.409.097-.564 0C4.652 12.342 1.333 9.225 1.333 6c0-2.21 1.791-4 4-4C6.358 2 7.293 2.385 8 3.019z\" transform=\"translate(-189 -838) translate(167 230) translate(0 172) translate(0 372) translate(18 64) translate(4)\"/></g></g></g></g></g></g></svg>\n\n<span class=\"product-tile--addto-text add-to-wishlist--text\">Fav</span>\n</button>\n<input type=\"hidden\" class=\"csrf-token\" name=\"csrf_token\" value=\"uFKEf9JC6LasqiSZTCFgps4AxtHG_iMxAZr3J5QQUqjpE_5MSjAfRETu-fK-67rDXnIDegkhuUE8zpZgEaP-25a3nZFoxnL-njxUO8zpX32D9xb-_VynAtmyL_R7YtEWw8O9Z7JxxgxUtk_q6TheNLsvtbUvAnOSq16sN8G_sAYQZ4L0MhE=\"/>\n\n<button class=\"d-flex btn product-tile--addto-action product-tile--addto-shopinglist add-to-shopinglist shopping-list-tile\" href=\"#\"\ndata-url=\"https://www.soriana.com/on/demandware.store/Sites-Soriana-Site/default/ShopingList-RenderProductAdd\"\ndata-pid=\"11089764\"\ndata-target=\"#shoppinglistmodal\"\ndata-cbt=\"{&quot;event&quot;:&quot;showProductClick&quot;,&quot;eventTypes&quot;:&quot;click&quot;,&quot;ecommerce&quot;:{&quot;click&quot;:{&quot;actionField&quot;:{&quot;list&quot;:&quot;Search Results&quot;},&quot;products&quot;:[{&quot;category&quot;:&quot;Despensa/Cremas, sopas y pur&eacute;s/Pur&eacute; instantaneo&quot;,&quot;name&quot;:&quot;Pur&eacute; De Mantequilla Verde Valle 80 Gr&quot;,&quot;price&quot;:19.6,&quot;id&quot;:&quot;11089764&quot;,&quot;variant&quot;:&quot;&quot;,&quot;brand&quot;:&quot;Verde Valle&quot;,&quot;position&quot;:&quot;&quot;}]},&quot;currencyCode&quot;:&quot;MXN&quot;}}\"\n>\n\n\n    <svg class=\"icon-account-wishlist\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" fill-rule=\"evenodd\"><g class=\"shape\" fill=\"#D52B1E\"><g><g><path d=\"M1.846 24.154c0-.68.548-1.23 1.23-1.23H22.77c.68 0 1.231.545 1.231 1.23 0 .68-.548 1.23-1.23 1.23H3.076c-.68 0-1.23-.546-1.23-1.23zm0-7.385c0-.68.712-1.23 1.576-1.23h19.003c.87 0 1.575.546 1.575 1.23 0 .68-.712 1.231-1.575 1.231H3.422c-.87 0-1.576-.546-1.576-1.23zm9.611-7.384c0-.68.548-1.231 1.23-1.231H22.77c.68 0 1.231.546 1.231 1.23 0 .68-.548 1.231-1.23 1.231H12.687c-.68 0-1.23-.546-1.23-1.23zM4.467 2c.68 0 1.231.548 1.231 1.23v1.942H8c.68 0 1.23.546 1.23 1.23 0 .68-.547 1.232-1.23 1.232l-2.302-.001V10c0 .68-.546 1.23-1.23 1.23-.68 0-1.231-.547-1.231-1.23l-.001-2.367H1.231C.55 7.634 0 7.088 0 6.404c0-.68.548-1.23 1.23-1.23l2.006-.001V3.231C3.237 2.55 3.784 2 4.469 2z\" transform=\"translate(-24 -124) translate(24 122)\"/></g></g></g></g></svg>\n\n<span class=\"product-tile--addto-text add-to-shopinglist--text\">Lista</span>\n</button>\n\n\n</div>\n\n\n</div>\n</div>\n\n\n<div class=\"d-flex flex-column flex-lg-row btn-add-to-cart--wrapper\">\n\n\n\n\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\n\n\n\n<div class=\"cart-and-ipay \" data-e=\"[1,&quot;&quot;,&quot;1.00&quot;,&quot;1.00&quot;,24,{&quot;idx&quot;:1,&quot;kgs&quot;:1,&quot;pzaToKgs&quot;:1,&quot;pzaToKgsCheck&quot;:1,&quot;maxIdx&quot;:24,&quot;formatKgs&quot;:1,&quot;formatPza&quot;:1}]\">\n<div class=\"add-to-cart d-flex align-items-start expand-content align-button\" data-pid=\"11089764\"\ndata-endpoint-update-quantity=\"/on/demandware.store/Sites-Soriana-Site/default/Cart-UpdateQuantity\"\ndata-endpoint-add-to-cart=\"/on/demandware.store/Sites-Soriana-Site/default/Cart-AddProduct\"\ndata-uuid=\"null\"\ndata-action=\"\"\ndata-dual-factor=\"1.0\"\ndata-min-quantity=\"1.00\"\ndata-max-quantity=\"24.0\"\ndata-bskuuid=\"null\"\n>\n\n\n<div class=\"section-add-area-control quantity expand-content min-btn-add text-left js_quantity-container butQuantity\" style=\"\">\n\n<div class=\"d-flex flex-wrap justify-content-around text-center js_quantity-container align-items-center\"\ndata-min-quantity=\"1.00\" data-max-quantity=\"24.0\">\n<button class=\"js_product-update-quantity tile-update-quantity decrease\" aria-label=\"decrease cart\"\ndata-decrease=\"true\"\n\n>\n\n\n    <svg  xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"> <g fill=\"none\" fill-rule=\"evenodd\"> <g fill=\"#4D4F53\" transform=\"translate(-1437 -648)\"> <rect width=\"18\" height=\"2\" x=\"3\" y=\"11\" rx=\"1\" transform=\"translate(1437 648)\"/> </g> </g></svg>\n\n</button>\n\n\n<span data-uuid=\"null\" data-pid=\"11089764\" class=\"btn-icon-remove\" style=\"\">\n\n\n    <svg class=\"remove-btn__icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"> <g fill=\"none\" fill-rule=\"evenodd\"> <g class=\"shape\" fill=\"#4D4F53\"> <path d=\"M6.469 20.657h11.564c-.002 0-.002-11.329-.002-15.032H6.47v15.032zm13.875 0c0 1.277-1.037 2.312-2.31 2.312H6.466c-1.276 0-2.31-1.033-2.31-2.312V5.625C3.516 5.625 3 5.111 3 4.469c0-.639.514-1.157 1.157-1.157h5.78C9.938 2.035 10.973 1 12.25 1c1.277 0 2.313 1.035 2.313 2.313h5.78c.639 0 1.157.513 1.157 1.156 0 .638-.514 1.155-1.156 1.156v15.032zM13.406 9.09c0-.637.513-1.153 1.156-1.153.64 0 1.157.516 1.157 1.153v8.1c0 .636-.513 1.153-1.156 1.153-.64 0-1.157-.516-1.157-1.154v-8.1zm-4.625 0c0-.637.513-1.153 1.156-1.153.64 0 1.157.516 1.157 1.153v8.1c0 .636-.513 1.153-1.156 1.153-.64 0-1.157-.516-1.157-1.154v-8.1z\" transform=\"translate(-1053 -648) translate(1053 648)\"/> </g> </g></svg>\n\n</span>\n<button type=\"button\" class=\"btn remove-btn px-0 minicart-remove-product d-none remove-button-product-tile\" data-target=\"#removeProductModal\"\ndata-pid=\"null\" data-name=\"null\"\ndata-action=\"/on/demandware.store/Sites-Soriana-Site/default/Cart-RemoveProductLineItem\" data-uuid=\"null\"\ndata-cbt=\"{&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;link,click,hover&quot;,&quot;action&quot;:&quot;Minicart Remove&quot;,&quot;label&quot;:&quot;&quot;}\"\naria-label=\"Remove product undefined\">\n</button>\n\n\n<div class=\"js_itemquantity itemquantity itemquantity-11089764\">\n\n\n<input data-idx=\"1.0\" data-idx-default=\"1.0\" type=\"number\" id=\"quantity-input-11089764\" name=\"quantity\"\nclass=\"quantity change-font-size tile-input-quantity js_tile-input-quantity\"\ndata-min-quantity=\"1.00\"\nvalue=\"1\"\npattern=\"[0-9]*\" inputmode=\"decimal\"\ndata-conversion-factor=\"1.0\"\ndata-sales-unit-default=\"true\"\ndata-step-quantity=\"1.00\"\ndata-quantity-default=\"1.00\"\ndata-original-max-quantity=\"24.0\"\ndata-max-quantity=\"24.0\"\n>\n<label for=\"quantity-input-11089764\" class=\"sr-only\">Cantidad</label>\n</div>\n<button class=\"js_product-update-quantity tile-update-quantity increase\" aria-label=\"increment cart\"\ndata-decrease=\"false\"\n\n>\n\n\n    <svg  xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"> <g fill=\"none\" fill-rule=\"evenodd\"> <g fill=\"#4D4F53\"> <path d=\"M13 4c0-.555-.448-1-1-1-.556 0-1 .448-1 1v7H4c-.555 0-1 .448-1 1 0 .556.448 1 1 1h7v7c0 .555.448 1 1 1 .556 0 1-.448 1-1v-7h7c.555 0 1-.448 1-1 0-.556-.448-1-1-1h-7V4z\" transform=\"translate(-1341 -648) translate(1341 648)\"/> </g> </g></svg>\n\n<div class=\"itemquantity__msg increase-quantity-max-msg\">\n<div class=\"arrow\"></div>\n<span class=\"error-message\"></span>\n</div>\n</button>\n\n<span class=\"font-size-10 w-100 d-none\">en tu carrito</span>\n\n</div>\n\n\n\n\n    <span class=\"single-unit-label js-unit-label\" data-measurement-unit=\"pza\">\n        \n        Pza(s)\n    </span>\n\n\n\n\n</div>\n\n\n<div class=\"section-add-area-button container-add-to-cart-remaster d-flex flex-column-disabled flex-lg-row-disabled btn-add-to-cart--wrapper \" style=\"\" >\n\n\n\n\n\n<input type=\"hidden\" class=\"update-cart-url\" value=\"/on/demandware.store/Sites-Soriana-Site/default/Cart-EditProductLineItem\" data-selected-quantity=\"1.0\" data-selected-option=\"null\" data-uuid=\"null\">\n<button class=\"btn-add-to-cart-remaster d-inline-flex btn btn-primary button button--secondary-red m-0\" aria-label=\"add product to cart\"\ndata-pid=\"11089764\"\ndata-update=\"false\"\ndata-available=\"true\"\ndata-ready-to-order=\"true\"\ndata-uuid=\"null\"\n\ndata-operationtype=\"\"\n>\n<span class=\"btn-add-to-cart--text expand-btn\" data-text-pre-order=\"Reservar\"\ndata-text-updatecart=\"Actualizar\"\ndata-text-addtocart=\"Agregar\"\ndata-text-outofstock=\"Agotado en l&iacute;nea\">Agregar</span>\n</button>\n\n\n<button class=\"btn btn-primary button button--secondary-red btn-add-to-cart btn-add-to-cart-new d-none m-0\"\naria-label=\"add product to cart\"\ndata-cbt=\"{&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;hover,click&quot;,&quot;action&quot;:&quot;QVP Add To Cart&quot;,&quot;label&quot;:&quot;Pur&eacute; De Mantequilla Verde Valle 80 Gr&quot;}\"\ndata-toggle=\"modal\" data-target=\"#chooseBonusProductModal\"\ndata-pid=\"11089764\"\ndata-update=\"false\"\ndata-available=\"true\"\ndata-ready-to-order=\"true\"\ndata-uuid=\"null\"\n\ndata-operationtype=\"\"\n>\n<span class=\"btn-add-to-cart--text\"\ndata-text-pre-order=\"Reservar\"\ndata-text-updatecart=\"Actualizar\"\ndata-text-addtocart=\"Agregar\"\ndata-text-outofstock=\"Agotado en l&iacute;nea\">Agregar</span>\n<div class=\"cart-icon \">\n\n\n    <svg class=\"btn-add-to-cart__icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" fill-rule=\"evenodd\"><g class=\"shape\" fill=\"#FFF\"><path d=\"M5.766 4.538l15.905.975c.551.031.915.499.814 1.037l-1.302 6.969c-.1.542-.63.981-1.182.981H8.066l.23 1H19.5c.552 0 1 .448 1 1s-.448 1-1 1h-12c-.466 0-.87-.321-.974-.775L3.633 4.19 2.07 3.405c-.494-.246-.695-.847-.448-1.341.246-.494.847-.695 1.341-.449l1.984.99c.268.133.461.38.528.67l.292 1.263zM19.339 12.5l.947-5.07-14.05-.86 1.368 5.93H19.34zm-1.839 10c-1.105 0-2-.895-2-2s.895-2 2-2 2 .895 2 2-.895 2-2 2zm-9 0c-1.105 0-2-.895-2-2s.895-2 2-2 2 .895 2 2-.895 2-2 2z\" transform=\"translate(-270 -21) translate(270 21)\"/></g></g></svg>\n\n</div>\n</button>\n\n</div>\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\n\n<div class=\"d-flex align-items-center product-tile--addto-wrapper\">\n<button\nclass=\"d-flex product-tile--addto-action product-tile--addto-wishlist wishlistTile btn button button--primary-transparent \"\ndata-url=\"https://www.soriana.com/on/demandware.store/Sites-Soriana-Site/default/ShopingList-AddProduct\"\ndata-pid=\"11089764\"\n>\n\n\n    <svg class=\"icon-heart\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\"><g fill=\"none\" fill-rule=\"evenodd\"><g class=\"shape\" fill=\"#BCC3CC\"><g><g style=\"mix-blend-mode:multiply\"><g><g><path d=\"M2.667 6c0 2.083 2.04 4.6 5.337 6.756C11.3 10.6 13.334 8.136 13.334 6c0-1.473-1.195-2.667-2.667-2.667-.667 0-1.292.244-1.778.679l-.641.574c-.137.123-.357.124-.496 0l-.641-.574C6.625 3.577 6 3.333 5.333 3.333 3.861 3.333 2.667 4.527 2.667 6zM8 3.019C8.708 2.385 9.642 2 10.667 2c2.209 0 4 1.79 4 4 0 3.224-3.338 6.333-6.384 8.158-.155.096-.409.097-.564 0C4.652 12.342 1.333 9.225 1.333 6c0-2.21 1.791-4 4-4C6.358 2 7.293 2.385 8 3.019z\" transform=\"translate(-189 -838) translate(167 230) translate(0 172) translate(0 372) translate(18 64) translate(4)\"/></g></g></g></g></g></g></svg>\n\n<span class=\"product-tile--addto-text add-to-wishlist--text\">Fav</span>\n</button>\n<input type=\"hidden\" class=\"csrf-token\" name=\"csrf_token\" value=\"w-WhdKGNaNUSQ1r2Dxe4ke0V6HKfXpdxkURm2q4d0DOejNs1qV1p0_aZPlA_ZQbeWi-ekbAJeoFMhwR_Cz6pm_iYze_LVe8jvLXMyGa7VlNEs1yYHXGXWwTCliJfPyDaMR2cqoiPf2qrWHCIhoFgZGo1zInYRqqGDqTSbWe0hl4IEsqdXQA=\"/>\n\n<button class=\"d-flex btn product-tile--addto-action product-tile--addto-shopinglist add-to-shopinglist shopping-list-tile\" href=\"#\"\ndata-url=\"https://www.soriana.com/on/demandware.store/Sites-Soriana-Site/default/ShopingList-RenderProductAdd\"\ndata-pid=\"11089764\"\ndata-target=\"#shoppinglistmodal\"\ndata-cbt=\"{&quot;event&quot;:&quot;showProductClick&quot;,&quot;eventTypes&quot;:&quot;click&quot;,&quot;ecommerce&quot;:{&quot;click&quot;:{&quot;actionField&quot;:{&quot;list&quot;:&quot;Search Results&quot;},&quot;products&quot;:[{&quot;category&quot;:&quot;Despensa/Cremas, sopas y pur&eacute;s/Pur&eacute; instantaneo&quot;,&quot;name&quot;:&quot;Pur&eacute; De Mantequilla Verde Valle 80 Gr&quot;,&quot;price&quot;:19.6,&quot;id&quot;:&quot;11089764&quot;,&quot;variant&quot;:&quot;&quot;,&quot;brand&quot;:&quot;Verde Valle&quot;,&quot;position&quot;:&quot;&quot;}]},&quot;currencyCode&quot;:&quot;MXN&quot;}}\"\n>\n\n\n    <svg class=\"icon-account-wishlist\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" fill-rule=\"evenodd\"><g class=\"shape\" fill=\"#D52B1E\"><g><g><path d=\"M1.846 24.154c0-.68.548-1.23 1.23-1.23H22.77c.68 0 1.231.545 1.231 1.23 0 .68-.548 1.23-1.23 1.23H3.076c-.68 0-1.23-.546-1.23-1.23zm0-7.385c0-.68.712-1.23 1.576-1.23h19.003c.87 0 1.575.546 1.575 1.23 0 .68-.712 1.231-1.575 1.231H3.422c-.87 0-1.576-.546-1.576-1.23zm9.611-7.384c0-.68.548-1.231 1.23-1.231H22.77c.68 0 1.231.546 1.231 1.23 0 .68-.548 1.231-1.23 1.231H12.687c-.68 0-1.23-.546-1.23-1.23zM4.467 2c.68 0 1.231.548 1.231 1.23v1.942H8c.68 0 1.23.546 1.23 1.23 0 .68-.547 1.232-1.23 1.232l-2.302-.001V10c0 .68-.546 1.23-1.23 1.23-.68 0-1.231-.547-1.231-1.23l-.001-2.367H1.231C.55 7.634 0 7.088 0 6.404c0-.68.548-1.23 1.23-1.23l2.006-.001V3.231C3.237 2.55 3.784 2 4.469 2z\" transform=\"translate(-24 -124) translate(24 122)\"/></g></g></g></g></svg>\n\n<span class=\"product-tile--addto-text add-to-shopinglist--text\">Lista</span>\n</button>\n\n\n</div>\n\n\n\n</div>\n\n<a href=\"/pure-de-mantequilla-verde-valle-80-gr/11089764.html\" data-cbt=\"{&quot;selector&quot;:&quot;#quickViewModal .full-pdp-link&quot;,&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;add,link,click,hover&quot;,&quot;action&quot;:&quot;QVP See Details&quot;,&quot;label&quot;:&quot;Pur&eacute; De Mantequilla Verde Valle 80 Gr&quot;}\"\nclass=\"btn btn-outline-primary btn-see-full-product font-primary--bold\"\naria-label=\"Ver detalle completo\">\n<span>Ver detalle completo</span>\n</a>\n\n\n\n</div>\n\n\n<div class=\"confirm-action\">\n<span class=\"confirm d-none\">\n&iquest;Deseas eliminar este producto de tu carrito?\n</span>\n<label class=\"btn btn-sm btn-danger bg-white d-none\" data-option=\"no\">\nNo\n</label>\n<label class=\"btn btn-sm btn-success d-none\" data-option=\"yes\">\nS&iacute;\n</label>\n<span class=\"message\"></span>\n</div>\n\n\n\n</div>\n</div>\n</div>\n\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+                "productUrl": "/pure-de-mantequilla-verde-valle-80-gr/11089764.html"
+            },
+            "categoryPosition": 161
+        },
+        {
+            "position": 3,
+            "productId": "1198946",
+            "productName": "Puré De Papa Precocido Verde Valle 160 Gr",
+            "detail": {
+                "action": "Product-ShowQuickView",
+                "queryString": "pid=1198946",
+                "locale": "default",
+                "product": {
+                    "uuid": "d3a6c49c2c55feaa501f132d13",
+                    "id": "1198946",
+                    "productName": "Puré De Papa Precocido Verde Valle 160 Gr",
+                    "productType": "standard",
+                    "brand": "Verde Valle",
+                    "price": {
+                        "sales": {
+                            "value": 19.5,
+                            "currency": "MXN",
+                            "formatted": "$19.50",
+                            "decimalPrice": "19.50"
+                        },
+                        "list": null
+                    },
+                    "images": {
+                        "large": [
+                            {
+                                "index": "0",
+                                "alt": "Puré De Papa Precocido Verde Valle 160 Gr",
+                                "title": "Puré De Papa Precocido Verde Valle 160 Gr",
+                                "url": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw9b87d113/images/product/7501071301629_A.jpg?sw=1000&sh=1000&sm=fit",
+                                "absURL": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw9b87d113/images/product/7501071301629_A.jpg?sw=1000&sh=1000&sm=fit"
+                            }
+                        ],
+                        "small": [
+                            {
+                                "index": "0",
+                                "alt": "Puré De Papa Precocido Verde Valle 160 Gr",
+                                "title": "Puré De Papa Precocido Verde Valle 160 Gr",
+                                "url": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw9b87d113/images/product/7501071301629_A.jpg?sw=400&sh=400&sm=fit",
+                                "absURL": "https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw9b87d113/images/product/7501071301629_A.jpg?sw=400&sh=400&sm=fit"
+                            }
+                        ]
+                    },
+                    "selectedQuantity": 1,
+                    "minOrderQuantity": "1.00",
+                    "maxOrderQuantity": 24,
+                    "variationAttributes": null,
+                    "longDescription": null,
+                    "shortDescription": "Puré De Papa Precocido Verde Valle 160 Gr",
+                    "rating": 5,
+                    "promotions": null,
+                    "attributes": [
+                        {
+                            "ID": "Despensa",
+                            "name": "Despensa",
+                            "attributes": [
+                                {
+                                    "id": "ingredients",
+                                    "label": "Ingredientes",
+                                    "value": [
+                                        {}
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "availability": {
+                        "messages": [
+                            "In Stock"
+                        ],
+                        "inStockDate": null
+                    },
+                    "available": true,
+                    "isPreOrder": false,
+                    "options": [],
+                    "quantities": [
+                        {
+                            "value": "1",
+                            "selected": true,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=1"
+                        },
+                        {
+                            "value": "2",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=2"
+                        },
+                        {
+                            "value": "3",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=3"
+                        },
+                        {
+                            "value": "4",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=4"
+                        },
+                        {
+                            "value": "5",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=5"
+                        },
+                        {
+                            "value": "6",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=6"
+                        },
+                        {
+                            "value": "7",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=7"
+                        },
+                        {
+                            "value": "8",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=8"
+                        },
+                        {
+                            "value": "9",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=9"
+                        },
+                        {
+                            "value": "10",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=10"
+                        },
+                        {
+                            "value": "11",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=11"
+                        },
+                        {
+                            "value": "12",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=12"
+                        },
+                        {
+                            "value": "13",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=13"
+                        },
+                        {
+                            "value": "14",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=14"
+                        },
+                        {
+                            "value": "15",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=15"
+                        },
+                        {
+                            "value": "16",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=16"
+                        },
+                        {
+                            "value": "17",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=17"
+                        },
+                        {
+                            "value": "18",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=18"
+                        },
+                        {
+                            "value": "19",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=19"
+                        },
+                        {
+                            "value": "20",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=20"
+                        },
+                        {
+                            "value": "21",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=21"
+                        },
+                        {
+                            "value": "22",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=22"
+                        },
+                        {
+                            "value": "23",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=23"
+                        },
+                        {
+                            "value": "24",
+                            "selected": false,
+                            "url": "/on/demandware.store/Sites-Soriana-Site/default/Product-Variation?pid=1198946&quantity=24"
+                        }
+                    ],
+                    "sizeChartId": null,
+                    "selectedProductUrl": "/pure-de-papa-precocido-verde-valle-160-gr/1198946.html?%2Fpure-de-papa-precocido-verde-valle-160-gr%2F1198946.html=undefined&quantity=undefined",
+                    "readyToOrder": true,
+                    "online": true,
+                    "pageTitle": null,
+                    "pageDescription": null,
+                    "pageKeywords": null,
+                    "pageMetaTags": [
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {},
+                        {}
+                    ],
+                    "template": null,
+                    "dualUnitData": {
+                        "salesUnit": "pza"
+                    },
+                    "defaultQuantity": "1.00",
+                    "category": {
+                        "id": "pure-instantaneo",
+                        "displayName": "Puré instantaneo",
+                        "url": "/despensa/cremas-sopas-y-pures/pure-instantaneo/"
+                    },
+                    "canonicalLink": null,
+                    "EAN": "7501071301629",
+                    "model": "",
+                    "ingredients": {},
+                    "storeSupply": false,
+                    "tab1Name": "Descripción",
+                    "tab2Name": "Características",
+                    "tab1Content": "",
+                    "tab2Content": "<table class=\"table table-striped\" cellspacing=\"10\" cellpadding=\"10\" ><tr width=\"50%\"><td><b>Categoría</b></td><td>Puré instantaneo</td></tr><tr width=\"50%\"><td><b>Marca</b></td><td>Verde Valle</td></tr><tr width=\"50%\"><td><b>Tipo</b></td><td>Natural</td></tr><tr width=\"50%\"><td><b>Presentación</b></td><td>Bolsa Standup con zipper</td></tr><tr width=\"50%\"><td><b>Contenido Neto</b></td><td>160 g</td></tr><tr width=\"50%\"><td><b>Ingredientes</b></td><td>Papa deshidratada, mono y diglicéridos, pirofosfato diosódico, ácido cítrico,metabisulfito de sodio y BHA.</td></tr><tr width=\"50%\"><td><b>Azúcares totales</b></td><td>0g</td></tr><tr width=\"50%\"><td><b>Carbohidratos</b></td><td>11.7g</td></tr><tr width=\"50%\"><td><b>Energía por porción</b></td><td>74,9</td></tr><tr width=\"50%\"><td><b>Fibra</b></td><td>2.7g</td></tr><tr width=\"50%\"><td><b>Grasa Saturada</b></td><td>0.3g</td></tr><tr width=\"50%\"><td><b>Grasas Totales</b></td><td>2.1g</td></tr><tr width=\"50%\"><td><b>Grasas Trans</b></td><td>0g</td></tr><tr width=\"50%\"><td><b>Otras Grasas</b></td><td>0g</td></tr><tr width=\"50%\"><td><b>Proteínas</b></td><td>2.3g</td></tr><tr width=\"50%\"><td><b>Sodio</b></td><td>312mg</td></tr><tr width=\"50%\"><td><b>Porciones por Envase</b></td><td>8</td></tr><tr width=\"50%\"><td><b>Tamaño de la porción</b></td><td>100g</td></tr></table>",
+                    "maturation": false,
+                    "thickness": false,
+                    "newStampFlag": false,
+                    "newStampDate": null,
+                    "exclusiveStampFlag": false,
+                    "exclusiveStampDate": null,
+                    "onlineStampFlag": false,
+                    "onlineStampDate": null,
+                    "badges": [],
+                    "hasActiveCoupon": false,
+                    "recommendations": {},
+                    "pliAvailabilityMessages": []
+                },
+                "addToCartUrl": {},
+                "resources": {
+                    "info_selectforstock": "Select Styles for Availability",
+                    "assistiveSelectedText": "seleccionado"
+                },
+                "quickViewFullDetailMsg": "View Full Details",
+                "closeButtonText": "Cerrar la vista rápida de diálogo",
+                "enterDialogMessage": "Inicio de la ventana de diálogo vista rápida. Seleccione cerrar para cancelar y cerrar la ventana.",
+                "template": "product/quickView.isml",
+                "availableByIds": {
+                    "1198946": true
+                },
+                "available": true,
+                "productId": "1198946",
+                "isPreOrder": false,
+                "readyToOrder": true,
+                "displayAddCart": true,
+                "minOrderQuantity": "1.00",
+                "maxOrderQuantity": 24,
+                "defaultQuantity": "1.00",
+                "isQuickView": true,
+                "showQuantity": true,
+                "isEditProduct": false,
+                "actionUrls": {
+                    "removeProductLineItemUrl": "/on/demandware.store/Sites-Soriana-Site/default/Cart-RemoveProductLineItem",
+                    "updateQuantityUrl": "/on/demandware.store/Sites-Soriana-Site/default/Cart-UpdateQuantity"
+                },
+                "productBasket": {},
+                "renderedTemplate": "\n\n\n\n\n\n\n<div class=\"has-custom-scrollbar\">\n<div class=\"product-quickview product-standard product-wrapper product-detail\" data-pid=\"1198946\" data-update=\"false\">\n<div data-cbt=\"{&quot;selector&quot;:&quot;#quickViewModal .close&quot;,&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;add,link,click,hover&quot;,&quot;action&quot;:&quot;QVP Close&quot;,&quot;label&quot;:&quot;Pur&eacute; De Papa Precocido Verde Valle 160 Gr&quot;}\"></div>\n<div data-cbt=\"{&quot;selector&quot;:&quot;#quickViewModal .close span&quot;,&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;add,link,click,hover&quot;,&quot;action&quot;:&quot;QVP Close&quot;,&quot;label&quot;:&quot;Pur&eacute; De Papa Precocido Verde Valle 160 Gr&quot;}\"></div>\n<div data-cbt=\"{&quot;selector&quot;:&quot;#quickViewModal .full-pdp-link&quot;,&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;add,link,click,hover&quot;,&quot;action&quot;:&quot;QVP See Details&quot;,&quot;label&quot;:&quot;Pur&eacute; De Papa Precocido Verde Valle 160 Gr&quot;}\"></div>\n<div class=\"product-quickview-content d-flex\">\n<div class=\"product-quickview-info w-100\">\n<div class=\"row product-detail__container_qv\">\n\n\n\n<div class=\"col-10 col-lg-6 d-lg-none\">\n\r\n\r\n    <h1 class=\"product-name\">Pur&eacute; De Papa Precocido Verde Valle 160 Gr</h1>\r\n\r\n\r\n\r\n\r\n    <a href=\"/buscar?q=Verde%20Valle\">\r\n        <h2 class=\"product-brand\">Verde Valle</h2>\r\n    </a>\r\n\r\n\n</div>\n<div class=\"col-12 col-lg-6 product-detail__images-container\">\n\n<div class=\"primary-images\">\n\n    \n\n    \n    \n    \n\n    \n    \n    \n\n    \n    \n    \n\n    <div id=\"pdpCarousel-1198946\" class=\"product-details__images-carousel carousel slide\" data-interval=\"0\" data-prev=\"Previous\" data-next=\"Next\">\n        \n\n        <div class=\"carousel-inner xzoom-wrapper w-auto\">\n            \n                \n                    <div class='carousel-item active'>\n\n                        <div class=\"col-6 mt-4 container-stamp-product\">\n                            \n                            \n                            \n                        </div>\n\n                        <img src=\"https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw9b87d113/images/product/7501071301629_A.jpg?sw=1000&amp;sh=1000&amp;sm=fit\"\n                            class=\"d-block img-fluid xzoom content-visibility-auto\"\n                            xoriginal=\"https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dw9b87d113/images/product/7501071301629_A.jpg?sw=1000&amp;sh=1000&amp;sm=fit\"\n                            alt=\"Pur&eacute; De Papa Precocido Verde Valle 160 Gr image number 0\"\n                            title=\"Pur&eacute; De Papa Precocido Verde Valle 160 Gr image number 0\"\n                            data-hover=\"0\"\n                            data-cbt=\"{&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;hover,click&quot;,&quot;action&quot;:&quot;QVP Image&quot;,&quot;label&quot;:&quot;Pur&eacute; De Papa Precocido Verde Valle 160 Gr&quot;}\"\n                            decoding=\"async\" width=\"445px\" height=\"445px\" />\n                    </div>\n                \n            \n        </div>\n    </div>\n</div>\n\n\n\n\n<div class=\"badges\">\n\n\n\n\n\n\n\n</div>\n\n</div>\n<div class=\"col-12 col-lg-6 product-detail__details-container\">\n\n<div class=\"d-none d-lg-block\">\n\r\n\r\n    <h1 class=\"product-name\">Pur&eacute; De Papa Precocido Verde Valle 160 Gr</h1>\r\n\r\n\r\n\r\n\r\n    <a href=\"/buscar?q=Verde%20Valle\">\r\n        <h2 class=\"product-brand\">Verde Valle</h2>\r\n    </a>\r\n\r\n\n</div>\n\n\n\n<div class=\"carousel-badges badges-promo-msg badges-color badge-inline\">\n<div class=\"carousel-inner\">\n\n\n\n\n\n\n\n</div>\n</div>\n<div class=\"badges-promo-msg d-lg-block\">\n\n</div>\n\n\n<div class=\"prices_qv move-to-right text-left pt-0\">\n\n\n\n\n    <div class=\"price text-right\">\n        \n        \n            \n\n\n\n\n\n<div class=\"\">\n\n\n\n<div class=\"sales d-flex flex-row-reverse\">\n\n\n\n\n<span class=\"value\" content=\"19.50\">\n\n\n\n<span class=\"font-primary--bold  font-size-14 px-1 cart-price price-plp\">\n    \n        $19.50\n    \n</span>\n\n\n</span>\n</div>\n</div>\n        \n    </div>\n\n\n</div>\n<div class=\"attributes p-0\">\n\n\n<div class=\"attributes-variations-section\" id=\"attributes-variations-section\">\n\n</div>\n</div>\n<div class=\"add-to-cart-elements-wrapper mt-2\">\n\n\n<!-- Cart and [Optionally] Apple Pay -->\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\n<div class=\"cart-and-ipay\">\n<div class=\"add-to-cart\" data-pid=\"1198946\" data-endpoint-update-quantity=\"/on/demandware.store/Sites-Soriana-Site/default/Cart-UpdateQuantity\" data-endpoint-add-to-cart=\"/on/demandware.store/Sites-Soriana-Site/default/Cart-AddProduct\">\n\n<div class=\"quantity text-left js_quantity-container p-2\">\n\n<div class=\"d-flex flex-wrap justify-content-center justify-content-lg-start text-center js_quantity-container align-items-center\" data-min-quantity=\"1.00\" data-max-quantity=\"24.0\">\n<button class=\"js_product-update-quantity tile-update-quantity decrease\" aria-label=\"Disminuci&oacute;n\" data-decrease=\"true\" >\n\n\n    <svg  xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"> <g fill=\"none\" fill-rule=\"evenodd\"> <g fill=\"#4D4F53\" transform=\"translate(-1437 -648)\"> <rect width=\"18\" height=\"2\" x=\"3\" y=\"11\" rx=\"1\" transform=\"translate(1437 648)\"/> </g> </g></svg>\n\n</button>\n<div class=\"js_itemquantity itemquantity itemquantity-1198946\">\n\n<input type=\"number\" id=\"quantity-input-1198946\" name=\"quantity\" class=\"tile-input-quantity-product quantity tile-input-quantity js_tile-input-quantity\" data-min-quantity=\"1.00\"\nvalue=\"1.00\"\npattern=\"[0-9]*\" inputmode=\"decimal\"\n>\n<label for=\"quantity-input-1198946\" class=\"sr-only\">Cantidad</label>\n</div>\n<button class=\"js_product-update-quantity tile-update-quantity increase\" aria-label=\"Incrementar\" data-decrease=\"false\">\n\n\n    <svg  xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"> <g fill=\"none\" fill-rule=\"evenodd\"> <g fill=\"#4D4F53\"> <path d=\"M13 4c0-.555-.448-1-1-1-.556 0-1 .448-1 1v7H4c-.555 0-1 .448-1 1 0 .556.448 1 1 1h7v7c0 .555.448 1 1 1 .556 0 1-.448 1-1v-7h7c.555 0 1-.448 1-1 0-.556-.448-1-1-1h-7V4z\" transform=\"translate(-1341 -648) translate(1341 648)\"/> </g> </g></svg>\n\n<div class=\"itemquantity__msg increase-quantity-max-msg\">\n<div class=\"arrow\"></div>\n<span class=\"error-message\"></span>\n</div>\n</button>\n\n\n\n\n    <span class=\"single-unit-label js-unit-label\" data-measurement-unit=\"pza\">\n        \n        Pza(s)\n    </span>\n\n\n\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\n\n<div class=\"d-flex align-items-center product-tile--addto-wrapper\">\n<button\nclass=\"d-flex product-tile--addto-action product-tile--addto-wishlist wishlistTile btn button button--primary-transparent \"\ndata-url=\"https://www.soriana.com/on/demandware.store/Sites-Soriana-Site/default/ShopingList-AddProduct\"\ndata-pid=\"1198946\"\n>\n\n\n    <svg class=\"icon-heart\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\"><g fill=\"none\" fill-rule=\"evenodd\"><g class=\"shape\" fill=\"#BCC3CC\"><g><g style=\"mix-blend-mode:multiply\"><g><g><path d=\"M2.667 6c0 2.083 2.04 4.6 5.337 6.756C11.3 10.6 13.334 8.136 13.334 6c0-1.473-1.195-2.667-2.667-2.667-.667 0-1.292.244-1.778.679l-.641.574c-.137.123-.357.124-.496 0l-.641-.574C6.625 3.577 6 3.333 5.333 3.333 3.861 3.333 2.667 4.527 2.667 6zM8 3.019C8.708 2.385 9.642 2 10.667 2c2.209 0 4 1.79 4 4 0 3.224-3.338 6.333-6.384 8.158-.155.096-.409.097-.564 0C4.652 12.342 1.333 9.225 1.333 6c0-2.21 1.791-4 4-4C6.358 2 7.293 2.385 8 3.019z\" transform=\"translate(-189 -838) translate(167 230) translate(0 172) translate(0 372) translate(18 64) translate(4)\"/></g></g></g></g></g></g></svg>\n\n<span class=\"product-tile--addto-text add-to-wishlist--text\">Fav</span>\n</button>\n<input type=\"hidden\" class=\"csrf-token\" name=\"csrf_token\" value=\"k1XEXrqmEO356Lpa2taZt1MQHqgaAJOFVYTtCXJ2MGAAEyb9eEilL2wexF8TZb3lQFjY3A7huQeUNT6UIYy1dvO9QLEEUvTffQSlSNUyJAGsUGU8eCAWvVs4WGVEGhxJvxKqmGJyQaT5hQM-V-tVRWFE6b-5621fHzLTcS0zx7xPxA8hkA8=\"/>\n\n<button class=\"d-flex btn product-tile--addto-action product-tile--addto-shopinglist add-to-shopinglist shopping-list-tile\" href=\"#\"\ndata-url=\"https://www.soriana.com/on/demandware.store/Sites-Soriana-Site/default/ShopingList-RenderProductAdd\"\ndata-pid=\"1198946\"\ndata-target=\"#shoppinglistmodal\"\ndata-cbt=\"{&quot;event&quot;:&quot;showProductClick&quot;,&quot;eventTypes&quot;:&quot;click&quot;,&quot;ecommerce&quot;:{&quot;click&quot;:{&quot;actionField&quot;:{&quot;list&quot;:&quot;Search Results&quot;},&quot;products&quot;:[{&quot;category&quot;:&quot;Despensa/Cremas, sopas y pur&eacute;s/Pur&eacute; instantaneo&quot;,&quot;name&quot;:&quot;Pur&eacute; De Papa Precocido Verde Valle 160 Gr&quot;,&quot;price&quot;:19.5,&quot;id&quot;:&quot;1198946&quot;,&quot;variant&quot;:&quot;&quot;,&quot;brand&quot;:&quot;Verde Valle&quot;,&quot;position&quot;:&quot;&quot;}]},&quot;currencyCode&quot;:&quot;MXN&quot;}}\"\n>\n\n\n    <svg class=\"icon-account-wishlist\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" fill-rule=\"evenodd\"><g class=\"shape\" fill=\"#D52B1E\"><g><g><path d=\"M1.846 24.154c0-.68.548-1.23 1.23-1.23H22.77c.68 0 1.231.545 1.231 1.23 0 .68-.548 1.23-1.23 1.23H3.076c-.68 0-1.23-.546-1.23-1.23zm0-7.385c0-.68.712-1.23 1.576-1.23h19.003c.87 0 1.575.546 1.575 1.23 0 .68-.712 1.231-1.575 1.231H3.422c-.87 0-1.576-.546-1.576-1.23zm9.611-7.384c0-.68.548-1.231 1.23-1.231H22.77c.68 0 1.231.546 1.231 1.23 0 .68-.548 1.231-1.23 1.231H12.687c-.68 0-1.23-.546-1.23-1.23zM4.467 2c.68 0 1.231.548 1.231 1.23v1.942H8c.68 0 1.23.546 1.23 1.23 0 .68-.547 1.232-1.23 1.232l-2.302-.001V10c0 .68-.546 1.23-1.23 1.23-.68 0-1.231-.547-1.231-1.23l-.001-2.367H1.231C.55 7.634 0 7.088 0 6.404c0-.68.548-1.23 1.23-1.23l2.006-.001V3.231C3.237 2.55 3.784 2 4.469 2z\" transform=\"translate(-24 -124) translate(24 122)\"/></g></g></g></g></svg>\n\n<span class=\"product-tile--addto-text add-to-shopinglist--text\">Lista</span>\n</button>\n\n\n</div>\n\n\n</div>\n</div>\n\n\n<div class=\"d-flex flex-column flex-lg-row btn-add-to-cart--wrapper\">\n\n\n\n\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\n\n\n\n<div class=\"cart-and-ipay \" data-e=\"[1,&quot;&quot;,&quot;1.00&quot;,&quot;1.00&quot;,24,{&quot;idx&quot;:1,&quot;kgs&quot;:1,&quot;pzaToKgs&quot;:1,&quot;pzaToKgsCheck&quot;:1,&quot;maxIdx&quot;:24,&quot;formatKgs&quot;:1,&quot;formatPza&quot;:1}]\">\n<div class=\"add-to-cart d-flex align-items-start expand-content align-button\" data-pid=\"1198946\"\ndata-endpoint-update-quantity=\"/on/demandware.store/Sites-Soriana-Site/default/Cart-UpdateQuantity\"\ndata-endpoint-add-to-cart=\"/on/demandware.store/Sites-Soriana-Site/default/Cart-AddProduct\"\ndata-uuid=\"null\"\ndata-action=\"\"\ndata-dual-factor=\"1.0\"\ndata-min-quantity=\"1.00\"\ndata-max-quantity=\"24.0\"\ndata-bskuuid=\"null\"\n>\n\n\n<div class=\"section-add-area-control quantity expand-content min-btn-add text-left js_quantity-container butQuantity\" style=\"\">\n\n<div class=\"d-flex flex-wrap justify-content-around text-center js_quantity-container align-items-center\"\ndata-min-quantity=\"1.00\" data-max-quantity=\"24.0\">\n<button class=\"js_product-update-quantity tile-update-quantity decrease\" aria-label=\"decrease cart\"\ndata-decrease=\"true\"\n\n>\n\n\n    <svg  xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"> <g fill=\"none\" fill-rule=\"evenodd\"> <g fill=\"#4D4F53\" transform=\"translate(-1437 -648)\"> <rect width=\"18\" height=\"2\" x=\"3\" y=\"11\" rx=\"1\" transform=\"translate(1437 648)\"/> </g> </g></svg>\n\n</button>\n\n\n<span data-uuid=\"null\" data-pid=\"1198946\" class=\"btn-icon-remove\" style=\"\">\n\n\n    <svg class=\"remove-btn__icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"> <g fill=\"none\" fill-rule=\"evenodd\"> <g class=\"shape\" fill=\"#4D4F53\"> <path d=\"M6.469 20.657h11.564c-.002 0-.002-11.329-.002-15.032H6.47v15.032zm13.875 0c0 1.277-1.037 2.312-2.31 2.312H6.466c-1.276 0-2.31-1.033-2.31-2.312V5.625C3.516 5.625 3 5.111 3 4.469c0-.639.514-1.157 1.157-1.157h5.78C9.938 2.035 10.973 1 12.25 1c1.277 0 2.313 1.035 2.313 2.313h5.78c.639 0 1.157.513 1.157 1.156 0 .638-.514 1.155-1.156 1.156v15.032zM13.406 9.09c0-.637.513-1.153 1.156-1.153.64 0 1.157.516 1.157 1.153v8.1c0 .636-.513 1.153-1.156 1.153-.64 0-1.157-.516-1.157-1.154v-8.1zm-4.625 0c0-.637.513-1.153 1.156-1.153.64 0 1.157.516 1.157 1.153v8.1c0 .636-.513 1.153-1.156 1.153-.64 0-1.157-.516-1.157-1.154v-8.1z\" transform=\"translate(-1053 -648) translate(1053 648)\"/> </g> </g></svg>\n\n</span>\n<button type=\"button\" class=\"btn remove-btn px-0 minicart-remove-product d-none remove-button-product-tile\" data-target=\"#removeProductModal\"\ndata-pid=\"null\" data-name=\"null\"\ndata-action=\"/on/demandware.store/Sites-Soriana-Site/default/Cart-RemoveProductLineItem\" data-uuid=\"null\"\ndata-cbt=\"{&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;link,click,hover&quot;,&quot;action&quot;:&quot;Minicart Remove&quot;,&quot;label&quot;:&quot;&quot;}\"\naria-label=\"Remove product undefined\">\n</button>\n\n\n<div class=\"js_itemquantity itemquantity itemquantity-1198946\">\n\n\n<input data-idx=\"1.0\" data-idx-default=\"1.0\" type=\"number\" id=\"quantity-input-1198946\" name=\"quantity\"\nclass=\"quantity change-font-size tile-input-quantity js_tile-input-quantity\"\ndata-min-quantity=\"1.00\"\nvalue=\"1\"\npattern=\"[0-9]*\" inputmode=\"decimal\"\ndata-conversion-factor=\"1.0\"\ndata-sales-unit-default=\"true\"\ndata-step-quantity=\"1.00\"\ndata-quantity-default=\"1.00\"\ndata-original-max-quantity=\"24.0\"\ndata-max-quantity=\"24.0\"\n>\n<label for=\"quantity-input-1198946\" class=\"sr-only\">Cantidad</label>\n</div>\n<button class=\"js_product-update-quantity tile-update-quantity increase\" aria-label=\"increment cart\"\ndata-decrease=\"false\"\n\n>\n\n\n    <svg  xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"> <g fill=\"none\" fill-rule=\"evenodd\"> <g fill=\"#4D4F53\"> <path d=\"M13 4c0-.555-.448-1-1-1-.556 0-1 .448-1 1v7H4c-.555 0-1 .448-1 1 0 .556.448 1 1 1h7v7c0 .555.448 1 1 1 .556 0 1-.448 1-1v-7h7c.555 0 1-.448 1-1 0-.556-.448-1-1-1h-7V4z\" transform=\"translate(-1341 -648) translate(1341 648)\"/> </g> </g></svg>\n\n<div class=\"itemquantity__msg increase-quantity-max-msg\">\n<div class=\"arrow\"></div>\n<span class=\"error-message\"></span>\n</div>\n</button>\n\n<span class=\"font-size-10 w-100 d-none\">en tu carrito</span>\n\n</div>\n\n\n\n\n    <span class=\"single-unit-label js-unit-label\" data-measurement-unit=\"pza\">\n        \n        Pza(s)\n    </span>\n\n\n\n\n</div>\n\n\n<div class=\"section-add-area-button container-add-to-cart-remaster d-flex flex-column-disabled flex-lg-row-disabled btn-add-to-cart--wrapper \" style=\"\" >\n\n\n\n\n\n<input type=\"hidden\" class=\"update-cart-url\" value=\"/on/demandware.store/Sites-Soriana-Site/default/Cart-EditProductLineItem\" data-selected-quantity=\"1.0\" data-selected-option=\"null\" data-uuid=\"null\">\n<button class=\"btn-add-to-cart-remaster d-inline-flex btn btn-primary button button--secondary-red m-0\" aria-label=\"add product to cart\"\ndata-pid=\"1198946\"\ndata-update=\"false\"\ndata-available=\"true\"\ndata-ready-to-order=\"true\"\ndata-uuid=\"null\"\n\ndata-operationtype=\"\"\n>\n<span class=\"btn-add-to-cart--text expand-btn\" data-text-pre-order=\"Reservar\"\ndata-text-updatecart=\"Actualizar\"\ndata-text-addtocart=\"Agregar\"\ndata-text-outofstock=\"Agotado en l&iacute;nea\">Agregar</span>\n</button>\n\n\n<button class=\"btn btn-primary button button--secondary-red btn-add-to-cart btn-add-to-cart-new d-none m-0\"\naria-label=\"add product to cart\"\ndata-cbt=\"{&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;hover,click&quot;,&quot;action&quot;:&quot;QVP Add To Cart&quot;,&quot;label&quot;:&quot;Pur&eacute; De Papa Precocido Verde Valle 160 Gr&quot;}\"\ndata-toggle=\"modal\" data-target=\"#chooseBonusProductModal\"\ndata-pid=\"1198946\"\ndata-update=\"false\"\ndata-available=\"true\"\ndata-ready-to-order=\"true\"\ndata-uuid=\"null\"\n\ndata-operationtype=\"\"\n>\n<span class=\"btn-add-to-cart--text\"\ndata-text-pre-order=\"Reservar\"\ndata-text-updatecart=\"Actualizar\"\ndata-text-addtocart=\"Agregar\"\ndata-text-outofstock=\"Agotado en l&iacute;nea\">Agregar</span>\n<div class=\"cart-icon \">\n\n\n    <svg class=\"btn-add-to-cart__icon\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" fill-rule=\"evenodd\"><g class=\"shape\" fill=\"#FFF\"><path d=\"M5.766 4.538l15.905.975c.551.031.915.499.814 1.037l-1.302 6.969c-.1.542-.63.981-1.182.981H8.066l.23 1H19.5c.552 0 1 .448 1 1s-.448 1-1 1h-12c-.466 0-.87-.321-.974-.775L3.633 4.19 2.07 3.405c-.494-.246-.695-.847-.448-1.341.246-.494.847-.695 1.341-.449l1.984.99c.268.133.461.38.528.67l.292 1.263zM19.339 12.5l.947-5.07-14.05-.86 1.368 5.93H19.34zm-1.839 10c-1.105 0-2-.895-2-2s.895-2 2-2 2 .895 2 2-.895 2-2 2zm-9 0c-1.105 0-2-.895-2-2s.895-2 2-2 2 .895 2 2-.895 2-2 2z\" transform=\"translate(-270 -21) translate(270 21)\"/></g></g></svg>\n\n</div>\n</button>\n\n</div>\n\n\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\n\n\n\n<div class=\"d-flex align-items-center product-tile--addto-wrapper\">\n<button\nclass=\"d-flex product-tile--addto-action product-tile--addto-wishlist wishlistTile btn button button--primary-transparent \"\ndata-url=\"https://www.soriana.com/on/demandware.store/Sites-Soriana-Site/default/ShopingList-AddProduct\"\ndata-pid=\"1198946\"\n>\n\n\n    <svg class=\"icon-heart\" xmlns=\"http://www.w3.org/2000/svg\" width=\"16\" height=\"16\" viewBox=\"0 0 16 16\"><g fill=\"none\" fill-rule=\"evenodd\"><g class=\"shape\" fill=\"#BCC3CC\"><g><g style=\"mix-blend-mode:multiply\"><g><g><path d=\"M2.667 6c0 2.083 2.04 4.6 5.337 6.756C11.3 10.6 13.334 8.136 13.334 6c0-1.473-1.195-2.667-2.667-2.667-.667 0-1.292.244-1.778.679l-.641.574c-.137.123-.357.124-.496 0l-.641-.574C6.625 3.577 6 3.333 5.333 3.333 3.861 3.333 2.667 4.527 2.667 6zM8 3.019C8.708 2.385 9.642 2 10.667 2c2.209 0 4 1.79 4 4 0 3.224-3.338 6.333-6.384 8.158-.155.096-.409.097-.564 0C4.652 12.342 1.333 9.225 1.333 6c0-2.21 1.791-4 4-4C6.358 2 7.293 2.385 8 3.019z\" transform=\"translate(-189 -838) translate(167 230) translate(0 172) translate(0 372) translate(18 64) translate(4)\"/></g></g></g></g></g></g></svg>\n\n<span class=\"product-tile--addto-text add-to-wishlist--text\">Fav</span>\n</button>\n<input type=\"hidden\" class=\"csrf-token\" name=\"csrf_token\" value=\"fJAQUg4W0USfOlBHWzYre2BTgOZq1RIaok3uP6QGa8Mqvcf1PkPM6_r8SznzWYNQDmorJASde2Ivq2NZceEpCT4O0RbXV7bWRfsyptPH5KBbRcWDD_HUq7UHsuEeF-kVabsGHR3X-BoU-nsYxKU8zpRKSWSzbP9XMYgAOAKJ2YuKFCMI9iA=\"/>\n\n<button class=\"d-flex btn product-tile--addto-action product-tile--addto-shopinglist add-to-shopinglist shopping-list-tile\" href=\"#\"\ndata-url=\"https://www.soriana.com/on/demandware.store/Sites-Soriana-Site/default/ShopingList-RenderProductAdd\"\ndata-pid=\"1198946\"\ndata-target=\"#shoppinglistmodal\"\ndata-cbt=\"{&quot;event&quot;:&quot;showProductClick&quot;,&quot;eventTypes&quot;:&quot;click&quot;,&quot;ecommerce&quot;:{&quot;click&quot;:{&quot;actionField&quot;:{&quot;list&quot;:&quot;Search Results&quot;},&quot;products&quot;:[{&quot;category&quot;:&quot;Despensa/Cremas, sopas y pur&eacute;s/Pur&eacute; instantaneo&quot;,&quot;name&quot;:&quot;Pur&eacute; De Papa Precocido Verde Valle 160 Gr&quot;,&quot;price&quot;:19.5,&quot;id&quot;:&quot;1198946&quot;,&quot;variant&quot;:&quot;&quot;,&quot;brand&quot;:&quot;Verde Valle&quot;,&quot;position&quot;:&quot;&quot;}]},&quot;currencyCode&quot;:&quot;MXN&quot;}}\"\n>\n\n\n    <svg class=\"icon-account-wishlist\" xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><g fill=\"none\" fill-rule=\"evenodd\"><g class=\"shape\" fill=\"#D52B1E\"><g><g><path d=\"M1.846 24.154c0-.68.548-1.23 1.23-1.23H22.77c.68 0 1.231.545 1.231 1.23 0 .68-.548 1.23-1.23 1.23H3.076c-.68 0-1.23-.546-1.23-1.23zm0-7.385c0-.68.712-1.23 1.576-1.23h19.003c.87 0 1.575.546 1.575 1.23 0 .68-.712 1.231-1.575 1.231H3.422c-.87 0-1.576-.546-1.576-1.23zm9.611-7.384c0-.68.548-1.231 1.23-1.231H22.77c.68 0 1.231.546 1.231 1.23 0 .68-.548 1.231-1.23 1.231H12.687c-.68 0-1.23-.546-1.23-1.23zM4.467 2c.68 0 1.231.548 1.231 1.23v1.942H8c.68 0 1.23.546 1.23 1.23 0 .68-.547 1.232-1.23 1.232l-2.302-.001V10c0 .68-.546 1.23-1.23 1.23-.68 0-1.231-.547-1.231-1.23l-.001-2.367H1.231C.55 7.634 0 7.088 0 6.404c0-.68.548-1.23 1.23-1.23l2.006-.001V3.231C3.237 2.55 3.784 2 4.469 2z\" transform=\"translate(-24 -124) translate(24 122)\"/></g></g></g></g></svg>\n\n<span class=\"product-tile--addto-text add-to-shopinglist--text\">Lista</span>\n</button>\n\n\n</div>\n\n\n\n</div>\n\n<a href=\"/pure-de-papa-precocido-verde-valle-160-gr/1198946.html\" data-cbt=\"{&quot;selector&quot;:&quot;#quickViewModal .full-pdp-link&quot;,&quot;event&quot;:&quot;eventCBT&quot;,&quot;eventTypes&quot;:&quot;add,link,click,hover&quot;,&quot;action&quot;:&quot;QVP See Details&quot;,&quot;label&quot;:&quot;Pur&eacute; De Papa Precocido Verde Valle 160 Gr&quot;}\"\nclass=\"btn btn-outline-primary btn-see-full-product font-primary--bold\"\naria-label=\"Ver detalle completo\">\n<span>Ver detalle completo</span>\n</a>\n\n\n\n</div>\n\n\n<div class=\"confirm-action\">\n<span class=\"confirm d-none\">\n&iquest;Deseas eliminar este producto de tu carrito?\n</span>\n<label class=\"btn btn-sm btn-danger bg-white d-none\" data-option=\"no\">\nNo\n</label>\n<label class=\"btn btn-sm btn-success d-none\" data-option=\"yes\">\nS&iacute;\n</label>\n<span class=\"message\"></span>\n</div>\n\n\n\n</div>\n</div>\n</div>\n\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+                "productUrl": "/pure-de-papa-precocido-verde-valle-160-gr/1198946.html"
+            },
+            "categoryPosition": 216
+        }
+    ],
+    "classifier": "cremas-sopas-y-pures__pure-instantaneo",
+    "dateExtraccion": "28-07-2022-01-37-30"
+}

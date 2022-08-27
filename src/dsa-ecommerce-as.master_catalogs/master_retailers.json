@@ -1,0 +1,37 @@
+[{
+    "master_retailer_id": "1",
+    "retailer_normalized": "bodega-aurrera"
+  }, {
+    "master_retailer_id": "2",
+    "retailer_normalized": "calimax"
+  }, {
+    "master_retailer_id": "3",
+    "retailer_normalized": "casaley"
+  }, {
+    "master_retailer_id": "4",
+    "retailer_normalized": "chedrahui"
+  }, {
+    "master_retailer_id": "5",
+    "retailer_normalized": "heb"
+  }, {
+    "master_retailer_id": "6",
+    "retailer_normalized": "soriana"
+  }, {
+    "master_retailer_id": "7",
+    "retailer_normalized": "walmart-super"
+  }, {
+    "master_retailer_id": "8",
+    "retailer_normalized": "walmart-express"
+  }, {
+    "master_retailer_id": "9",
+    "retailer_normalized": "carulla"
+  }, {
+    "master_retailer_id": "10",
+    "retailer_normalized": "walmart-super"
+  }, {
+    "master_retailer_id": "11",
+    "retailer_normalized": "exito"
+  }, {
+    "master_retailer_id": "12",
+    "retailer_normalized": "olimpica"
+  }]
