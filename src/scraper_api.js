@@ -1,20 +1,104 @@
-const scraperapiClient = require('scraperapi-sdk')('51d5aa11c839a3f5b61bd6b245967206')
+//const scraperapiClient = require('scraperapi-sdk')('51d5aa11c839a3f5b61bd6b245967206')
+const { default: axios } = require("axios");
+let request = require("request-promise");
+const proxyList = require("./proxy/proxyList");
+const urlPetition = 'https://www.bodegaaurrera.com.mx';
 //
-const getPetitionFromProxyApi = async (urlPetition, counter = 0) => {
+const getProxyData = () => {
+    const proxies = proxyList;
+    const randomNumber = Math.floor(Math.random() * proxies.length);
+    const proxyItem = proxies[randomNumber];
+    const proxy = {
+        ip: proxyItem.ip,
+        port: proxyItem.port,
+        username: proxyItem.username,
+        password: proxyItem.password,
+    };
+    return proxy;
+};
+
+const gerCookies = async (urlAxios) => {
     try {
-        console.log('urlPetition', urlPetition);
-        const response = await scraperapiClient.get(urlPetition);
-        const dataReturn = JSON.parse(response);
-        console.error('Ok ...');
-        return dataReturn;
+        
+        const cookieJar = request.jar();
+        const proxy = getProxyData();
+        const urlProxy = `http://${proxy.username}:${proxy.password}@${proxy.ip}:${proxy.port}`;
+        request = request.defaults({
+            method: 'GET',
+            proxy: urlProxy,
+            jar: cookieJar
+        })
+        const result = await request(urlAxios)
+        const cookies = cookieJar.getCookieString(urlAxios);
+        return cookies;
+    }
+    catch (error) {
+        console.error('error:', error.message)
+        return ""
+    }
+}
+
+const getPetitionFromProxyApi = async (urlAxios, counter = 0) => {
+    try {
+        const proxy = getProxyData();
+        const cookies = await gerCookies(urlAxios);
+        console.log('cookies:', cookies);  
+        const headers = {
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "Accept-Encoding": "gzip, deflate, br",
+            "Accept-Language": "es-ES,es;q=0.9",
+            "Connection": "keep-alive",
+            "Host": "www.bodegaaurrera.com.mx",
+            "Referer": "https://www.bodegaaurrera.com.mx/",
+            cookie: cookies,
+            "sec-ch-ua-platform": "Windows",
+            "Sec-Fetch-Mode": "cors",
+            "Sec-Fetch-Site": "same-origin",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.62 Safari/537.36"
+        };
+        console.log("urlAxios:", urlAxios);
+        const response = await axios({
+            method: "get",
+            url: urlAxios,
+            headers,
+            proxy: {
+                host: proxy.ip,
+                port: proxy.port,
+                auth: { username: proxy.username, password: proxy.password }
+            }
+        });
+        console.log("response code:", response.status);
+        const result = response.data;
+        return {
+            Ok: true,
+            message: "Valid get Bodega Aurrera",
+            status: response.status,
+            result,
+            resultError: ""
+        };
     } catch (error) {
         console.log('error:', error.message);
+        let resultError = "", status = "";
+        if (error.code === 'ECONNRESET' || error.code === 'ETIMEDOUT') {
+            status = 502;
+            resultError = error.message;
+        } else {
+            console.log('response code:', error.response.status);
+            status = error.response.status;
+            resultError = error.response.data;
+        };
         counter += 1;
-        console.error('counter:', counter);
-        //if (counter <= 10) {
-        return await getPetitionFromProxyApi(urlPetition, counter);
-        //}
-        //return {};
+        if (counter <= 10) {
+            return await getPetitionFromProxyApi(urlAxios, counter);
+        }
+        return {
+            Ok: false,
+            message: `Error get Bodega Aurrera: ${error.message}`,
+            status,
+            result: [],
+            resultError
+        };
     }
 };
 //

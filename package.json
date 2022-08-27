@@ -4,8 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/app.js",
-    "startTest": "node src/scraper_api.js"
+    "start": "node src/appExito.js",
+    "startTestPu": "node src/app_pu.js",
+    "startTestPw": "node src/app_pw.js",
+    "startTestCk": "node src/get_cookie.js",
+    "startTestCk02": "node src/get_cookie_02.js",
+    "startTestCk03": "node src/scraper_api.js",
+    "startTestLogs": "node src/app_logs.js"
+
   },
   "author": "GMS",
   "license": "ISC",
@@ -13,8 +19,11 @@
     "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.10",
     "hpagent": "^1.0.0",
+    "playwright": "^1.22.2",
     "puppeteer": "^8.0.0",
     "query-selector-shadow-dom": "^1.0.0",
+    "random-useragent": "^0.5.0",
+    "request-promise": "^4.2.6",
     "scraperapi-sdk": "^1.0.6"
   },
   "devDependencies": {
