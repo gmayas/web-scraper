@@ -2,7 +2,11 @@ const puppeteer = require('puppeteer');
 const proxyList = require("./proxy/proxyList");
 const fs = require("fs");
 const path = require("path");
-const urlPetition = 'https://www.exito.com/';
+//const urlPetition = 'https://www.exito.com/';
+const urlPetition = 'https://www.exito.com/moda-y-accesorios/bodys-y-enterizos-bebe-nino-nina';
+//const urlPetition = 'https://www.carulla.com/';
+//const urlPetition = 'https://www.chedraui.com.mx/';
+
 
 const getProxyData = () => {
   const proxies = proxyList;
@@ -19,7 +23,7 @@ const getProxyData = () => {
 
 const saveLog = async (data) => {
   try {
-      const fileName = `PU.log`;
+      const fileName = `PU-mercado-lacteos-huevos-y-refrigerados-huevos.log`;
       const content = `${data}\n`;
       const filePath = path.join(__dirname, `/logs/${fileName}`);
       fs.appendFileSync(filePath, content, "utf-8");
@@ -52,14 +56,25 @@ const saveLog = async (data) => {
   await page.setRequestInterception(true)
   page.on('request', async (request) => {
       //console.log('request: ', request.method(), request.url());
-      await saveLog(`request: ${request.method()} - ${request.url()}`);
+      //await saveLog(`request: ${request.method()} - ${request.url()}`);
       request.continue()
   });
   page.on('response', async (response) => {
     //console.log('response:', response.status(), response.url());
-    await saveLog(`response: ${response.status()} - ${response.url()}`);
+    const res = response.url();
+    if (res.includes("productSearch")) { 
+      const decodeUrl = decodeURIComponent(res);
+      const ini = decodeUrl.indexOf('"variables":"');
+      const textData = decodeUrl.slice(ini);
+      const variables  =textData.replace("variables", "").replace(/[":}]/g, "");
+      const decodedData = atob(variables);
+      console.log('textData:', textData);
+      console.log('variables:', variables);
+      console.log('decodedData:', decodedData);
+      await saveLog(`${decodeUrl}\n${variables}\n${decodedData} `);
+    }
   });
   await page.goto(urlPetition, { waitUntil: 'networkidle2', timeout: 0 });
-  await page.screenshot({ path: 'screenshot_pu.png' })
+  //await page.screenshot({ path: 'screenshot_pu.png' })
   await browser.close()
 })()
