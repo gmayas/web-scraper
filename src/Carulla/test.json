@@ -1,0 +1,32 @@
+{
+    "hideUnavailableItems": false,
+    "skusFilter": "ALL",
+    "simulationBehavior": "default",
+    "installmentCriteria": "MAX_WITHOUT_INTEREST",
+    "productOriginVtex": false,
+    "map": "c,c,c",
+    "query": "/vinos-y-licores/vinos/vino-blanco",
+    "orderBy": "OrderByScoreDESC",
+    "from": 0,
+    "to": 19,
+    "selectedFacets": [
+        {
+            "key": "c",
+            "value": "vinos-y-licores"
+        },
+        {
+            "key": "c",
+            "value": "vinos"
+        },
+        {
+            "key": "c",
+            "value": "vino-blanco"
+        }
+    ],
+    "operator": "and",
+    "fuzzy": "0",
+    "searchState": null,
+    "facetsBehavior": "Static",
+    "categoryTreeBehavior": "default",
+    "withFacets": false
+}

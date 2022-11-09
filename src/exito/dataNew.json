@@ -1,0 +1,2486 @@
+[
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "papeleria",
+      "href": "/libros-y-papeleria/papeleria",
+      "variables": "eyJjb2xsZWN0aW9uIjoiMTg5MzIifQ=="
+    },
+    "subCategory": {
+      "name": "cuadernos",
+      "href": "/cuadernos-te",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjE1MzU4Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTUzNTgifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "retry": 3
+  },
+  {
+    "department": {
+      "name": "hogar-y-muebles",
+      "href": "/home-hogar",
+      "variables": ""
+    },
+    "category": {
+      "name": "oficina-en-casa",
+      "href": "/hogar/oficina-en-casa",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEzNTE3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTM1MTcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "archivadores",
+      "href": "/hogar/muebles/archivadores-y-organizadores",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "salud-y-belleza",
+      "href": "/home-salud-belleza",
+      "variables": ""
+    },
+    "category": {
+      "name": "cuidado-personal",
+      "href": "/electrodomesticos/cuidado-personal",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImVsZWN0cm9kb21lc3RpY29zL2N1aWRhZG8tcGVyc29uYWwiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImVsZWN0cm9kb21lc3RpY29zIn0seyJrZXkiOiJjIiwidmFsdWUiOiJjdWlkYWRvLXBlcnNvbmFsIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "espejos-electricos",
+      "href": "/electrodomesticos/cuidado-personal/espejos-electricos",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "moda-y-accesorios",
+      "href": "/home-moda-accesorios",
+      "variables": ""
+    },
+    "category": {
+      "name": "marcas",
+      "href": "/home-moda-accesorios",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "people",
+      "href": "/moda-y-accesorios/people",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "moda-y-accesorios",
+      "href": "/home-moda-accesorios",
+      "variables": ""
+    },
+    "category": {
+      "name": "destacados",
+      "href": "/home-moda-accesorios",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "enamorate",
+      "href": "/moda-y-accesorios/enamorate",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "nino-junior-de-8---18-anos",
+      "href": "/moda-y-accesorios/todo-nino-junior",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjExNjg3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTE2ODcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "ropa",
+      "href": "/moda-y-accesorios/ropa-exterior-para-niño-junior",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Im1vZGEteS1hY2Nlc29yaW9zL3JvcGEtZXh0ZXJpb3ItcGFyYS1uacOxby1qdW5pb3IiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6Im1vZGEteS1hY2Nlc29yaW9zIn0seyJrZXkiOiJjIiwidmFsdWUiOiJyb3BhLWV4dGVyaW9yLXBhcmEtbmnDsW8tanVuaW9yIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "destacados",
+      "href": "#",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "mundo-infantil",
+      "href": "/moda-y-accesesorios/mundo-infantil",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "destacados",
+      "href": "#",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "mundo-del-bebe",
+      "href": "/mundo-del-bebe",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "nino-junior-de-8---18-anos",
+      "href": "/moda-y-accesorios/todo-nino-junior",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjExNjg3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTE2ODcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "zapatos",
+      "href": "/moda-y-accesorios/calzado-para-niño-junior",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Im1vZGEteS1hY2Nlc29yaW9zL2NhbHphZG8tcGFyYS1uacOxby1qdW5pb3IiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6Im1vZGEteS1hY2Nlc29yaW9zIn0seyJrZXkiOiJjIiwidmFsdWUiOiJjYWx6YWRvLXBhcmEtbmnDsW8tanVuaW9yIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "salud-y-belleza",
+      "href": "/home-salud-belleza",
+      "variables": ""
+    },
+    "category": {
+      "name": "cuidado-capilar",
+      "href": "/salud-y-belleza/cuidado-capilar",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InNhbHVkLXktYmVsbGV6YS9jdWlkYWRvLWNhcGlsYXIiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6InNhbHVkLXktYmVsbGV6YSJ9LHsia2V5IjoiYyIsInZhbHVlIjoiY3VpZGFkby1jYXBpbGFyIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "coloracion",
+      "href": "/salud-y-belleza/cuidado-capilar/coloracion",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "nino-junior-de-8---18-anos",
+      "href": "/moda-y-accesorios/todo-nino-junior",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjExNjg3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTE2ODcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "pijamas",
+      "href": "/moda-y-accesorios/pijamas-para-niño-junior",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "nino-junior-de-8---18-anos",
+      "href": "/moda-y-accesorios/todo-nino-junior",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjExNjg3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTE2ODcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "ropa-interior",
+      "href": "/moda-y-accesorios/ropa-interior-para-niño-junior",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "salud-y-belleza",
+      "href": "/home-salud-belleza",
+      "variables": ""
+    },
+    "category": {
+      "name": "cuidado-corporal",
+      "href": "/salud-y-belleza/cuidado-corporal",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InNhbHVkLXktYmVsbGV6YS9jdWlkYWRvLWNvcnBvcmFsIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJzYWx1ZC15LWJlbGxlemEifSx7ImtleSI6ImMiLCJ2YWx1ZSI6ImN1aWRhZG8tY29ycG9yYWwifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "tratamientos-corporales",
+      "href": "/salud-y-belleza/tratamientos/tratamiento-corporal",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "celulares-y-accesorios",
+      "href": "/tecnologia/celulares",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InRlY25vbG9naWEvY2VsdWxhcmVzIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJ0ZWNub2xvZ2lhIn0seyJrZXkiOiJjIiwidmFsdWUiOiJjZWx1bGFyZXMifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "smartphones",
+      "href": "/tecnologia/celulares/smartphones",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMsYyIsInF1ZXJ5IjoidGVjbm9sb2dpYS9jZWx1bGFyZXMvc21hcnRwaG9uZXMiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6InRlY25vbG9naWEifSx7ImtleSI6ImMiLCJ2YWx1ZSI6ImNlbHVsYXJlcyJ9LHsia2V5IjoiYyIsInZhbHVlIjoic21hcnRwaG9uZXMifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "vivo",
+      "href": "/celulares/celulares-vivo",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "ninas-de-2---16-anos",
+      "href": "/moda-y-accesorios/todo-nina",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjExNjg0Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTE2ODQifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "ropa",
+      "href": "/moda-y-accesorios/ropa-exterior-para-niña",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Im1vZGEteS1hY2Nlc29yaW9zL3JvcGEtZXh0ZXJpb3ItcGFyYS1uacOxYSIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoibW9kYS15LWFjY2Vzb3Jpb3MifSx7ImtleSI6ImMiLCJ2YWx1ZSI6InJvcGEtZXh0ZXJpb3ItcGFyYS1uacOxYSJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "dormitorio",
+      "href": "/home-colchones",
+      "variables": ""
+    },
+    "category": {
+      "name": "infantil",
+      "href": "/hogar/infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImhvZ2FyL2luZmFudGlsIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJob2dhciJ9LHsia2V5IjoiYyIsInZhbHVlIjoiaW5mYW50aWwifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "organizadores-infantiles",
+      "href": "/hogar/infantil/organizadores-infantiles",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "ninas-de-2---16-anos",
+      "href": "/moda-y-accesorios/todo-nina",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjExNjg0Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTE2ODQifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "ropa-interior",
+      "href": "/moda-y-accesorios/ropa-interior-para-niña",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Im1vZGEteS1hY2Nlc29yaW9zL3JvcGEtaW50ZXJpb3ItcGFyYS1uacOxYSIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoibW9kYS15LWFjY2Vzb3Jpb3MifSx7ImtleSI6ImMiLCJ2YWx1ZSI6InJvcGEtaW50ZXJpb3ItcGFyYS1uacOxYSJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "ninas-de-2---16-anos",
+      "href": "/moda-y-accesorios/todo-nina",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjExNjg0Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTE2ODQifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "zapatos",
+      "href": "/moda-y-accesorios/calzado-para-niña",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Im1vZGEteS1hY2Nlc29yaW9zL2NhbHphZG8tcGFyYS1uacOxYSIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoibW9kYS15LWFjY2Vzb3Jpb3MifSx7ImtleSI6ImMiLCJ2YWx1ZSI6ImNhbHphZG8tcGFyYS1uacOxYSJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "ninas-de-2---16-anos",
+      "href": "/moda-y-accesorios/todo-nina",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjExNjg0Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTE2ODQifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "pijamas",
+      "href": "/moda-y-accesorios/pijamas-para-niña",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Im1vZGEteS1hY2Nlc29yaW9zL3BpamFtYXMtcGFyYS1uacOxYSIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoibW9kYS15LWFjY2Vzb3Jpb3MifSx7ImtleSI6ImMiLCJ2YWx1ZSI6InBpamFtYXMtcGFyYS1uacOxYSJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "nina-junior-de-8---18-anos",
+      "href": "/moda-y-accesorios/todo-nina-junior",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjExNjg2Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTE2ODYifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "ropa",
+      "href": "/moda-y-accesorios/ropa-exterior-para-niña-junior",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Im1vZGEteS1hY2Nlc29yaW9zL3JvcGEtZXh0ZXJpb3ItcGFyYS1uacOxYS1qdW5pb3IiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6Im1vZGEteS1hY2Nlc29yaW9zIn0seyJrZXkiOiJjIiwidmFsdWUiOiJyb3BhLWV4dGVyaW9yLXBhcmEtbmnDsWEtanVuaW9yIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "nina-junior-de-8---18-anos",
+      "href": "/moda-y-accesorios/todo-nina-junior",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjExNjg2Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTE2ODYifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "ropa-interior",
+      "href": "/moda-y-accesorios/ropa-interior-para-niña-junior",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Im1vZGEteS1hY2Nlc29yaW9zL3JvcGEtaW50ZXJpb3ItcGFyYS1uacOxYS1qdW5pb3IiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6Im1vZGEteS1hY2Nlc29yaW9zIn0seyJrZXkiOiJjIiwidmFsdWUiOiJyb3BhLWludGVyaW9yLXBhcmEtbmnDsWEtanVuaW9yIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "nina-junior-de-8---18-anos",
+      "href": "/moda-y-accesorios/todo-nina-junior",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjExNjg2Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTE2ODYifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "pijamas",
+      "href": "/moda-y-accesorios/pijamas-para-niña-junior",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Im1vZGEteS1hY2Nlc29yaW9zL3BpamFtYXMtcGFyYS1uacOxYS1qdW5pb3IiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6Im1vZGEteS1hY2Nlc29yaW9zIn0seyJrZXkiOiJjIiwidmFsdWUiOiJwaWphbWFzLXBhcmEtbmnDsWEtanVuaW9yIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "bebes",
+      "href": "/home-bebes-ninos-jugueteria",
+      "variables": ""
+    },
+    "category": {
+      "name": "coches",
+      "href": "/bebes/coches",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImJlYmVzL2NvY2hlcyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoiYmViZXMifSx7ImtleSI6ImMiLCJ2YWx1ZSI6ImNvY2hlcyJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "coche-compacto",
+      "href": "/bebes/coches/coche-compacto",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "nina-junior-de-8---18-anos",
+      "href": "/moda-y-accesorios/todo-nina-junior",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjExNjg2Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTE2ODYifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "zapatos",
+      "href": "/moda-y-accesorios/calzado-para-niña-junior",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Im1vZGEteS1hY2Nlc29yaW9zL2NhbHphZG8tcGFyYS1uacOxYS1qdW5pb3IiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6Im1vZGEteS1hY2Nlc29yaW9zIn0seyJrZXkiOiJjIiwidmFsdWUiOiJjYWx6YWRvLXBhcmEtbmnDsWEtanVuaW9yIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "bebes",
+      "href": "/home-bebes-ninos-jugueteria",
+      "variables": ""
+    },
+    "category": {
+      "name": "coches",
+      "href": "/bebes/coches",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImJlYmVzL2NvY2hlcyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoiYmViZXMifSx7ImtleSI6ImMiLCJ2YWx1ZSI6ImNvY2hlcyJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "coches-dobles",
+      "href": "/bebes/coches/coches-dobles",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "ninos-de-2---16-anos",
+      "href": "/moda-y-accesorios/todo-nino",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjExNjg1Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTE2ODUifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "ropa",
+      "href": "/moda-y-accesorios/ropa-exterior-para-niño",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Im1vZGEteS1hY2Nlc29yaW9zL3JvcGEtZXh0ZXJpb3ItcGFyYS1uacOxbyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoibW9kYS15LWFjY2Vzb3Jpb3MifSx7ImtleSI6ImMiLCJ2YWx1ZSI6InJvcGEtZXh0ZXJpb3ItcGFyYS1uacOxbyJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "ninos-de-2---16-anos",
+      "href": "/moda-y-accesorios/todo-nino",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjExNjg1Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTE2ODUifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "pijamas",
+      "href": "/moda-y-accesorios/pijamas-para-niño",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Im1vZGEteS1hY2Nlc29yaW9zL3BpamFtYXMtcGFyYS1uacOxbyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoibW9kYS15LWFjY2Vzb3Jpb3MifSx7ImtleSI6ImMiLCJ2YWx1ZSI6InBpamFtYXMtcGFyYS1uacOxbyJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "ninos-de-2---16-anos",
+      "href": "/moda-y-accesorios/todo-nino",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjExNjg1Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTE2ODUifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "ropa-interior",
+      "href": "/moda-y-accesorios/ropa-interior-para-niño",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Im1vZGEteS1hY2Nlc29yaW9zL3JvcGEtaW50ZXJpb3ItcGFyYS1uacOxbyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoibW9kYS15LWFjY2Vzb3Jpb3MifSx7ImtleSI6ImMiLCJ2YWx1ZSI6InJvcGEtaW50ZXJpb3ItcGFyYS1uacOxbyJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "bebes",
+      "href": "/home-bebes-ninos-jugueteria",
+      "variables": ""
+    },
+    "category": {
+      "name": "destacados",
+      "href": "#",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "mundo-del-bebe",
+      "href": "/mundo-del-bebe",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "marcas-destacadas",
+      "href": "/moda-y-accesorios/ropa-infantil/marcas-destacadas",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjExNzA3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTE3MDcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "baby-fresh",
+      "href": "/modayaccesorios/babyfresh",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "marcas-destacadas",
+      "href": "/moda-y-accesorios/ropa-infantil/marcas-destacadas",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjExNzA3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTE3MDcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "yoyo-jeans",
+      "href": "/moda-y-accesorios/yoyo-jeans",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "electrodomesticos",
+      "href": "/electrodomesticos",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJlbGVjdHJvZG9tZXN0aWNvcyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIxLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoiZWxlY3Ryb2RvbWVzdGljb3MifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "mundo-hogar",
+      "href": "/electrodomesticos/mundo-hogar",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImVsZWN0cm9kb21lc3RpY29zL211bmRvLWhvZ2FyIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJlbGVjdHJvZG9tZXN0aWNvcyJ9LHsia2V5IjoiYyIsInZhbHVlIjoibXVuZG8taG9nYXIifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "brilladoras-de-piso",
+      "href": "/electrodomesticos/mundo-hogar/brilladoras",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "bebes",
+      "href": "/home-bebes-ninos-jugueteria",
+      "variables": ""
+    },
+    "category": {
+      "name": "marcas-destacadas",
+      "href": "/marcas-destacadas-bebes",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjE2MyIsIm9yZGVyQnkiOiJPcmRlckJ5VG9wU2FsZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTYzIn1dLCJmYWNldHNCZWhhdmlvciI6IlN0YXRpYyIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "graco",
+      "href": "/graco",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "bebes",
+      "href": "/home-bebes-ninos-jugueteria",
+      "variables": ""
+    },
+    "category": {
+      "name": "salud-y-seguridad-del-bebe",
+      "href": "/bebes/cuidado-seguridad-bebe/salud-y-seguridad-del-bebe",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjY0MTEiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6InByb2R1Y3RDbHVzdGVySWRzIiwidmFsdWUiOiI2NDExIn1dLCJmYWNldHNCZWhhdmlvciI6IlN0YXRpYyIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "seguridad-puertas",
+      "href": "/bebes/cuidado-seguridad-bebe/seguridad-de-puertas",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "jugueteria",
+      "href": "/jugueteria",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJqdWd1ZXRlcmlhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJqdWd1ZXRlcmlhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "vehiculos-montables",
+      "href": "/jugueteria/montables",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Imp1Z3VldGVyaWEvbW9udGFibGVzIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJqdWd1ZXRlcmlhIn0seyJrZXkiOiJjIiwidmFsdWUiOiJtb250YWJsZXMifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "carros-motos-y-triciclos-de-pedal",
+      "href": "/jugueteria/montables/carros-motos-y-triciclos-de-pedal",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "bebes",
+      "href": "/home-bebes-ninos-jugueteria",
+      "variables": ""
+    },
+    "category": {
+      "name": "ropa-de-bebe",
+      "href": "/moda-y-accesorios/ropa-bebe-nino-nina",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjgxMTMiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6InByb2R1Y3RDbHVzdGVySWRzIiwidmFsdWUiOiI4MTEzIn1dLCJmYWNldHNCZWhhdmlvciI6IlN0YXRpYyIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "jean-pantalones-short-y-bermudas",
+      "href": "/moda-y-accesorios/jeans-pantalones-short-bermudas-bebe",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "bebes",
+      "href": "/home-bebes-ninos-jugueteria",
+      "variables": ""
+    },
+    "category": {
+      "name": "cuarto-del-bebe",
+      "href": "/bebes/accesorios-grandes-bebe/cunas-y-corrales",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjY0MDgiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoxOSwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6InByb2R1Y3RDbHVzdGVySWRzIiwidmFsdWUiOiI2NDA4In1dLCJmYWNldHNCZWhhdmlvciI6IlN0YXRpYyIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "moviles",
+      "href": "/bebes/accesorios-grandes-bebe/moviles",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "jugueteria",
+      "href": "/jugueteria",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJqdWd1ZXRlcmlhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJqdWd1ZXRlcmlhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "tiendas-oficiales",
+      "href": "/jugueteria",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJqdWd1ZXRlcmlhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJqdWd1ZXRlcmlhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "hasbro",
+      "href": "/mundo-hasbro",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "jugueteria",
+      "href": "/jugueteria",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJqdWd1ZXRlcmlhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJqdWd1ZXRlcmlhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "tiendas-oficiales",
+      "href": "/jugueteria",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJqdWd1ZXRlcmlhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJqdWd1ZXRlcmlhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "disney",
+      "href": "/mundo-disney",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "jugueteria",
+      "href": "/jugueteria",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJqdWd1ZXRlcmlhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJqdWd1ZXRlcmlhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "juguetes",
+      "href": "/jugueteria",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJqdWd1ZXRlcmlhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJqdWd1ZXRlcmlhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "juegos-de-rol",
+      "href": "/jugueteria/juguetes/juegos-de-rol",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "jugueteria",
+      "href": "/jugueteria",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJqdWd1ZXRlcmlhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJqdWd1ZXRlcmlhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "vehiculos",
+      "href": "/jugueteria/vehiculos",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Imp1Z3VldGVyaWEvdmVoaWN1bG9zIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJqdWd1ZXRlcmlhIn0seyJrZXkiOiJjIiwidmFsdWUiOiJ2ZWhpY3Vsb3MifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "motos",
+      "href": "/jugueteria/vehiculos/motos",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "jugueteria",
+      "href": "/jugueteria",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJqdWd1ZXRlcmlhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJqdWd1ZXRlcmlhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "vehiculos",
+      "href": "/jugueteria/vehiculos",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Imp1Z3VldGVyaWEvdmVoaWN1bG9zIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJqdWd1ZXRlcmlhIn0seyJrZXkiOiJjIiwidmFsdWUiOiJ2ZWhpY3Vsb3MifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "vehiculos-coleccionables",
+      "href": "/jugueteria/vehiculos/carros-coleccionables",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "bebes",
+      "href": "/home-bebes-ninos-jugueteria",
+      "variables": ""
+    },
+    "category": {
+      "name": "destacados",
+      "href": "#",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "mundo-infantil",
+      "href": "/moda-y-accesesorios/mundo-infantil",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "jugueteria",
+      "href": "/jugueteria",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJqdWd1ZXRlcmlhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJqdWd1ZXRlcmlhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "vehiculos",
+      "href": "/jugueteria/vehiculos",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Imp1Z3VldGVyaWEvdmVoaWN1bG9zIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJqdWd1ZXRlcmlhIn0seyJrZXkiOiJjIiwidmFsdWUiOiJ2ZWhpY3Vsb3MifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "carros",
+      "href": "/jugueteria/vehiculos/carros-y-radiocontrolados",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "bebes",
+      "href": "/home-bebes-ninos-jugueteria",
+      "variables": ""
+    },
+    "category": {
+      "name": "alimentacion-del-bebe",
+      "href": "/bebes/cuidado-y-alimentacion-del-bebe",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjY0MDkiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6InByb2R1Y3RDbHVzdGVySWRzIiwidmFsdWUiOiI2NDA5In1dLCJmYWNldHNCZWhhdmlvciI6IlN0YXRpYyIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "formulas-materno-infantil",
+      "href": "/mercado/lacteos-huevos-y-refrigerados/formulas-materno-infantil",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "deportes",
+      "href": "/home-deportes",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjM0NTkiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyNCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6InByb2R1Y3RDbHVzdGVySWRzIiwidmFsdWUiOiIzNDU5In1dLCJmYWNldHNCZWhhdmlvciI6IlN0YXRpYyIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "camping",
+      "href": "/deportes/camping",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImRlcG9ydGVzL2NhbXBpbmciLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImRlcG9ydGVzIn0seyJrZXkiOiJjIiwidmFsdWUiOiJjYW1waW5nIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "colchones-y-colchonetas",
+      "href": "/deportes/camping/colchones-y-colchonetas-camping",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "deportes",
+      "href": "/home-deportes",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjM0NTkiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyNCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6InByb2R1Y3RDbHVzdGVySWRzIiwidmFsdWUiOiIzNDU5In1dLCJmYWNldHNCZWhhdmlvciI6IlN0YXRpYyIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "camping",
+      "href": "/deportes/camping",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImRlcG9ydGVzL2NhbXBpbmciLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImRlcG9ydGVzIn0seyJrZXkiOiJjIiwidmFsdWUiOiJjYW1waW5nIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "termos-y-neveras",
+      "href": "/deportes/camping/neveras-termicas",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "deportes",
+      "href": "/home-deportes",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjM0NTkiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyNCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6InByb2R1Y3RDbHVzdGVySWRzIiwidmFsdWUiOiIzNDU5In1dLCJmYWNldHNCZWhhdmlvciI6IlN0YXRpYyIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "movilidad-electrica",
+      "href": "/movilidad-electrica",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "bicicletas-electricas",
+      "href": "/2609?map=productclusterids",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "deportes",
+      "href": "/home-deportes",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjM0NTkiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyNCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6InByb2R1Y3RDbHVzdGVySWRzIiwidmFsdWUiOiIzNDU5In1dLCJmYWNldHNCZWhhdmlvciI6IlN0YXRpYyIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "movilidad-electrica",
+      "href": "/movilidad-electrica",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "patinetas-electricas",
+      "href": "/1733?map=productclusterids&order",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "bienestar",
+      "href": "/libros/bienestar",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy9iaWVuZXN0YXIiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImxpYnJvcyJ9LHsia2V5IjoiYyIsInZhbHVlIjoiYmllbmVzdGFyIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "padres-e-hijos-(crianza)",
+      "href": "/libros/bienestar/padres-e-hijos--crianza-",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "deportes",
+      "href": "/home-deportes",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjM0NTkiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyNCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6InByb2R1Y3RDbHVzdGVySWRzIiwidmFsdWUiOiIzNDU5In1dLCJmYWNldHNCZWhhdmlvciI6IlN0YXRpYyIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "camping",
+      "href": "/deportes/camping",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImRlcG9ydGVzL2NhbXBpbmciLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImRlcG9ydGVzIn0seyJrZXkiOiJjIiwidmFsdWUiOiJjYW1waW5nIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "cobijas-y-mantas",
+      "href": "/deportes/camping/cobijas-y-mantas-camping",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "bienestar",
+      "href": "/libros/bienestar",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy9iaWVuZXN0YXIiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImxpYnJvcyJ9LHsia2V5IjoiYyIsInZhbHVlIjoiYmllbmVzdGFyIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "salud",
+      "href": "/libros/bienestar/salud",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "actualidad-y-politica",
+      "href": "/libros/actualidad-y-politica",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy9hY3R1YWxpZGFkLXktcG9saXRpY2EiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImxpYnJvcyJ9LHsia2V5IjoiYyIsInZhbHVlIjoiYWN0dWFsaWRhZC15LXBvbGl0aWNhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "politica",
+      "href": "/libros/actualidad-y-politica/politica",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "bienestar",
+      "href": "/libros/bienestar",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy9iaWVuZXN0YXIiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImxpYnJvcyJ9LHsia2V5IjoiYyIsInZhbHVlIjoiYmllbmVzdGFyIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "alimentacion-y-nutricion",
+      "href": "/libros/bienestar/alimentacion-y-nutricion",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "novela",
+      "href": "/libros/novela",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "historica",
+      "href": "/libros/novela/historica",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "novela",
+      "href": "/libros/novela",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy9ub3ZlbGEiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImxpYnJvcyJ9LHsia2V5IjoiYyIsInZhbHVlIjoibm92ZWxhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "romantica",
+      "href": "/libros/novela/romantica",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "novela",
+      "href": "/libros/novela",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy9ub3ZlbGEiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImxpYnJvcyJ9LHsia2V5IjoiYyIsInZhbHVlIjoibm92ZWxhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "negra",
+      "href": "/libros/novela/negra",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "bienestar",
+      "href": "/libros/bienestar",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy9iaWVuZXN0YXIiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImxpYnJvcyJ9LHsia2V5IjoiYyIsInZhbHVlIjoiYmllbmVzdGFyIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "espiritualidad-y-esoterismo",
+      "href": "/libros/bienestar/espiritualidad-y-esoterismo",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "juvenil",
+      "href": "/libros/juvenil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy9qdXZlbmlsIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJsaWJyb3MifSx7ImtleSI6ImMiLCJ2YWx1ZSI6Imp1dmVuaWwifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "ficcion-y-fantasia",
+      "href": "/libros/juvenil/ficcion-y-fantasia",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "deportes",
+      "href": "/home-deportes",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjM0NTkiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyNCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6InByb2R1Y3RDbHVzdGVySWRzIiwidmFsdWUiOiIzNDU5In1dLCJmYWNldHNCZWhhdmlvciI6IlN0YXRpYyIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "fitness",
+      "href": "/deportes/acondicionamiento-fisico",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImRlcG9ydGVzL2Fjb25kaWNpb25hbWllbnRvLWZpc2ljbyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoiZGVwb3J0ZXMifSx7ImtleSI6ImMiLCJ2YWx1ZSI6ImFjb25kaWNpb25hbWllbnRvLWZpc2ljbyJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "musculacion",
+      "href": "/deportes/acondicionamiento-fisico/musculacion",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "novela",
+      "href": "/libros/novela",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy9ub3ZlbGEiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImxpYnJvcyJ9LHsia2V5IjoiYyIsInZhbHVlIjoibm92ZWxhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "erotica",
+      "href": "/libros/novela/erotica",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "tiempo-libre",
+      "href": "/libros/tiempo-libre",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy90aWVtcG8tbGlicmUiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImxpYnJvcyJ9LHsia2V5IjoiYyIsInZhbHVlIjoidGllbXBvLWxpYnJlIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "hobbies",
+      "href": "/libros/tiempo-libre/hobbies",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "tiempo-libre",
+      "href": "/libros/tiempo-libre",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy90aWVtcG8tbGlicmUiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImxpYnJvcyJ9LHsia2V5IjoiYyIsInZhbHVlIjoidGllbXBvLWxpYnJlIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "idiomas",
+      "href": "/libros/tiempo-libre/idiomas",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "tiempo-libre",
+      "href": "/libros/tiempo-libre",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy90aWVtcG8tbGlicmUiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImxpYnJvcyJ9LHsia2V5IjoiYyIsInZhbHVlIjoidGllbXBvLWxpYnJlIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "deportes",
+      "href": "/libros/tiempo-libre/deportes",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "deportes",
+      "href": "/home-deportes",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjM0NTkiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyNCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6InByb2R1Y3RDbHVzdGVySWRzIiwidmFsdWUiOiIzNDU5In1dLCJmYWNldHNCZWhhdmlvciI6IlN0YXRpYyIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "movilidad-electrica",
+      "href": "/movilidad-electrica",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "accesorios-proteccion",
+      "href": "/3581?map=productclusterids",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ropa-infantil",
+      "href": "/moda-y-accesorios/ropa-infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+      "name": "ninos-de-2---16-anos",
+      "href": "/moda-y-accesorios/todo-nino",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjExNjg1Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTE2ODUifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "zapatos",
+      "href": "/moda-y-accesorios/calzado-para-niño",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Im1vZGEteS1hY2Nlc29yaW9zL2NhbHphZG8tcGFyYS1uacOxbyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoibW9kYS15LWFjY2Vzb3Jpb3MifSx7ImtleSI6ImMiLCJ2YWx1ZSI6ImNhbHphZG8tcGFyYS1uacOxbyJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "jugueteria",
+      "href": "/jugueteria",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJqdWd1ZXRlcmlhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJqdWd1ZXRlcmlhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "juegos-de-mesa",
+      "href": "/juegos-de-mesa",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjI3OTciLCJvcmRlckJ5IjoiT3JkZXJCeVRvcFNhbGVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoicHJvZHVjdENsdXN0ZXJJZHMiLCJ2YWx1ZSI6IjI3OTcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "cartas",
+      "href": "/jugueteria/juegos-de-mesa/cartas",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "tiempo-libre",
+      "href": "/libros/tiempo-libre",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy90aWVtcG8tbGlicmUiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImxpYnJvcyJ9LHsia2V5IjoiYyIsInZhbHVlIjoidGllbXBvLWxpYnJlIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "musica",
+      "href": "/libros/tiempo-libre/musica",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "tiempo-libre",
+      "href": "/libros/tiempo-libre",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy90aWVtcG8tbGlicmUiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImxpYnJvcyJ9LHsia2V5IjoiYyIsInZhbHVlIjoidGllbXBvLWxpYnJlIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "viajes",
+      "href": "/libros/tiempo-libre/viajes",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "juvenil",
+      "href": "/libros/juvenil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy9qdXZlbmlsIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJsaWJyb3MifSx7ImtleSI6ImMiLCJ2YWx1ZSI6Imp1dmVuaWwifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "gamers",
+      "href": "/libros/juvenil/gamers",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "juvenil",
+      "href": "/libros/juvenil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy9qdXZlbmlsIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJsaWJyb3MifSx7ImtleSI6ImMiLCJ2YWx1ZSI6Imp1dmVuaWwifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "youtubers-e-influencers",
+      "href": "/libros/juvenil/youtubers-e-influencers",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "juvenil",
+      "href": "/libros/juvenil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy9qdXZlbmlsIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJsaWJyb3MifSx7ImtleSI6ImMiLCJ2YWx1ZSI6Imp1dmVuaWwifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "comics",
+      "href": "/libros/juvenil/comics",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "gerencia",
+      "href": "/libros/gerencia",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy9nZXJlbmNpYSIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoibGlicm9zIn0seyJrZXkiOiJjIiwidmFsdWUiOiJnZXJlbmNpYSJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "economia-y-finanzas",
+      "href": "/libros/gerencia/economia-y-finanzas",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "interes-general",
+      "href": "/libros/interes-general",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy9pbnRlcmVzLWdlbmVyYWwiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImxpYnJvcyJ9LHsia2V5IjoiYyIsInZhbHVlIjoiaW50ZXJlcy1nZW5lcmFsIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "filosofia",
+      "href": "/libros/interes-general/filosofia",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "interes-general",
+      "href": "/libros/interes-general",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy9pbnRlcmVzLWdlbmVyYWwiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImxpYnJvcyJ9LHsia2V5IjoiYyIsInZhbHVlIjoiaW50ZXJlcy1nZW5lcmFsIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "medicina",
+      "href": "/libros/interes-general/medicina",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "infantil",
+      "href": "/libros/infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy9pbmZhbnRpbCIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoibGlicm9zIn0seyJrZXkiOiJjIiwidmFsdWUiOiJpbmZhbnRpbCJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "novelas",
+      "href": "/libros/infantil/novelas",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "infantil",
+      "href": "/libros/infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy9pbmZhbnRpbCIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoibGlicm9zIn0seyJrZXkiOiJjIiwidmFsdWUiOiJpbmZhbnRpbCJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "comics",
+      "href": "/libros/infantil/comics-infantiles",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ferreteria-y-vehiculos",
+      "href": "/ferreteria",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJmZXJyZXRlcmlhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJmZXJyZXRlcmlhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "marcas",
+      "href": "#",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "gladiator-pro",
+      "href": "/18717?map=productclusterids",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ferreteria-y-vehiculos",
+      "href": "/ferreteria",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJmZXJyZXRlcmlhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJmZXJyZXRlcmlhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "marcas",
+      "href": "#",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "michelin",
+      "href": "/18719?map=productclusterids",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ferreteria-y-vehiculos",
+      "href": "/ferreteria",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJmZXJyZXRlcmlhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJmZXJyZXRlcmlhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "marcas",
+      "href": "#",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "black-&-decker",
+      "href": "/18721?map=productclusterids",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "mascotas",
+      "href": "/mundo-mascotas",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjM0ODYiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyNCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6InByb2R1Y3RDbHVzdGVySWRzIiwidmFsdWUiOiIzNDg2In1dLCJmYWNldHNCZWhhdmlvciI6IlN0YXRpYyIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "juguetes-y-accesorios",
+      "href": "www.exito.com/mascotas-juguetes-y-accesorios",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "casas-y-nidos",
+      "href": "/mascotas-juguetes-y-accesorios-casas-para-mascotas",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ferreteria-y-vehiculos",
+      "href": "/ferreteria",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJmZXJyZXRlcmlhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJmZXJyZXRlcmlhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "carros-y-motos",
+      "href": "/vehiculos/carros",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "automoviles-y-camperos",
+      "href": "/vehiculos/carros",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "interes-general",
+      "href": "/libros/interes-general",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy9pbnRlcmVzLWdlbmVyYWwiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImxpYnJvcyJ9LHsia2V5IjoiYyIsInZhbHVlIjoiaW50ZXJlcy1nZW5lcmFsIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "poesia",
+      "href": "/libros/interes-general/poesia",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "nuevas-categorias",
+      "href": "#",
+      "variables": ""
+    },
+    "category": {
+      "name": "movilidad-electrica",
+      "href": "/movilidad-electrica",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "patinetas-electricas",
+      "href": "/1733?map=productclusterids&order",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "nuevas-categorias",
+      "href": "#",
+      "variables": ""
+    },
+    "category": {
+      "name": "movilidad-electrica",
+      "href": "/movilidad-electrica",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "bicicletas-electricas",
+      "href": "/2609?map=productclusterids",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "nuevas-categorias",
+      "href": "#",
+      "variables": ""
+    },
+    "category": {
+      "name": "movilidad-electrica",
+      "href": "/movilidad-electrica",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "accesorios-de-proteccion",
+      "href": "/3581?map=productclusterids",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "nuevas-categorias",
+      "href": "#",
+      "variables": ""
+    },
+    "category": {
+      "name": "netflix-y-servicios",
+      "href": "/servicios/netflix-y-otros-pines",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "tarjetas-de-regalo",
+      "href": "/tarjetas-de-regalo-virtuales",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "mascotas",
+      "href": "/mundo-mascotas",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjM0ODYiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyNCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6InByb2R1Y3RDbHVzdGVySWRzIiwidmFsdWUiOiIzNDg2In1dLCJmYWNldHNCZWhhdmlvciI6IlN0YXRpYyIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "gato",
+      "href": "/mascotas-gatos",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjE4NzY0Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTg3NjQifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "arenas",
+      "href": "/mascotas-gatos-arena-para-gatos",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "mercado",
+      "href": "/home-mercado",
+      "variables": ""
+    },
+    "category": {
+      "name": "nuestras-marcas",
+      "href": "/mercado/nuestrasmarcas",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "porchi",
+      "href": "/mercado/porchi?map=b",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "mercado",
+      "href": "/home-mercado",
+      "variables": ""
+    },
+    "category": {
+      "name": "nuestras-marcas",
+      "href": "/mercado/nuestrasmarcas",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "mundo-sano",
+      "href": "/vida-sana",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "mascotas",
+      "href": "/mundo-mascotas",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjM0ODYiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyNCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6InByb2R1Y3RDbHVzdGVySWRzIiwidmFsdWUiOiIzNDg2In1dLCJmYWNldHNCZWhhdmlvciI6IlN0YXRpYyIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "perros",
+      "href": "/mascotas-perros",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjE4NzYzIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTg3NjMifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "accesorios",
+      "href": "/mascotas-perros-accesorios-para-perros",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "tecnologia",
+      "href": "/tecnologia",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJ0ZWNub2xvZ2lhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJ0ZWNub2xvZ2lhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "televisores",
+      "href": "/tecnologia/televisores",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "soportes-para-tv-y-accesorios",
+      "href": "/tecnologia/televisores/soportes-para-tv-y-accesorios",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "tiempo-libre",
+      "href": "/libros/tiempo-libre",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImxpYnJvcy90aWVtcG8tbGlicmUiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImxpYnJvcyJ9LHsia2V5IjoiYyIsInZhbHVlIjoidGllbXBvLWxpYnJlIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "cocina-y-recetas",
+      "href": "/libros/tiempo-libre/cocina-y-recetas",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "ferreteria-y-vehiculos",
+      "href": "/ferreteria",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJmZXJyZXRlcmlhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJmZXJyZXRlcmlhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "llantas-y-rines",
+      "href": "/vehiculos/llantas",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InZlaGljdWxvcy9sbGFudGFzIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJ2ZWhpY3Vsb3MifSx7ImtleSI6ImMiLCJ2YWx1ZSI6ImxsYW50YXMifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "campero",
+      "href": "/vehiculos/llantas/llantas-campero",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "papeleria",
+      "href": "/libros-y-papeleria/papeleria",
+      "variables": "eyJjb2xsZWN0aW9uIjoiMTg5MzIifQ=="
+    },
+    "subCategory": {
+      "name": "escritura",
+      "href": "/escrivertodo-te",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjE1MzgwIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjEsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTUzODAifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "retry": 8
+  },
+  {
+    "department": {
+      "name": "mercado",
+      "href": "/home-mercado",
+      "variables": ""
+    },
+    "category": {
+      "name": "frutas-y-verduras",
+      "href": "/mercado/frutas-y-verduras",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Im1lcmNhZG8vZnJ1dGFzLXktdmVyZHVyYXMiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6Im1lcmNhZG8ifSx7ImtleSI6ImMiLCJ2YWx1ZSI6ImZydXRhcy15LXZlcmR1cmFzIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "pulpas",
+      "href": "/mercado/frutas-y-verduras/pulpas",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "tecnologia",
+      "href": "/tecnologia",
+      "variables": ""
+    },
+    "category": {
+      "name": "televisores",
+      "href": "/tecnologia/televisores",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InRlY25vbG9naWEvdGVsZXZpc29yZXMiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6InRlY25vbG9naWEifSx7ImtleSI6ImMiLCJ2YWx1ZSI6InRlbGV2aXNvcmVzIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "instalamos-tu-tv",
+      "href": "/14497?map=productclusterids",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "tecnologia",
+      "href": "/tecnologia",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJ0ZWNub2xvZ2lhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJ0ZWNub2xvZ2lhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "mundo-gamer",
+      "href": "/tecnologia/consolas-y-videojuegos",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InRlY25vbG9naWEvY29uc29sYXMteS12aWRlb2p1ZWdvcyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoidGVjbm9sb2dpYSJ9LHsia2V5IjoiYyIsInZhbHVlIjoiY29uc29sYXMteS12aWRlb2p1ZWdvcyJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "computadores-gamer",
+      "href": "/1748?map=productclusterids&pauta=t",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "nuevas-categorias",
+      "href": "#",
+      "variables": ""
+    },
+    "category": {
+      "name": "farmacia",
+      "href": "/salud-y-belleza/drogueria",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InNhbHVkLXktYmVsbGV6YS9kcm9ndWVyaWEiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6InNhbHVkLXktYmVsbGV6YSJ9LHsia2V5IjoiYyIsInZhbHVlIjoiZHJvZ3VlcmlhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "tapabocas",
+      "href": "/3407?map=productclusterids",
+      "variables": ""
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "tecnologia",
+      "href": "/tecnologia",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJ0ZWNub2xvZ2lhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJ0ZWNub2xvZ2lhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "camaras",
+      "href": "/tecnologia/camaras",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InRlY25vbG9naWEvY2FtYXJhcyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoidGVjbm9sb2dpYSJ9LHsia2V5IjoiYyIsInZhbHVlIjoiY2FtYXJhcyJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "camaras-instantaneas",
+      "href": "/tecnologia/camaras/camaras-instantaneas",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "tecnologia",
+      "href": "/tecnologia",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJ0ZWNub2xvZ2lhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJ0ZWNub2xvZ2lhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "audio",
+      "href": "/tecnologia/audio-y-video",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InRlY25vbG9naWEvYXVkaW8teS12aWRlbyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoidGVjbm9sb2dpYSJ9LHsia2V5IjoiYyIsInZhbHVlIjoiYXVkaW8teS12aWRlbyJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "barras-de-sonido",
+      "href": "/tecnologia/audio-y-video/barras-de-sonido",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "mercado",
+      "href": "/home-mercado",
+      "variables": ""
+    },
+    "category": {
+      "name": "nuestras-marcas",
+      "href": "/mercado/nuestrasmarcas",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "taeq",
+      "href": "/home-taeq",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "celulares-y-accesorios",
+      "href": "/tecnologia/celulares",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InRlY25vbG9naWEvY2VsdWxhcmVzIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJ0ZWNub2xvZ2lhIn0seyJrZXkiOiJjIiwidmFsdWUiOiJjZWx1bGFyZXMifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "lanzamientos",
+      "href": "#",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "galaxy-z-fold4",
+      "href": "/samsung/galaxy-fold-galaxy-flip",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "celulares-y-accesorios",
+      "href": "/tecnologia/celulares",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InRlY25vbG9naWEvY2VsdWxhcmVzIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJ0ZWNub2xvZ2lhIn0seyJrZXkiOiJjIiwidmFsdWUiOiJjZWx1bGFyZXMifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "lanzamientos",
+      "href": "#",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "galaxy-z-flip4",
+      "href": "/samsung/galaxy-fold-galaxy-flip",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "celulares-y-accesorios",
+      "href": "/tecnologia/celulares",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InRlY25vbG9naWEvY2VsdWxhcmVzIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJ0ZWNub2xvZ2lhIn0seyJrZXkiOiJjIiwidmFsdWUiOiJjZWx1bGFyZXMifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "lanzamientos",
+      "href": "#",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "vivo-x80-pro",
+      "href": "/celular-vivo-x80-pro-256-gb-negro-audifonos-3078282/p",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "celulares-y-accesorios",
+      "href": "/tecnologia/celulares",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InRlY25vbG9naWEvY2VsdWxhcmVzIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJ0ZWNub2xvZ2lhIn0seyJrZXkiOiJjIiwidmFsdWUiOiJjZWx1bGFyZXMifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "lanzamientos",
+      "href": "#",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "nova-y90",
+      "href": "/1224?map=productclusterids",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "celulares-y-accesorios",
+      "href": "/tecnologia/celulares",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InRlY25vbG9naWEvY2VsdWxhcmVzIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJ0ZWNub2xvZ2lhIn0seyJrZXkiOiJjIiwidmFsdWUiOiJjZWx1bGFyZXMifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "lanzamientos",
+      "href": "#",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "freebuds-pro-2",
+      "href": "/3015?map=productclusterids",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "tecnologia",
+      "href": "/tecnologia",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJ0ZWNub2xvZ2lhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJ0ZWNub2xvZ2lhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "camaras",
+      "href": "/tecnologia/camaras",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InRlY25vbG9naWEvY2FtYXJhcyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoidGVjbm9sb2dpYSJ9LHsia2V5IjoiYyIsInZhbHVlIjoiY2FtYXJhcyJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "camaras-de-video",
+      "href": "/tecnologia/camaras/camaras-de-video",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "electrodomesticos",
+      "href": "/electrodomesticos",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJlbGVjdHJvZG9tZXN0aWNvcyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIxLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoiZWxlY3Ryb2RvbWVzdGljb3MifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "refrigeracion",
+      "href": "/electrodomesticos/refrigeracion",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "cavas-de-vino",
+      "href": "/electrodomesticos/refrigeracion/cavas-de-vino",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "tecnologia",
+      "href": "/tecnologia",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJ0ZWNub2xvZ2lhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJ0ZWNub2xvZ2lhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "camaras",
+      "href": "/tecnologia/camaras",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InRlY25vbG9naWEvY2FtYXJhcyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoidGVjbm9sb2dpYSJ9LHsia2V5IjoiYyIsInZhbHVlIjoiY2FtYXJhcyJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "lentes",
+      "href": "/tecnologia/camaras/lentes",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "tecnologia",
+      "href": "/tecnologia",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJ0ZWNub2xvZ2lhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJ0ZWNub2xvZ2lhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "camaras",
+      "href": "/tecnologia/camaras",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InRlY25vbG9naWEvY2FtYXJhcyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoidGVjbm9sb2dpYSJ9LHsia2V5IjoiYyIsInZhbHVlIjoiY2FtYXJhcyJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "tarjetas-de-memoria",
+      "href": "/tecnologia/camaras/tarjetas-de-memoria",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "electrodomesticos",
+      "href": "/electrodomesticos",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJlbGVjdHJvZG9tZXN0aWNvcyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIxLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoiZWxlY3Ryb2RvbWVzdGljb3MifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "refrigeracion",
+      "href": "/electrodomesticos/refrigeracion",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImVsZWN0cm9kb21lc3RpY29zL3JlZnJpZ2VyYWNpb24iLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMSwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImVsZWN0cm9kb21lc3RpY29zIn0seyJrZXkiOiJjIiwidmFsdWUiOiJyZWZyaWdlcmFjaW9uIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "dispensadores-de-agua",
+      "href": "/electrodomesticos/refrigeracion/dispensadores-de-agua",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "electrodomesticos",
+      "href": "/electrodomesticos",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJlbGVjdHJvZG9tZXN0aWNvcyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIxLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoiZWxlY3Ryb2RvbWVzdGljb3MifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "refrigeracion",
+      "href": "/electrodomesticos/refrigeracion",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImVsZWN0cm9kb21lc3RpY29zL3JlZnJpZ2VyYWNpb24iLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMSwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImVsZWN0cm9kb21lc3RpY29zIn0seyJrZXkiOiJjIiwidmFsdWUiOiJyZWZyaWdlcmFjaW9uIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "minibares",
+      "href": "/electrodomesticos/refrigeracion/minibares",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "electrodomesticos",
+      "href": "/electrodomesticos",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJlbGVjdHJvZG9tZXN0aWNvcyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIxLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoiZWxlY3Ryb2RvbWVzdGljb3MifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "lavado-y-secado",
+      "href": "/electrodomesticos/lavado-y-secado",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "secadoras",
+      "href": "/electrodomesticos/lavado-y-secado/secadoras",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "electrodomesticos",
+      "href": "/electrodomesticos",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJlbGVjdHJvZG9tZXN0aWNvcyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIxLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoiZWxlY3Ryb2RvbWVzdGljb3MifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "lavado-y-secado",
+      "href": "/electrodomesticos/lavado-y-secado",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImVsZWN0cm9kb21lc3RpY29zL2xhdmFkby15LXNlY2FkbyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoiZWxlY3Ryb2RvbWVzdGljb3MifSx7ImtleSI6ImMiLCJ2YWx1ZSI6ImxhdmFkby15LXNlY2FkbyJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "lavadoras-carga-frontal",
+      "href": "/electrodomesticos/lavado-y-secado/lavadoras-carga-frontal",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "electrodomesticos",
+      "href": "/electrodomesticos",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJlbGVjdHJvZG9tZXN0aWNvcyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIxLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoiZWxlY3Ryb2RvbWVzdGljb3MifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "lanzamientos",
+      "href": "/samsung-bespoke",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "bespoke",
+      "href": "/samsung-bespoke",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "papeleria",
+      "href": "/libros-y-papeleria/papeleria",
+      "variables": "eyJjb2xsZWN0aW9uIjoiMTg5MzIifQ=="
+    },
+    "subCategory": {
+      "name": "manualidades",
+      "href": "/vertodo-te",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjE1MzY4Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTUzNjgifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "retry": 8
+  },
+  {
+    "department": {
+      "name": "dormitorio",
+      "href": "/home-colchones",
+      "variables": ""
+    },
+    "category": {
+      "name": "colchones",
+      "href": "/home-colchones",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "colchones-semi-king",
+      "href": "/hogar/colchones/semi-king",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "dormitorio",
+      "href": "/home-colchones",
+      "variables": ""
+    },
+    "category": {
+      "name": "colchones",
+      "href": "/home-colchones",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "como-comprar-mi-colchon",
+      "href": "/como-comprar-mi-colchon",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "tecnologia",
+      "href": "/tecnologia",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJ0ZWNub2xvZ2lhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJ0ZWNub2xvZ2lhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "impresion",
+      "href": "/tecnologia/impresion",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InRlY25vbG9naWEvaW1wcmVzaW9uIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJ0ZWNub2xvZ2lhIn0seyJrZXkiOiJjIiwidmFsdWUiOiJpbXByZXNpb24ifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "scanners",
+      "href": "/tecnologia/impresion/scanners",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "electrodomesticos",
+      "href": "/electrodomesticos",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJlbGVjdHJvZG9tZXN0aWNvcyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIxLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoiZWxlY3Ryb2RvbWVzdGljb3MifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "refrigeracion",
+      "href": "/electrodomesticos/refrigeracion",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImVsZWN0cm9kb21lc3RpY29zL3JlZnJpZ2VyYWNpb24iLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMSwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImVsZWN0cm9kb21lc3RpY29zIn0seyJrZXkiOiJjIiwidmFsdWUiOiJyZWZyaWdlcmFjaW9uIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "congeladores",
+      "href": "/electrodomesticos/refrigeracion/congeladores",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "electrodomesticos",
+      "href": "/electrodomesticos",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJlbGVjdHJvZG9tZXN0aWNvcyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIxLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoiZWxlY3Ryb2RvbWVzdGljb3MifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "coccion",
+      "href": "/electrodomesticos/coccion",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImVsZWN0cm9kb21lc3RpY29zL2NvY2Npb24iLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImVsZWN0cm9kb21lc3RpY29zIn0seyJrZXkiOiJjIiwidmFsdWUiOiJjb2NjaW9uIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "estufas-empotrables",
+      "href": "/electrodomesticos/coccion/estufas-empotrables",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "hogar-y-muebles",
+      "href": "/home-hogar",
+      "variables": ""
+    },
+    "category": {
+      "name": "tendencias",
+      "href": "#",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "finlandek-x-juan-pablo-socarras",
+      "href": "/hogar/finlandek/juan-pablo-socarras",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "hogar-y-muebles",
+      "href": "/home-hogar",
+      "variables": ""
+    },
+    "category": {
+      "name": "tendencias",
+      "href": "#",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "imusa-delicia",
+      "href": "/hogar/cocina-lanzamiento-delicias",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "tecnologia",
+      "href": "/tecnologia",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJ0ZWNub2xvZ2lhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJ0ZWNub2xvZ2lhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "computadores-y-accesorios",
+      "href": "/tecnologia/computadores-y-accesorios",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InRlY25vbG9naWEvY29tcHV0YWRvcmVzLXktYWNjZXNvcmlvcyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoidGVjbm9sb2dpYSJ9LHsia2V5IjoiYyIsInZhbHVlIjoiY29tcHV0YWRvcmVzLXktYWNjZXNvcmlvcyJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "mundo-nvidia",
+      "href": "/home-nvidia",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "tecnologia",
+      "href": "/tecnologia",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJ0ZWNub2xvZ2lhIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJ0ZWNub2xvZ2lhIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "category": {
+      "name": "computadores-y-accesorios",
+      "href": "/tecnologia/computadores-y-accesorios",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6InRlY25vbG9naWEvY29tcHV0YWRvcmVzLXktYWNjZXNvcmlvcyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIwLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoidGVjbm9sb2dpYSJ9LHsia2V5IjoiYyIsInZhbHVlIjoiY29tcHV0YWRvcmVzLXktYWNjZXNvcmlvcyJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJkeW5hbWljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "computadores-2-en-1",
+      "href": "/tecnologia/computadores-y-accesorios/computadores-2-en-1",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "dormitorio",
+      "href": "/home-colchones",
+      "variables": ""
+    },
+    "category": {
+      "name": "infantil",
+      "href": "/hogar/infantil",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImhvZ2FyL2luZmFudGlsIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJjIiwidmFsdWUiOiJob2dhciJ9LHsia2V5IjoiYyIsInZhbHVlIjoiaW5mYW50aWwifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "subCategory": {
+      "name": "menaje-infantil",
+      "href": "/hogar/infantil/vajillas-y-vasos-infantiles",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "papeleria",
+      "href": "/libros-y-papeleria/papeleria",
+      "variables": "eyJjb2xsZWN0aW9uIjoiMTg5MzIifQ=="
+    },
+    "subCategory": {
+      "name": "articulos-de-oficina",
+      "href": "/oficinaverto-te",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjE1Mzk2Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTUzOTYifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "moda-y-accesorios",
+      "href": "/home-moda-accesorios",
+      "variables": ""
+    },
+    "category": {
+      "name": "destacados",
+      "href": "/home-moda-accesorios",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "arkitect-by-daniella-batlle",
+      "href": "/arkitect/daniella-battle-botanic",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "moda-y-accesorios",
+      "href": "/home-moda-accesorios",
+      "variables": ""
+    },
+    "category": {
+      "name": "destacados",
+      "href": "/home-moda-accesorios",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "arkitect-by-fashion-lessons",
+      "href": "/fashion-lessons",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "moda-y-accesorios",
+      "href": "/home-moda-accesorios",
+      "variables": ""
+    },
+    "category": {
+      "name": "destacados",
+      "href": "/home-moda-accesorios",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "coleccion-coca-cola",
+      "href": "/coleccion-coca-cola",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "moda-y-accesorios",
+      "href": "/home-moda-accesorios",
+      "variables": ""
+    },
+    "category": {
+      "name": "marcas",
+      "href": "/home-moda-accesorios",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "arkitect",
+      "href": "/moda-y-accesorios/arkitect",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "libros-y-papeleria",
+      "href": "/libros",
+      "variables": ""
+    },
+    "category": {
+      "name": "papeleria",
+      "href": "/libros-y-papeleria/papeleria",
+      "variables": "eyJjb2xsZWN0aW9uIjoiMTg5MzIifQ=="
+    },
+    "subCategory": {
+      "name": "blocks-y-papeles",
+      "href": "/blocks-y-papeles-te",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjE1MzkxIiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTUzOTEifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "retry": 9
+  },
+  {
+    "department": {
+      "name": "moda-y-accesorios",
+      "href": "/home-moda-accesorios",
+      "variables": ""
+    },
+    "category": {
+      "name": "accesorios",
+      "href": "/home-moda-accesorios",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "morrales-y-loncheras",
+      "href": "/moda-y-accesorios/accesorios-de-moda/morrales-y-loncheras",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "salud-y-belleza",
+      "href": "/home-salud-belleza",
+      "variables": ""
+    },
+    "category": {
+      "name": "maquillaje",
+      "href": "/salud-y-belleza/maquillaje",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "ojos",
+      "href": "/salud-y-belleza/maquillaje/ojos",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "moda-y-accesorios",
+      "href": "/home-moda-accesorios",
+      "variables": ""
+    },
+    "category": {
+      "name": "marcas",
+      "href": "/home-moda-accesorios",
+      "variables": ""
+    },
+    "subCategory": {
+      "name": "bronzini",
+      "href": "/moda-y-accesorios/bronzini",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "electrodomesticos",
+      "href": "/electrodomesticos",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjIiwicXVlcnkiOiJlbGVjdHJvZG9tZXN0aWNvcyIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjIxLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoiZWxlY3Ryb2RvbWVzdGljb3MifV0sImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "category": {
+      "name": "cuidado-personal",
+      "href": "/electrodomesticos/cuidado-personal",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6ImVsZWN0cm9kb21lc3RpY29zL2N1aWRhZG8tcGVyc29uYWwiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjoyMCwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImVsZWN0cm9kb21lc3RpY29zIn0seyJrZXkiOiJjIiwidmFsdWUiOiJjdWlkYWRvLXBlcnNvbmFsIn1dLCJmYWNldHNCZWhhdmlvciI6ImR5bmFtaWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZX0="
+    },
+    "subCategory": {
+      "name": "espejos-electricos",
+      "href": "/electrodomesticos/cuidado-personal/espejos-electricos",
+      "variables": ""
+    },
+    "retry": 10
+  },
+  {
+    "department": {
+      "name": "hogar-y-muebles",
+      "href": "/home-hogar",
+      "variables": ""
+    },
+    "category": {
+      "name": "vida-al-aire-libre",
+      "href": "/hogar/vida-al-aire-libre",
+      "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEzNTQ3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTM1NDcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+      "name": "salas-de-exterior",
+      "href": "/hogar/muebles/salas-de-exterior",
+      "variables": ""
+    },
+    "retry": 10
+  }
+]

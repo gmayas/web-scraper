@@ -1,0 +1,38 @@
+{
+    "department": {
+        "name": "ropa-infantil",
+        "href": "/moda-y-accesorios/ropa-infantil",
+        "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjEwMzI3Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTAzMjcifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "category": {
+        "name": "ninas-de-2---16-anos",
+        "href": "/moda-y-accesorios/todo-nina",
+        "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjExNjg0Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTE2ODQifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "subCategory": {
+        "name": "zapatos",
+        "href": "/moda-y-accesorios/calzado-para-niña",
+        "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOmZhbHNlLCJtYXAiOiJjLGMiLCJxdWVyeSI6Im1vZGEteS1hY2Nlc29yaW9zL2NhbHphZG8tcGFyYS1uacOxYSIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MjAsInRvIjozOSwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6Im1vZGEteS1hY2Nlc29yaW9zIn0seyJrZXkiOiJjIiwidmFsdWUiOiJjYWx6YWRvLXBhcmEtbmnDsWEifV0sIm9wZXJhdG9yIjoiYW5kIiwiZnV6enkiOiIwIiwic2VhcmNoU3RhdGUiOm51bGwsImZhY2V0c0JlaGF2aW9yIjoiZHluYW1pYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlfQ=="
+    },
+    "retry": 1
+}
+
+
+{
+    "department": {
+        "name": "libros-y-papeleria",
+        "href": "/libros",
+        "variables": ""
+    },
+    "category": {
+        "name": "papeleria",
+        "href": "/libros-y-papeleria/papeleria",
+        "variables": "eyJjb2xsZWN0aW9uIjoiMTg5MzIifQ=="
+    },
+    "subCategory": {
+        "name": "articulos-de-oficina",
+        "href": "/oficinaverto-te",
+        "variables": "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6ZmFsc2UsInNrdXNGaWx0ZXIiOiJBTExfQVZBSUxBQkxFIiwic2ltdWxhdGlvbkJlaGF2aW9yIjoiZGVmYXVsdCIsImluc3RhbGxtZW50Q3JpdGVyaWEiOiJNQVhfV0lUSE9VVF9JTlRFUkVTVCIsInByb2R1Y3RPcmlnaW5WdGV4IjpmYWxzZSwibWFwIjoicHJvZHVjdENsdXN0ZXJJZHMiLCJxdWVyeSI6IjE1Mzk2Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6MjAsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTUzOTYifV0sImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2V9"
+    },
+    "retry": 8
+}

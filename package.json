@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node src/appExito.js",
     "startTestPu": "node src/app_pu.js",
+    "startTestPuExito": "node src/exito/app_pu_exito.js",
     "startTestPw": "node src/app_pw.js",
     "startTestCk": "node src/get_cookie.js",
     "startTestCk02": "node src/get_cookie_02.js",

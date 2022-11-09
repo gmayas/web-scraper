@@ -369,6 +369,7 @@
             "manufacturer": null,
             "material_type": 492,
             "maxorderquantity": "100",
+            "sku": "863123",
             "media_gallery": [
                 {
                     "disabled": false,
@@ -444,7 +445,6 @@
             "short_description": {
                 "html": "MEXICANA Refresco Sabor Original 600 ml"
             },
-            "sku": "863123",
             "small_image": {
                 "disabled": null,
                 "label": "Refresco Sabor Original 600 ml",
